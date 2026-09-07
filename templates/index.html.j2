@@ -1,0 +1,25 @@
+{% import "_article_card.html.j2" as cards %}
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AIニュース ダイジェスト - {{ day.date }}</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>AIニュース ダイジェスト</h1>
+  <p class="date">{{ day.date }}</p>
+  <nav><a href="archive/index.html">過去の記事一覧 →</a></nav>
+</header>
+<main>
+  {% for article in day.articles %}
+    {{ cards.article_card(article) }}
+  {% endfor %}
+</main>
+<footer>
+  <p>生成: {{ generated_at }} / TechCrunch・The Verge・Ars Technica のAI関連記事をClaudeが要約</p>
+</footer>
+</body>
+</html>

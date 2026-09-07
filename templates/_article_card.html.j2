@@ -1,0 +1,19 @@
+{% macro article_card(article) %}
+<article class="card">
+  <div class="card-meta">
+    <span class="source">{{ article.source }}</span>
+    <time>{{ article.published[:16].replace('T', ' ') }}</time>
+  </div>
+  <h2><a href="{{ article.link }}" target="_blank" rel="noopener">{{ article.summary.title_ja }}</a></h2>
+  <p class="original-title">{{ article.title }}</p>
+  <p class="overview">{{ article.summary.overview }}</p>
+  <p class="background"><strong>背景：</strong>{{ article.summary.background }}</p>
+  <ul class="points">
+    {% for point in article.summary.points %}
+    <li>{{ point }}</li>
+    {% endfor %}
+  </ul>
+  <p class="importance"><strong>なぜ重要か：</strong>{{ article.summary.importance }}</p>
+  <a class="original-link" href="{{ article.link }}" target="_blank" rel="noopener">原文を読む →</a>
+</article>
+{% endmacro %}
