@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-07",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "published": "2026-09-06T11:47:37+00:00",
+      "rss_summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "summary": {
+        "title_ja": "Anthropic和解金巡り出版社・エージェントに著者が反発",
+        "overview": "Anthropicの15億ドル著作権和解金の分配を巡り、出版社やエージェントが著者の取り分を不当に請求しているとして、著者らがSNSなどで抗議の声を上げている。",
+        "background": "AnthropicはAI学習用データの海賊版利用を巡る集団訴訟で昨年和解し、今年7月に最終承認。約50万作品の著者に1作品につき3000ドルが支払われ、絶版で権利が著者に戻っている場合は全額、現役出版契約中の場合は出版社と50%ずつ分配される仕組みになっている。",
+        "points": [
+          "著者ミステリー作家エイプリル・ヘンリー氏は17年以上前に権利が戻った作品にHarperCollinsが請求を行ったと指摘するなど、権利失効済み作品への不当請求の報告が相次いでいる。",
+          "本来50%しか受け取れないはずの出版社が100%の支払いを請求しているケースも複数報告されている。",
+          "本来権利者ではないはずの文芸エージェントまでもが分配金の一部を請求しているとの報告もあり、著者団体や作家からは強い批判が出ている。"
+        ],
+        "importance": "業界団体Authors Guildは記録管理の不備によるものと悪意は否定しているが、多数の同種報告が相次いでいることから制度的な欠陥の可能性も指摘されており、AI関連著作権和解金の適正な分配プロセスの透明性が今後問われることになる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "published": "2026-09-06T07:45:00+00:00",
+      "rss_summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "summary": {
+        "title_ja": "カラニック氏のAtoms、ロボタクシー事業参入か",
+        "overview": "Uber創業者トラビス・カラニック氏が率いるAtomsが、自動運転タクシー事業への参入を準備していると英Financial Timesが報じた。大規模な採用や買収を通じて自動運転業界の主要プレーヤーを目指しているという。",
+        "background": "Atomsは今夏、Andreessen Horowitz主導で17億ドルの大型資金調達を行ったが、事業の具体的な狙いは明らかにしていなかった。Uberはすでに複数の自動運転企業と提携しており、Atomsにも1億ドルを出資済みであることが判明している。",
+        "points": [
+          "AtomsはUberと、自社のロボタクシー技術をUberが活用する方法について協議している",
+          "Uber元自動運転部門トップのアンソニー・レヴァンドウスキー氏が率いる自律採掘スタートアップProntoを買収済み",
+          "ロボタクシーはAtomsの計画の全てではないが、カラニック氏の言う『未完の仕事』路線と合致する"
+        ],
+        "importance": "Uberの元CEOが自動運転タクシー市場に本格参入すれば、Waymoなど既存プレーヤーとの競争が激化し、Uber自身の自動運転戦略にも影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "published": "2026-09-06T14:36:04+00:00",
+      "rss_summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
+      "summary": {
+        "title_ja": "シアトル・タイムズとニューズデー、著作権侵害でOpenAIとMicrosoftを提訴",
+        "overview": "米地方紙のシアトル・タイムズとニューズデーが、無断で自社報道をAIの学習データに使用し、応答内容にも記事の一部を再現しているとして、OpenAIとMicrosoftを著作権侵害で提訴した。",
+        "background": "ニューヨーク・タイムズやZiff Davis、Merriam-Webster、Encyclopedia Britannicaなど、既に複数のメディア・出版社がOpenAIを相手に同様の訴訟を起こしており、今回もその流れに続くものである。",
+        "points": [
+          "MicrosoftのCopilotはOpenAIの技術を基盤としているため、被告として名を連ねている。",
+          "両紙は、自社作品を含む学習データセットやAIモデルの破棄を求めている。",
+          "AIチャットボットの普及によりサイト訪問が減少し、購読収入が損なわれているとして、既に約400の地方紙が同様の訴訟を起こしている。"
+        ],
+        "importance": "AI企業とメディア業界の著作権をめぐる対立が全米規模で拡大しており、今後の司法判断はAIの学習データ利用のあり方やニュース産業の収益構造に大きな影響を与える可能性がある。"
+      }
+    }
+  ]
+}

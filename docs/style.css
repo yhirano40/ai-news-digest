@@ -6,6 +6,8 @@
   --muted: #666666;
   --accent: #2563eb;
   --border: #e5e5e5;
+  --content-width: 66vw;
+  font-size: 125%; /* 全体のフォントを2段階アップ */
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -26,7 +28,7 @@ body {
   line-height: 1.7;
 }
 header {
-  max-width: 720px;
+  max-width: var(--content-width);
   margin: 0 auto;
   padding: 32px 20px 16px;
 }
@@ -34,7 +36,7 @@ header h1 { margin: 0 0 4px; font-size: 1.5rem; }
 header .date { color: var(--muted); margin: 0 0 12px; }
 header nav a { color: var(--accent); text-decoration: none; font-size: 0.9rem; }
 main {
-  max-width: 720px;
+  max-width: var(--content-width);
   margin: 0 auto;
   padding: 0 20px 40px;
   display: flex;
@@ -67,7 +69,7 @@ main {
   text-decoration: none;
 }
 footer {
-  max-width: 720px;
+  max-width: var(--content-width);
   margin: 0 auto;
   padding: 20px;
   color: var(--muted);
@@ -76,3 +78,8 @@ footer {
 .archive-list { list-style: none; padding: 0; }
 .archive-list li { padding: 8px 0; border-bottom: 1px solid var(--border); }
 .archive-list a { color: var(--accent); text-decoration: none; }
+
+/* 画面が狭い場合は2/3幅だと窮屈になるため、ほぼ全幅に切り替える */
+@media (max-width: 640px) {
+  :root { --content-width: 92vw; }
+}
