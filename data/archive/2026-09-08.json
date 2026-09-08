@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-08",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "2026-09-07T19:24:00+00:00",
+      "rss_summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "summary": {
+        "title_ja": "急増するAI用語を解説、TechCrunchが最新用語集を公開",
+        "overview": "TechCrunchが、AGIやAIエージェント、チェーン・オブ・ソート、ディープラーニングなど急速に普及するAI関連用語をわかりやすく解説する用語集を公開し、随時更新していくと発表した。",
+        "background": "OpenAIの新モデル「Astra」に搭載された推論手法「opaque recurrence」がAI安全性研究者の間で話題になるなど、業界の会話に登場する専門用語のペースが加速しており、開発者や投資家、一般読者が理解に苦労する状況が背景にある。",
+        "points": [
+          "AGIについてはOpenAIやGoogle DeepMindでも定義が微妙に異なり、明確な統一見解がないことを指摘。",
+          "AIエージェントやコーディングエージェント、API endpointsなど、自律的にタスクを実行する仕組みに関する用語を整理。",
+          "チェーン・オブ・ソート推論や深層学習（ディープラーニング）など、モデルの内部処理に関わる技術用語も具体例とともに解説。"
+        ],
+        "importance": "AI技術の進化に伴い専門用語が急増する中、正確な用語理解はビジネス判断や技術選定、政策議論の基盤となるため、こうした整理は業界関係者にとって実用的な参考資料となる。"
+      }
+    }
+  ]
+}
