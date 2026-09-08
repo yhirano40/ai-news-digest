@@ -50,7 +50,7 @@ URL: {url}
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_prompt}],
     )
-        text_blocks = [b.text for b in response.content if getattr(b, "type", None) == "text"]
+    text_blocks = [b.text for b in response.content if getattr(b, "type", None) == "text"]
     if not text_blocks:
         raise ValueError("Claudeの応答にテキストブロックが含まれていません")
     raw_text = "".join(text_blocks)
