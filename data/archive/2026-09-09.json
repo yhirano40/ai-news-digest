@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-09",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "published": "2026-09-08T21:10:27+00:00",
+      "rss_summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "summary": {
+        "title_ja": "Claude利用者からトークンを盗むハッカーが横行",
+        "overview": "Anthropicの「Claude」有料契約者のアカウントが不正アクセスされ、本人が使用していないのにトークン消費量が急増する被害が相次いで報告されている。英国のAIコンサルタント、Grant De Swardt氏もその一人で、Anthropicはアカウントを一時停止し部分返金を行った。",
+        "background": "De Swardt氏は8月4日、作業をしていないのにClaude Max 20xアカウントのトークン消費が増加していることに気づき、関連機能を無効化しても消費が止まらなかったためAnthropicに調査を依頼した。",
+        "points": [
+          "Anthropicの調査で、侵害されたClaudeセッションキーを使い不正にClaude Code OAuthトークンが発行されていたことが判明したが、侵入経路は特定できなかった",
+          "Reddit やGitHubには同様の被害報告が多数寄せられており、一部ユーザーにはAnthropicから『infostealerマルウェアによるログインセッション窃取』を警告するメールが送られていた",
+          "アカウント利用状況の内訳（何にトークンが消費されたか）を確認する仕組みがなく、被害が数カ月間発覚しない恐れがある"
+        ],
+        "importance": "AIエージェントを業務の中核に据える利用者が増える中、認証情報窃取によるサービス不正利用は経済的損害や業務停止に直結する深刻なリスクであり、サービス提供者側の利用状況の可視化やセキュリティ対策強化が急務であることを示している。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "published": "2026-09-08T21:04:06+00:00",
+      "rss_summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "summary": {
+        "title_ja": "Cognitionが評価額480億ドルに、AIコーディング市場の多極化を示唆",
+        "overview": "AIコーディング支援ツール「Devin」を開発するCognitionが20億ドルを調達し、評価額480億ドルに達したと発表した。今回のラウンドはAndreessen Horowitz、Accel、Founders Fund、General Catalyst、Avenirが主導した。",
+        "background": "わずか4カ月前、Cognitionは評価額260億ドルで資金調達したばかりで、その後も急速に評価額が上昇している。競合のCursorは4月に評価額500億ドルでの資金調達交渉を経て、最終的にSpaceXに600億ドルで売却された経緯がある。",
+        "points": [
+          "Cognitionの年換算売上高（ARR）は5月の4億9200万ドルから9億ドルへ急増した",
+          "Cursorが売却当時ARR20億ドル超だったのに対し、Cognitionはより高い売上高倍率で評価されている",
+          "CognitionはNvidiaサーバークラスターに年間数億ドルを投じており、今年の現金支出は最大8億ドルに達する見込み。OpenAIやAnthropicへの依存を減らすため、独自モデルの訓練も進めている"
+        ],
+        "importance": "Cursorに投資して大きな利益を得たa16zが、その競合であるCognitionのラウンドを主導した点は象徴的で、投資家がAIコーディング市場を「一人勝ち」ではなく複数の有力プレイヤーが共存できる市場と見ていることを示している。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "published": "2026-09-08T19:00:00+00:00",
+      "rss_summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "summary": {
+        "title_ja": "Meta、新AIエージェント「Muse」発表 信頼獲得なるか",
+        "overview": "Metaは9月8日、日常タスクを代行する新しいパーソナルAIエージェント「Muse」を米国で発表した。メール送信や旅行予約、支払い、買い物代行などを行い、Stripe連携で決済まで担う。",
+        "background": "この発表は、Metaがソーシャルメディアの消費者被害を巡る29州との1兆円規模（180億ドル）の和解に合意してからわずか2週間後というタイミングで行われ、同社にとって過去最大級の消費者向けAI投資となる。",
+        "points": [
+          "MuseはメールやカレンダーからApp連携で動作し、独自モデル「Muse Spark」で稼働。専用の隔離仮想マシン「Muse Secure VM」でパスワードや決済情報へのアクセスを遮断すると説明",
+          "利用は無料だが、月20ドルの「Power」、月100ドルの「Maximum」の有料プランも用意され、利用量に応じて課金される仕組み",
+          "Web、iOS/Android、WhatsAppで提供開始し、今後Meta製ARグラスにも展開予定。ChatGPT時代の「対話型AI」から「実行型エージェント」への転換を狙う"
+        ],
+        "importance": "MetaはFTCとの複数回の和解や過去のデータ漏洩、未成年保護を巡る訴訟など消費者の信頼を損なう歴史があり、個人情報や決済情報への深いアクセスを要求するMuseが消費者に受け入れられるかは、AIエージェント時代の普及を占う重要な試金石となる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "published": "2026-09-08T20:53:52+00:00",
+      "rss_summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and [&#8230;]",
+      "summary": {
+        "title_ja": "OpenAIの数学的偉業に疑惑、ナビエ・ストークス証明を巡り論争",
+        "overview": "OpenAIは約90年間未解決だったナビエ・ストークス方程式の解を、GPT-6 Astraを超える内部AIモデルと1万の並列エージェントを用いて発見したと発表したが、その前日に発表された類似研究との関係を巡り疑惑が浮上している。",
+        "background": "ナビエ・ストークス問題は流体の流れに関するミレニアム懸賞問題の一つで、解決には100万ドルの賞金がかけられている。NYU教授トリスタン・バックマスター氏とAnthropic研究者レベント・アルプージ氏は、OpenAIのCodexとAnthropicのClaudeを使い関連問題に取り組み、OpenAIの発表前日に成果を公表していた。",
+        "points": [
+          "バックマスター氏は、OpenAIが自分たちのCodexセッションのデータやドラフトを訓練に使用したのではないかと疑問視し、OpenAIから明確な回答を得られなかったと主張",
+          "OpenAIは「特定のユーザーデータへのアクセスはなかった」としつつも、「非識別化されたデータがモデル改善に寄与した可能性は否定できない」と認める曖昧な声明を出した",
+          "OpenAI社員のセバスチャン・ブベック氏は「両者の証明は結果も内容も異なる」と反論したが、バックマスター氏は「彼ら自身が結果発表後の期間の訓練データを使ったと事実上認めている」とMastodonで再反論した"
+        ],
+        "importance": "AI企業が競合研究者の未公開作業データにアクセスした可能性は、AI開発における研究倫理やデータの取り扱いに関する信頼性を揺るがす問題であり、AIによる科学的発見の正当性検証のあり方に一石を投じる事例となる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "published": "2026-09-08T20:16:09+00:00",
+      "rss_summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
+      "summary": {
+        "title_ja": "ChatGPTに新機能「Sketch」、下手な落書きを精密画像に変換",
+        "overview": "OpenAIは「ChatGPT Images 2.5」を発表し、手描きの落書きを元にAI画像を生成できる新機能「Sketch」を追加した。",
+        "background": "従来ChatGPTではテキストのみで画像生成を指示していたが、より直感的な入力手段として手描きスケッチを取り入れる形となった。",
+        "points": [
+          "「@Sketch」と入力するとお絵描きウィンドウが開き、描いた図とテキスト指示を組み合わせて画像を生成できる",
+          "生成画像の特定部分に直接コメントを付けて修正指示を出す機能も追加（例：目の色変更）",
+          "Images 2.5では照明やテクスチャがより自然になり、複数ターンの編集指示への追従性が向上、生成遅延も最大50%短縮"
+        ],
+        "importance": "手描き入力による直感的な画像生成インターフェースは、テキストプロンプトが苦手なユーザーでも意図を伝えやすくし、AI画像生成ツールの利便性向上に寄与する。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "published": "2026-09-08T19:00:00+00:00",
+      "rss_summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up [&#8230;]",
+      "summary": {
+        "title_ja": "Meta、AI競争巻き返しへ個人向けAIエージェント「Muse」投入",
+        "overview": "Metaは誰でも使える「パーソナルAIエージェント」を謳う新製品「Muse」を発表し、米国でiOS・Android・muse.aiにて提供を開始する。買い物やメール送信、旅行計画などの日常タスクを自律的にこなすことができる。",
+        "background": "MetaはOpenAI、Anthropic、Googleなどに対しAI競争で後れを取っており、数十億ドル規模の戦略見直しの一環としてMuseを投入し、巻き返しを図っている。",
+        "points": [
+          "MuseはブラウザやフォームをAIが自ら操作し、承認が必要な場面（購入など）ではユーザーに確認を取りながらバックグラウンドでも作業を継続できる",
+          "自社モデル「Muse Spark」で駆動し、専用のクラウド仮想マシン上で動作、監視AI「Sentinel」がセキュリティを担保。パスワードや決済情報には直接アクセスできない設計とし、年内には暗号化された「機密」版の提供も予定",
+          "無料提供を基本としつつ、より高度な利用向けの有料サブスクリプションも用意（詳細は未公表）。技術知識不要の使いやすさとWhatsApp経由での簡単な操作性を強みとして訴求"
+        ],
+        "importance": "MetaはSNSの巨大な利用者基盤を武器に一般ユーザー層への浸透を狙うが、過去のプライバシー問題やAI関連の不祥事（Cambridge Analytica、Instagramアカウント乗っ取り事件など）により信頼回復が課題であり、Museの成否はMetaのAI戦略全体の行方を左右する重要な試金石となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+      "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+      "published": "2026-09-08T21:23:13+00:00",
+      "rss_summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
+      "summary": {
+        "title_ja": "GOG、PCゲームの「大箱」パッケージを印刷可能な形で復活",
+        "overview": "PCゲーム配信プラットフォームのGOGは、Steam以前の時代を彷彿とさせる「ビッグボックス」パッケージを、3Dモデルと印刷用テンプレートとして提供する新機能「Printable Big Box」を開始した。",
+        "background": "かつてPCゲームは棚に並べて飾れる大型パッケージで販売され、コレクター心をくすぐる存在だったが、デジタル配信の普及とともにその文化は失われつつあった。GOGは物理メディアが失われやすい現状を踏まえ、パッケージそのものの保存を試みている。",
+        "points": [
+          "対象は現時点でArmikrog、Descent、Hitman: Codename 47、Myst、Star Trek: 25th Anniversaryの5作品のみ",
+          "対象ゲームの購入ページには「3D Boxes」がグッズとして表示され、所有者はGLB形式のアニメーション3Dモデルと、PDF・SVG・Illustrator形式の折りたたみ可能な印刷テンプレートをダウンロード可能",
+          "GOGは「ゲームソフト自体の保存と同じミッションを、かつてそれが入っていた箱にも適用する」試みだと説明している"
+        ],
+        "importance": "物理的な収集物としての価値が薄れがちなデジタル配信時代において、ゲームの歴史的・文化的資産であるパッケージデザインを紙工作という形で個人が再現・保存できる新たな試みであり、今後他タイトルへの展開次第でレトロゲーム文化の保存手法として注目される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "published": "2026-09-08T21:11:46+00:00",
+      "rss_summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "summary": {
+        "title_ja": "マイクロソフト、過去最多972件の脆弱性を修正",
+        "overview": "Microsoftが2026年9月の月例パッチで過去最多となる約972件の脆弱性を修正し、うち112件は最高深刻度の「緊急」に分類された。",
+        "background": "わずか2カ月前にも当時最多の570件、翌月には620件を修正しており、脆弱性修正数の記録更新が続いている。2週間前にはOpenAIやMicrosoftなど100社超がAIを活用した攻撃の急増に備え、パッチ適用の猶予期間が狭まっていると警鐘を鳴らす公開書簡を発表していた。",
+        "points": [
+          "Edge組み込みのChromium由来の修正を含めると計997件、うち112件が緊急、残りは重要度「重要」に分類される。",
+          "専門家Dustin Childs氏は今回の急増を『新たな常態』と評しつつ、AI支援による脆弱性発見の勢いが衰えていないと指摘。",
+          "Microsoftは2026年だけで既に2,760件の脆弱性を修正しており、これは前年の2倍以上で、2023〜2025年の合計を上回るペース。"
+        ],
+        "importance": "AIによる脆弱性発見・悪用の高速化が現実味を帯びる中、業界全体で防御側のパッチ対応能力が試されており、今後実際の攻撃件数急増につながるかが焦点となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "The universal language of space is... Star Trek? Mais oui.",
+      "link": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
+      "published": "2026-09-08T20:20:20+00:00",
+      "rss_summary": "\"Science fiction imagines the future. We build it.\"",
+      "summary": {
+        "title_ja": "スタートレック60周年、ISSの宇宙飛行士がバッジで祝福",
+        "overview": "国際宇宙ステーション(ISS)に滞在中のESA宇宙飛行士ソフィー・アドノー氏が、スタートレック放送60周年を記念し、劇中のパイク船長のバッジを身につけた映像を公開した。",
+        "background": "このバッジは俳優アンソン・マウントが「スタートレック：ストレンジ・ニューワールド」でパイク船長役を演じた際に着用したもので、テレビシリーズ放送開始から60年という節目に合わせて宇宙へ持ち込まれた。",
+        "points": [
+          "アドノー氏は欧州の「エプシロン」ミッションの一環としてこのバッジをISSに持参し、Paramount+とESAがそれぞれInstagramで映像を公開した。",
+          "アドノー氏は動画内で「60年間、スタートレックは友情と探査の物語を届けてきた」と述べ、科学と探査という現実世界の営みを続ける意義を語った。",
+          "ESAは投稿で、架空の物語が描いてきた「共に探査する」というテーマが、50年以上にわたる実際の宇宙探査の歴史と重なると説明した。"
+        ],
+        "importance": "フィクションと現実の宇宙探査を結びつけるこの試みは、国際協力による科学・探査活動への関心を高め、宇宙開発の意義を一般に伝える象徴的な出来事となっている。"
+      }
+    }
+  ]
+}
