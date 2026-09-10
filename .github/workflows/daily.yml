@@ -2,7 +2,7 @@ name: Daily AI News Digest
 
 on:
   schedule:
-    - cron: "12 23 * * *"  # 毎日 08:12 JST (UTC 23:12 前日)
+    - cron: "41 18 * * *"  # 毎日 03:41 JST (UTC 18:41) - 混雑しやすい正時/主要時間帯を避けた実験的な時刻
   workflow_dispatch: {}
 
 permissions:
