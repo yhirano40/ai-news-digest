@@ -452,6 +452,150 @@
         ],
         "importance": "この訴訟は、精神疾患を持つ脆弱なユーザーに対しAIチャットボットが意図せず害を及ぼすリスクを浮き彫りにし、企業側の安全設計や責任のあり方について社会的・法的議論を促す可能性がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "published": "2026-09-10T20:59:51+00:00",
+      "rss_summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "summary": {
+        "title_ja": "OpenAI、Astra需要急増でPro契約を一時停止",
+        "overview": "OpenAIは最新モデル「Astra」への需要急増によるインフラ負荷を理由に、月額200ドルのProプランへの新規登録を一時停止した。",
+        "background": "9月3日に発表されたAstraはPro、Plus、Enterprise、Businessなど各プランに展開され、推論・コーディング・コンピュータ操作の大幅進化を掲げ「AGI時代の始まり」とまで称されたことで、利用希望者が急増していた。",
+        "points": [
+          "製品責任者Thibault Sottiaux氏は、Proプランがシステムに最も負荷をかけているため新規登録を停止したと説明",
+          "API、Go、Plusなど他プランの新規登録は継続可能で、既存ユーザーへのサービス品質維持を最優先とする方針",
+          "先月にはCodexユーザーの利用上限を引き上げたばかりで、今回の負荷急増はごく最近の現象とみられる"
+        ],
+        "importance": "OpenAIが「これまでにない規模」と語るほどの需要は、AGI級モデル競争の激化とインフラ拡張の課題を浮き彫りにし、今後の料金体系やサービス提供方針にも影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "published": "2026-09-10T20:57:30+00:00",
+      "rss_summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "summary": {
+        "title_ja": "AnthropicがAlibaba・Moonshot・DeepSeekの蒸留攻撃を公表",
+        "overview": "Anthropicは、中国系AI企業による自社Claudeモデルからの「蒸留攻撃」に関する報告書を発表し、5つのキャンペーンで計約2億件のやり取りを確認したと明らかにした。",
+        "background": "Anthropicは2月にも同様の攻撃を指摘しており、OpenAIもDeepSeekによる同種の活動を報告していたが、今回の報告書はより大規模かつ巧妙化した攻撃実態を示している。",
+        "points": [
+          "蒸留攻撃はモデルの思考過程（chain of thought）を抽出し、小型モデルの教師あり学習に利用する手法で、翻訳依頼を装うなどの手口で内部思考を引き出していた。",
+          "最大規模はAlibaba関連とされるキャンペーンで、2026年5〜7月に3500アカウントから1億5100万件のやり取りが確認され、Qwenモデルの訓練データ生成が目的とみられる。",
+          "Moonshot AI（Kimi開発元）関連のキャンペーンでは、中国軍からとみられるリクエストも含まれ、監視カメラ映像の「異常行動」判定を求める事例もあった。"
+        ],
+        "importance": "米国AI企業の最先端モデルの能力が競合国企業に不正利用されるリスクが顕在化しており、AI開発競争における知的財産保護やセキュリティ対策の重要性が一層高まっている。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "published": "2026-09-10T19:50:04+00:00",
+      "rss_summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "summary": {
+        "title_ja": "Meta新AIエージェント「Muse」、米アプリランキング2位に浮上",
+        "overview": "Metaが火曜日に発表した新しいエージェント型AIアプリ「Muse」が、米iOSアプリストアで83,000件以上ダウンロードされ、トップチャートで2位に浮上した。",
+        "background": "MetaはAIエージェントを消費者向けAIの未来と位置づけ、大きな賭けとしてMuseを投入したが、過去のThreadsやMeta AIの初動と比べると伸びは緩やかで、ChatGPT登場時の勢いにも及んでいない。",
+        "points": [
+          "MuseのiOS初動は83,000ダウンロードで、Threads（430万超）やMeta AI（108,000）に比べ大きく見劣りする一方、ChatGPT初動の1日平均83,300件には迫る水準。",
+          "Android版は伸び悩み、Google Playの生産性カテゴリで338位にとどまるなど、プラットフォーム間で明暗が分かれている。",
+          "競合の「Instinct」はメール機能や友人同士のエージェント連携、Stripe・1Password連携、位置情報共有などを矢継ぎ早に投入し、3億5000万ドルの資金力を背景に先行している。"
+        ],
+        "importance": "MuseはMetaにとってメタバース以来の大きな戦略転換であり、Google（Gemini Spark）やAnthropic（Claude Cowork）、Instinctなど各社が激しく争うエージェント型AI市場の主導権争いの行方を占う試金石となる。加えて、Metaが18億ドルの多州和解に合意した直後の投入という点も、個人情報提供が前提のMuseの普及に影響しうる要因として注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Schools are catching on to Big Tech’s playbook",
+      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "published": "2026-09-10T19:44:20+00:00",
+      "rss_summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on [&#8230;]",
+      "summary": {
+        "title_ja": "教育現場に浸透するビッグテックの手法、AIにも同じ構図",
+        "overview": "NYTのナタシャ・シンガー記者が新著『Coding Kids』で、テック企業がこの15年間コーディング教育を通じて学校に影響力を築いてきた手法を、今度はAI企業が踏襲していると指摘した。",
+        "background": "AppleやMicrosoftはAP科目向けに自社製品を組み込んだ独自カリキュラムを提供し、Googleは安価なChromebookとClassroomアプリで教育現場の基盤を握った。Code.orgのようなNPOも著名人を起用した「Hour of Code」キャンペーンでコーディング教育を広めた。",
+        "points": [
+          "企業が学校教育に自社ツールや製品を組み込むことで、将来の顧客や労働力を囲い込む構造がコーディング教育で先に確立された",
+          "コーディング教育を受けた卒業生の多くが、期待した高収入の仕事に結びつかず失望している実態が明らかになった",
+          "AI教育でも同様の売り込みが行われているが、ニューヨーク市やロサンゼルスが学校でのAI利用を制限するなど、過去より早い段階で反発が起きている"
+        ],
+        "importance": "テック企業主導の教育がもたらす長期的な弊害を教訓に、AI導入を「製品普及の速さ」ではなく「子供に本当に必要な学び」という観点で見直す動きが広がりつつある点が重要。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "published": "2026-09-10T15:38:19+00:00",
+      "rss_summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
+      "summary": {
+        "title_ja": "UMG、ElevenLabsとAI音楽プラットフォームを共同開発",
+        "overview": "ユニバーサルミュージックグループ（UMG）は、AI音声・音楽生成企業のElevenLabsと複数年のライセンス契約を結び、ライセンス楽曲カタログを活用したリミックスやマッシュアップを作成できる新しいAI音楽プラットフォームを開発すると発表した。",
+        "background": "UMGはすでにUdioとのAI音楽プラットフォーム開発や、Spotify、Nvidia、Klayとのライセンス契約を進めており、業界全体でSunoが今週ライセンス楽曲を用いたAIモデルを公開するなど、音楽業界とAI企業の提携が加速している。",
+        "points": [
+          "アーティストは自身の楽曲を新プラットフォームで使用するか選択可能で、参加は任意となる。",
+          "提携ではプラットフォームに加え、今後数カ月から数年にわたり追加の製品やファン向け体験の開発も予定されている。",
+          "新プラットフォームはElevenLabsの既存サービス（Music APIやElevenMusic）とは別立てで運営される。"
+        ],
+        "importance": "音楽業界大手とAI企業の連携が拡大することで、権利保護と収益分配を両立させたAI音楽生成の新たな枠組みが業界標準になる可能性があり、著作権管理とファン体験の両面で今後の音楽産業のあり方に影響を与える。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta’s Muse AI works and creeps me out",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "published": "2026-09-10T15:00:00+00:00",
+      "rss_summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+      "summary": {
+        "title_ja": "Meta新AI「Muse」を試す：便利だが不気味な個人情報収集",
+        "overview": "MetaはメールやAmazon購入代行、旅行計画などを支援するAIエージェント「Muse」を発表し、The Vergeの記者が実際に試用したところ、機能は概ね動作したものの、ユーザーが知らない詳細な個人情報を自律的に収集している点に強い不安を覚えたと報告した。",
+        "background": "Museは従来エンターテインメント重視だったMetaが初めて本格的にプロダクティビティ市場に参入するツールで、Gmail・Amazon・Instagram・Facebookなどの外部アカウントと連携し、クラウド上の仮想コンピュータでタスクを実行する仕組みになっている。",
+        "points": [
+          "Gmailの不要メール削除やAmazonでの商品購入（カート内の他商品確認まで行う配慮）は概ね正確に動作した一方、Apple製品風のロゴを含む画像・動画生成には応じたが、特定の実在人物像などは拒否した",
+          "「Feed」機能では現在地（Amazonの配送先住所から推測）に基づくニュースを表示し、InstagramのUIには表示されない「API経由で取得した」詳細な興味関心リスト（アニメ、犬種、地域の野生動物など）を提示し、Instagramの『広告トピック』設定よりもはるかに詳細だった",
+          "MetaはMuseが必要なデータのみ第三者アプリと共有し、広告主とは情報を共有しないとしているが、記者はコメント要請への回答を得られなかった"
+        ],
+        "importance": "AIエージェントが公開UIでは見えない形でユーザーデータを収集・活用している実態は、Metaのプライバシー対応への信頼性に直結する問題であり、生成AIの利便性とプライバシーリスクのバランスが今後のAIアシスタント普及の鍵となることを示している。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+      "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "published": "2026-09-10T18:14:14+00:00",
+      "rss_summary": "\"Bankruptcy cannot become the new land grab for AI.”",
+      "summary": {
+        "title_ja": "破産スピリット航空のデータ売却、Google買収に懸念広がる",
+        "overview": "経営破綻したスピリット航空の資産売却オークションでGoogleが大量の業務データ取得に落札し、実際にはスタートアップSpringshotが所有する知的財産が含まれる可能性があるとして異議が噴出している。",
+        "background": "Springshotは2011年設立のスタートアップで、航空会社の運航効率を高める独自プラットフォームを提供し、直近3年間スピリット航空の技術基盤を支えていたが、データ売却の事前通知は一切なかった。",
+        "points": [
+          "スピリットの売却契約は「生産性・協業データ」など曖昧な区分しかなく、Springshotが所有するIPとスピリット自身が所有するデータの境界が不明確だとSpringshotは主張している。",
+          "航空機エンジンメーカーIAE陣営も同様に、機密保持契約を無視した形で自社の技術・財務データが売却対象に含まれる恐れがあると別途異議を申し立てた。",
+          "GoogleはRyanairともGemini Enterprise向けの運航データ提携を発表しており、SpringshotはGoogleが自社IPを使って競合AI製品を開発する可能性を懸念している。"
+        ],
+        "importance": "EFNの専門家も指摘する通り、破産手続きを通じて第三者所有のデータやIPが巨大テック企業に流出する前例となれば、スタートアップの知的財産保護や今後のAI開発競争に深刻な影響を及ぼしかねない。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
+      "link": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
+      "published": "2026-09-10T17:30:09+00:00",
+      "rss_summary": "Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC.",
+      "summary": {
+        "title_ja": "キンメル氏、FCC圧力で民主党候補インタビューをTV放送見送り",
+        "overview": "ABCの人気トーク番組ホスト、ジミー・キンメル氏は、上院選に出馬する民主党候補ジェームズ・タラリコ氏へのインタビューを、テレビ放送ではなくYouTubeのみで公開すると発表した。連邦通信委員会（FCC）からの圧力を回避するための措置だという。",
+        "background": "キンメル氏はトランプ政権下のFCCによるABCおよびディズニーへの攻撃の標的となっており、昨年はFCC委員長ブレンダン・カー氏が「報道の歪曲」を理由にABC系列局の免許取り消しを示唆したことで番組が一時的に放送停止となった経緯がある。",
+        "points": [
+          "キンメル氏は20年以上にわたり政治候補者へのインタビューを問題なく放送してきたが、今回は状況が一変したと説明",
+          "地方局がFCCの免許問題に巻き込まれるのを避けるため、インタビューをTV放送ではなくYouTube限定で公開する判断を下した",
+          "今年4月にはFCCがABC系列の全8局に対し早期免許審査を命令しており、これはトランプ大統領夫妻がキンメル氏の解雇を求めた翌日に行われた"
+        ],
+        "importance": "政権による放送免許を盾にしたメディアへの圧力が、著名な報道・娯楽番組の内容にまで実質的な影響を及ぼしている実例であり、報道の自由や表現の独立性に対する懸念を浮き彫りにしている。"
+      }
     }
   ]
 }
