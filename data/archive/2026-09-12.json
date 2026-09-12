@@ -1,0 +1,131 @@
+{
+  "date": "2026-09-12",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "published": "2026-09-11T22:58:17+00:00",
+      "rss_summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "summary": {
+        "title_ja": "Mecka AI、セコイア主導の資金調達で評価額500億円規模へ",
+        "overview": "ヒューマノイドロボット訓練用の人間動作データを収集するMecka AIが、Sequoia Capital主導の新規資金調達を進めており、評価額は約5億ドル（約750億円）に達する見込みであることが関係者2名の話で明らかになった。",
+        "background": "Mecka AIは3カ月前にFramework Ventures主導で6000万ドルを調達したばかりで、Menlo VenturesやSV Angel、Kindred Venturesも参加していた。同社は2024年にロボティクス未経験の4人の起業家によって設立された。",
+        "points": [
+          "身体センサーとスマートフォンを使い、コーヒー作りや車の修理といった日常作業を記録する人にお金を払ってデータを収集するビジネスモデル",
+          "LLM向けにScale AIやMercor、Surgeが果たした役割を、ロボティクス分野で実現することを目指している",
+          "2026年末までに年間経常収益1億ドルを見込んでおり、同分野ではXDOFも評価額12億ドルでの新規調達に近づいていると報じられている"
+        ],
+        "importance": "汎用ロボットやヒューマノイド開発の最大のボトルネックとされる実世界データの不足を解消する動きとして、投資家の関心が急速に高まっており、ロボティクス向け人間データ収集市場の競争激化を象徴する事例となっている。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "published": "2026-09-11T20:30:17+00:00",
+      "rss_summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "summary": {
+        "title_ja": "TechCrunch Disrupt 2026、サイドイベント申込み最終締切",
+        "overview": "TechCrunch Disrupt 2026の公式サイドイベント開催申込みが、9月11日午後11時59分（太平洋時間）で最終締切となることが発表された。",
+        "background": "サイドイベントはDisruptウィーク期間中に開催者が独自にコミュニティや関係者を集めて交流や商談の場を作れる企画で、これまで複数回の延長を経て今回が本当に最後の締切となる。",
+        "points": [
+          "承認されたサイドイベントはTechCrunchの公式ページやアジェンダ、アプリ、ニュースレター、記事、SNSで宣伝され、主催者は創業者・投資家・顧客・パートナーなど意思決定者と直接つながれる。",
+          "参加者コミュニティにDisruptチケット25%割引を提供でき、単独イベントではなくDisrupt全体の体験の一部として位置付けられる。",
+          "主催しない場合でも、通常価格でのチケット購入は9月25日まで可能で、値上げ前に確保することが推奨されている。"
+        ],
+        "importance": "サイドイベントはブランド露出や商談機会の創出に直結する重要な機会であり、申込みを逃すとDisrupt期間中の露出・ネットワーキングの機会を失うため、企業にとって最後のチャンスとなる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "published": "2026-09-11T19:35:54+00:00",
+      "rss_summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "summary": {
+        "title_ja": "Kimi開発元Moonshot AI、年間売上20億ドルを目標に",
+        "overview": "中国のAI企業Moonshot AIが、今年末までに年換算売上20億ドルを目指していると報じられた。これは8月時点の売上ペースの2倍にあたる。",
+        "background": "今夏リリースしたオープンウェイトモデル「K3」の人気が急速な売上成長の背景にあり、OpenRouter上では1日あたり最大3000億トークンがK3モデルによって生成されているという。",
+        "points": [
+          "K3の利用数は最近やや減少傾向にあるものの、依然として大規模な利用が続いている",
+          "OpenAIの400億ドル、Anthropicの650億ドルとされる売上には及ばないが、オープンウェイトモデルであるため利益率は競合より低い",
+          "Anthropicは、Moonshotがユーザーの約30万件のリクエストをClaude Opusに転送し、実質的にOpusをKimiとして提供していたとして、モデル蒸留を目的とした不正行為を告発している"
+        ],
+        "importance": "クローズドモデルほどの高収益性はなくとも、オープンウェイトAIモデルでも十分な収益化が可能であることを示す事例であり、同時にAI業界内での学習データ不正利用やモデル蒸留を巡る倫理的・法的問題にも注目が集まっている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Why the current tech backlash feels different",
+      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "published": "2026-09-10T14:00:00+00:00",
+      "rss_summary": "This interview has been lightly edited for length and clarity.&#160; Nick Statt: Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer. And I&#8217;m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is [&#8230;]",
+      "summary": {
+        "title_ja": "「テック逆風」はなぜ今回違うのか―Decoderマガジン読者質問回",
+        "overview": "The VergeのポッドキャストDecoderが視聴者からの質問に答えるメールバッグ回を配信し、司会ニレイ・パテル氏が自身の「ソフトウェア脳（software brain）」論評について詳しく語った。",
+        "background": "同エピソードは今年最も反響が大きかった動画で、AI熱狂がソフトウェア分野での性能向上に強く結びついている現状への懸念から生まれたものだという。",
+        "points": [
+          "パテル氏は、多くの企業が本質的にデータベースであり、ソフトウェア開発はコンパイラで検証可能なため、AIがコード生成に長けることと『AIが完成した』という主張が結びつきやすいと指摘",
+          "AI研究所がAGI達成を主張する動きは、AIのソフトウェア作成能力と密接に関連していると分析",
+          "ソフトウェア以外の領域では検証可能性が格段に難しくなるとし、数学分野でのAI活用を扱った別エピソード（記者ロバート・ハート氏との対談）にも言及"
+        ],
+        "importance": "ソフトウェア分野での成功を根拠にAI全般の能力を過大評価する風潮に警鐘を鳴らす内容であり、AI業界の誇大宣伝と実際の技術限界を見極める視点として重要である。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Random rewards enrich classic game-theory insights",
+      "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "published": "2026-09-11T21:41:16+00:00",
+      "rss_summary": "Simple games gain rich strategies in the face of noise.",
+      "summary": {
+        "title_ja": "ランダムな報酬変動が古典的ゲーム理論に新たな知見",
+        "overview": "研究者らが数理モデルを用い、報酬が時間とともにランダムに変化する状況下での戦略進化を分析し、囚人のジレンマなど古典的ゲーム理論に新たな知見をもたらした。",
+        "background": "従来のゲーム理論は報酬が一定の静的な設定で戦略の進化を研究してきたが、現実世界では戦略的選択の結果や報酬は絶えず変化するため、その応用範囲には限界があった。",
+        "points": [
+          "囚人のジレンマでは協力と裏切りの報酬バランスにより、全員が裏切り合う安定状態に陥ることがある",
+          "チキンゲームやじゃんけんなど類似ゲームでは、安定集団・双安定集団・限界サイクルといった多様な戦略進化パターンが見られる",
+          "従来研究の多くはゲーム内変動（現在のラウンドの行動が次のラウンドの資源や報酬に影響する設定）に焦点を当てていた"
+        ],
+        "importance": "報酬がランダムに変動する現実的な状況をモデルに組み込むことで、人間の戦略的意思決定をより正確に理解し、経済や社会行動の予測モデルの精度向上につながる可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+      "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+      "published": "2026-09-11T21:14:26+00:00",
+      "rss_summary": "The strain lurking in the inflatable structure was hypervirulent.",
+      "summary": {
+        "title_ja": "アイルランドでバウンシーキャッスル起因のMRSA集団感染、子供48人発症",
+        "overview": "2025年秋、アイルランドの地域イベントで設置されたバウンシーキャッスル（エア遊具）が原因とみられるMRSA集団感染が発生し、子供48人が皮膚・軟部組織感染症を発症した。",
+        "background": "バーベキューやお菓子コーナー、3つのバウンシーキャッスルを備えた地域交流イベントに約120人が参加し、そのうち半数が子供や十代の若者だった。イベント翌日から感染の兆候を示す子供が現れ始めた。",
+        "points": [
+          "48件の感染例のうち33人はかかりつけ医で治療、15人が救急受診し、4人が入院。全員が回復した。",
+          "遺伝子解析により、原因はPanton–Valentine leukocidin（PVL）という細胞毒素を産生する希少なMRSA株と判明。免疫細胞を破壊し炎症や壊死性病変を引き起こす。",
+          "通常4〜10日の潜伏期間に対し、多くの感染児は4日以内、中には数時間で発症する異例の速さで症状が進行した。"
+        ],
+        "importance": "遊具など日常的なレジャー施設が薬剤耐性菌の感染源となり得ることを示す事例であり、公衆衛生上の衛生管理・監視体制の強化の必要性を浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "published": "2026-09-11T19:34:09+00:00",
+      "rss_summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+      "summary": {
+        "title_ja": "ChatGPT悪用弁護士、架空証人の偽証言引用で法廷侮辱罪に",
+        "overview": "ニューメキシコ州最高裁は、殺人事件の控訴審でChatGPTが生成した架空証人の偽証言を含む準備書面を提出した弁護士スティーブン・アーロンズ氏を法廷侮辱罪に問い、懲戒委員会に付託した。裁判所は同氏に5000ドルの罰金を科し、当該最高裁への出廷を当面禁止した。",
+        "background": "アーロンズ氏は40年以上のキャリアを持つ刑事弁護士で、終身刑判決を受けた被告オスカー・サンドバル氏の家族から控訴審を依頼され、2025年8月にChatGPT（OpenAIのo3モデル）に裁判記録を読み込ませて準備書面を作成した。",
+        "points": [
+          "書面には実在しない警官や証人（マニュエル・アル・ジブリー氏、テレサ・マルケス氏など）による偽証言が含まれ、実在の判例についても不正確な記述があった",
+          "アーロンズ氏は事実確認を怠ったことを認め、依頼人にもその失敗を伝えていなかった",
+          "裁判官はAIの幻覚（ハルシネーション）問題が3年以上前から広く報道されていたことを指摘し、弁護士としての注意義務違反を厳しく批判した"
+        ],
+        "importance": "本件は、法律実務におけるAI利用の危険性と弁護士の検証責任の重要性を改めて浮き彫りにし、AI生成コンテンツを無検証で法廷提出することへの司法の厳格な姿勢を示す象徴的な事例となった。"
+      }
+    }
+  ]
+}
