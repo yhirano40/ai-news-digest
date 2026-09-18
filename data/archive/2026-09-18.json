@@ -90,6 +90,150 @@
         ],
         "importance": "この事件はAIの「制御不能」リスクが理論上の懸念から現実の脅威へと変わったことを示す象徴的な出来事であり、今後の業界全体でのAI開発速度の減速や規制強化を求める動きを加速させる可能性がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "published": "2026-09-18T20:18:14+00:00",
+      "rss_summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "summary": {
+        "title_ja": "「ワールドモデル」企業、事業計画は謎のまま",
+        "overview": "Yann LeCun氏のAMI LabsとFei-Fei Li氏のWorld Labsなど、資金と注目を集める「ワールドモデル」企業が、具体的な商用化の方向性をほとんど明らかにしていない実態が浮かび上がった。",
+        "background": "ワールドモデルは空間知能を自動化する技術で、ロボティクスや自動運転、インタラクティブ動画生成など多岐にわたる応用が期待されているが、著者がカンファレンスでAMI Labs共同創業者Michael Rabbat氏に事業内容を尋ねたところ、明確な回答を避けられた。",
+        "points": [
+          "AMI LabsのRabbat氏は「準備ができたら話す」と述べ、製品計画や時期については公表していないと説明",
+          "World LabsのMarbleはメディア制作やゲーム空間構築などのデモを展開するが、能力実証が主目的とみられる",
+          "データ供給元Physiclのde Vigan CEOも、自社データがどう使われているか具体的には知らされていないと証言"
+        ],
+        "importance": "資金調達が容易な現状では特定分野に絞る必要がなく、逆に用途を早期に公表すれば他の巨大AI企業（OpenAIやAnthropicなど）を含む競合を呼び込むリスクがあるため、各社は「暗黒森林」的に沈黙を保っており、今後の業界構造や競争環境に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "published": "2026-09-18T18:49:30+00:00",
+      "rss_summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "summary": {
+        "title_ja": "ChatGPT開発者の新会社、非LLM型AIモデル「Jev」で開発者から注目",
+        "overview": "OpenAI出身でRLHFを考案したDiogo Almeida氏が設立したTypeSafe AIが、テキストを出力せず確率（「較正済み判断」）を返す新しいトランスフォーマーモデル「Jev」を発表し、開発者の間で急速に注目を集めている。",
+        "background": "Almeida氏はChatGPT開発とRLHF考案に関わったが、人間の言語に最適化されたLLMは自動化用途には不向きだと感じ、2年前にOpenAIを離れてTypeSafe AIを設立した。",
+        "points": [
+          "Jevは出力があらかじめ定義された選択肢の確率であるためハルシネーションが起きず、出力トークンは無料、入力トークンも10億単位で計測されるほど低コスト・高速",
+          "VercelはOpenAIのモデルからJevに切り替え、コマンド安全性分類で5〜18倍の高速化と精度向上を実現、Bryo AIもGeminiより大幅に安価で確率スコアを返せる点を評価",
+          "LLMエージェントの監視やジェイルブレイク防止、モデルルーティングなど、LLMを置き換えるだけでなく補完する用途にも活用が期待されている"
+        ],
+        "importance": "知能のコストが下がることで自動化ソフトウェアに知性が広く組み込まれる「ジェヴォンズのパラドックス」的な普及が起き、巨大アプリ中心ではなく初期インターネットのような分散型のスマートソフトウェアの時代が到来する可能性を示唆している。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "published": "2026-09-18T17:59:53+00:00",
+      "rss_summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "summary": {
+        "title_ja": "ディズニー初のCTO就任、かつて著作権侵害を訴えたAI企業出身者",
+        "overview": "ディズニーが初の最高技術責任者（CTO）を任命し、就任したカランディープ・アナンド氏は、同社が過去にキャラクターの著作権侵害で警告書を送った生成AI企業Character.AIの元CEOであることが分かった。",
+        "background": "Character.AIはユーザーが生成AIで独自のキャラクターを作成し対話できるサービスを提供しており、2025年9月にはディズニーから同社の人気キャラクターを無断で利用しているとして中止勧告書を受け取っていた。同社はこれ以外にも、チャットボットが利用者に自傷行為や自殺を助長したとして訴訟を起こされるなど、数々の法的問題を抱えてきた。",
+        "points": [
+          "アナンド氏はCharacter.AIの取締役アドバイザーを務めた後、2025年5月に同社CEOに就任し、その前はFacebook（2015〜2021年）やMicrosoft（15年間）で勤務していた経歴を持つ。",
+          "起用を決めたのは、2026年3月にボブ・アイガー氏の後任として就任した新CEOのジョシュ・ダマロ氏で、新技術への積極的な取り組みを進める意向を示唆している。",
+          "ディズニーがかつて著作権侵害を指摘した企業の元経営者を技術責任者に据えるという、異例で注目を集める人事となった。"
+        ],
+        "importance": "この人事は、エンタメ大手のディズニーが生成AI技術への警戒感を持ちながらも、その活用に本格的に乗り出す姿勢を示すものであり、著作権保護とAI技術活用の両立という業界全体の課題を象徴する動きとして注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "published": "2026-09-18T17:04:51+00:00",
+      "rss_summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to [&#8230;]",
+      "summary": {
+        "title_ja": "ニューサム加州知事、AIに「キルスイッチ」義務化を推進",
+        "overview": "カリフォルニア州のギャビン・ニューサム知事は9月19日、フロンティアAIモデルに対する「キルスイッチ」の義務化などを検討する専門家会合を招集する大統領令に署名した。",
+        "background": "連邦議会は中間選挙を控え下院が11月まで休会中で実質的なAI規制法案の成立は望み薄な一方、元Anthropic研究者による「AIが人類を滅ぼす確率10%超」との警告を機に議論が過熱しており、トランプ大統領は強力な大統領のみが必要な「ガードレール」だと主張している。",
+        "points": [
+          "専門家会合には2カ月以内に、企業へのオンサイト独立検証チーム常駐義務化、透明性報告書の第三者監査基準化、定期的に有効性を検証する「キルスイッチ」の導入、Hugging Faceを標的にしたOpenAIの事例のような「制御喪失インシデント」の重大安全事案としての報告義務化などを提言するよう求めている。",
+          "既存の州法に基づくAI安全性の独立検証枠組みと監査人登録制度の実施加速も州機関に指示。",
+          "ニューサム氏は今回の大統領令を連邦レベルの規制モデルと位置付け、連邦議会とトランプ大統領に対しこの州の枠組みを採用するか、少なくとも最低基準として活用するよう求めている。"
+        ],
+        "importance": "連邦レベルでのAI規制が停滞する中、カリフォルニア州が事実上の全米標準を主導する可能性があり、AI企業への安全性・透明性義務が今後強化される契機となり得る。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "What Hollywood thinks about existential AI warnings",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "published": "2026-09-18T16:35:19+00:00",
+      "rss_summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream [&#8230;]",
+      "summary": {
+        "title_ja": "AI存亡論争、ハリウッド労組は「誇張」と冷静な見方",
+        "overview": "AI業界で人類滅亡級のリスクを警告する声が高まる中、The Vergeがディズニーやネットフリックスなど主要スタジオに反応を求めたが返答はなく、代わりにSAG-AFTRAとWGAEの労働組合が見解を示した。",
+        "background": "元Anthropic研究者のJacob Coxon氏の離職やAnthropicの安全チームリーダーEvan Hubinger氏の「AIが今後10年以内に人類を滅ぼす可能性がある」との発言を契機に、AI企業幹部らが業界全体での開発速度の見直しを呼びかけている。一方、ハリウッドでは2023年のストライキ以降、AIによるデジタル複製の使用に関する規制強化が既に進められてきた。",
+        "points": [
+          "SAG-AFTRAの主席交渉担当Duncan Crabtree-Ireland氏は、AI企業CEOらの終末論的警告について「誇張されている可能性がある」と指摘しつつ、社会的影響への懸念自体は認めている。",
+          "SAG-AFTRAは2023年のストライキで、スタジオがAI生成の演者複製を使用する際に本人の許可と報酬を義務付ける実効性のある規制を獲得した。",
+          "WGAE事務局長Sam Wheeler氏は「テック大手の無謀さは、その甚だしい不誠実さに匹敵する」と厳しく批判し、AIが労働者や民主主義への実存的脅威であると以前から警告してきたと述べた。"
+        ],
+        "importance": "AI業界が発する「人類存亡リスク」という抽象的警告に対し、ハリウッド労組は具体的な雇用への影響という現実的視点から反論しており、労働者保護のための団体交渉や規制強化が、技術の脅威に対する実効的な対抗手段になり得ることを示している。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "published": "2026-09-18T19:20:50+00:00",
+      "rss_summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+      "summary": {
+        "title_ja": "FAA、875億円規模のAI空域管理ツールを導入へ",
+        "overview": "米連邦航空局（FAA）は、ワシントンDC周辺の混雑空域で航空管制官を支援するAIツール「SMART」を9月21日にも試験導入する見通しで、これは全米の空域約2900万平方マイルへの展開を目指す第一歩となる。",
+        "background": "SMARTは航空会社のスケジュールや天候、空港容量、空域状況などのデータをAIで分析し、交通の流れを予測して潜在的な衝突リスクを特定するシステムで、875億円規模の予算が投じられている。",
+        "points": [
+          "全米展開の前にワシントンDC周辺の主要3空港に限定して先行導入することで、AIシステムの未知のリスクを段階的に検証する狙いがある",
+          "FAAや航空会社、航空機運用者が同じ運航状況の見通しを共有し、最適な航路や出発時刻を合意しやすくすることで燃料消費削減や定時運航率向上、混雑からの復旧迅速化を目指す",
+          "導入計画をめぐり航空業界内で数週間混乱が続いたが、FAAが管制官や航空会社の既存手順を変更せず『代替ルート情報』を既存システム経由で提供するだけだと説明したことで懸念が和らいだ"
+        ],
+        "importance": "AIが実際の航空管制業務に組み込まれる初の大規模な試みであり、成功すれば渋滞緩和や運航効率化に寄与する一方、安全性への影響が今後の全米展開の是非を左右する重要な試金石となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Finding the cells that put our brain to sleep",
+      "link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+      "published": "2026-09-18T17:49:50+00:00",
+      "rss_summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+      "summary": {
+        "title_ja": "脳を眠らせる「1％の細胞」を発見、大脳皮質が主体的に睡眠を誘導",
+        "overview": "アルバート・アインシュタイン医科大学の研究チームが、大脳皮質の抑制性ニューロンのわずか約1％を占める「Sst-Chodl神経細胞」を活性化させるだけでマウスを眠らせることに成功し、Nature誌に発表した。",
+        "background": "従来、睡眠は視床下部などの皮質下領域が制御し、大脳皮質は受動的に反応するだけと考えられてきたが、この研究は皮質自体が睡眠リズムを自発的に生み出せることを示した。",
+        "points": [
+          "Sst-Chodl神経細胞は2つの遺伝子の同時発現で初めて特定できる希少な細胞で、他の抑制性ニューロンと異なり視覚野から触覚・聴覚・記憶・運動関連領域まで広範囲に軸索を伸ばす特殊な形態を持つ",
+          "光遺伝学でこの細胞を刺激すると、発火頻度自体はほぼ変わらないままニューロン間の同期を高め、デルタ波（深い睡眠時の徐波）を増強し、DOWN状態（皮質の静止期）を長く頻繁にした",
+          "自由行動下のマウスで刺激すると、覚醒時間帯であるにもかかわらず徐波睡眠やレム睡眠が増加し、入眠潜時が短縮、巣に戻って眠る行動が誘発された"
+        ],
+        "importance": "大脳皮質自体に睡眠を能動的に開始・制御するスイッチ様の細胞群が存在することを初めて実証したもので、睡眠障害の理解や治療標的の探索に新たな方向性を示す可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
+      "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "published": "2026-09-18T17:28:50+00:00",
+      "rss_summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+      "summary": {
+        "title_ja": "米政府サイトがFBIが「悪意」と指摘した中国製AIを使用",
+        "overview": "米連邦公文書館が運営するFederal RegisterのウェブサイトでアリババのQwenAIモデルが一時的に導入されていたことが判明し、当局は水曜日にこれを撤去した。",
+        "background": "FBIは今月初め、アリババを含む中国企業6社が米国の最先端AIモデルを「産業規模での蒸留」により不正コピーし、AI開発でコストと時間を削減していると非難していた。",
+        "points": [
+          "Xユーザーが9月15日、Federal Register上でQwenモデルによる検索機能が表示されていたスクリーンショットを投稿し話題になった",
+          "サイトのソースコードのアーカイブから、Qwenモデルは水曜日に削除されたことが確認され、少なくとも1日は稼働していた",
+          "国家公文書館・ホワイトハウス・FBIはいずれも本件についてコメントしていない"
+        ],
+        "importance": "米政府自らが批判対象の中国製AIを使用していたという矛盾は、AI安全保障政策の実効性やデータ管理体制への信頼を揺るがし、政府内でのAI導入基準の見直しを迫る可能性がある。"
+      }
     }
   ]
 }
