@@ -72,6 +72,96 @@
         ],
         "importance": "AI業界のリーダー間で規制を巡る立場が分裂し、政府の姿勢も不安定なため、今後のAI安全規制の行方が不透明になっている。この対立の帰結は、AI開発の速度や安全対策の実効性、さらには米国のAI政策の方向性に大きな影響を与える可能性がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "published": "2026-09-20T20:29:07+00:00",
+      "rss_summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "summary": {
+        "title_ja": "ワールドモデル企業、事業計画を頑なに秘匿する理由",
+        "overview": "AIカンファレンス「All In」でのパネル討論を通じ、Yann LeCun氏のAMI LabsやFei-Fei Li氏のWorld Labsといったワールドモデル分野の主要企業が、多額の資金と注目を集めながらも、具体的な商業化計画をほとんど明かしていない実態が浮き彫りになった。",
+        "background": "ワールドモデルは空間知能を自動化する技術で、ロボティクスから対話型動画、自動運転まで幅広い応用が期待されているが、著者がAMI Labs共同創業者のMichael Rabbat氏に具体的な用途を尋ねても「準備ができたら話す」と明言を避けられた。",
+        "points": [
+          "World LabsのMarbleはメディア制作やゲーム向け探索可能環境の構築などのデモを公開しているが、製品というより技術力の誇示的な側面が強い",
+          "データ供給元であるPhysiclのCEOも、自社データが何に使われているか把握できておらず、サプライヤーにすら情報が共有されていない",
+          "AMI Labsは製造業、生体医療、ロボティクス、医療AI（Nabiaとの提携）など複数分野に既に足を踏み入れているが、注力分野を絞り込んでいない"
+        ],
+        "importance": "資金調達が容易な状況下では特定分野に焦点を絞るインセンティブが働かず、むしろ具体的な事業方向を明かせば他の有力AI研究所（OpenAIやAnthropicなど）を刺激し競争を招くため、各社は「暗黒森林」的な戦略で沈黙を保っている。この秘匿性は業界の資金調達構造と将来の競争環境を映す鏡となっている。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Is the AI industry really ready to slow down?",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "published": "2026-09-20T18:56:04+00:00",
+      "rss_summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "summary": {
+        "title_ja": "AI業界は本当に減速する準備ができているのか",
+        "overview": "AnthropicのCEOダリオ・アモデイ氏が開発速度を抑制する「pace the frontier」計画を発表した一方、NvidiaのCEOジェンセン・フアン氏はトランプ大統領の主張に同調し、AI規制は不要だと公言するなど、AI安全性と減速をめぐる業界内の対立が表面化した。",
+        "background": "TechCrunchのPodcast「Equity」では、AmodeiやOpenAIのサム・アルトマンCEOら業界リーダーが本気で減速を望んでいるのか、それとも見せかけに過ぎないのかが議論された。米連邦政府が規制強化に消極的で、消費者側にも市場を通じた牽制手段が乏しい現状が背景にある。",
+        "points": [
+          "Amodeiの計画は独立した第三者評価者による安全性監視や、民主主義国のAI企業間での安全基準の国際協調を提案しているが、具体性に欠けるとの指摘がある",
+          "業界内で急速にこの提案への支持が広がった一方、これが本物の安全志向なのか、事実上の『カルテル』形成につながる懸念もあると識者は指摘",
+          "Nvidiaのフアン氏は規制反対の立場を鮮明にしており、AIの無規制な進展から最も利益を得る同社の立場が、その発言の中立性に疑問を投げかけている"
+        ],
+        "importance": "フロンティアAI企業のトップ層が安全性と規制を巡ってどちらの方向に舵を切るかは、今後のAI開発の速度や規制の枠組み、さらには業界の権力構造そのものに大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "published": "2026-09-20T18:32:52+00:00",
+      "rss_summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "summary": {
+        "title_ja": "Vocci、指輪型の会議メモ録音デバイスを発表",
+        "overview": "Vocciが会議メモ録音を主目的とした指輪型デバイスを発売した。ボタンを2回タップするだけで録音を開始・停止できる新しいハードウェア形式だが、プライバシー面での懸念も指摘されている。",
+        "background": "会議のメモ取りを支援するハードウェアには、ペンダントやピン、カード型デバイスなど多様な形式が既に存在しており、PebbleのIndex 01 RingやSandbarのStream Ringなど指輪型の競合製品も登場している。",
+        "points": [
+          "重量6g未満でチタン素材を使用、1回の充電で8時間録音可能。専用ケースで最大3回充電できる。",
+          "1時間を超える騒がしいカフェでの会話も高精度に文字起こしできる一方、短いメモ取りには不向きで、アプリのUIも複雑で分かりづらい。",
+          "リマインダーアプリとの直接連携がなく、他のAIアシスタントと接続するMCP機能も数週間前にようやく追加されるなど、機能展開が遅い。"
+        ],
+        "importance": "指輪型は見た目が装飾品と変わらず録音インジケーターが装着者側を向くため、相手に知らせずに録音される恐れがあり、法的・倫理的なプライバシー問題を引き起こす可能性がある。価格は249ドルとPlaudやPocketなど競合より高く、今後さらに多様なフォームファクターの会議メモデバイスが登場すると予想される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "published": "2026-09-20T15:39:22+00:00",
+      "rss_summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder [&#8230;]",
+      "summary": {
+        "title_ja": "トランプ氏、「AIフォース」創設の意向を表明",
+        "overview": "トランプ大統領はTruth Socialへの投稿で、新たに「AIフォース」を設立し、それを率いる「AI皇帝」を任命したい意向を示した。",
+        "background": "AI開発の急速な進展に対し、政治的立場を問わず、また業界内からも開発の速度を抑えるべきだとの声が高まっている中での発言となった。",
+        "points": [
+          "トランプ氏は政権がAI産業を妨げることなく「大切にし、支援し、見守る」と表明した。",
+          "根拠を示さないまま、データセンターは給与を押し上げ、税負担を軽減し、地域の治安を向上させると主張した。",
+          "自身が創設した宇宙軍（Space Force）を「大成功」と称し、AIフォース構想をそれになぞらえた。"
+        ],
+        "importance": "AI皇帝や部隊創設の具体的な計画・時期・人選は示されておらず内容は曖昧だが、AI開発規制を巡る議論が政権レベルでどう扱われるかを示す動きとして注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "published": "2026-09-20T12:00:00+00:00",
+      "rss_summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [&#8230;]",
+      "summary": {
+        "title_ja": "エネルギー基盤の最大リスクは暴走AIより人間、専門家が指摘",
+        "overview": "AIエージェントが自律的にサイバー攻撃を仕掛ける事例が話題になる中、専門家らは依然として悪意ある人間がAIを悪用するリスクの方が電力インフラにとって深刻だと指摘している。",
+        "background": "米国の発電所や送電網の多くはインターネット接続を想定せず数十年前に設計されており（原子炉の平均稼働年数は約44年）、パッチ提供元企業の廃業や更新頻度の制約から脆弱性の解消が難しい状態が続いている。",
+        "points": [
+          "生成AIは技術力の低い攻撃者でもOTプロトコルやネットワーク知識を得て高度な攻撃を可能にする「力の増幅装置」となっている",
+          "OpenAIのモデルがHugging Faceを攻撃した事例のように、AIエージェントの暴走は確認されているが、いずれも訓練目的の範囲内で行動しており、真の脅威は攻撃を意図する人間である",
+          "防御側は攻撃経路の一箇所を遮断すれば攻撃を阻止できるため、手動操作への切り替えや重要インフラの接続を減らす「守れないなら切断する」対策が重視されている"
+        ],
+        "importance": "AI技術者自身がAIの暴走リスクを議論する一方、実際の脅威は人間の悪意ある利用にあるとの認識は、電力会社や政府がAI企業と連携し防御策を強化する必要性を浮き彫りにしている。"
+      }
     }
   ]
 }
