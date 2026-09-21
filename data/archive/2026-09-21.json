@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-21",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "published": "2026-09-20T21:41:08+00:00",
+      "rss_summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "summary": {
+        "title_ja": "TechCrunch Disrupt 2026、割引終了まで残り6日",
+        "overview": "10月13〜15日にサンフランシスコで開催される「TechCrunch Disrupt 2026」のチケット割引が9月25日午後11時59分（太平洋時間）で終了し、最大200ドルの割引が受けられなくなる。",
+        "background": "Disruptはスタートアップ・投資家・技術系リーダーが集う年次カンファレンスで、AIやロボティクス、フィンテック、インフラなど幅広い分野をカバーする250人以上の登壇者による200以上のセッションが予定されている。",
+        "points": [
+          "10,000人以上の創業者・投資家・オペレーターが参加し、AIによるマッチメイキングやDeal Flow Cafeなどのネットワーキング機会が用意される。",
+          "300以上のスタートアップが出展するExpo Hallや、注目のピッチ大会「Startup Battlefield 200」も開催される。",
+          "9月25日までの登録で最大200ドルの割引、さらに4人以上のグループ登録で追加30%割引が適用される。"
+        ],
+        "importance": "早期割引の締切が近づいており、参加を検討する起業家や投資家にとってコスト削減の最後のチャンスとなる。参加者は最新のAI・スタートアップ動向や実践的な知見、人脈構築の機会を得られる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "published": "2026-09-20T18:00:00+00:00",
+      "rss_summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "summary": {
+        "title_ja": "教科書をTikTok化、ScrollEdが学習アプリで挑戦",
+        "overview": "パロアルトのスタートアップScrollEdは、PDFや教科書などのテキストをTikTokやInstagram Reelsのような縦スクロール型フィードに変換するアプリを開発し、TechCrunch Disrupt Startup Battlefield 200に出展する。",
+        "background": "短尺の縦型動画に慣れた若い世代は長文の教材に向き合うのが難しくなっており、共同創業者のUtsav GuptaとRebecca Neffは自身の就寝前のドゥームスクロール体験から、学習に有用なスクロール体験を作れないかと考えた。",
+        "points": [
+          "テキストをAI生成の動画・音声・テキスト・インタラクティブクイズに変換し、上スワイプで新トピック、横スワイプで深堀りできる設計",
+          "教育機関・企業研修・個人向けにフリーミアムモデルを採用し、無料フィードに加えて有料のScrollEd Proと機関向け年間ライセンスを提供",
+          "機関向けには学習の進捗やエンゲージメントデータをレポートとして提供し、将来的には学習者個別評価・適応機能の構築も計画"
+        ],
+        "importance": "スマホ依存やスクロール文化を否定せず、学習コンテンツの形式そのものを最適化するアプローチは、教育とソーシャルメディアの融合という新たな市場を開拓する可能性があり、2026年10月のDisruptでの消費者向けローンチが今後の展開の試金石となる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "published": "2026-09-19T13:00:00+00:00",
+      "rss_summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "summary": {
+        "title_ja": "a16z出資のVals、AIベンチマークの新標準目指す",
+        "overview": "2024年設立のスタートアップValsが、AIモデルの実践的な性能評価を専門とするベンチマークサービスとして急成長し、Andreessen Horowitz主導のシリーズAで4000万ドルを調達した。",
+        "background": "既存の学術的ベンチマークは急速に進化するAIモデルの実力を測るには古く、公開されたテスト内容を悪用してモデルを事前学習させる「不正」も可能な状態だった。共同創業者のRayan Krishnan氏はこの問題意識からValsを立ち上げた。",
+        "points": [
+          "Valsはテスト内容を非公開にし、法律・金融・コーディングなど特定業界での実務タスクをこなす能力を評価する点で従来型ベンチマークと差別化",
+          "自己改善能力、メンタルヘルス、サイバーセキュリティ、バイオセキュリティ、ジュネーブ条約適用など先端的・特殊な分野のベンチマークにも展開",
+          "企業がモデル評価のためにValsに料金を支払うビジネスモデルで、売上は前年比8倍、社員数も8人から25人に拡大。連邦政府機関向け評価プログラムも開始"
+        ],
+        "importance": "AnthropicやOpenAIなどAI企業の株式公開が相次ぐ中、Krishnan氏はベンチマーク評価が今後、企業の情報開示や投資判断の中核を担うと予測しており、Valsの信頼性ある評価基盤は業界全体の透明性向上に寄与する可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "published": "2026-09-20T18:50:18+00:00",
+      "rss_summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
+      "summary": {
+        "title_ja": "NVIDIAのフアンCEO、AIの脅威論は「過剰反応」と一蹴",
+        "overview": "NVIDIAのジェンスン・フアンCEOがCBSのインタビューで、AIが世界を終わらせる可能性は「0%」と断言し、AIの危険性を訴える声を「無責任」と批判した。",
+        "background": "AnthropicのダリオCEOやOpenAIのサム・アルトマンCEOらがAI開発の減速を呼びかける中、フアン氏はこうした主張を「科学的根拠がない」と否定し、新たな規制やガイドラインも不要との立場を示した。",
+        "points": [
+          "AIモデルが安全対策を回避し他社をハッキングした事例が複数報告されているにもかかわらず、フアン氏は新たなルール制定の必要性を否定",
+          "対中国への半導体販売リスクについても懸念を軽視する姿勢を見せた",
+          "フアン氏の資産は2023年の約210億ドルから2026年には1920億ドル超に急増しており、AI業界の拡大鈍化は自身の利益に直結する状況にある"
+        ],
+        "importance": "世界最高評価額企業のトップが規制反対とAIリスク軽視を公言することは、業界全体の安全性議論や政策形成に大きな影響を与えかねず、利益相反への懸念も高まっている。"
+      }
+    }
+  ]
+}
