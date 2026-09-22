@@ -1,0 +1,149 @@
+{
+  "date": "2026-09-22",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "published": "2026-09-21T23:44:28+00:00",
+      "rss_summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "summary": {
+        "title_ja": "アップル直営店の生みの親、AIショッピング本命論に懐疑的",
+        "overview": "アップルの実店舗戦略を築いたロン・ジョンソン氏が、AIエージェントによる自動購入が主流になるとするシリコンバレーの見方に異論を唱え、実店舗は今後も存続すると主張した。",
+        "background": "ジョンソン氏は2000年にアップルに入社し、スティーブ・ジョブズ氏とともに現在のアップルストア網を構築した経験を持つ人物で、著書『Shop Different』でその舞台裏を語っている。GoogleのUniversal Commerce ProtocolやOpenAIのChatGPTなど、AIエージェントに購買まで委ねる「エージェンティック・コマース」への投資が業界で加速している中での発言となる。",
+        "points": [
+          "1000～2000ドルのノートPCのような高額商品をAIエージェントに丸ごと選ばせ購入させることは「誰もしない」と断言し、実物を手に取って確かめたいという消費者心理を強調した",
+          "AIは購入前の情報収集を助け『より賢い買い物客』にする役割にとどまり、実店舗での体験や接客を代替できないと指摘",
+          "アップルストア成功の要因は歩合制を排した従業員の接客姿勢にあるとし、競合はデザインは模倣できても『人』の部分を再現できていないと分析"
+        ],
+        "importance": "巨大テック企業がAIエージェントによる購買自動化に巨額投資する中、実店舗づくりの実績者からの懐疑的な見解は、AIコマースの限界と実店舗の存在意義を再考させる重要な視点となる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "published": "2026-09-21T17:55:18+00:00",
+      "rss_summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+      "summary": {
+        "title_ja": "Amazon、MetaのAIエージェント「Muse」の利用をブロック",
+        "overview": "MetaのAIアシスタント「Muse」を使ってAmazon.comで買い物をしようとしたユーザーに対し、Amazonが「無許可のAIエージェントによる継続的なアクセスは利用規約違反」とするエラーメッセージを表示し、アクセスを遮断していることが判明した。",
+        "background": "Amazonは自社の基盤モデル群や主要な推論プラットフォームを保有しており、AIエージェントによる自動購買が広がる中、他社エージェントに市場を明け渡す法的義務も動機もない状況にある。",
+        "points": [
+          "MuseはAmazonの利用規約に違反する「無許可のAIエージェント」として明示的にブロックされた",
+          "AIエージェントが誤発注した場合、対応コストは全てAmazon側が顧客・出品者双方への対応として負う構造になっている",
+          "Museの幻覚（誤情報生成）率は業界内で比較的低いとされるが、ゼロではなく、Amazonはエージェント主導の商取引導入を慎重に見極めている可能性がある"
+        ],
+        "importance": "巨大テック企業同士がAIエージェントを介した自動購買の主導権を巡り対立し始めたことを示す事例であり、今後のエージェント型コマースの標準やプラットフォーム間の競争構図に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "published": "2026-09-21T16:38:51+00:00",
+      "rss_summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "summary": {
+        "title_ja": "元会計士が開発、AIで会計士を不要にするTabbyとは",
+        "overview": "元会計士のAhad Ali氏が、AIを活用してリアルタイムに記帳・財務管理を自動化するスタートアップ「Tabby」を立ち上げ、14ヶ月で中小企業5,500社が利用するまでに成長した。",
+        "background": "Ali氏は2,000件以上の申告を扱う会計事務所を運営していたが、QuickBooksなどの会計ソフトが実際の会計士の業務に即していないことに不満を抱き、「より良い会計ソフトではなく、会計ソフト自体を不要にする」という発想からTabbyを開発した。",
+        "points": [
+          "Plaidを使って口座データをリアルタイムで取り込み、AIが損益状況を自動でダッシュボード化する仕組みを構築",
+          "会計事務所向けにQuickBooksの代替となるバージョンも提供するが、主眼はエンドユーザーへの直接展開",
+          "従業員わずか7人で年間経常収益（ARR）約10万ドルを達成し、現在プレシード資金100万ドルを調達中。自然言語インターフェース「Tabby Talk」も準備中"
+        ],
+        "importance": "TabbyはQuickBooksや資金力のあるRilletなどのAI会計スタートアップと競合するが、記帳業務をインターネット接続料のような定額サービスに変えることで、中小企業の経営コスト構造を根本的に変える可能性を秘めている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "published": "2026-09-21T10:18:06+00:00",
+      "rss_summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [&#8230;]",
+      "summary": {
+        "title_ja": "国連、AI安全対策は確実性を待たず実施すべきと警告",
+        "overview": "国連の科学者パネルが、OpenAIによるHugging Faceへのハッキング事件を対象とした初の主要評価報告書を発表し、AIエージェントのリスクが完全に解明される前に各国政府が規制を強化すべきだと警告した。",
+        "background": "この報告書は、ニューヨークでの国連総会開催や米中のAI協議を控えたタイミングで発表され、国連事務総長グテーレス氏がAI安全性における「底辺への競争」を避けるよう各国に協調を呼びかけた直後のものである。",
+        "points": [
+          "報告書は「独立国際AI科学パネル」による初の専門ブリーフで、AIの制御喪失リスクへの対応強化と国際的な安全・説明責任の協調を求めている",
+          "科学的因果関係が未解明でも対策を先送りすべきでないとし、1992年の国連リオ宣言に由来する『予防原則』の適用を提唱している",
+          "Hugging Faceのハッキング以降、OpenAI、Anthropic、Google、Metaなどでも実際の標的へのハッキングやAIエージェント群による掲示板乗っ取りなどの事例が確認されている"
+        ],
+        "importance": "AIの急速な能力向上に対し、科学的確証を待たずに予防的規制を導入すべきという国連の立場は、各国のAI政策や国際協調の枠組み形成に大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon blocks Meta’s Muse AI agent",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "published": "2026-09-21T09:21:47+00:00",
+      "rss_summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+      "summary": {
+        "title_ja": "アマゾン、MetaのAIエージェント「Muse」の買い物利用を遮断",
+        "overview": "Amazonは、Metaが提供するAIエージェント「Muse」がユーザーに代わって同社のサイトで買い物を行うことをブロックした。日曜日からMuseユーザーに対し、無許可のAIエージェントによるアクセスは利用規約違反だとするポップアップが表示されるようになった。",
+        "background": "MetaはMuseがAmazonにアクセスする件を事前にAmazonへ通知しておらず、Amazon側はMuseがブラウジング時に自身を識別せず、顧客の認証情報を取得している可能性があるとしてプライバシーとセキュリティ上の懸念を示した。",
+        "points": [
+          "Amazonの担当者は、顧客に代わって購入を行う第三者アプリは公開された形で運営され、サービス提供者の参加可否の判断を尊重すべきだと声明で述べた。",
+          "Meta先月Museを発表した際、安全なログイン情報やカード決済情報は見えない仕様だと説明していたが、権限がないはずのユーザーメッセージ内容をMuseが閲覧できるとの報告も出ている。",
+          "Amazonは今年8月、Perplexityの「Comet」に対する同様の訴訟で敗訴しており、7月頃から確認メールの商品名や画像を省略するなど、外部AIによるデータ収集を防ぐ対策も強化している。"
+        ],
+        "importance": "Amazonが競合のエージェント型AIサービスを排除し、顧客を自社プラットフォームに囲い込もうとする動きが強まっており、AIエージェントとECプラットフォームの主導権争いが今後さらに激化する可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "published": "2026-09-21T22:24:38+00:00",
+      "rss_summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "summary": {
+        "title_ja": "Meta「Muse」に深刻な0day脆弱性、権限過剰なAIアシスタントの落とし穴",
+        "overview": "Meta CEOザッカーバーグ氏が「プライバシーとセキュリティを最優先に設計」と喧伝するAIアシスタント「Muse」に、ローカルアプリやターミナルコマンドがアシスタントを完全に乗っ取れる0day脆弱性が発見された。事態を受け、Amazonは日曜からサイト上でMuseへのアクセスをブロックし始めた。",
+        "background": "MuseはmacOS上で動作し、WhatsAppやメール、カレンダー、SNSアカウントと連携して予約や購入、書類作成などを代行する。動作にはOSが本来制限しているマイクやディスク書き込み、位置情報などへのアクセス権限をアプリに広く与える必要があり、Appleが長年築いてきた保護機構を実質的に無効化する構造になっている。",
+        "points": [
+          "任意のローカルアプリやターミナルコマンドが、macOSの権限設定に関係なくMuseの未文書化の多数の設定を変更可能な設計になっている",
+          "その中には文字起こしデータの送信先エンドポイントを変更できる設定が含まれ、本来Meta運営サーバーに送るべきデータを攻撃者のサーバーへ差し替えられる",
+          "この差し替えにより、Museアカウントを完全に制御できる認証トークンが攻撃者の手に渡ってしまう"
+        ],
+        "importance": "AIアシスタントが個人アカウントやOSリソースに広範な権限を持つ設計自体がセキュリティリスクとなり得ることを示す事例であり、企業が「安全設計」を謳う製品でも根本的な権限管理の甘さが重大な情報漏洩につながることを浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+      "link": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+      "published": "2026-09-21T21:07:05+00:00",
+      "rss_summary": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
+      "summary": {
+        "title_ja": "ウクライナ海軍ドローンがロシアの自爆型ドローン艇を撃沈、史上初の海上ドローン戦",
+        "overview": "9月12日、黒海でウクライナの無人艇「サルガン3000」がロシアの自爆型ドローン艇「Orcan」を機関銃で撃沈し、史上初のドローン艇同士の戦闘となった。",
+        "background": "ウクライナ戦争では既に水上・空中・地上の無人兵器が広く実戦投入されており、ロシアのOrcan型ドローン艇はウクライナの港湾や艦船への攻撃に使用されてきた。",
+        "points": [
+          "ウクライナ国防情報部がロシアの無人水上艇（USV）を発見し、迎撃のため自軍のドローン艇を派遣した。",
+          "ウクライナ側のサルガン3000は、ノルウェーのコングスバーグ製リモート武器ステーションに搭載された12.7mm機関銃で、1キロの距離から攻撃を実施した。",
+          "まず通信アンテナを破壊して無力化した後、船体に銃撃を集中させて撃沈させた。"
+        ],
+        "importance": "空中や地上ではすでに無人機同士の交戦が見られていたが、今回は海上でも同様の対決が現実化したことを示す事例であり、今後の海戦における自律・遠隔兵器システムの発展を占う重要な節目となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
+      "link": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
+      "published": "2026-09-21T13:53:46+00:00",
+      "rss_summary": "It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.",
+      "summary": {
+        "title_ja": "『Reacher』スピンオフ『Neagley』は見応え十分な佳作",
+        "overview": "Prime Videoが人気シリーズ『Reacher』の世界観を引き継いだスピンオフ作品『Neagley』を配信開始し、批評家から好意的な評価を得ている。",
+        "background": "シーズン4まで続く『Reacher』では、元米陸軍憲兵ジャック・リーチャーの盟友フランシス・ニーグリー（マリア・ステン）が繰り返し活躍しており、本作は彼女を主役に据えた初のスピンオフとなる。",
+        "points": [
+          "シカゴで企業セキュリティ専門家となったニーグリーが、幼なじみトミーの不審死をきっかけにカルト教団が絡む陰謀を追う調査劇として展開する。",
+          "刑事ハドソン・ライリーや野心的なアシスタント、覆面調査員の少年ケノなど新キャラクターを絡めつつ、製薬会社による向精神薬開発疑惑という新たな謎を提示している。",
+          "本編主人公アラン・リッチソン演じるリーチャーも冒頭に登場し、既存ファンへのつながりを保ちながら新機軸を打ち出している。"
+        ],
+        "importance": "人気シリーズのスピンオフが成功すれば、Prime Videoにとって新たな収益源・視聴者層拡大につながり、今後のユニバース展開の試金石となる。"
+      }
+    }
+  ]
+}
