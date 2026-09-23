@@ -1,0 +1,149 @@
+{
+  "date": "2026-09-23",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "published": "2026-09-22T23:21:49+00:00",
+      "rss_summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "summary": {
+        "title_ja": "TechCrunch創業者サミット、11月4日ボストン開催の全容発表",
+        "overview": "TechCrunchは11月4日、ボストンのSoWa Power Stationで開催する「Founder Summit」の詳細アジェンダを発表した。資金調達、採用、AI戦略など創業者向けの実践的セッションが1日集中型で行われる。",
+        "background": "スタートアップ創業者は試行錯誤で学ぶことが多いが、本イベントは投資家や経験豊富な創業者から直接知見を得ることで、その学習コストを減らすことを狙いとしている。",
+        "points": [
+          "Underscoreのパートナーやセコイアのブライアン・ハリガン氏（HubSpot共同創業者）など著名投資家・起業家が登壇し、資金調達戦略やCEOとしての成長について語る",
+          "7AIのリオール・ディブCEOによる「AIネイティブ企業」構築論や、Cogent SecurityのCEOによる投資家選定の実体験など、AI時代の経営や資金調達の実践知が共有される",
+          "NEAのメリッサ・タウントン氏による初期採用戦略、Bessemerのケント・ベネット氏によるプロダクトマーケットフィット検証など、組織構築・成長戦略に関するセッションも予定"
+        ],
+        "importance": "資金調達や採用、AI活用など創業初期に直面する重要課題について、実際に経験した投資家・起業家から直接学べる機会であり、地方（ボストン）発のスタートアップ支援エコシステム強化にもつながる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "published": "2026-09-22T21:56:43+00:00",
+      "rss_summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "summary": {
+        "title_ja": "Snorkel AI、評価額3倍の35億ドルに急騰 AI訓練データ需要が牽引",
+        "overview": "AI向けトレーニングデータや模擬環境の構築を支援するSnorkel AIが、Insight PartnersとS32主導のシリーズEで3億5000万ドルを調達し、評価額は35億ドルとなった。",
+        "background": "17ヶ月前のシリーズD（評価額13億ドル）から約3倍に評価額が急伸しており、同社は昨年、データラベリング自動化ソフトの提供から完成済みデータセットを提供する「データ・アズ・ア・サービス」へと事業モデルを転換していた。",
+        "points": [
+          "Snorkelは純粋な人力マーケットプレイスではなく、ソフトウェア・モデルによる合成データ生成と専門家の知見を組み合わせたハイブリッド方式を採用",
+          "年間経常収益（ARR）は3億7500万ドルに達し、過去12ヶ月で18倍に急増。AI研究機関による高品質訓練データへの旺盛な需要が背景",
+          "Mercor（20億ドル）、Handshake（10億ドル超）、Micro1（5億ドル）など競合データ企業も急成長しているが、これらは売上の60〜70%を専門家への報酬として支払うため実質収益は表面の数字より大幅に低い。Snorkelは専門家への支払いを売上原価として計上する点が異なる"
+        ],
+        "importance": "生成AIの高度化に伴い高品質な訓練データやRL環境の需要が爆発的に拡大していることを示す事例であり、AIデータインフラ市場が急速に巨大化・競争激化していることを裏付けている。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "published": "2026-09-22T16:30:07+00:00",
+      "rss_summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "summary": {
+        "title_ja": "Anthropic、Opus 5.5を発表 価格引き下げでFable級の性能実現",
+        "overview": "Anthropicは最新モデル「Opus 5.5」を発表し、コーディングや知識労働の性能で新たな最高水準を達成したと発表。より大規模なFableモデルを多くのベンチマークで上回った。",
+        "background": "OpusはClaudeシリーズの最上位・最高額モデルで、7月24日のOpus 5発売からわずか2カ月での投入となる。CEOのDario Amodeiが「フロンティアのペース調整」を提唱し、能力向上を安全対策の進展に合わせて意図的に減速させる方針を示した後、初のモデルリリースとなる。",
+        "points": [
+          "出力トークンの価格は前モデルの100万トークンあたり25ドルから20ドルに引き下げられ、実行速度も向上し、必要な計算資源も減少した。",
+          "コミュニケーション面でも改善され、専門用語の使用を減らし、重要情報をメッセージ冒頭に配置するようになった。",
+          "生物学・サイバーセキュリティ能力がMythosモデルに匹敵するとされ、同様の安全対策（コンパイル済みプログラムの脆弱性発見や生物兵器開発への悪用防止など）が適用される。"
+        ],
+        "importance": "性能向上とコスト削減を両立させつつ、Amodei氏が掲げる「安全対策の進展に合わせた開発ペース調整」路線下での初のリリースであり、AI企業が能力拡大と安全性確保のバランスをどう取るかを示す重要な事例となる。SonnetとHaikuの5.5版も近日中に投入予定。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "published": "2026-09-22T16:01:10+00:00",
+      "rss_summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started [&#8230;]",
+      "summary": {
+        "title_ja": "トランプ氏、AIを『超知能』に公式改称すると発言",
+        "overview": "トランプ大統領は国連総会での演説で、米国が人工知能（AI）を「超知能（スーパーインテリジェンス）」に公式に改称すると主張した。",
+        "background": "同氏は「人工的（artificial）」という言葉が知能を偽物のように聞こえさせると主張し、以前にもメキシコ湾やケネディセンター、デナリなど地名・施設名を独断で改称してきた経緯がある。",
+        "points": [
+          "トランプ氏は今後、米国の全文書、可能なら世界的にも「artificial intelligence」を「super intelligence（SI）」に置き換えると発言",
+          "気候変動対策派やAI脅威論者を「同じグループ」と結びつけ、AI開発を規制せず推進する姿勢を強調",
+          "司法省を通じてAIを注視するとしつつも、成長を妨げないと明言し、中国など他国に対する優位性維持を主張"
+        ],
+        "importance": "地名変更同様に法的拘束力は不明だが、米政権のAI政策や国際的な用語・規制枠組みに影響を及ぼす可能性があり、今後の展開が注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "published": "2026-09-22T11:53:58+00:00",
+      "rss_summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers [&#8230;]",
+      "summary": {
+        "title_ja": "Meta、AIエージェントMuseの乗っ取り可能な脆弱性を修正",
+        "overview": "Metaは、macOS向けAIエージェント「Muse」に発見されたゼロデイ脆弱性を修正した。この脆弱性は攻撃者がMuseを乗っ取り、遠隔操作できるものだった。",
+        "background": "セキュリティ研究者Patrick Wardle氏が、Museの文書化されていない設定を悪用し、文字起こし処理をMetaのサーバーから攻撃者自身のエンドポイントへリダイレクトできる欠陥を発見。ローカルでコードを実行できる攻撃者がMuseアカウントへのアクセス権を奪えることが判明した。",
+        "points": [
+          "Museの音声認識処理がデバイス上ではなくクラウドで行われ、かつ任意のアプリが未文書化の全設定を操作できる設計上の問題が原因とされる",
+          "Wardle氏の概念実証攻撃では、ユーザーに通知せずに写真撮影や悪意あるファイルのディスク書き込みが可能だったと報告されている",
+          "Metaはこの脆弱性を「ローカル特権昇格攻撃」であり遠隔からの攻撃ではないとし、実際のリスクは低かったと説明、報道直後に修正パッチを配布した"
+        ],
+        "importance": "Metaが安全性を強調して発表したAIエージェントで基本的なセキュリティ設計の甘さが露呈した形で、AmazonがMuseのアクセスを遮断するなど既に信頼性への疑問が広がる中、AI競争を急ぐ企業のセキュリティ姿勢への警鐘となっている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+      "link": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+      "published": "2026-09-22T21:42:14+00:00",
+      "rss_summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+      "summary": {
+        "title_ja": "脳内寄生虫感染、卵が孵化しシッポ形成で確定診断",
+        "overview": "フィリピンの女性稲作農家が突然の片側けいれん発作を起こし、脳MRIで左前頭葉に虫卵とみられる結節が発見され、住血吸虫による神経住血吸虫症と診断された。",
+        "background": "住血吸虫（Schistosoma）は水中の巻貝を介して人体に侵入し、皮膚から血管系を通じて肝臓へ移動、成虫となって腸周辺の血管に寄生し卵を排出する複雑な生活環を持つ寄生虫で、フィリピンではS. japonicum種が主に流行している。",
+        "points": [
+          "MRIで脳内に見つかった結節を医師団は虫卵と推定し、検査室で卵を培養したところ尾（鞭毛）を持つ幼生（ミラシジウム）に孵化し、生きた虫卵であることが確認された",
+          "この検査結果により神経住血吸虫症の診断が確定し、通常の身体検査では異常が見つからなかった患者に対する画像診断と実験室検査の組み合わせの重要性が示された",
+          "S. japonicumは日本では既に撲滅されているが、中国やインドネシアの一部、フィリピンでは依然として流行しており、稲作地帯での感染リスクが高い"
+        ],
+        "importance": "神経住血吸虫症は稀ながら重篤な神経症状を引き起こす合併症であり、卵の孵化試験という具体的な検査手法が診断確定に有効であることを示した点で、流行地域における同様の症例の診断精度向上に寄与する可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "published": "2026-09-22T21:25:18+00:00",
+      "rss_summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "summary": {
+        "title_ja": "AnthropicとOpenAI、新モデルで「性能向上とコスト削減」両立を主張",
+        "overview": "Anthropicは主力モデルの最新版「Opus 5.5」を、OpenAIは中小規模モデルの新版「GPT-6 Sol」と「Luna」を相次いで発表した。",
+        "background": "両社は企業顧客の獲得競争の中で、オープンウェイトモデルの台頭やモデルルーターによる高額なフロンティアモデルの利用抑制傾向に直面しており、効率化とコスト削減が急務となっている。",
+        "points": [
+          "Opus 5.5はOpenAIのGPT-6 Astraに対しコーディングや知識作業のベンチマークで一部上回る結果を示した",
+          "Opus 5.5の価格は入力トークン100万あたり4ドル、出力20ドルとOpus 5比20%安、キャッシュ読み込みは0.20ドルで60%安、出力速度も30%以上高速化",
+          "今回の新モデルは画期的な新機能というより、既存性能を維持しつつコストと速度を改善する『効率化』が主眼"
+        ],
+        "importance": "フロンティアモデルの高額な利用コストが企業導入の障壁となる中、性能を維持しつつ価格を下げる競争は今後のAI市場での標準化とシェア争いを左右する重要な動きとなる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Review: Resident Evil might just be the best gaming adaptation yet",
+      "link": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
+      "published": "2026-09-22T17:30:07+00:00",
+      "rss_summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
+      "summary": {
+        "title_ja": "映画『バイオハザード』新作、ゲーム原作映画屈指の傑作に",
+        "overview": "『Weapons』のザック・クレッガー監督が手がけた『Resident Evil』新作リブート版が、批評家から高評価を得ている。",
+        "background": "2021年の前作リブート『Welcome to Raccoon City』は批評家から酷評され、興行的にも25百万ドルの予算に対し世界興収42百万ドルと振るわず、続編計画も頓挫。2022年のNetflixドラマ版も1シーズンで打ち切りとなっていた。",
+        "points": [
+          "クレッガー監督は原作ゲーム（特に『バイオハザード2』）の大ファンだが、映画版は未視聴のまま制作に参加し、ゲーム直接翻案ではなくオリジナルキャラクター・物語で同じ世界観を描いた",
+          "時系列の飛躍や複雑な章構成を避け、一人の主人公が破滅的な世界を徒歩で進むシンプルな構成を採用",
+          "自身の前作『Weapons』とは異なる方向性を選び、『イーヴィル・デッド2』に近いトーンでホラー・ユーモア・過激なゴア表現を絶妙なバランスで融合させた"
+        ],
+        "importance": "低迷していたゲーム原作映画というジャンルにおいて、原作ファン以外にも訴求する新しいアプローチを示した点で、今後の同種作品の方向性に影響を与える可能性がある。"
+      }
+    }
+  ]
+}
