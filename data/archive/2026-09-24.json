@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-24",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Meta introduces camera-free AI glasses",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "published": "2026-09-23T23:39:44+00:00",
+      "rss_summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "summary": {
+        "title_ja": "Meta、カメラ非搭載のAIグラス「Ray-Ban Meta Audio」発表",
+        "overview": "Metaは「Connect 2026」にて、カメラを搭載しない新型AIグラス「Ray-Ban Meta Audio」を発表した。音楽再生や通話、翻訳、AIアシスタント「Muse」との対話が可能で、価格は349ドルから。",
+        "background": "従来のカメラ搭載AIグラスは、同意なく他人を撮影する用途で悪用され「盗撮メガネ」と批判されるなど評判の悪化を招いていた。Metaは記録中を示すLEDを無効化すると撮影も止まる仕組みを導入していたが、不快感は払拭できていなかった。",
+        "points": [
+          "カメラを排除したことで従来モデルより薄型・軽量（43g）となり、最大12時間（充電ケース込みで48時間）のバッテリー寿命を実現",
+          "パートナーのEssilorLuxotticaが設計し、クラブマスターやバーバンクなど新デザインを含む23色・レンズの組み合わせを用意",
+          "同時にカメラ付き次世代機「Ray-Ban Meta（第3世代）」も発表。12MPカメラや3K対応、新デザイン（Aviator、Zena）を追加"
+        ],
+        "importance": "プライバシー懸念を回避しつつAIグラス市場での存在感を保つ狙いがあり、AppleのAirPods的な音声主体のウェアラブルAI市場にも対抗する布石となる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic says its biology lab has already found something big",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "published": "2026-09-23T22:17:39+00:00",
+      "rss_summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "summary": {
+        "title_ja": "Anthropic、生物学ラボでCRISPR類似の新酵素系を発見と発表",
+        "overview": "Anthropicは、ベイエリアで運営する湿式生物学ラボにおいて、AIモデルClaudeが主導する形でCRISPRに似た性質を持つ新しい酵素「システム」を発見したと発表した。",
+        "background": "同社は先週このラボの存在を初めて公表しており、バクテリオファージのDNA内に隠れていた未知の酵素システムを、Claudeが約950のエージェントと2億1000万トークンを使い、わずか21時間の作業で発見したという。",
+        "points": [
+          "発見された酵素システムはDNAの切断・コピー・貼り付けを行う点でCRISPRに類似しているが、スタンフォード大学の先行研究と一部重なる部分もあるとCEOのダリオ・アモデイ氏は認めている。",
+          "ラボはBSL-1・BSL-2レベルに限定した研究を行い、病原体は扱わず、実験は全て人間の科学者が実施しており、Claudeが直接機器を操作することは現時点ではない。",
+          "AlphaFindやスタンフォード、UCSFなど他機関もAIを活用した生物学研究を進めており、AI駆動型のバイオ研究は業界全体で拡大している。"
+        ],
+        "importance": "AIモデルの能力向上に伴うバイオテロなど安全性への懸念が業界内で高まる一方、Anthropicは医療分野での大きな恩恵を見込んでリスクを取る姿勢を示しており、AIと生命科学研究の融合が今後さらに加速する可能性を示している。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "published": "2026-09-23T15:19:30+00:00",
+      "rss_summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "summary": {
+        "title_ja": "YouTube Music、対話型AI機能を新たに追加し会話的な体験へ",
+        "overview": "YouTubeは「Made On YouTube」イベントで、YouTube Musicに音楽・ポッドキャスト向けの対話型AI機能「Ask Music」と、パーソナライズされたポッドキャスト案内「Your Podcast Lineup」を発表した。",
+        "background": "従来の曲名やアーティスト名での検索に代わり、ユーザーが自然な言葉で聴きたいものを表現できる仕組みへのニーズが高まっており、YouTubeは昨年もAI音楽ホスト機能を試験導入するなど、サービス全体でAI活用を進めている。",
+        "points": [
+          "Ask Musicは3億曲以上のカタログ（公式音源、リミックス、ライブ、カバー、DJセットを含む）を横断し、友人に話すような自然文でカスタムプレイリスト作成や楽曲背景の質問に対応する。",
+          "Your Podcast Lineupはポッドキャストページに表示され、毎週AIが生成した音声プレビューでおすすめ番組とその理由を紹介し、そのままエピソード再生に誘導する。",
+          "競合のSpotifyも類似の「パーソナルポッドキャスト」AI機能を先行して導入しており、音声プラットフォーム間でAIによるコンテンツ発見競争が加速している。"
+        ],
+        "importance": "膨大な楽曲・ポッドキャストの中から埋もれがちなコンテンツを会話型AIで発見しやすくすることで、ユーザーエンゲージメントの向上とプレミアム加入の後押しが期待され、音楽・音声業界全体のAI活用競争を象徴する動きと言える。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Muse is coming to Meta smart glasses",
+      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "published": "2026-09-23T23:40:56+00:00",
+      "rss_summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging [&#8230;]",
+      "summary": {
+        "title_ja": "MetaのAIエージェント「Muse」、スマートグラスへ搭載へ",
+        "overview": "Metaは開発者会議「Connect」で、AIエージェント「Muse」を同社のスマートグラスに導入する計画を発表した。ユーザーは名前を呼びかけることでMuseを起動し、運動指導や食事記録、買い物の手伝いなどを依頼できるようになる。",
+        "background": "MuseはMetaが数週間前にリリースしたばかりのAIエージェントで、今回の発表はConnectで披露された新型スマートグラスの発表と合わせて行われた、より広範な機能アップデートの一環である。",
+        "points": [
+          "アクセシビリティ機能として、軽度〜中等度の難聴向けにFDA認可を受けた「Hearing Enhancement」機能を追加。年内提供予定でMeta Oneサブスクリプションまたは149ドルの追加購入で利用可能。",
+          "視覚障害者・弱視者向けにMeta AIがより文脈に即した詳細な説明を提供できるよう改良されるほか、左右の音声出力を調整できるオーディオカスタマイズ機能も追加。",
+          "Meta Ray-Ban Displayには顔をリアルタイムで再現する「Hologram」機能や、音声での自転車・公共交通機関のナビゲーション、風景を利用した徒歩ルート案内などが追加される。"
+        ],
+        "importance": "AIエージェントとウェアラブルデバイスの融合が進むことで、スマートグラスが単なる撮影・通知端末から、日常生活を包括的に支援するパーソナルアシスタントへと進化する可能性を示しており、Metaのハードウェア戦略における重要な転換点となる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "published": "2026-09-23T23:37:17+00:00",
+      "rss_summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and [&#8230;]",
+      "summary": {
+        "title_ja": "Meta、カメラなしのRay-Banスマートグラス「Audio」を発表",
+        "overview": "Metaは新型スマートグラス「Ray-Ban Meta Audio Glasses」を発表した。カメラを搭載せず、Meta AIと連携する音声中心のモデルで、価格は349ドルからとなる。",
+        "background": "スマートグラスやAIペンダントによる「盗撮」への懸念から社会的反発が高まる中、Metaは3年前から音声特化型グラスの開発を進めてきたとしており、今回のタイミングは偶然だと説明している。",
+        "points": [
+          "カメラを排除したことで電子部品を減らし設計の自由度が向上、重量は43gからとGen 2（約50g）やDisplay版（69g）より軽量",
+          "バッテリー駆動時間は約12時間で、Meta AIとの対話や通話、音楽・ポッドキャスト再生が主な機能。録音機能はなく、ウェイクワード後の音声のみ処理される",
+          "同時に発表されたRay-Ban Meta Gen 3はマイクを6基に増強、Dolby Atmos対応の空間音声を実現したが、価格は449ドルへ値上げ（前世代379ドル）。低価格帯のMeta Glassesも新色・著名人コラボ（Kylie Jenner、BlackpinkのLisa）を追加し、女性層への訴求を強化"
+        ],
+        "importance": "プライバシー懸念が広がる中、カメラなしの選択肢を用意することでMetaはウェアラブル市場での信頼回復と裾野拡大を図っており、スマートグラス普及の分岐点となる可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "published": "2026-09-23T23:19:42+00:00",
+      "rss_summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Muse [&#8230;]",
+      "summary": {
+        "title_ja": "Meta、AIエージェント「Muse」を強化しビデオ通話機能を追加",
+        "overview": "MetaはAIエージェント「Muse」の大型アップデートを発表し、専用メールアドレスの付与やビデオ通話機能、PC操作機能などを追加すると明らかにした。",
+        "background": "Museは今月初めに公開されたばかりのAIエージェントで、App Storeでトップの座を獲得し、公開から12日間でモバイル版ダウンロード数がChatGPTを上回ったと報じられるなど急速に人気を集めている。",
+        "points": [
+          "MuseエージェントはタスクをこなすためのMeta独自のメールアドレスを持ち、そのアドレス経由でユーザーとやり取りできるようになる",
+          "Mac版Museアプリはユーザーのコンピュータ操作機能を獲得する",
+          "新しい「Muse Realtime Avatar」モデルにより、ビデオ通話でアバターの声や動きをカスタマイズしながらリアルタイム対話が可能になる"
+        ],
+        "importance": "Metaは人気急上昇中のMuseに矢継ぎ早に機能追加することで先行者優位を固めようとしており、さらに数カ月以内にスマートグラス版も投入予定で、日常生活に密着したAIエージェント体験の拡大を狙っている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+      "published": "2026-09-23T22:17:25+00:00",
+      "rss_summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
+      "summary": {
+        "title_ja": "RFK Jr.率いるCDC、子ども向けCOVID-19ワクチン供給を停止・遅延",
+        "overview": "米CDCが、低所得層や無保険の子どもに無料でワクチンを提供する連邦プログラム「Vaccines for Children（VFC）」を通じた2025-26年シーズンのCOVID-19ワクチン注文を、州側に対して予告なく遅らせている。",
+        "background": "VFCは全米の子どもの約52%が対象となる無料接種制度で、アラスカやマサチューセッツなど11州・1準州はVFCの契約枠を使い全ての子ども向けワクチンを一括購入する「ユニバーサル購入プログラム」に参加しているため、影響はさらに広範囲に及ぶ。",
+        "points": [
+          "HHS（厚生長官はワクチン懐疑派のロバート・F・ケネディ・ジュニア）は、VFCおよびSection 317プログラムを通じたCOVID-19ワクチンの調達方針が「まだ最終決定していない」と説明し、遅延の理由には答えていない",
+          "HHSは声明で「連邦資金による接種プログラムが対象集団に適したワクチンを購入することを保証する」と述べ、子どもへの接種の是非自体を問題視している可能性を示唆した",
+          "元CDC高官のデメトレ・ダスカラキス氏は、VFCの遅延がユニバーサル購入州における全ての子どものワクチン入手を遅らせると指摘している"
+        ],
+        "importance": "呼吸器感染症シーズンを前に、無保険・低所得層を含む半数以上の子どもがCOVID-19ワクチンにアクセスできなくなる恐れがあり、ケネディ長官のワクチン懐疑的な姿勢が公衆衛生政策に直接影響を及ぼしている実例として注目される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+      "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+      "published": "2026-09-23T21:18:53+00:00",
+      "rss_summary": "The Disney+ ad-free plan is now more expensive than Netflix's.",
+      "summary": {
+        "title_ja": "ディズニー、収益倍増後にDisney+とHuluを最大13%値上げ",
+        "overview": "ディズニーは2026年9月23日、Disney+とHuluの単独プラン、およびESPNを含むバンドルプランの価格を引き上げた。",
+        "background": "Disney+は4年連続の値上げとなり、収益が倍増する中での価格改定となった。",
+        "points": [
+          "広告なし単独プラン（4K・HDR対応）は月19ドルから21.50ドルへ約13%値上げ、広告ありプランは12ドルから12.50ドルに上昇",
+          "Disney+とHuluのバンドル（広告なし）は20ドルから22ドルに、ESPN Selectを含むバンドルは広告ありが20→22ドル、広告なしが29→33ドルに値上げ",
+          "Hulu + Live TVは月額10ドル値上げされ、Disney+とHuluのバンドル（広告あり）は据え置きとなった"
+        ],
+        "importance": "この値上げにより、4KやHDRを求めない場合を除き、Disney+とHuluは現在最も人気のあるストリーミングサービスであるNetflixよりも高額になり、価格競争における各社のポジショニングに影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "published": "2026-09-23T20:52:28+00:00",
+      "rss_summary": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
+      "summary": {
+        "title_ja": "米中AI覇権争いの陰で「AI安全通報」構想に専門家不在の懸念",
+        "overview": "米中首脳会談を前に、財務長官ベッセント氏がAIの安全リスクを相互通報する仕組みを両国が協議していると発表したが、技術専門家が関与しない形骸的な枠組みにとどまるとの指摘が出ている。",
+        "background": "トランプ政権は対中AI関連の輸出規制強化や、中国大手AI企業6社を技術盗用で告発するなど対立姿勢を強めており、そうした緊張の中で今回のAI安全対話が始まった。",
+        "points": [
+          "提案された通報システムは既存の連絡チャネルを活用するもので、リスクの緊急性を判断できる技術専門家が関与していない点が「BS（茶番）」だと関係者に批判されている。",
+          "専門家は、軍事的リスクなど高度な議論には技術者同士の対話が不可欠だと指摘し、現状の枠組みだけでは大きな成果は期待できないと懐疑的な見方を示す。",
+          "野党議員ロー・カンナ氏は、自己改善型AIの禁止や生物・核兵器への悪用防止など、より踏み込んだ国際合意をトランプ氏が求めるべきだと主張している。"
+        ],
+        "importance": "米中はAIの安全性を巡る最大の利害関係国であり、実効性のある協調枠組みが構築できなければ、軍事転用やテロ悪用などのリスク管理が不十分なまま「AI覇権競争」が加速し、世界的な安全保障上の脅威につながる恐れがある。"
+      }
+    }
+  ]
+}
