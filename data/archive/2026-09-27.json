@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-27",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "published": "2026-09-25T18:22:47+00:00",
+      "rss_summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT’s early numbers and is headed for&#160;smart glasses&#160;and [&#8230;]",
+      "summary": {
+        "title_ja": "MetaのMuseがOpenAIとAnthropicからAIの話題を奪う",
+        "overview": "AnthropicのOpus 5.5とOpenAIのGPT-6アップデートが相次いで発表される中、Meta個人向けAIエージェント「Muse」がChatGPT初期を上回るペースで成長し、注目を集めていることをTechCrunchのEquityポッドキャストが報じた。",
+        "background": "AnthropicがOpus 5.5を投入した90分後にOpenAIがGPT-6のアップデートを発表するなど、大手AI企業間のモデル競争が激化する中、Metaは個人向けAIエージェントMuseをスマートグラスやたまごっち風の小型デバイスへ展開しようとしている。",
+        "points": [
+          "MuseはChatGPTの初期成長データを上回るペースで利用が拡大していると報じられている",
+          "Metaはスマートグラスやたまごっち型の専用ハードウェアを通じてMuseを日常生活に浸透させる戦略を進めている",
+          "番組ではa16zの新設「Horowitz Andreessen Academy」やOuraの22億ドルIPO、Emaの7700万ドル調達など関連するスタートアップ動向も取り上げられた"
+        ],
+        "importance": "巨大テック企業同士の最先端モデル競争の裏で、実際に消費者の日常に浸透するAI製品はMetaのような消費者向け戦略から生まれる可能性があり、AI業界の勢力図や投資の流れに影響を与える重要な兆候となる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "published": "2026-09-25T17:29:46+00:00",
+      "rss_summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "summary": {
+        "title_ja": "Supabase利用の一部データベース、個人情報を公開状態で放置",
+        "overview": "セキュリティ企業UpGuardの調査により、開発プラットフォームSupabaseでホストされている約1万6000件のデータベースが、氏名・住所・電話番号・パスワードなどの個人情報をインターネット上に公開状態で晒していたことが判明した。",
+        "background": "Supabaseは開発者がAIを使って手軽にアプリを構築する「バイブコーディング」の流行に伴い今年評価額100億ドルに達したが、以前からユーザーによるデータベースの設定ミスや意図しない公開が問題視されており、数百万件規模の情報流出事例も報告されていた。",
+        "points": [
+          "露出したデータには、インドのアダルト配信サイトの利用者との私的会話、米国の代行駐車サービスの車両ナンバー、移民・移住支援サービス利用者の連絡先などが含まれる",
+          "アフリカのある国の在仏領事館のデータベースや、詐欺・フィッシング用のワンタイムパスコード傍受に使われる仮想SIMファームのデータも発見された",
+          "SupabaseのCISOは、セキュリティは同社と顧客の共同責任であり、プラットフォーム自体は「デフォルトで安全」だと説明している"
+        ],
+        "importance": "AIによるコード生成が普及する中、開発者が基本的なセキュリティ設定を理解しないままアプリを公開するケースが増えており、今後も同様のデータ漏洩リスクが拡大する可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Astra and Opus just passed Turing’s other test",
+      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "published": "2026-09-25T17:24:36+00:00",
+      "rss_summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "summary": {
+        "title_ja": "AIが解読、未解読のエニグマ暗号2件をAstraとOpusが解明",
+        "overview": "OpenAIの新モデル「Astra」とAnthropicの「Claude Opus 5」を使い、暗号解読者らが第二次世界大戦中のエニグマ暗号で長年未解読だった通信文2件を解読することに成功した。",
+        "background": "アラン・チューリングらが開発した「ボム」により大半のエニグマ通信は解読されたが、転記ミスや誤りなどにより一部の通信は未解読のまま残っていた。",
+        "points": [
+          "開発者カーター・レフェン氏がAstraに未解読メッセージの検索と解読を指示したところ、独自にアーカイブ調査を行い文脈の手がかりを見つけ、エニグマ機のシミュレーターまで構築して2005年から未解決だった通信文の平文を復元した。",
+          "エニグマ研究の第一人者フロデ・ワイエルード氏はこの解読結果を検証し「畏敬の念を抱いた」とコメント、人間なら数週間〜数ヶ月かかる作業を2日で成し遂げたと評価した。",
+          "別の研究者ジャック・ウィリス氏もClaude Opus 5を用い、特定の将校の署名という手がかりから別の未解読通信文を解読した。"
+        ],
+        "importance": "残る未解読のエニグマ通信はわずか7件とされ、AIによる高度な歴史的暗号解読が実証されたことで、専門的な調査・分析作業におけるAIの実用性と限界を示す事例として注目される。"
+      }
+    }
+  ]
+}
