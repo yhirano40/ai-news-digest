@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-28",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "published": "2026-09-27T01:30:00+00:00",
+      "rss_summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "summary": {
+        "title_ja": "GoogleがインドでGeminiからFlipkart商品を直接購入できる機能をテスト",
+        "overview": "Googleはインドで、GeminiやAIモードの商品リストに「購入」ボタンを表示し、Flipkartのチェックアウト画面へ直接遷移できる機能を一部ユーザー向けにテストしている。",
+        "background": "Googleは検索やAIサービスを商品発見から実際の取引へ拡大しようとしており、OpenAIなど競合もAIにコマース機能を追加する動きが進んでいる。GoogleはFlipkartに約3.5億ドルを出資しており、資本・技術両面で提携関係にある。",
+        "points": [
+          "対象はスマートフォンや電子機器、モバイルアクセサリーなど一部商品に限定され、Flipkartブランドのチェックアウト画面が表示される仕組み。",
+          "Googleが以前発表した「Universal Commerce Protocol（UCP）」によるGoogleホスト型チェックアウトとは異なる方式とみられ、使用技術は不明。",
+          "同機能は10月中に本格展開される予定で、インドの祝祭シーズンのセール商戦を見据えたタイミングとなる。"
+        ],
+        "importance": "AIチャットボットが単なる商品検索・提案から実際の購入まで担うようになれば、ECの購買体験や広告・コマースの収益構造に大きな影響を与える可能性があり、GoogleとAmazonなど競合との競争激化にもつながる。"
+      }
+    }
+  ]
+}
