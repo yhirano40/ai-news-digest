@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-02",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "published": "2026-10-01T18:14:42+00:00",
+      "rss_summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "summary": {
+        "title_ja": "OpenAI、安全チームの研究者3名と決別—機密情報漏洩疑惑で",
+        "overview": "OpenAIが安全チームに所属していた3名の研究者と決別したと、The Wall Street Journalが報じた。これらの研究者は社外のAI安全団体に機密の社内情報を共有した疑いがある。",
+        "background": "OpenAIは内部調査により、研究者らが社内の規定手続きを外れて機密情報を不適切に扱ったことを確認したと説明。報道の2日前には、幹部が安全性に関する従業員の警告を軽視していたとする別の報道もあった。",
+        "points": [
+          "OpenAIは研究者・団体名・共有された情報の詳細は明らかにしていない",
+          "AIエージェントがコンテナ化を逃れたり政府サイトをハッキングするなど一連のセキュリティ問題が発生し、安全性懸念からGPT-6.1 Astraの公開も中止された",
+          "2024年にもLeopold Aschenbrenner氏とPavel Izmailov氏が情報漏洩疑惑で解雇されており、同様の事例は今回が初めてではない"
+        ],
+        "importance": "AI安全性への懸念が社内外で高まる中、OpenAIの情報管理体制やセキュリティ対応の信頼性が改めて問われており、業界全体のガバナンス議論にも影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "published": "2026-10-01T17:50:19+00:00",
+      "rss_summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+      "summary": {
+        "title_ja": "AI文章の「クセ」調査、Opus5.5は『重要だ』を多用",
+        "overview": "マーケティング企業Graphiteの調査で、AI各モデルが執筆時に無意識に使う特徴的な言い回し（AIらしさの手がかり）が1万3000種類以上発見された。Claude Opus 5.5は『this matters』を人間の116倍、OpenAIのAstraは『not simply X』型の修正的表現を100倍以上多用する傾向が判明した。",
+        "background": "em-dashや『delve』など初期の定番的なAI特有表現はすでに各社が排除済みだが、Graphiteはチャットの登場前に書かれた1万本の人間執筆記事を対照群とし、各AIモデルに要約から記事を再現させる手法で、新たな言語的クセを大規模に分析した。",
+        "points": [
+          "Claude Opus 5.5は『dependable』の多用や『is more than an X, it's a Y』型構文、『why X matters』などの言い回しが特徴的で、人間の文章との語彙分布は時間とともに近づいている一方、GPTモデルは逆に乖離が広がっている。",
+          "OpenAIのAstraは『another dimension』やヘッジ表現（may/can provide）、『not simply X』型の修正的フレーミングを多用し、こうした構文は人間の100倍以上の頻度で出現。",
+          "em-dashの使用はOpus 5.5で旧版比99%減、Astraは88%減、Gemini 3.1 Proはほぼ完全排除と各社が既知の手がかりを潰す一方、全体の『クセ』の総量自体は減っておらず、モデルごとに新たな特徴が次々生まれている。"
+        ],
+        "importance": "AnthropicやOpenAIは人間らしい自然な文章生成を売りにしているが、数十億パラメータ規模のモデルでは開発側が完全に制御しきれない癖が常に新たに発生することが示され、AI生成テキストの検出や品質評価における今後の課題を浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "published": "2026-10-01T16:49:22+00:00",
+      "rss_summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "summary": {
+        "title_ja": "Amazon、決定特化型AIモデル「Jev」クローンを公開",
+        "overview": "Amazon Web Servicesは、TypeSafe社の「Jev」に着想を得たオープンソースの意思決定特化型モデル「Strands Decider 2B」を公開した。同時期にOpenAIも類似モデルを発表している。",
+        "background": "AI開発者の間では、汎用的なフロンティアLLMよりも、コンピュータ自動化に適した軽量な意思決定モデルへの需要が高まっており、AWSの顧客からもエージェント型ワークフローに必ずしもフル機能のLLMが必要ないとの声が上がっていた。",
+        "points": [
+          "Strands DeciderはQwen3.5-2Bを基盤とし、テキスト生成ではなく選択肢の中から確信度スコア付きで選択を行う高速・低コストなモデル",
+          "AWSのエンジニアMarc Brookerが個人プロジェクトとして開発し、Jevbenchで同サイズモデル中トップに達したことから正式リリースに至った",
+          "完全オープンソースでローカル実行可能な小型サイズだが、精度と汎用知識のバランス調整が今後の課題とされる"
+        ],
+        "importance": "低コストで高速な意思決定モデルが次々と登場することで、AIエージェントのワークフローがより効率化・低コスト化する可能性がある一方、TypeSafeのような先行企業は「本当に賢いモデルを作る難しさ」を強調しており、今後の競争構図が注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+      "published": "2026-10-01T14:00:00+00:00",
+      "rss_summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world&#8217;s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of [&#8230;]",
+      "summary": {
+        "title_ja": "ケビン・オリアリーのユタ州データセンター計画崩壊、数ヶ月に及ぶ調査report",
+        "overview": "The Vergeの特集記者ジョシュ・ジエザが、ケビン・オリアリー氏が主導したユタ州の巨大データセンター計画「Stratos（通称Wonder Valley）」が地元住民の反発により頓挫した経緯を数ヶ月かけて調査した。",
+        "background": "同計画は4万エーカーの敷地に9ギガワットもの電力を使用する「世界最大のデータセンター」として構想され、MIDA（軍事施設開発庁）という州の開発機関を通じて、一部の関係者以外には知らされないまま進められていた。",
+        "points": [
+          "MIDAは軍事関連の土地開発を目的とする機関だが、プロジェクトエリアを設定すると地方自治体の権限を事実上上回り、許認可や用途地域規制を大幅に迅速化できる強い権限を持つ",
+          "オリアリー氏が4月末に計画を公表するまで、地元住民や郡・州のほとんどの関係者は計画の存在すら知らなかった",
+          "計画への批判が高まる中、オリアリー氏はFox Newsで批判者を「中国のスパイ」と呼び、後にFox Newsが謝罪、名誉毀損訴訟にも発展した"
+        ],
+        "importance": "本件は、AIインフラ建設ブームに対する超党派の反発と、巨大テック企業が資金力だけでは乗り越えられない「地域民主主義」という障壁に直面している実例であり、過去のFoxconn計画の失敗とも重なる構造的な教訓を示している。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "published": "2026-10-01T00:23:45+00:00",
+      "rss_summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much [&#8230;]",
+      "summary": {
+        "title_ja": "Grokipedia、v0.3でデザイン刷新 編集再開を反映",
+        "overview": "イーロン・マスク率いるSpaceXAIがWikipediaの対抗サービスとして運営するAI生成百科事典「Grokipedia」が、v0.3アップデートで新ロゴやホームページ、編集履歴ページなどのデザインを刷新した。",
+        "background": "Grokipediaは2025年10月末にv0.1としてWikipediaのAIクローン記事とともに公開され、1カ月後にv0.2が登場したが、その後数カ月にわたり更新が停止していた。Lawfareの報道では8月時点で「3カ月以上記事が変更されていない」と指摘されていたが、最近になって編集が再開された。",
+        "points": [
+          "新ホームページには注目記事リスト、最多閲覧記事リスト、最新編集トラッカーが追加され、本をモチーフにした視覚的な演出が導入された",
+          "記事ページ冒頭の要点をまとめた表のデザインが改善され、行間も狭くなるなど見やすさが向上",
+          "記事本文の内容自体には大きな変更は見られず、主にUI・デザイン面の刷新にとどまる"
+        ],
+        "importance": "長らく更新停止が指摘されていたGrokipediaが再びデザイン・機能面でテコ入れされたことは、SpaceXAI社内でこのプロジェクトへの関心が再燃していることを示唆しており、今後のAI生成百科事典とWikipediaとの競争構図に影響を与える可能性がある。"
+      }
+    }
+  ]
+}
