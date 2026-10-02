@@ -90,6 +90,168 @@
         ],
         "importance": "長らく更新停止が指摘されていたGrokipediaが再びデザイン・機能面でテコ入れされたことは、SpaceXAI社内でこのプロジェクトへの関心が再燃していることを示唆しており、今後のAI生成百科事典とWikipediaとの競争構図に影響を与える可能性がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "published": "2026-10-02T21:09:14+00:00",
+      "rss_summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "summary": {
+        "title_ja": "ショーン・パーカー、Stability AIを音楽特化に再構築",
+        "overview": "Napster共同創業者ショーン・パーカーが、経営危機から再建中のStability AIを音楽業界向けAIツール企業として再構築していることが明らかになった。",
+        "background": "Stability AIは過剰支出と内部混乱で創業者エマド・モスタク氏が解任された後、2年前にパーカー氏らが8000万ドルを投じて救済に乗り出していた。",
+        "points": [
+          "ソニー・ワーナー・ユニバーサルなど大手音楽会社から7600万ドルの資金調達を実施し、楽曲カタログのAI学習ライセンスも取得",
+          "テキストプロンプトから完全な楽器トラックや短いフレーズを生成できる新しい音声モデル3種とAI音楽編集ソフトを発表",
+          "今後のアップデートでは、ハミングやビートボックスで旋律・ドラムパターンを指示できる機能を追加予定"
+        ],
+        "importance": "無断学習で訴訟を抱えてきた生成AI業界において、大手レーベルと正式ライセンス契約を結ぶ姿勢は業界標準化の先例となり得る。音楽専門AIツール市場での主導権争いにも影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "published": "2026-10-02T19:15:51+00:00",
+      "rss_summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "summary": {
+        "title_ja": "レイオフ被害者向け、TechCrunch Disrupt 2026の割引パス登場",
+        "overview": "TechCrunchは、レイオフ（解雇）の影響を受けた人向けに、10月13〜15日開催の「TechCrunch Disrupt 2026」Expo+パスを通常より大幅に安い75ドルで提供すると発表した。",
+        "background": "Disruptはサンフランシスコのモスコーンウェストで開催され、創業者、投資家、テック業界関係者ら1万人以上が参加する大規模イベントで、求職中の人々にとって新たな人脈作りや転職機会の場として位置付けられている。",
+        "points": [
+          "対象は先着100名まで、または10月13日午前8時（太平洋時間）の開幕までの早い方で終了する限定オファー",
+          "Expo+パスにはExpo Hall（300社以上のスタートアップ展示）、ブレイクアウトセッション、サイドイベント、AIによるマッチメイキング機能が含まれる",
+          "一方で、産業別ステージやラウンドテーブルセッションへのアクセスは含まれておらず、フル体験には別途上位チケットが必要"
+        ],
+        "importance": "レイオフで職を失った人々にとって、低コストで業界関係者との接点を得られる機会となり、転職活動や新たなキャリア形成を後押しする実践的な支援策として注目される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "published": "2026-10-02T18:11:27+00:00",
+      "rss_summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "summary": {
+        "title_ja": "AppleがmacOSの「フルディスクアクセス」制御を強化、AIエージェントの新たなリスクに対応",
+        "overview": "Appleは、AIエージェントによるリスク増大を理由に、macOSの「フルディスクアクセス」設定に新たな制御を導入すると発表した。",
+        "background": "ジャーナリストがMetaのMacアプリ「Muse」に私的メッセージを読まれたと主張（Metaは否定）した直後の発表で、ChatGPTのMacアプリの脆弱性がハッカーに機密データへのアクセスを許す可能性があったとするWiredの報道も背景にある。",
+        "points": [
+          "フルディスクアクセスは本来バックアップ機能のために設計された設定だが、ファイルやメール、メッセージ、閲覧履歴まで含む全データへのアクセスを許可できる強力な権限である",
+          "一部の開発者がこの権限をユーザーの十分な理解を得ないまま利用しているとAppleは指摘",
+          "今後は、この特別な権限を付与する際に「明示的なユーザー操作」を必須とする新たな制御を導入する方針"
+        ],
+        "importance": "AIエージェントが自律的かつ高機能化するにつれ、デスクトップ上でのデータアクセスに伴うプライバシーリスクも増大するため、ユーザーがリスクを正しく理解した上で権限付与を判断できる仕組みづくりが急務となっている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "published": "2026-10-02T21:08:37+00:00",
+      "rss_summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
+      "summary": {
+        "title_ja": "Meta、Muse AIガジェット自作用コードをオープンソース化",
+        "overview": "Metaは新AIエージェント「Muse」を搭載した自作ガジェットを作れるコードをオープンソースで公開した。ESP32ボードやRaspberry Piを使い、ディスプレイやボタン、センサーなどと連携させることができる。",
+        "background": "MuseはMetaの新しいAIエージェントで、同社はカラーE Inkディスプレイでのリマインダー表示や、HDMIスティックでの大画面表示、小型タッチスクリーンによるDIY版Muse Charmなど、具体的な活用例を提案している。",
+        "points": [
+          "ESP32ボードやRaspberry PiのSDKを使い、Museを自前のディスプレイ、ボタン、センサー、アクチュエーターなどに接続可能",
+          "ただしMetaは「自己責任で進めること」と注意喚起している",
+          "Muse Home Linkという自社製ガジェットも無償提供し、コミュニティ製のスキルで照明操作やTV制御、印刷指示などが可能"
+        ],
+        "importance": "Metaが5000台製造したMuse Home Linkは今月中の出荷を予定しており待機リスト登録が可能。オープンソース化によりMuseのハードウェア展開がコミュニティ主導で広がる可能性があり、AIエージェントのIoT機器への統合を加速させる動きとして注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "published": "2026-10-02T20:08:40+00:00",
+      "rss_summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]",
+      "summary": {
+        "title_ja": "AppleがMacのフルディスクアクセスを制限、AIエージェントのリスク増大受け",
+        "overview": "Appleは金曜日、Macの「フルディスクアクセス」権限に新たな制限を設けると発表し、ユーザーが明確な操作をしない限りアプリに付与できないようにする方針を示した。",
+        "background": "この対応は、Inc.のジェイソン・アテン氏がMetaのAIチャットボット「Muse」が明示的な許可なくメッセージ内容を把握していたと報告した数週間後に行われたもので、Meta広報は権限付与は「完全にオプトイン」だと反論していた。",
+        "points": [
+          "フルディスクアクセスはmacOSのプライバシー保護機構を回避し、ファイルやメール、メッセージ、閲覧履歴まで全システム情報へのアクセスを許可する強力な権限である。",
+          "Appleは一部開発者がこの権限をユーザーの十分な理解なしに利用しており、AIエージェントの自律性向上に伴いリスクが「大幅に」高まると警告している。",
+          "今後は、ユーザーがアプリにこの権限を与える際に「非常に明示的な操作」を必要とする新たな制御が導入される予定だが、具体的な実装時期は明らかにされていない。"
+        ],
+        "importance": "AIエージェントがPC内の個人情報へ深くアクセスする時代において、プラットフォーム側のプライバシー保護強化は今後のAI機能設計やユーザー信頼確保の重要な前例となる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "published": "2026-10-02T18:00:00+00:00",
+      "rss_summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]",
+      "summary": {
+        "title_ja": "OpenAIの新エージェント「Dots」、企業向けだけど夕食も注文できる",
+        "overview": "OpenAIが新しいAIエージェントプラットフォーム「Dots」を発表した。かわいいアバターを持ちながらも、実態は仕事向けソフトウェアに近く、ChatGPT Proなど上位プランユーザーに先行提供されている。",
+        "background": "MetaのMuseや競合のInstinctと同様にブロブ状の擬人化アバターを採用しているが、Dotsはチャット画面と作業画面を分けて仮想マシン上でBlenderやGIMPなどのアプリを操作できる、より「同僚」的な設計になっている。",
+        "points": [
+          "インターネット契約の予約代行や口座情報入力、コワーキングスペースの無料見学予約などの個人タスクでは、セキュリティチェックに引っかかったり誤った選択をするなど精度にばらつきがあった",
+          "Stripeのようなクレジットカード保存・仮想カード決済機能がなく、銀行口座番号の手入力が必要になるなど、個人利用には不便な点が目立った",
+          "一方でユーザー自身のウェブサイト編集やPC上のファイル操作など、アクセス権限を直接与えたタスクでは高いパフォーマンスを発揮し、音声でのやり取りだけで改善案を反映できた"
+        ],
+        "importance": "Dotsは月額100ドルのPro会員向けなど限定公開である点からも、個人消費者向けというより企業・業務効率化を主眼に設計されていることがうかがえ、無料提供のMuseやInstinctとは異なる戦略でAIエージェント市場に参入している点が注目される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "published": "2026-10-02T20:30:27+00:00",
+      "rss_summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+      "summary": {
+        "title_ja": "アマゾンの10億ドル地域還元策、反発抑えられず新たな批判招く",
+        "overview": "アマゾンは今後5年間でデータセンター周辺地域に10億ドル超を寄付すると発表したが、環境団体から「企業プロパガンダ」との批判を浴びている。",
+        "background": "全米でデータセンター建設への反対運動が広がり、多数のプロジェクトが差し止められる中、アマゾンは電気料金や水資源への悪影響はないと主張し、批判の背景には外国の偽情報キャンペーンがあるとまで示唆していた。",
+        "points": [
+          "寄付金は教育、職業訓練、エネルギー負担軽減、水資源保全などに地域主導で充てられる予定で、2030年までに「水使用量プラス」を達成し、既に75％のプロジェクトが目標を満たしていると主張",
+          "AWSのCEOマット・ガーマン氏はデータセンター建設の一時停止要求を「米国のAI開発を中国に遅れさせる罠」と表現し、Trump前大統領の主張と同様の論調を展開",
+          "環境NPO Stand.Earthは、アマゾンが支援する発電所が米国最大級の気候汚染源になる見込みであるにもかかわらず、発表にはその言及がほとんどないと指摘"
+        ],
+        "importance": "巨額の寄付による印象操作的な対応は、データセンター拡大に伴う環境・社会的コストに関する根本的な懸念を払拭できておらず、今後もAI開発企業と地域社会・環境団体との対立が激化する可能性が高い。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+      "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+      "published": "2026-10-02T20:07:59+00:00",
+      "rss_summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
+      "summary": {
+        "title_ja": "模擬患者訓練で医療機関の4割が対応失敗、パンデミック備え不足露呈",
+        "overview": "ニューヨーク州の保健当局が、H5鳥インフルエンザ感染を装った模擬患者を使い地域の医療機関の対応力を試験したところ、合格基準を満たしたのは全体の60％にとどまり、全体として「不合格」という結果になった。",
+        "background": "新型コロナウイルス流行で国家・世界レベルのパンデミック対策の弱点が浮き彫りになったが、今回の調査は発生初期の局所的な対応段階でも依然として備えが不十分であることを示している。",
+        "points": [
+          "訓練では、専門の模擬患者役がメイクや目薬、ワセリンなどを使って結膜炎や発熱、咳などH5鳥インフルエンザの症状を演じ、病気の鳥に素手で触れたという作り話を自発的に語った。",
+          "合格基準は患者にマスクを着用させ隔離室に移すことで、理想的には来院から1分以内のマスク着用、10分以内の隔離が求められたが、今回の訓練ではタイミングを問わず両方の実施があれば合格とされた。",
+          "それでも対応は全般的に遅く、個人防護具（PPE）の適切な使用にもばらつきがあり、基本的な対応基準をクリアできた施設は6割にとどまった。"
+        ],
+        "importance": "保健当局は、発熱を伴う感染の疑いがある患者を早期に特定・マスク着用・隔離する訓練の必要性を強調しており、今回の結果は鳥インフルエンザなどパンデミック化リスクのある病原体への医療現場の初動対応力に深刻な課題があることを示している。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "published": "2026-10-02T18:39:36+00:00",
+      "rss_summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+      "summary": {
+        "title_ja": "AIチップ密輸疑惑でテック企業CEOを米国が逮捕、総額3億ドル規模",
+        "overview": "米司法省は、Earthmade ComputerのCEOグレッグ・ルイ容疑者（38）を、輸出規制対象のNvidia製AIチップを含む3億ドル超相当のサーバーを偽造書類で中国へ密輸したとして逮捕したと発表した。",
+        "background": "同容疑者は2023年10月から2026年8月まで、マレーシアやシンガポールの貨物輸送業者と共謀し、A100・H100 GPUを搭載したサーバーの出荷先を偽装して中国へ転送していたとされ、2024年だけでも同容疑者の企業はこの仕組みから1億7600万ドル以上を得ていたとされる。",
+        "points": [
+          "偽名「Jackie Lui」を使った架空バイヤーの書類作成や、購入した他人の身分証明書を悪用するなど、巧妙な偽装工作が明らかになった",
+          "シンガポール経由でマレーシア、香港を通じて中国・杭州のAIハブ企業にチップが最終的に流れたケースも摘発された",
+          "Nvidiaは密輸されたチップの割合は「全製品の0.5%未満」と主張する一方、専門家は実態把握が困難で報道より規模が大きい可能性を指摘している"
+        ],
+        "importance": "この事件は、米国の輸出規制の実効性やNvidiaの審査体制の「盲点」に対する疑念を深めるものであり、中国のAI・軍事能力強化を防ぐための米政府の規制強化圧力が今後さらに高まる可能性がある。"
+      }
     }
   ]
 }
