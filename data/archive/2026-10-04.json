@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-04",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "published": "2026-10-03T00:45:39+00:00",
+      "rss_summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "summary": {
+        "title_ja": "Meta、AI「Muse」と連携する自作ガジェット開発を解禁",
+        "overview": "MetaはAIエージェント「Muse」向けのオープンソースプロジェクト「Muse Gadgets」を発表し、開発者が独自ハードウェアをMuseに接続できるようにした。",
+        "background": "Museは旅行予約やフォーム入力、代理購入などを行う個人向けAIエージェントとして既に人気を集めており、Metaはこれを単なるチャットボットから拡張し、より幅広い用途へ展開しようとしている。",
+        "points": [
+          "オープンソースのファームウェアとLinux向けSDKを提供し、カラーe-inkディスプレイやHDMIスティックへの組み込みなど具体的なプロジェクト例も公開",
+          "Raspberry PiやESP32などの安価なボードを使い、ディスプレイ・ボタン・センサー・アクチュエータ類と自由に連携可能で、Discordでサポート体制も整備",
+          "Metaは自社製の試作品「Muse Home Link」（USB-C給電でスマート家電と連携）を5000台製作し、Museサブスクリプション加入者に無料配布中"
+        ],
+        "importance": "ハードウェア開発者コミュニティを取り込むことでMuseのエコシステムを広げ、個人向けだけでなく中小企業・法人向け展開（Muse for Small BusinessやMeta Enterprise Platform）とも連動させ、Metaの包括的なAI戦略を加速させる狙いがある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "published": "2026-10-02T17:00:00+00:00",
+      "rss_summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
+      "summary": {
+        "title_ja": "Circuit Breaker Labs、子供含むAIの安全性向上目指す",
+        "overview": "AIセーフティ企業Circuit Breaker Labsが、言語や文化を超えてAIチャットボットをより安全にすることを目指し、TechCrunch Disruptのスタートアップバトルフィールド2026ファイナリストに選出された。",
+        "background": "Character.AIのチャットボットと感情的に依存した14歳の少年Sewell Setzerの自殺事件や、OpenAIのChatGPTが絡んだ複数の訴訟を受け、創業者のShirali・Arul Nigam兄妹がAIの心理的リスクに対処する必要性を痛感し起業した。",
+        "points": [
+          "年齢・言語・文化・スラングの異なる人々を模倣するAIエージェント「クラッシュテストダミー」を作成し、モデルが危険な心理的やり取りを検知できるかをテストする",
+          "人間の専門家と協力し、スラングや誤字、符号化された言葉など本物らしいユーザーシミュレーションを構築、1日数万〜数十万回のレッドチームテストを実施",
+          "独自のスコアリング手法で監査可能・説明可能な評価を行い、AIコーチングやジャーナリング、メンタルヘルス支援アプリなど高リスク用途の安全性テストラボとして展開している"
+        ],
+        "importance": "AIとの不健全な依存関係（AI精神病）による実害が既に複数の訴訟や死亡事例として表面化する中、文化・言語を超えた安全性検証の仕組みは、AIへの信頼構築と規制・利用拡大の両面で重要な役割を果たす可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "published": "2026-10-02T15:39:41+00:00",
+      "rss_summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+      "summary": {
+        "title_ja": "レオ14世教皇、AI生成アートに否定的見解を表明",
+        "overview": "教皇レオ14世は10月2日、X（旧Twitter）への投稿で人間が生み出す芸術とAIが生成するものとの間に「存在論的な違い」があると述べ、人間の芸術をAIの侵食から守るよう訴えた。",
+        "background": "教皇は5月にも回勅の中でAIと自動化が進む世界における人間の尊厳の重要性を強調しており、今回の発言はその延長線上にある。",
+        "points": [
+          "教皇は『アルゴリズムには人間性の輝きが欠けている』とし、AIは他者が作った膨大な画像データに基づく統計的計算に過ぎないと指摘",
+          "美的な違い以前に、人間の創造物とAI生成物の間には本質的（存在論的）な違いがあると強調",
+          "米ニューヨーク・タイムズの報道によれば、AnthropicはAIの非人間的意識に関するバチカンの見解を見直すよう働きかけているが、成果は上がっていない模様"
+        ],
+        "importance": "宗教的権威による発言は、AI生成コンテンツの倫理性や創造性を巡る世界的な議論に新たな視点を加えるものであり、AI企業と宗教界との関係性にも影響を与える可能性がある。"
+      }
+    }
+  ]
+}
