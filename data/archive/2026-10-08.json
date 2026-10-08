@@ -162,6 +162,168 @@
         ],
         "importance": "巨匠監督と大物スターを起用した大作映画が興行的に大敗しながらも芸術的評価で賛否が分かれるケースは、スタジオの大型投資とクリエイターの作家性のせめぎ合いを象徴しており、今後のハリウッドの大作企画の方向性にも影響を与える可能性がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "published": "2026-10-08T21:00:00+00:00",
+      "rss_summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "summary": {
+        "title_ja": "エリザベス・ホームズのデスクを疑似体験できる奇妙なサイトが登場",
+        "overview": "Extend社のエンジニアBo Lau氏が、米国対エリザベス・ホームズ裁判で公開された1000点以上のメールやスライド、文書を基に、セラノス社CEO時代のホームズのデスク環境を再現したウェブサイトを制作した。",
+        "background": "裁判の証拠開示により大量の内部文書が公開されており、それらは本来PDF形式で裁判所サイトから個別に探す必要があったが、より手軽に閲覧できる手段として作られた。",
+        "points": [
+          "2016年当時のホームボタン付きiPhoneやOS X El Capitan搭載のMacBook Airを忠実に再現し、画面上で実際の文書を閲覧できる",
+          "セラノスの血液検査装置「Edison」を模擬的に操作することも可能",
+          "同サイトはNathan Fielder監督のホームズ関連ドキュメンタリー『You Can See Everything』の視聴会宣伝や、開発元Extend社自体のPRも兼ねている"
+        ],
+        "importance": "テック史上最も悪名高い企業不正事件の証拠を直感的に体験できる形で公開したことで、歴史的資料へのアクセスを容易にすると同時に、企業の文書処理技術のデモンストレーションとしても注目される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "published": "2026-10-08T20:04:26+00:00",
+      "rss_summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "summary": {
+        "title_ja": "OpenAI解雇の安全研究者3名、不正行為否定し萎縮効果に警鐘",
+        "overview": "OpenAIが先週解雇した安全研究者3名（Jasmine Wang、Tomek Korbak、Mikita Balesni）が公開書簡を発表し、機密情報の不適切な取り扱いという会社側の主張を否定するとともに、解雇が社内に萎縮効果をもたらすと警告した。",
+        "background": "3人は外部のAI安全団体と機密情報を共有したとしてOpenAIから解雇されたが、OpenAI側は「研究情報の取り扱いに関する方針への明確な違反」と「不正行為のパターン」があったと説明している一方、具体的にどの方針に違反したかは明らかにしていない。",
+        "points": [
+          "研究者らは、外部専門家との協力や懸念表明の自由は安全確保に不可欠なメカニズムだと主張し、解雇が社内の自由な議論文化を萎縮させていると訴えた。",
+          "Wangは、解雇理由とされた役員メールへのアクセスについて、採用業務のため会社がアクセス権を付与したもので、不要になった後もIT部門が削除要請に対応しなかったためと説明し、隠蔽の意図はなかったと反論した。",
+          "書簡では、Hugging Faceでのエージェント逸脱事件への対応や、思考連鎖（chain-of-thought）のモニタリング困難化問題への取り組みが、取締役会や幹部の支援を受けた正当な業務だったと主張している。"
+        ],
+        "importance": "AI安全性研究において外部専門家との連携や内部告発的な懸念表明は重要な仕組みとされており、今回の解雇劇はOpenAI内外で安全研究者が声を上げにくくなる萎縮効果を生みかねず、AI開発の透明性と第三者による監視体制の信頼性に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "published": "2026-10-08T18:20:32+00:00",
+      "rss_summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "summary": {
+        "title_ja": "ベン・アフレック、AIオタクぶりでネット騒然",
+        "overview": "俳優ベン・アフレックが最近のインタビューで、ニューラルネットワークやトランスフォーマーなどAI技術に関する深い知識を披露し、ネット上で話題となっている。",
+        "background": "アフレックは今年、自身のAI映像制作スタートアップをNetflixに約5億8700万ドルで売却したとされており、以前からコンピューターや映像技術への関心を持っていた。",
+        "points": [
+          "GQのインタビューで、畳み込みニューラルネットワークやテンソル、エッジ検出など専門用語を使いながら、AIによる視覚効果ワークフローを解説した",
+          "倫理的なAI活用のため独自データセットを約8カ月かけて撮影・構築し、オープンモデルの重みを解凍して映画向けにファインチューニングする手法を自身の映画「Animals」の後処理に応用した",
+          "AIの脅威について『スカイネット』的な懸念よりも、学生の学習意欲低下や成績インフレなど教育面でのリスクを重視する発言をした"
+        ],
+        "importance": "著名な映画スターが専門的なAI知識を実演したことで、エンターテインメント業界におけるAI技術の実用的な活用法や倫理的な課題への関心が改めて高まっている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "published": "2026-10-08T21:53:51+00:00",
+      "rss_summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's [&#8230;]",
+      "summary": {
+        "title_ja": "Anthropic、OSSプロジェクト向け無料AIセキュリティスキャンを開始",
+        "overview": "Anthropicはオープンソースプロジェクト向けに、脆弱性を検出する無料サービス「OSS Scanner」を発表した。オプトインしたプロジェクトは最強のAIモデルによる定期的なセキュリティスキャンを無料で受けられる。",
+        "background": "近年AIツールは「Copy Fail」バグなど主要なOSSの脆弱性発見に貢献してきたが、一方でAI生成のバグ報告が急増し、LinusTorvaldsやGoogleなど一部のプロジェクトは対応に苦慮している。",
+        "points": [
+          "スキャン結果はClaude Mythosを含むAnthropicの最強モデルによって生成され、人間によるレビューや選別は行われない",
+          "人手を介さないことで、より高速かつ高頻度なスキャンが可能になる一方、誤検知や無効な報告が発生するリスクもある",
+          "サービスはオプトイン方式で、参加するOSSプロジェクトのみが対象となる"
+        ],
+        "importance": "AIによる脆弱性検出は防御力向上に寄与する可能性がある一方、人間の検証を経ないレポートの急増がOSSメンテナーの負担増につながる恐れもあり、AIとセキュリティ運用の両立が今後の課題となる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "published": "2026-10-08T20:06:56+00:00",
+      "rss_summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that [&#8230;]",
+      "summary": {
+        "title_ja": "カリフォルニア州、人間対ロボットの格闘興行に中止命令",
+        "overview": "カリフォルニア州アスレチック委員会は、人間とロボットが戦う試合を主催したスタートアップ「Rek」に対し、中止命令（cease-and-desist）の通知書を送付した。",
+        "background": "9月18日、Rek社が所有する人型ロボット（VRシステムで人間が遠隔操作）と人間選手フランキー・ラペナが対戦する試合が開催され、これが州当局の注意を引いた。",
+        "points": [
+          "Rekは自社を「ヒューマノイド・ロボット・ファイティングリーグ」と称し、ロボットはEngineAI製の機体にターミネーター風の頭部を取り付けたもの",
+          "州当局の通知書は、委員会の承認なしに「人間が関わる」ボクシングや総合格闘技の試合を主催・宣伝することを禁じる内容",
+          "RekのCEO Cix Livは通知書をXに投稿し、むしろ注目を集めたことを喜ぶような反応を見せた"
+        ],
+        "importance": "ロボットと人間の格闘興行という新しい分野は法規制の空白地帯にあり、今回の措置は今後のルール整備や興行形態の方向性に影響を与える可能性がある。次回大会では武器を持つロボット同士の対戦が予定されており、規制対象外として続行される見込み。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "published": "2026-10-08T17:58:33+00:00",
+      "rss_summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of [&#8230;]",
+      "summary": {
+        "title_ja": "USA Today、OpenAIを著作権侵害で提訴　2.5億ドル超の賠償請求",
+        "overview": "USA Today Co.とその傘下の地方紙が、OpenAIがAIモデル訓練のために「数十万本」の記事を無断使用したとして提訴し、2億5000万ドル超の損害賠償を求めている。",
+        "background": "ニューヨーク・タイムズをはじめ、CBC/ラジオ・カナダ、ブリタニカ百科事典、メリアム・ウェブスター、シアトル・タイムズ、約400紙の地方新聞連合など、OpenAIに対する著作権訴訟がこれまでにも相次いで提起されている。",
+        "points": [
+          "訴状では、OpenAIが許可を得ずにUSA Today傘下メディアのコンテンツを「奪い取り」、数千億ドル規模の商品開発に利用したと主張",
+          "訴訟にはテネシアン、インディ・スター、コロンバス・ディスパッチ、オクラホマンなど複数の地方紙も含まれている",
+          "OpenAIの事業の商業的成功は「大規模な著作権侵害」の上に成り立っていると訴状は指摘"
+        ],
+        "importance": "主要メディアによるOpenAIへの著作権訴訟が相次ぐ中、今回の訴訟はAI企業による報道コンテンツの利用慣行や、今後のライセンス契約・賠償の在り方に大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+      "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+      "published": "2026-10-08T14:04:42+00:00",
+      "rss_summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
+      "summary": {
+        "title_ja": "エクソンの内部文書、気候変動を巡る欺瞞を新たに裏付け",
+        "overview": "マサチューセッツ州がエクソンモービルを提訴した訴訟を巡り、同社の気候変動対応に関する新たな内部文書が公開され、科学者たちが社内で「気候解決策」としての取り組みに懐疑的だったことが明らかになった。",
+        "background": "1988年、NASAの科学者ジェームズ・ハンセンが議会で温暖化について証言し、国連がIPCCを設立した直後、エクソンの研究部門幹部は内部メモで温室効果ガス対策への世界的合意が「エクソンに重大な悪影響を及ぼす」と警告していた。この文書は2023年のWSJ記事で一部引用されていたが、全文公開は今回が初めて。",
+        "points": [
+          "エクソンの科学者は2018年のプレスリリースで謳われた藻類バイオ燃料の生産目標（2025年までに日量1万バレル）について「完全に実現不可能」「全ての条項が明白に虚偽」と証言していた。",
+          "2014年の社内プレゼン資料では、CO2回収・貯留（CCS）技術の商業化には「巨額投資」と現在の石油・ガス生産量に匹敵する貯留量が必要と指摘し、コスト高と市場インセンティブの欠如を認識していた。",
+          "これらの文書はマサチューセッツ州がエクソンによる文書・証言の追加開示を求める訴訟手続きの一環で提出されたもので、Inside Climate Newsなど過去の報道と内容が一致する。"
+        ],
+        "importance": "米最高裁は現在、ボルダー市などが起こした同様の訴訟を巡り審理中で、今回の文書は石油業界が情報開示（ディスカバリー）段階への移行を強く阻もうとする理由を裏付けるとされ、他の約20件の訴訟の行方にも影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "published": "2026-10-08T11:15:33+00:00",
+      "rss_summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "summary": {
+        "title_ja": "Nvidia、ロボタクシーや人型ロボット向け安全技術に巨額投資",
+        "overview": "Nvidiaは自動運転車や人型ロボットなどの「フィジカルAI」向けに、安全性を確保するためのフルスタックシステム「Halos」を展開している。2025年に自動運転車向けで開始し、2026年6月にはロボット向け「Halos for Robotics」を発表した。",
+        "background": "AIモデルやロボットハードウェアの性能向上に伴い、安全性確保が次のボトルネックになるとNvidiaは判断。同社ロボティクス部門責任者のAmit Goel氏は、人や周囲に危害を加えるリスクを減らすガードレール技術の必要性を強調している。",
+        "points": [
+          "安全システムはNvidia IGX Thorなど専用ハードウェアに加え、機能系と安全系を同一シリコン上で稼働させる設計を採用",
+          "NvidiaはAgility Roboticsやフィギュア AIなど人型ロボット企業に出資し、中国のUnitreeとも人型ロボットのリファレンス設計で提携",
+          "CEOのJensen Huang氏は2026年3月、フィジカルAI事業が既に年間約100億ドルの売上をもたらしていると明かし、同社の次の成長分野と位置付けている"
+        ],
+        "importance": "データセンターAI依存からの事業多角化を図るNvidiaにとって、安全性を担保したフィジカルAIは自動運転や産業用ロボット、手術ロボットなど実世界への応用を広げる鍵となり、今後の収益成長を左右する可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "published": "2026-10-08T00:00:24+00:00",
+      "rss_summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "summary": {
+        "title_ja": "マイクロソフト新発表、AI対応ハードとWindows新機能を披露",
+        "overview": "マイクロソフトは2年ぶりとなるライブイベントで、新型Surfaceノート「Surface Laptop Ultra」とWindows 11の機能更新、開発者向けAIマシン「Surface RTX Spark Dev Box」を発表した。",
+        "background": "2026年5月に予告されていたSurface Laptop Ultraが正式発表され、ローカルAIやエージェント型ワークフローがパソコン利用をどう変えるかというビジョンを、開発者やホーム愛好家に向けて示した。",
+        "points": [
+          "Surface Laptop UltraはNvidiaの新SoC「RTX Spark」を初搭載し、価格は2,599ドルから。5120コアまたは6144コアのBlackwell GPUと最大128GBのLPDDR5x統合メモリを備え、10月16日出荷開始。",
+          "統合メモリによりVRAMの制約なくAI開発とゲーミングを両立可能で、デモでは『Gears of War: E-Day』の動作も披露された。",
+          "開発者向けにはNvidiaのJensen Huang氏やマイクロソフトのSatya Nadella氏も登壇し、価格5,999ドルの「Surface RTX Spark Dev Box」を発表。128GB統合メモリと専用Windows 11搭載で、AI演算性能1ペタフロップスをうたう。"
+        ],
+        "importance": "GPU専用メモリの制約を超えた統合メモリ設計により、ローカルAI開発とハイエンドゲーミングの両立が可能になる点は、今後のPCハードウェアとOS設計の方向性を示すものであり、AI時代のコンピューティング環境構築競争における重要な一歩となる。"
+      }
     }
   ]
 }
