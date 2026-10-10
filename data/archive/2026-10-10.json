@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-10",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "published": "2026-10-09T16:53:02+00:00",
+      "rss_summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
+      "summary": {
+        "title_ja": "Amazon、データセンター契約のNDA廃止へ　AIエージェントは個人情報に接近",
+        "overview": "Amazonは地方自治体とのデータセンター交渉でNDA（秘密保持契約）の使用を停止すると発表した。一方で、ユーザーの受信箱や書類、クレジットカード情報へのアクセスを求めるAIエージェント系スタートアップが相次いで登場している。",
+        "background": "データセンター建設を巡る秘密主義は地域住民の反発を招き、ニューヨークからサンフランシスコまで数百件のモラトリアム案が提起・可決される事態を招いてきた。こうした中、Microsoftが先行してNDA廃止を表明しており、Amazonもこれに追随した形となる。",
+        "points": [
+          "AmazonのNDA廃止は、データセンール誘致交渉の透明性向上を狙ったもので、Microsoftに続く業界の動きとなる。",
+          "Tab、Underdog、Harkなどのスタートアップは「プライバシー」を売りに、AIエージェントへの信頼構築をビジネスの核に据えている。",
+          "一方でUnited、Apple、Amazonなど大手企業は外部AIエージェントの侵入を防ぐ壁を築いており、エージェント経済圏を巡る主導権争いが浮き彫りになっている。"
+        ],
+        "importance": "データセンターの透明性向上は地域社会との信頼回復につながる一方、AIエージェントが個人情報や決済手段へアクセスする流れは、今後のプライバシーやセキュリティ、そしてAIエージェントを巡るプラットフォーム間の覇権争いに大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "published": "2026-10-09T16:45:00+00:00",
+      "rss_summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "summary": {
+        "title_ja": "リサイクル分別を変える、Danu Roboticsのロボット開発の挑戦",
+        "overview": "英エディンバラ発のスタートアップDanu Roboticsが、AIを活用してリサイクル資源を自動分別するロボット「H.E.R.O.」を開発し、商用展開を進めている。すでに500万ドルのレイトシード資金調達を完了した。",
+        "background": "創業者Amy Ma氏はロンドンの銀行でソフトウェア開発者として働いていた際、分別したはずのリサイクルゴミが結局まとめて廃棄されている現実に衝撃を受け、人手に頼るリサイクル分別の非効率さを改善しようと6年前に同社を設立した。",
+        "points": [
+          "H.E.R.O.は吸引方式が主流の競合（Glacier、RecycleEyeなど）と異なり、ピンセット型のクローで対象物をつかむ方式を採用している。",
+          "AIによってロボットのソフトウェアを継続的に改善するビジネスモデルが特徴で、欧州・北米で200億ドル規模とされる選別市場への進出を狙う。",
+          "初期投資16万ドル・年間維持費2.4万ドルに対し、導入施設は追加収益48.5万ドルを見込めると試算しており、コスト優位性を訴求している。"
+        ],
+        "importance": "すでに大口顧客2社からの関心表明と50万ドル分の契約、200社超の商談パイプラインを抱えており、今後ロボットを小型・堅牢化できればイベント会場や商業施設、病院、空港などでの廃棄物発生源での分別にも応用が広がり、包装廃棄物管理のあり方を変える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "published": "2026-10-09T16:40:14+00:00",
+      "rss_summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "summary": {
+        "title_ja": "人はAIを人間扱いしてしまう、その是非を問う",
+        "overview": "MIT教授シェリー・タークル氏の新著『Artificial Intimacy』の出版記念イベントや、人型ロボットとの交流体験を通じて、人がAIやロボットを無意識に人間のように扱ってしまう心理傾向とそのリスクが論じられている。",
+        "background": "タークル氏は1976年からMITで人間とコンピュータの関係を研究しており、調査では約70%の人がAIとのやり取りで礼儀正しく振る舞うなど、人は関係的な存在に対して愛着を抱くよう本能的にできていることが示されている。",
+        "points": [
+          "MITメディアラボのパタラヌタポーン博士は、AIとの対話が人間に有益な体験をもたらす一方、現実との境界を見失わせる危険性も指摘。",
+          "Character.AIを巡る14歳少年の自殺訴訟に専門家として関与した経験から、AI企業の倫理的責任の欠如を問題視。",
+          "タークル氏は『chatbotは自分の役割（レーン）にとどまるべき』とし、就職面接練習など限定的な用途は有益だが、親代わりになるような越境は危険だと強調。"
+        ],
+        "importance": "LLMが検索や接客など生活のあらゆる場面に浸透する中、AIを人間視する傾向は利便性をもたらす一方で、人間関係より機械への信頼を優先する心理的リスクを高めており、AI開発者と利用者双方に倫理的な線引きの議論が求められている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "published": "2026-10-09T14:25:43+00:00",
+      "rss_summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
+      "summary": {
+        "title_ja": "トランプ氏、AIを「スーパーインテリジェンス」に改名させようと躍起",
+        "overview": "トランプ大統領は「artificial」という言葉が「intelligence」を偽物に見せると主張し、AIを「super intelligence」と呼ぶよう求める大統領令を発令。政府機関の名称や文書から「AI」の語を排除し始めている。",
+        "background": "AI業界の開発速度を巡る議論を機に、トランプ氏は安全性への懸念を軽視し開発加速を主張してきた。自主規制を否定する一方で、言葉自体を変えることでAIへの印象を操作しようとしている。",
+        "points": [
+          "AI安全研究所の後継組織CAISIは「Center for Advancing Innovation and Standards for Super Intelligence（CAISSI）」に改名され、司法省の発表文にも新語が使われ始めた。",
+          "マスク氏やベゾス氏、ジェンセン・ファン氏ら業界大物が追随する姿勢を見せる一方、本来「superintelligence」は人間を超える高度AIを指す別概念であり、業界用語との混同を招いている。",
+          "議会には改名を強制できず、既存法令（Take It Down Act等）には「artificial intelligence」の語が残るため、行政と立法・司法の間で用語の不一致が生じる可能性がある。"
+        ],
+        "importance": "AIへの世論の不信が高まる中、呼称変更だけでデータセンター問題や規制への懸念を払拭するのは難しく、強引な言葉狩りはトランプ氏と業界双方の立場をかえって弱めかねない。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "published": "2026-10-09T14:00:00+00:00",
+      "rss_summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to [&#8230;]",
+      "summary": {
+        "title_ja": "話題独占のAIエージェント「Instinct」、Muse台頭でも健闘",
+        "overview": "招待制で宣伝もほぼ行わずに登場したAIエージェント「Instinct」が、OpenAIの「Dots」やMetaの「Muse」という大企業の競合製品が相次いで登場した後も、実際の使用テストでは互角以上の性能を発揮している。",
+        "background": "Instinctは2024年8月にSierra出身のNoah Shinn氏が設立したスタートアップが提供するサービスで、DMV予約やメール送信などの日常的な雑務をこなすテキストベースの個人アシスタントとして評判を呼び、Muse登場後の9月末時点でも企業評価額100億ドルを維持している。",
+        "points": [
+          "InstinctはアプリやマスコットキャラクターではなくiMessage・WhatsApp・メール経由のテキストチャットのみで操作でき、CarPlayや腕時計からも利用可能な点が特徴",
+          "GoogleワークスペースやSlack、Notionなどと連携でき、ウェブサイトへのログインには「セキュアボルト」経由で認証情報を入力する仕組み",
+          "水泳教室の予約や眼科予約、IKEAの返品手続きなど曖昧な指示にも対応できるが、ウェブ上の前提条件やポップアップ情報の見落としなど実務上の限界も残る"
+        ],
+        "importance": "OpenAIやMetaという巨大テック企業が個人向けAIエージェント市場に本格参入する中、特化型スタートアップが実用性で競争力を維持できるかは、今後のAIアシスタント市場の勢力図を占う試金石となる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "published": "2026-10-09T09:48:26+00:00",
+      "rss_summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita &#8288;Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was [&#8230;]",
+      "summary": {
+        "title_ja": "OpenAI、安全性研究者3名解雇の決定を改めて正当化",
+        "overview": "OpenAIは、機密情報の扱いに関する方針違反を理由に解雇したJasmine Wang氏、Tomek Korbak氏、Mikita Balesni氏の3名について、解雇が安全性への懸念表明のためではないと改めて主張した。",
+        "background": "3名は前日に公開書簡を発表し、自分たちはOpenAIの使命に沿って行動し、安全性への懸念を表明したために解雇されたと主張していた。これに対しOpenAIはX上で直接反論した。",
+        "points": [
+          "OpenAIは3名が『機密情報の取り扱いに関する明確な方針』に違反したと説明",
+          "社内調査で公開書簡に書かれていない範囲の違反も発覚したとしたが、詳細は非公表",
+          "今年発生したHugging Faceへのハッキングなど一連の重大な漏洩事件を受け、AI企業内で安全性への懸念が高まっている"
+        ],
+        "importance": "フロンティアAIシステムの安全性を巡り、企業の情報管理方針と従業員の内部告発的な発言との緊張が表面化しており、AI開発の透明性やガバナンスの在り方に対する議論を加速させる可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Neanderthal wooden tools from Spain found preserved in stone",
+      "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "published": "2026-10-09T22:34:03+00:00",
+      "rss_summary": "Dissolved rock precipitated around the tools, which then decayed.",
+      "summary": {
+        "title_ja": "ネアンデルタール人の木製道具、石灰岩に姿を残し発見",
+        "overview": "スペイン・バルセロナ近郊の岩陰遺跡アブリック・ロマニで、ミネラル豊富な水が木製道具を石灰岩状の殻で覆い、その形状を鋳型として保存していたことが判明した。研究チームはこの地から約6万2000年〜4万年前のネアンデルタール人の木製遺物597点を分類した。",
+        "background": "旧石器時代の名は残存しやすい石器に由来するが、当時最も多用された素材は加工しやすい木材だったとみられる。しかし木は腐りやすく、過去の木工技術についてはほとんど分かっていなかった。",
+        "points": [
+          "発見された遺物には槍、掘り棒、樹皮製トレイ、シェルターの部材、類例のない棍棒などが含まれる。",
+          "これまでの木製遺物（ドイツ・シェーニンゲンの槍など）は主に狩猟具で水浸堆積物から出土していたが、今回は生活拠点から長期間にわたり出土した点が異なる。",
+          "約2万年にわたる各層から木製品が継続的に見つかることから、木工がネアンデルタール人にとって日常的な活動だったことが示された。"
+        ],
+        "importance": "狩猟以外の生活全般にわたる木工技術の存在は、ネアンデルタール人が従来考えられていたより高度で多様な生活技術を持っていたことを示唆し、現生人類との比較研究に新たな視点をもたらす。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "published": "2026-10-09T22:04:07+00:00",
+      "rss_summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "summary": {
+        "title_ja": "ウクライナのドローン攻撃、『ロシアのGoogle』ヤンデックスのAIデータセンターを破壊",
+        "overview": "ウクライナのドローン攻撃により、ロシアの大手IT企業ヤンデックスが保有する5つのデータセンターのうち2つが機能停止に陥り、AIチャットボットなど同社のオンラインサービスの維持に支障が出ている。",
+        "background": "この攻撃は、9月下旬からウクライナのデータセンターを標的にロシアが続けてきたドローン攻撃キャンペーンへの「対称的な対応」として、10月8日と9日にロシアのサソヴォ州とカルーガ州にあるヤンデックスの施設に対して実施された。",
+        "points": [
+          "ウクライナ企業Firepointの自爆型攻撃ドローン「FP-1」が、ヤンデックス最大の施設であるカルーガのデータセンター攻撃に使用された。",
+          "最初に狙われたサソヴォのデータセンターには、同社のAIモデル『YandexGPT』の学習に使われるスーパーコンピューター3台のうち2台が設置されていた。",
+          "ヤンデックスは負傷者はいないとしつつ、一部サービスへの影響を認めており、動画配信Ivi、デジタル銀行T-Bank、国営ロシア鉄道のアプリなどでアクセス障害が報告された。"
+        ],
+        "importance": "AI開発を支えるデータセンターが戦争における直接的な攻撃対象となったことで、軍事衝突がハイテク・AIインフラにも及ぶ新たな局面を示しており、今後のサイバー・物理両面での攻防の激化が懸念される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "published": "2026-10-09T21:51:12+00:00",
+      "rss_summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+      "summary": {
+        "title_ja": "旧型Mac Mini30台で蘇るCray-1、スペインの博物館が再現",
+        "overview": "スペインのMuseo de Historia de la Computaciónが、1976年の伝説的スーパーコンピューター「Cray-1」の実物大レプリカを発表した。2012年製の「時代遅れ」なMac Mini30台をクラスター化して動作させている。",
+        "background": "このプロジェクトはCray-1誕生50周年とAppleの創業を記念し、18か月をかけて開発されたもので、最先端の高価な機材ではなく手頃な中古Macを活用して構築された。",
+        "points": [
+          "64個の有効コアを束ねて最大1.3テラフロップス（全70コア稼働時は過去に1.5テラフロップスを記録）を達成し、独自のPython行列演算ベンチマークで性能を計測した",
+          "オリジナルのCray-1がベクトル処理方式（約160メガフロップス）だったのに対し、レプリカは独立プロセッサによる並列クラスター方式で、コンピューターアーキテクチャの変遷を体感できる展示となっている",
+          "OSにはmacOS Mojave（10.14）を採用し、標準搭載のMPI（Message Passing Interface）機能を活用してノード間通信を実現、冷却もファンレスの自然対流式でほぼ無音を実現している"
+        ],
+        "importance": "わずかなコストで旧型民生機器を束ねることで、研究用途の専用機を遥かに上回る性能を再現できることを示し、コンピューター史の教育展示としてもアーキテクチャの進化を直感的に理解させる価値を持つ。"
+      }
+    }
+  ]
+}
