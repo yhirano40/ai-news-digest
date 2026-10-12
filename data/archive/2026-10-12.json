@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-12",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "published": "2026-10-11T14:00:00+00:00",
+      "rss_summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "summary": {
+        "title_ja": "音声AIはまだ『ChatGPTの瞬間』を迎えていない、業界幹部が指摘",
+        "overview": "HumanXカンファレンスで、PolyAIのCTOシャウン・ウェン氏とOtterのCMOアレックス・ゲイ氏が、音声AIは技術的進歩を遂げたものの、ChatGPTのような決定的なブレークスルーにはまだ達していないとの見解を示した。",
+        "background": "音声を次世代インターフェースとする期待から投資マネーが流入し、モデル開発や企業向けカスタマーサービス、議事録作成ツールなど幅広い分野で新製品が相次いで登場しているが、実態は誇大評価されている面があるという。",
+        "points": [
+          "フルデュプレックスモデル（話しながら聞ける）は登場したが、次の課題は推論の高速化による自然な会話の実現",
+          "ASR（自動音声認識）が重要なキーワードを取りこぼす問題があり、文字起こしや要約の精度不足が後続の自動化処理の信頼性を損なう",
+          "会議の「デジタルツイン」実現には感情表現を伴う自然な音声が必要で、録音・AI利用に関する透明性の確保も課題"
+        ],
+        "importance": "音声AIが実用段階に進み企業導入が進む中、精度・透明性・自然さの改善が信頼構築とさらなる投資・普及の鍵を握るため、今後の技術開発の方向性を占う重要な指摘となっている。"
+      }
+    }
+  ]
+}
