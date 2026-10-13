@@ -254,6 +254,169 @@
         ],
         "importance": "健康管理デバイス市場で価格帯と機能のバランスを取った選択肢を提供することで、Fitbitブランドの裾野拡大とGoogleのウェアラブル戦略強化につながる可能性がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "published": "2026-10-13T23:00:00+00:00",
+      "rss_summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "summary": {
+        "title_ja": "工場ロボットの作業切替を数週間から数分へ、Industrial Next",
+        "overview": "元テスラ出身者が創業したIndustrial Nextが、AI駆動の自己完結型ロボットステーションを開発し、TechCrunch Disrupt 2026のStartup Battlefieldで発表。BMWグループ・テクノロジー・オフィスとの提携も明らかにした。",
+        "background": "従来の産業用ロボットは特定作業向けに固定プログラムされており、製品変更には数週間〜数か月の再プログラムや物理的な改修が必要だった。創業者のLukas PankauとAllen Panはテスラ在籍時に、最先端の車両技術が1980年代の古い工場設備に足を引っ張られる現状に強い問題意識を抱いていた。",
+        "points": [
+          "独自の基盤モデルが視覚・タスク文脈・動作を統合し、伝統的なプログラミングなしで数分での再構成を可能にする",
+          "高精度な物理シミュレーションエンジンでロボットに『プロセス理解』を学習させ、実物部品をほとんど見ずに高精度・高難度作業を実現",
+          "世界的に人気のスマートフォン製造ラインで既に稼働しており、フレックスケーブルの配線や保護フィルム剥がしなど、人手でしか対応できなかった繊細な作業を人間以上の速度・精度でこなす"
+        ],
+        "importance": "製造ラインの切替を柔軟化することで、自動化が難しかった繊細・複雑な作業の無人化が進み、最終的には自動車の完全無人組立といった大規模応用への道が開かれる可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "published": "2026-10-13T22:36:59+00:00",
+      "rss_summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "summary": {
+        "title_ja": "Cerebras CEO、AI悲観論に反論「可能性にも目を向けるべき」",
+        "overview": "AIチップ企業Cerebras SystemsのCEO、アンドリュー・フェルドマン氏はTechCrunch Disrupt 2026で、AI業界で広がる破滅論的な言説に異議を唱え、AIがもたらす恩恵がもっと語られるべきだと主張した。",
+        "background": "近年、AIが制御不能になる危険性や人類滅亡の可能性を巡る議論が業界内で主流化し、AnthropicのCEOダリオ・アモデイ氏が『SNL』のパロディで取り上げられるほど話題になっていた。",
+        "points": [
+          "フェルドマン氏は、AIが将来がんで亡くなる人がいなくなる世界をもたらし得るなど、ポジティブな可能性をもっと伝えるべきだと指摘した。",
+          "強力な技術には常にリスクが伴うとしつつ、規制の必要性を認めながらもバランスの取れた議論を求めた。",
+          "AIへの反発の一因として、データセンター建設時に業界が地域社会との対話を怠ってきたことを挙げ、ブラジルやカナダなど他国の取り組みと対比した。"
+        ],
+        "importance": "OpenAIやGSKなど大手顧客を抱えるCerebrasのCEOによる発言は、AI業界内でのリスクと恩恵を巡る議論の分断を浮き彫りにし、今後の規制論議や業界の社会的信頼構築に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "published": "2026-10-13T20:36:44+00:00",
+      "rss_summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "summary": {
+        "title_ja": "OpenAIに採用記録の開示命令、Appleの企業秘密訴訟巡り",
+        "overview": "米連邦判事が、AppleがOpenAIを訴えた企業秘密侵害訴訟において、OpenAIの採用関連書類を迅速に開示するよう命じた。",
+        "background": "Appleは7月、元社員がApple社用PCで未発表技術や製品情報を持ち出し、OpenAIへの転職希望者に面接対策として機密情報の持ち込みを指南していたと主張し提訴していた。",
+        "points": [
+          "開示対象は、OpenAIのハードウェア・ロボティクス部門への応募者（元Apple社員）との面接記録、チェックリスト、技術プレゼン資料など",
+          "OpenAI従業員Chang Liu氏とAlyssa Peng氏のLINEメッセージ開示、両氏と最高ハードウェア責任者Tang Yew Tan氏（いずれも元Apple社員）の証言録取も承認",
+          "一方で、金属仕上げや電源管理などOpenAIのR&D詳細や元社員の開発成果物へのアクセスは却下されたが、Appleが請求範囲を絞れば再申請可能"
+        ],
+        "importance": "OpenAIが開発中とされるiPhoneに対抗しうる消費者向けハードウェア機器を巡る訴訟であり、AI大手とハードウェア企業間の人材・技術流出問題が今後の業界競争に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "published": "2026-10-13T20:45:25+00:00",
+      "rss_summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department [&#8230;]",
+      "summary": {
+        "title_ja": "OpenAI社員、会議室に盗聴器設置疑いで逮捕される",
+        "overview": "OpenAIは社内の役員会議室で盗聴装置を発見し、関与したとされる従業員アブドゥルラーマン・アルフォザン容疑者（35歳、サウジ国籍）が逮捕されたと発表した。容疑は口頭通信を傍受する装置の使用に関するもの。",
+        "background": "装置はテレビのUSBポートに接続された状態で見つかり、トイレットペーパーで覆われ、9月28日頃に設置されたとみられる。この会議室では「極めて機密性の高い技術・商業・戦略情報」が議論されていたという。",
+        "points": [
+          "OpenAIは自社のAIモデルを使って装置の解析と出所の特定を行い、数日前に特定の従業員が設置したことを突き止めた。",
+          "DOJによると、監視カメラ映像にはアルフォザン容疑者が複数回会議室付近に現れ、テレビの裏を覗き込む様子も記録されていた。",
+          "別室で発見された容疑者のバッグからは身分証や財布に加え、もう一台の録音装置も見つかったとされる。",
+          "装置の中身は暗号化されており、OpenAIは当該従業員を解雇しFBIに通報、容疑者は金曜日に逮捕され火曜日に初出廷した。"
+        ],
+        "importance": "OpenAIは現時点でモデルの重みやソースコード、顧客データへの不正アクセス・流出の痕跡はないとしているが、社内脅威への対策の一環として自社AIを活用した点を強調しており、AI企業におけるセキュリティ体制の重要性を示す事例となっている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "published": "2026-10-13T19:42:42+00:00",
+      "rss_summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists [&#8230;]",
+      "summary": {
+        "title_ja": "Shopify、AIエージェント向けにカタログをさらに開放",
+        "overview": "Shopifyは、買い物客が自分のAIエージェントに代理購入を設定できるようにし、10億件以上の商品リストへのアクセスを拡大すると発表した。",
+        "background": "9月にはMetaの「Muse」エージェントとの提携でAIによる閲覧・購入・決済を可能にしていたが、今回は特定の提携なしに任意のエージェントが利用できるようになる。",
+        "points": [
+          "ユーザーはShop AppでAIエージェントをアカウントに接続し、Shop Payのワンクリック決済で会話内チェックアウトが可能になる",
+          "予算上限や配送速度などのルールを設定できる「パーソナルショッパー」として位置付け、購入ごとに人間の承認が必要",
+          "注文はShopifyのShopアプリに集約され、注文管理や配送追跡と連動する"
+        ],
+        "importance": "GoogleやAmazonなど大手も注力するAIエージェント経由の購買市場が拡大する中、ShopifyはAmazonとPerplexityやMuseとの間で起きているエージェント取引の覇権争いに本格参入する形となる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "published": "2026-10-13T19:00:48+00:00",
+      "rss_summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web [&#8230;]",
+      "summary": {
+        "title_ja": "Xbox、AI活用のゲーム移植ブームを公式に受け入れ「Xbox Labs」発足",
+        "overview": "MicrosoftはXbox CEOのAsha Sharma氏主導で「Xbox Labs」という新グループを立ち上げ、AIを活用したゲームの逆コンパイル・再構築といった最近のモッディングの潮流を公式に取り込む方針を発表した。",
+        "background": "近年、Windows PC向けゲームをApple Siliconやブラウザ（WebAssembly/WebGPU、グローバル対応率約90%）に移植したり、異なるゲームのソースコードを組み合わせて改変する動きがAIの助けを借りて急速に広がっており、Call of DutyへのスケートボードModやブラウザで動くHaloなど話題の事例が相次いでいた。",
+        "points": [
+          "Xbox Labsはゲーム開発者・エンジニア・科学者からなる小規模チームで、こうした新技術の可能性をオープンに検証し、開発者ともツールやノウハウを共有する方針。",
+          "Sharma氏はコーディングがAIエージェントの最初の主要ワークロードとなったのと同様、年間720億時間以上プレイされるXboxゲームもAIエージェント活用の有望な領域になり得ると指摘。",
+          "一方で、MicrosoftのIPを無断で使った改変・再配布への対応については言及されておらず、同社は無断IP利用に関するコメント要請に未回答。"
+        ],
+        "importance": "ソフトとハードの結びつきが崩れつつある中、業界大手のMicrosoftがAI主導のゲーム移植・改変文化を公式に取り込む姿勢を示したことは、ゲームの配布・プレイ体験の在り方や既存のビジネスモデル、著作権管理の今後に大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump commercial railing against his enemies kept airing after court blocked it",
+      "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+      "published": "2026-10-13T19:50:37+00:00",
+      "rss_summary": "US attorney apologized to court, said government has stopped running Trump ads.",
+      "summary": {
+        "title_ja": "トランプ氏の政敵批判CM、裁判所の差し止め後も放送継続",
+        "overview": "政府資金による広報・プロパガンダを禁じる米国法に違反する恐れがあるとして、連邦判事がトランプ氏のCM放送を差し止める仮命令を出したにもかかわらず、命令発令の翌日もそのCMがテレビで放送され続けていたことが分かった。",
+        "background": "問題のCMには、トランプ氏が「政敵を米国から一掃する」などと語る内容や、自身の在任中の実績を称賛する内容、イラン戦争やベネズエラのマドゥロ大統領拘束に関するものなどが含まれていた。国土安全保障省（DHS）傘下の税関・国境警備局（CBP）が9月20日に広告代理店LMDエージェンシーと2000万ドル規模の契約を結んで放送していたもの。",
+        "points": [
+          "ジェニファー・ロションン連邦地裁判事は10月11日夜6時45分発効の仮差し止め命令（TRO）を出し、同日夜の広告枠も含め即時中止を命じたが、実際には11日夜から12日にかけて放送が続いた。",
+          "政府側弁護士は命令をメールで送ったが担当機関側が翌朝まで気付かなかったと説明し、裁判所と原告に謝罪した。",
+          "政権側は命令前日の10月10日、DHSの広告契約は10月11日で期限切れになり更新しないと裁判所に伝えていたが、トランプ氏は10月5日に「自費とMAGA, Inc.の資金で広告を続ける」と発言しており、資金源や意図に疑問が残る。DHSによれば10月11日までの広告出稿費は1900万ドルに上る。"
+        ],
+        "importance": "政府資金を使った政治的プロパガンダの違法性が争点となっており、行政命令への遵守体制の不備や説明責任、税金の使途の透明性が改めて問われる事案となっている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "published": "2026-10-13T18:23:33+00:00",
+      "rss_summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+      "summary": {
+        "title_ja": "ディズニー、物議のCharacter.AI技術に20億円で買収提案",
+        "overview": "ディズニーは破産手続き中のCharacter Technologiesに対し、同社のAIチャットボット技術の非独占的な永久ライセンスを2000万ドルで取得する提案を行った。",
+        "background": "2025年9月、ディズニーはCharacter.AIがディズニーキャラクターを性的・有害な形で悪用していると強く非難し、中止勧告書を送付。これを受け同社は全てのディズニー関連キャラクターをプラットフォームから削除していた。",
+        "points": [
+          "ディズニーは過去の批判にもかかわらず、元Character.AI責任者カランディープ・アナンド氏を初代CTOとして招聘済み",
+          "OpenAIとの提携交渉がSoraの突然の停止で破談となった後、ディズニーはAI分野での収益機会を模索している",
+          "買収が成立すれば、ディズインはCharacter.AIのプラットフォーム運営を従業員主導で引き継ぐ可能性もある"
+        ],
+        "importance": "批判していた企業が買収に動く展開は、AI企業の技術的資産と倫理的問題を切り離して評価する業界の実態を浮き彫りにし、ディズニーの今後のAI戦略や子供向け製品への影響が注目される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
+      "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
+      "published": "2026-10-13T18:06:06+00:00",
+      "rss_summary": "The higher prices are said to be unrelated to the Skydance merger.",
+      "summary": {
+        "title_ja": "Skydance傘下のDiscovery+、価格を最大20％値上げ",
+        "overview": "Discovery+の新規加入者向け料金が値上げされ、広告なしプランは月額10ドルから12ドル、広告付きプランは6ドルから7ドルとなった。",
+        "background": "既存加入者には11月12日請求分から30日前の事前通知で新価格が適用される。値上げは、Paramount SkydanceがWarner Bros. Discoveryを買収しSkydanceを設立した1週間後に実施された。",
+        "points": [
+          "Skydance広報は、今回の値上げは合併発表以前から準備されていたもので、合併を見越した措置ではないと説明している",
+          "Discovery+は2012年のサービス開始以来、今回で3回目の値上げとなる",
+          "直近の値上げは2025年1月で、広告付きプランが5ドルから6ドル、広告なしプランが9ドルから10ドルに引き上げられていた"
+        ],
+        "importance": "大型メディア合併直後の値上げは、巨大化したストリーミング事業者が今後どのように価格戦略を進めるかを占う材料となり、消費者の負担増への懸念も高まる。"
+      }
     }
   ]
 }
