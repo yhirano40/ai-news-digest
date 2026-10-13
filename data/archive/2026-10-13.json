@@ -145,6 +145,115 @@
         ],
         "importance": "AIエージェントが実世界の公的システムに意図せず虚偽情報を送信しうることを示す事例であり、企業側の問題発覚から当局への報告まで約2カ月要した対応の遅さを警察は「容認できない」と批判しており、AIの自律的操作に対する安全対策と透明性確保の重要性を浮き彫りにしている。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "published": "2026-10-12T15:31:19+00:00",
+      "rss_summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "summary": {
+        "title_ja": "マイクロソフト社長、AI規制は英国が主導すべきと発言",
+        "overview": "マイクロソフトのブラッド・スミス社長がBBCのポッドキャストで、牛乳や洗濯機よりもAI企業への規制が緩いと指摘し、AIの安全規制を主導する最適な国は米国でもEUでもなく英国だと述べた。",
+        "background": "2023年設立の英AI安全研究所（AISI）は米フロンティア企業の最新モデルに展開前からアクセスし安全性テストを行う存在感を持つが、トランプ大統領が「グローバリスト」組織への警戒を表明し、AnthropicやOpenAIに英国テスターへのモデル提供を控えるよう求めたと報じられるなど、その役割が揺らいでいた（AISIは最新モデルへのアクセス継続を確認済み）。",
+        "points": [
+          "スミス氏は、ワシントンがロンドンをブリュッセルほど警戒していないことが英国の強みだと指摘し、英国こそが実効的なAI規制を主導できると主張した。",
+          "先月ホワイトハウスでOpenAIやAnthropicなど主要AI企業が署名した「道義的拘束力を持つ」自主規制文書について、良い一歩としつつも、責任感の薄い企業には効かない自主規制の限界を指摘した。",
+          "具体策として、AIエージェントによる侵害が起きた際の通知義務化、製品公開前の外部評価者による承認、暴走時のキルスイッチ導入などを提案した。"
+        ],
+        "importance": "AnthropicのダリオCEOやOpenAIのサム・アルトマン氏らも開発減速を訴える中、業界大手の提言は各国政府による拘束力ある国際的AI規制枠組みの構築を後押しする可能性があり、英国の規制上の立ち位置が今後の国際的なAIガバナンス競争の鍵を握る。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "published": "2026-10-12T15:27:59+00:00",
+      "rss_summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "summary": {
+        "title_ja": "AIで建築申請用の設計図を数分で生成、新興企業が発表",
+        "overview": "建築スタートアップBlueprints AIが、2Dスケッチやメモから建築基準法に準拠した許可申請可能な設計図をAIで数分で生成する第2世代ソフトウェアを発表した。TechCrunch Disruptで披露される。",
+        "background": "創業者のAl Dramは建築を学ぶ学生時代から設計文書を自動生成するアイデアを温めていたが、技術的に実現不可能だった。2022年のChatGPT登場を契機に実現可能性を感じ、2025年にCoco Caoと共同でBlueprints AIを設立した。",
+        "points": [
+          "自社の建築・建設会社が持つ8年分の承認済み図面データでAIモデルを訓練",
+          "第2世代では建築・構造・機械・電気・配管・内装などあらゆる分野の設計図を一括生成でき、変更があれば全体と建築基準法への適合を自動更新",
+          "料金は月額3,200〜8,500ドルで、設計士によるレビューと押印は従来通り人間が担う"
+        ],
+        "importance": "建築士が製図作業に費やす時間（全体の約80%）を大幅削減し、本来の設計業務に集中できるようにすることで、業界の生産性と創造性向上に寄与すると期待される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "published": "2026-10-12T14:00:00+00:00",
+      "rss_summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+      "summary": {
+        "title_ja": "TechCrunch Disrupt 2026明日開幕、最大100ドル割引は本日が最終日",
+        "overview": "TechCrunch Disrupt 2026が10月13日午前8時（太平洋時間）からサンフランシスコのMoscone Westで開幕し、10月15日まで3日間開催される。チケットを最大100ドル割引で購入できる期限は残り24時間となっている。",
+        "background": "同イベントには創業者、投資家、技術者ら1万人以上が集結し、スタートアップ業界の最新動向やアイデア交換の場として開催される。",
+        "points": [
+          "300以上の新興企業が出展するExpo Hallや、6つのステージで行われる200以上のセッション、250人以上の業界リーダーが登壇予定",
+          "20組のファイナリストがDisrupt Stageで競うStartup Battlefieldでは賞金10万ドルがかかる",
+          "2枚目のパスは同種類で50%割引、4人以上のグループにはさらなる割引、レイオフされた人向けに75ドルのExpo+パスも用意",
+          "イベントアプリのAIマッチメイキング機能で参加者同士の効果的な交流を支援"
+        ],
+        "importance": "スタートアップ、投資家、技術リーダーが一堂に会する業界最大級のイベントであり、資金調達や事業提携、最新技術トレンドの把握を目指す参加者にとって重要な機会となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Russia was not ready for the data center war it started with Ukraine",
+      "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+      "published": "2026-10-12T17:52:36+00:00",
+      "rss_summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
+      "summary": {
+        "title_ja": "ロシア、ウクライナとの「データセンター戦争」に準備不足露呈",
+        "overview": "ロシアがウクライナのデータセンターや通信インフラを攻撃したことへの報復として、ウクライナのドローン攻撃がロシアのIT大手ヤンデックス所有の大規模データセンター3カ所を数日間で無力化し、ロシアのデジタルサービスが広範囲で障害を起こしている。",
+        "background": "ロシアは9月下旬にウクライナのデータセンターや携帯電話網への無人機攻撃を開始し、首都キーウで最大10万世帯に通信障害を引き起こしたが、ゼレンスキー大統領が「対称的な対応」と呼ぶ形でウクライナ側も反撃を開始した。",
+        "points": [
+          "10月8日、モスクワ南東のサソヴォ地域にあるデータセンターがウクライナのドローン攻撃で損傷。同施設にはヤンデックスがYandexGPT AIモデルの訓練に使用するスーパーコンピュータ3基中2基が設置されていた。",
+          "被害を受けたChervonenkis（29.42ペタフロップス、Top500で101位）とLyapunov（20.03ペタフロップス、161位）はいずれもNvidia A100 GPUベースで、被害の詳細は不明。",
+          "親クレムリン系ブロガーはロシアの中央集権型デジタル経済が崩壊しかねないと警告し、ウクライナの分散型デジタルサービスの方が耐性が高い可能性を指摘している。"
+        ],
+        "importance": "軍事攻撃の対象がインフラから直接AI・データセンター資産へと広がったことで、ロシアの集中型デジタルインフラの脆弱性が露呈し、今後の紛争における「データセンター戦争」の新たな様相を示す事例となっている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+      "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+      "published": "2026-10-12T16:01:08+00:00",
+      "rss_summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
+      "summary": {
+        "title_ja": "伝説のホラーゲーム「P.T.」、待望のPC移植版が登場",
+        "overview": "小島秀夫氏の「サイレントヒルズ」用プレイアブルトレーラー「P.T.」を、PS4の正規ファイルからPC向けにネイティブ移植するオープンソースプロジェクトが公開された。",
+        "background": "P.T.は配信終了から10年以上経ち、公式には配布当時にダウンロード済みのPS4でしか遊べない希少なゲームとなっていた。",
+        "points": [
+          "開発者Lorean Xavier氏が、C++とVulkanでP.T.のゲームエンジンを再構築し、全レベル・モデル・テクスチャ・音声・台本・カットシーンを忠実に再現",
+          "プレイには正規に復号化したPS4版P.T.のファイルが必要で、それを基にPC用実行ファイルを生成する仕組み",
+          "アップスケーリングやフレーム生成、カメラモード、実験的な三人称視点・VR対応、未使用素材も見られる「ミュージアム」機能などPS4版にない追加要素を搭載"
+        ],
+        "importance": "PS4エミュレーターでの完全動作が実現しつつある中、本物のゲームデータを用いたこのネイティブ移植は、より正確で高機能な形でP.T.を後世に保存する重要な一歩となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "published": "2026-10-12T13:00:52+00:00",
+      "rss_summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
+      "summary": {
+        "title_ja": "Google、新型フィットネストラッカー「Fitbit Edge」を発表",
+        "overview": "Googleは2026年2機種目となるFitbitデバイス「Fitbit Edge」を発表した。Pixel Watch 5とFitbit Airの中間に位置する製品で、コンパクトな画面と充実した健康センサーを備える。",
+        "background": "旧モデルのCharge 6は発売から時間が経ち刷新が求められていた中、GoogleはPixel Watchのデザインを踏襲しつつより安価な選択肢としてEdgeを投入した。",
+        "points": [
+          "1.34インチの錠剤型OLEDタッチディスプレイを搭載し、IP68・5ATM防水防塵に対応。Charge 6より表示領域が46％拡大",
+          "AndroidとiPhone両対応のGoogle Healthアプリと連携し、通常利用で約7日間、常時表示モードでは約2日間のバッテリー駆動",
+          "価格はPixel Watch 5の約半額で、ボタンは側面に1つのみというシンプルな操作性"
+        ],
+        "importance": "健康管理デバイス市場で価格帯と機能のバランスを取った選択肢を提供することで、Fitbitブランドの裾野拡大とGoogleのウェアラブル戦略強化につながる可能性がある。"
+      }
     }
   ]
 }
