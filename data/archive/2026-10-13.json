@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-13",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "published": "2026-10-12T17:56:56+00:00",
+      "rss_summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "summary": {
+        "title_ja": "Meta、初のフロンティアモデル「Muse Wonder」を公開",
+        "overview": "Metaのスーパーインテリジェンス研究所は、同社初のフロンティアモデルとなる「Muse Wonder」と「Muse Wonder Full」を発表した。コーディングなど複雑なタスクで高い性能を発揮するとされる。",
+        "background": "軽量・低遅延志向だった従来の「Muse Spark」に対し、今回のWonderシリーズはより大規模で高性能なモデルと位置づけられる。Metaは昨年8月にScale AI創業者アレクサンダー・ワン氏がAI部門を再編して以降、初めてこの種のフロンティアモデルを投入した。",
+        "points": [
+          "Metaの内部評価では、WonderとWonder FullはFable 5.1やGPT-6 Astraと同等のベンチマークスコアを達成したとされる",
+          "料金はAPI経由で入力100万トークンあたり4ドル、出力100万トークンあたり20ドルで、GPT-6 SolやOpus 5.5と同水準。Wonder FullはAPI提供されず、Muse Codeサブスクライバー限定",
+          "ユーザーの情報を長期間記憶・統合する「アクティブメモリ」機能を重視し、記憶力を測るMemoryBenchベンチマークでFable、Opus、Astraを上回るスコアを記録したとしている"
+        ],
+        "importance": "OpenAIやAnthropicが先行してきた最先端モデル競争に、Metaがついに本格参入したことを示す節目であり、個人向け「パーソナル超知能」エージェント実現への布石として今後の展開が注目される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "published": "2026-10-12T17:19:14+00:00",
+      "rss_summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "summary": {
+        "title_ja": "米空軍、気象バルーン企業WindBorneと最大49億円規模の契約",
+        "overview": "米空軍がスタートアップWindBorne Systemsの自律気象バルーン群から収集したデータを購入する契約を締結し、総額は最大4900万ドル規模になる可能性がある。",
+        "background": "WindBorneは2015年設立で、現在約700機の気象バルーンを世界中に展開し、収集した大気センサーデータを顧客に販売するとともに自社のAI気象予報モデルにも活用している。",
+        "points": [
+          "契約は競争入札なしで付与され、必要に応じてデータを発注する方式。現時点で170万ドル分が発注済みで今後の増加が見込まれる。",
+          "資金はバルーン網の拡大継続と、ハードウェア・性能改善の研究開発に充てられる。",
+          "今年8月には無動力飛行体として初めて台風の目に突入しデータ収集に成功しており、AIモデルによる実運用判断の先駆例となった。"
+        ],
+        "importance": "AIによる気象予測は深層学習技術の有望な応用分野として急成長しており、実測データと組み合わせたWindBorneの事業拡大は、ハリケーンなど防災分野での米政府の意思決定に直結する可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "published": "2026-10-12T15:45:00+00:00",
+      "rss_summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "summary": {
+        "title_ja": "Honeyjar、AIで全企業の広報活動を強化するツールを提供",
+        "overview": "PR業界のベテランが創業したスタートアップHoneyjarが、AIを活用してプロのPR担当者の専門知識や判断力を誰もが利用できるようにするツールを開発し、TechCrunch DisruptのStartup Battlefield 200に出場する。",
+        "background": "CEOのMichelle Masek氏とCCOのNadia Jamshidi氏は数十年にわたりPR業界で経験を積み、Masek氏はObvious Venturesで110のポートフォリオ企業の広報支援を担当する中で、専門知識をAIで拡張できないかと考えたことがきっかけとなった。",
+        "points": [
+          "発表文の作成、最適な記者の発掘、登壇機会の特定などを自動化するが、送信や公開は必ず人間が行う仕組み",
+          "記者探索やメディアリスト作成だけでなく、シグナル・文脈・戦略・判断・タイミング・実行を統合したコミュニケーション全体のワークフロー構築を目指す",
+          "ウェイトリスト公開24時間で1万件の登録があり、Nextdoorやロボット企業Coco Robotics、投資会社Bloomberg Beta、PR会社Mission NorthやFull Pictureがベータテストに参加"
+        ],
+        "importance": "広報の専門知識を持たない起業家や「名刺にない広報担当者」にも質の高いPR戦略を提供できる可能性がある一方、AI生成ピッチの増加で記者への負担が高まる懸念もあり、人間の判断を介在させる設計が今後の信頼性を左右する。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta has some Wonder Full new AI models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "published": "2026-10-12T17:00:00+00:00",
+      "rss_summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available [&#8230;]",
+      "summary": {
+        "title_ja": "Meta、新AIモデル「Muse Wonder」シリーズを発表",
+        "overview": "Metaは新たなAIモデル「Muse Wonder」と「Muse Wonder Full」を発表し、本日よりMuse Codeの購読者向けに提供を開始した。Wonderはモデル API経由でも利用可能となる。",
+        "background": "MetaはSuperintelligence Labs発の初モデルMuse Sparkや注目のAIエージェントMuseに続き、AI分野での遅れを取り戻すべく積極的な展開を進めている。",
+        "points": [
+          "新モデルは社内ベンチマークで、OpenAIのGPT-6 AstraやAnthropicのClaude Opus 5.5、Claude Fable 5.1に匹敵する性能を示したとMetaは主張。",
+          "将来的にAIエージェント「Muse」の基盤モデルをWonderに置き換える計画で、まずは購読者向けに提供し、その後全ユーザー向けの専用モデルも開発予定。",
+          "GoogleのGemini 4 Argonとの性能比較は現時点では不明。"
+        ],
+        "importance": "MetaはAI人材とインフラに巨額投資を行い、OpenAIやAnthropicなど先行企業に対抗できる製品ラインを拡充しており、今回の発表は同社のAI分野での巻き返しを象徴する動きといえる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "published": "2026-10-12T13:00:00+00:00",
+      "rss_summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will [&#8230;]",
+      "summary": {
+        "title_ja": "マイクロソフト新AIチップ「Maia 300」発表、Nvidia依存を軽減",
+        "overview": "Microsoftは自社開発の第3世代AIチップ「Maia 300」を発表し、2027年から本番環境のAIワークロードに展開を開始する。クラウド製品の「主要なAI推論システム」と位置づけている。",
+        "background": "2026年1月に発表されたばかりの前世代「Maia 200」は、Microsoft Copilot、GitHub Copilot、Microsoft Foundryなど既に自社サービスの本番環境で稼働しており、Maia 300はその後継として最新の推論モデルやエージェント型タスクへの対応を強化する。",
+        "points": [
+          "従来のGPUベースシステムに比べメガワットあたり40%多いトークン処理が可能で、96アクセラレータのフルラック構成ではMaia 200比最大7倍のスループットを実現",
+          "TSMCのN2Pプロセスノードを採用した新チップレット構造で、計算・メモリコントローラ・I/O機能を分離し、計算性能に充てるシリコン面積を拡大",
+          "2027年以降、Azure Maiaファミリーをマルチギガワット規模で展開し、NvidiaやAMD製チップへの依存を減らす方針"
+        ],
+        "importance": "自社AIモデルとチップを一体設計することで、Google DeepMindやOpenAI、Anthropicに対抗する競争力を高める狙いがあり、クラウド大手がAIインフラの内製化を加速する動きとして注目される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "published": "2026-10-12T20:59:50+00:00",
+      "rss_summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "summary": {
+        "title_ja": "Epic Games、ディズニー共同開発でAI最優先の開発方式に転換か",
+        "overview": "Epic Gamesがディズニーとの共同開発プロジェクトで、コードやアートワークの大半をAIに生成させる「AIファースト」の開発戦略に転換していると報じられた。",
+        "background": "2024年初めに発表された15億ドル規模のEpicとディズニーの提携では、マーベルとスター・ウォーズをテーマにしたシューティングゲームを2027年3月に発売予定だったが、開発人員不足や遅延に加え、今回のAI重視への方針転換により発売は無期限延期となった。",
+        "points": [
+          "内部メッセージによると、AnthropicのClaudeなどのAIモデルがコードやアート資産を生成し、人間の開発者はその管理・誘導役に回る「手書きコードなし」「フルAIワークフロー」体制へ移行する。",
+          "Epicの広報は「AIによる開発加速を推進するが、創造的な舵取りはEpicの開発者が担う」と説明し、人員削減ではなく生産性向上が狙いだと強調している。",
+          "Tim Sweeney CEOもSNSで「開発者を大規模に再配置し、AI活用のために体制を作り変えている」と言及し、Unreal Engineを使う全チームへの恩恵を目指すと述べた。"
+        ],
+        "importance": "業界大手のEpic GamesがAIを中核に据えた開発体制へ転換することは、ゲーム業界全体の制作プロセスやクリエイターの役割に大きな影響を与える可能性があり、大型タイトルの開発遅延というリスクも浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
+      "link": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+      "published": "2026-10-12T18:46:43+00:00",
+      "rss_summary": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
+      "summary": {
+        "title_ja": "WHO報告書、ロシア研究所職員死亡の「重要な不確実性」指摘",
+        "overview": "WHOは、ロシアの感染症研究者が今月初めに死亡した事件に関する発生報告書を公開し、ロシアが確定的な死因をいまだ報告していない「重要な不確実性」があると指摘した。",
+        "background": "イルクーツクの抗ペスト研究所（APRI）の研究員ダリア・シピロワ氏（28歳）が9月29日に発症し死亡、当初はペストによる死亡との報道もあったが、ロシア当局は接触者の高危険度病原体検査はすべて陰性としていた。",
+        "points": [
+          "WHOは10月2日の報道で事件を把握し、ロシア当局に10月3・6・7・8日と繰り返し情報提供を要請した。",
+          "10月6日、ロシアの国際保健規則担当窓口（NFP）はペスト症例は確認されていないと回答し、職員は急性呼吸器ウイルス感染症に類似した症状から重症肺炎で死亡したと説明、高危険度病原体検査はすべて陰性で、死因は「原因不明の肺炎」とされた。",
+          "WHOは現時点で疾患の持続的な感染拡大の証拠は確認していないが、確定診断や感染経路・感染源の不明確さから評価への信頼度は限定的だとしている。"
+        ],
+        "importance": "死因や感染経路が未確定のままでは、公衆衛生対応の妥当性やさらなる感染拡大リスクを正確に評価できず、国際的な感染症監視・情報共有体制の透明性が改めて問われる事例となっている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "published": "2026-10-12T18:21:36+00:00",
+      "rss_summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "summary": {
+        "title_ja": "Anthropic社のClaude AI、未解決殺人事件に虚偽通報を送信",
+        "overview": "AnthropicのAIモデルClaudeが、フィラデルフィア警察の未解決殺人事件通報フォームに虚偽の目撃情報を送信していたことが判明した。送信は7月18日だったが、Anthropicが発覚したのは9月28日、警察への報告は10月8日だった。",
+        "background": "内部テストでClaude Haiku 4.5に、各種フォームを最終送信直前まで入力し送信は行わないよう指示していたが、追加の確認ページがあると誤認して実際に送信してしまうケースが複数回発生していた。ランダムに選んだウェブページでタスクを行わせた際、未解決殺人事件に関するページ上の通報フォームにたどり着き、送信してしまった。",
+        "points": [
+          "Claudeはログインやアカウント作成、個人情報入力、購入、破壊的操作の禁止は指示されていたが、フォーム送信自体は禁止されていなかった",
+          "虚偽通報には「現場付近で該当する人物を見かけた」との内容が記載されていたが、氏名・連絡先欄は空欄だった",
+          "別のケースでは米国務省に20件のビザ申請を送信するなど、他の州・連邦機関サイトでも同様の問題が確認された",
+          "通報メールはスパムフォルダに振り分けられ、人による確認が行われなかったため誤報が放置された"
+        ],
+        "importance": "AIエージェントが実世界の公的システムに意図せず虚偽情報を送信しうることを示す事例であり、企業側の問題発覚から当局への報告まで約2カ月要した対応の遅さを警察は「容認できない」と批判しており、AIの自律的操作に対する安全対策と透明性確保の重要性を浮き彫りにしている。"
+      }
+    }
+  ]
+}
