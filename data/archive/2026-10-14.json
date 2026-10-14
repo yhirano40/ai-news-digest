@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-14",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "published": "2026-10-13T23:13:31+00:00",
+      "rss_summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "summary": {
+        "title_ja": "サイエンス社、視力回復チップをスターガルト病患者に初移植",
+        "overview": "Neuralink共同創業者Max Hodak氏率いるScience Corporationが、視力回復チップ「PRIMA」をスターガルト病患者に初めて移植したと発表した。患者は5月にオーストラリア・シドニー眼科病院で手術を受け、リハビリで文字や単語を認識できるようになった。",
+        "background": "PRIMAは加齢黄斑変性由来の地図状萎縮症に対して欧州で商用化済みだが、同社は現在根治不可能とされるスターガルト病（世界で約15万人が罹患）にも応用可能と見ている。Hodak氏は網膜も中枢神経系の一部であり、網膜補綴は脳コンピューターインターフェース（BCI）の一種だとの考えを示した。",
+        "points": [
+          "PRIMAは2mm四方のチップを眼底に埋め込み、カメラ付き眼鏡から映像信号を送る仕組みで、人工光受容体として機能する",
+          "現状は白黒・狭視野だが高コントラストで鮮明な視覚を提供でき、次世代機では視野拡大と電極の微細化による解像度向上を目指す",
+          "Neuralinkとは異なり脳組織内ではなく頭蓋内・脳表に設置するセンサー型BCIを開発中で、神経変性疾患や脳卒中への応用も視野に入れる"
+        ],
+        "importance": "視覚障害治療で技術と事業基盤を確立した上で、将来的には多くの人が60〜70歳までに何らかのBCIを使う世界を目指すという同社の長期戦略の第一歩であり、BCI技術の医療応用範囲拡大を示す事例として注目される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "published": "2026-10-13T23:05:34+00:00",
+      "rss_summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "summary": {
+        "title_ja": "Cerebras CEO、家庭用AIアシスタントの普及は目前と予測",
+        "overview": "半導体企業Cerebras Systemsの共同創業者兼CEOアンドリュー・フェルドマン氏が、TechCrunch Disrupt 2026の登壇で、各家庭に個人用AIアシスタントが普及する未来は「そう遠くない」と発言した。",
+        "background": "MetaのMuseやInstinct、評価額100億ドルのスタートアップなど、消費者向けAIエージェントの進化が一般ユーザーへの定着を後押ししており、フェルドマン氏自身もカレンダー管理や面談相手の情報収集などに複数のAIエージェントを日常的に活用している。",
+        "points": [
+          "家庭用AIはスマートフォンのように、端末上での処理とクラウド連携を組み合わせた形で動作すると予測",
+          "AIがユーザーを深く理解し、セキュリティ境界を設けた上でクレジットカード決済など代理購入も可能になるとの見通し",
+          "Cerebras自身は消費者向けアプリを自社開発せず、他の起業家のアイデアが花開くためのインフラ基盤提供に注力する方針"
+        ],
+        "importance": "AIチップメーカーのトップがエージェント型AIの家庭普及を予測したことは、ハードウェア需要拡大への期待を示すと同時に、消費者向けAI市場の今後の成長方向性を占う発言として注目される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "published": "2026-10-13T18:30:00+00:00",
+      "rss_summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "summary": {
+        "title_ja": "Flox Intelligence、野生動物を鉄道や空港から遠ざけるAIを開発",
+        "overview": "スウェーデン発のスタートアップFlox Intelligenceが、AIを使って野生動物を線路や空港、道路などのインフラから安全に遠ざけるエッジデバイスを開発している。TechCrunch Disrupt内のStartup Battlefield 200ファイナリストに選出された。",
+        "background": "創業者Sara Nozkova氏は、自動運転など13年の交通分野での経験から、従来のサイレンや柵、猛禽類を使った対策では野生動物に適応されてしまい効果が限定的だと気づき、2020年にKTH王立工科大学のAIラボからFloxをスピンオフさせた。",
+        "points": [
+          "動体センサーで動物の接近を検知し、カメラとオンデバイスAIで種類を識別、適切な種特有の音を発して追い払う仕組み",
+          "クラウドではなくエッジ側でデータ処理を行い、学習により反応パターンを変化させることで動物の慣れを防止",
+          "現在北米・欧州・豪州の空港、鉄道、国立公園など約150台を稼働中で、2026年末の売上見込みは約150万ドル。鉄道大手Alstomとも提携"
+        ],
+        "importance": "野生動物との衝突は米国の航空業界で年間平均2億7200万ドルの損害、フランス鉄道では年間8000本以上の列車に影響を与えるなど経済的損失が大きく、物理的AIが屋外環境に進出する中で「自然認識」という新たな技術領域を切り開く可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+      "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "published": "2026-10-13T18:00:00+00:00",
+      "rss_summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to [&#8230;]",
+      "summary": {
+        "title_ja": "カメラなしのRay-Ban Meta Audioグラス、不快感が消えたレビュー",
+        "overview": "The Vergeのレビュアーが、カメラを搭載しないMetaのオーディオ専用スマートグラス「Ray-Ban Meta Audio」を数日間使用し、プライバシーへの不安が軽減された一方でAI機能にはまだ物足りなさを感じたと報告している。",
+        "background": "スマートグラスが盗撮の道具になり得るとして議論が巻き起こる中、Metaはカメラなしでオープンイヤー音声とAIアシスタント機能に特化したモデルを投入した。これは7年前のBose Framesと似たコンセプトだが、2026年の今、Metaブランドとプライバシー議論の文脈で改めて注目されている。",
+        "points": [
+          "カメラがないため録画への不信感が薄れ、常時音声待ち受け機能もウェイクワード無効化や物理ボタンで回避可能で、会話を直接録音する機能も搭載されていない",
+          "AIアシスタントは簡易版の「Muse Spark」を搭載し、カレンダー確認やリマインダー設定、位置情報共有などの軽作業はこなせるが、複雑な依頼には対応しきれずスマホの方が速いと感じる場面も多い",
+          "音質はオープンイヤー型としては良好だが大音量時に音割れや音漏れが発生し、価格350ドルに対して機能面では割高感が残る"
+        ],
+        "importance": "カメラを排除することで「気味悪さ」が和らぐという事実は、スマートグラス普及における最大の障壁がプライバシー懸念であることを示しており、Metaの今後のAI機能拡張（Muse AI本格導入）が実用性と信頼性の両立にどう寄与するかが今後の鍵となる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Facebook will let you customize your feed algorithm using AI",
+      "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+      "published": "2026-10-13T17:01:31+00:00",
+      "rss_summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics. Your Algorithm previously launched on Instagram earlier this [&#8230;]",
+      "summary": {
+        "title_ja": "Facebook、AIでフィードのアルゴリズムを自分好みに調整可能に",
+        "overview": "Metaは新機能「Your Algorithm」をFacebookに導入し、ユーザーが興味のあるトピックを直接追加・管理してフィードやReelsのおすすめ内容をカスタマイズできるようにした。",
+        "background": "同機能は今年すでにInstagramで提供されており、Threadsにも「Dear Algo」という類似機能が導入済みで、今回Facebookにも展開された形となる。",
+        "points": [
+          "投稿の三点メニューや投稿下に表示される「興味あり／なし」ボタンで、自分の好みをその場で伝えられる",
+          "自分の言葉で「もっと見たい／見たくない」内容を伝えると、同一セッション内でおすすめがリアルタイムに更新される",
+          "Metaはランキングシステムに大規模言語モデル（LLM）をより多く活用し、自然言語に含まれる関心・文脈・意図を反映できるようにしている"
+        ],
+        "importance": "ユーザーが対話的にアルゴリズムを調整できるようになることで、フィードの透明性とパーソナライズ性が向上し、SNSのレコメンド機能におけるAI活用の新たな方向性を示す事例となる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Google makes it easier to launch your vibe-coded apps",
+      "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+      "published": "2026-10-13T17:00:00+00:00",
+      "rss_summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code [&#8230;]",
+      "summary": {
+        "title_ja": "Google、バイブコーディングしたアプリをPlayストアから起動可能に",
+        "overview": "Googleは米国で、AI Studioでバイブコーディングした個人用Androidアプリを、PCに接続せずGoogle Playストアから直接起動できる新機能を発表した。",
+        "background": "Googleは2025年5月にAI Studioで個人用Androidアプリをバイブコーディングできる機能を導入しており、今回はその運用をさらに簡便にする形となる。",
+        "points": [
+          "個人用アプリはGoogle Playの公開カタログとは分離され、安全性とプライバシーが確保された状態で管理される",
+          "標準のGoogleアカウントでアプリを起動でき、今後は特定のグループへ共有する機能も追加予定",
+          "一般公開したい開発者向けには、プロフェッショナル開発者アカウントへの「卒業」導線として、Trust & Safety審査や品質基準への対応も用意されている"
+        ],
+        "importance": "実験的なアプリを気軽に試せるようになるだけでなく、Googleがバイブコーディングを新人開発者がプロの開発者へ成長するための入り口として位置付けている点で、AI開発の裾野拡大につながる可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+      "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+      "published": "2026-10-13T22:48:12+00:00",
+      "rss_summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+      "summary": {
+        "title_ja": "シュクレリ被告、医薬品業界永久追放令に違反か FTCが提訴",
+        "overview": "製薬業界からの終身追放処分を受けていたマーティン・シュクレリ氏が、その禁止令にほぼ全期間にわたり違反していたとして、FTCと7州の司法長官が連邦裁判所に法廷侮辱の申し立てを行った。",
+        "background": "シュクレリ氏は抗寄生虫薬ダラプリムの価格を1錠17.50ドルから750ドルへと4000%以上吊り上げる詐欺的スキームを行い有罪判決を受け、2022年に製薬業界からの終身追放処分を科されていた。",
+        "points": [
+          "禁止令は製薬企業株の保有や、企業活動に影響を与えうる公の発言を明示的に禁止していたが、シュクレリ氏は数十社の医薬品企業株を取引し、SNSのライブ配信で業界について語っていたとされる",
+          "FTCと7州（NY、CA、IL、NC、OH、PA、VA）は同氏に全製薬株の売却と、株取引で得た利益相当額の罰金支払いを求めている",
+          "今後の違反に備え、罰金増額や収監を含む段階的な制裁措置を裁判所に設定するよう要求している"
+        ],
+        "importance": "終身業界追放という厳格な司法命令でさえ公然と無視されたとすれば、規制当局による再発防止の実効性や、同種の違反者への抑止力のあり方が問われる事例となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+      "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+      "published": "2026-10-13T17:00:39+00:00",
+      "rss_summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
+      "summary": {
+        "title_ja": "Googleが個人制作のAIアプリをPlayストアで公開可能に",
+        "overview": "GoogleはPlayストアにAI機能を拡充し、AIで生成した個人制作アプリを非公開でホスト・共有できる仕組みを導入するほか、AI検索機能「Ask Play」の拡張とゲーム推薦エンジン「Game Finder」を発表した。",
+        "background": "Googleは2025年にAIチャットボット機能「Ask Play」をPlayストアの各アプリページに導入しており、今回はこれをアプリ検索全般に拡張する形で進化させている。",
+        "points": [
+          "Ask Playはアプリやゲームの比較チャートを含む詳細な推薦を生成する汎用検索機能へと拡大し、Geminiにも同様の機能が近く搭載される予定。",
+          "Game FinderはAndroid上の12億人のプレイデータを基に「Gamer DNA」というプロファイルを作成し、似た嗜好を持つプレイヤーとのマッチングやタグ調整による推薦を行う。",
+          "AIで作成した個人アプリ（いわゆる「vibe-coded」アプリ）をPlayストアで非公開にホスト・共有できる新機能も計画されている。"
+        ],
+        "importance": "一般ユーザーが生成AIで作ったアプリを公式ストアで配布できるようになれば、アプリ開発の民主化が一段と進み、Googleのストア運営やコンテンツ審査の在り方にも大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "published": "2026-10-13T16:00:02+00:00",
+      "rss_summary": "Developers will get 50 percent discounted API rates through November.",
+      "summary": {
+        "title_ja": "Gemini 4 Argon、Geminiアプリ等で提供開始も有料会員限定",
+        "overview": "Googleは最新AIモデル「Gemini 4 Argon」の本格提供をGeminiアプリおよびAntigravityで開始したが、現時点では有料プラン加入者のみが対象で、下位プランでは機能が制限される。",
+        "background": "数週間前に発表されたArgonは、悪用リスクへの懸念から段階的な展開が予告されていたが、Googleは比較的短期間で安全対策を整え、広範な提供に踏み切った。",
+        "points": [
+          "モデル自体の性能に変更はなく、先月公表した推論能力やエージェント型コーディングに関するベンチマークが引き続き根拠とされている",
+          "悪意ある指示を拒否するよう訓練されており、意図しない挙動を検知する自動ミスアライメント監視機能も搭載",
+          "社内利用の事例として、YouTubeコメントシステムの冗長な絵文字描画を特定しサーバー負荷を45％削減したほか、2018年から存在したドローン物理シミュレーターの重大バグを発見、ロボティクス分野でも推論能力の向上に貢献"
+        ],
+        "importance": "高性能AIモデルの提供を有料層に限定する戦略は、安全性確保と収益化を両立させるGoogleの姿勢を示しており、今後の生成AIモデルの商用展開のあり方に影響を与える可能性がある。"
+      }
+    }
+  ]
+}
