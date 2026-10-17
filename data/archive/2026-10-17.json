@@ -108,6 +108,151 @@
         ],
         "importance": "OpenAIとの訴訟の行方にかかわらず、Metaが規約によって事実上無償でAI学習用データへの広範なアクセス権を確保する形となり、報道機関などが得られるはずだったライセンス収入の機会が失われる懸念がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "published": "2026-10-17T20:21:19+00:00",
+      "rss_summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "summary": {
+        "title_ja": "アンソロピック、社員の若手比率低下と会議時間増加を報告",
+        "overview": "Anthropicは自社の労働環境に関する調査報告を公表し、過去1年で技術部門の若手社員比率が低下し、会議に費やす時間が増加したことを明らかにした。",
+        "background": "同社はAIを徹底的に業務に組み込んでおり、自社の労働形態の変化が経済全体における「AIが仕事の組織化や雇用、労働需要をどう変えるか」を示す指標になり得ると主張している。",
+        "points": [
+          "技術部門における若手社員の割合は2025年初頭の21%から14%へ、若手技術者の新規採用比率は27%から9%へと大幅に低下",
+          "技術系チームが全社員に占める割合は61%から56%に減少し、非技術職社員がコーディングツールで自らソフトウェアを作れるようになったことが一因とされる",
+          "2026年4月の社内調査では27%の社員がClaudeにより生産性が向上したと回答し、20%は業務内容が『実作業』から『Claudeの管理』へ変化したと回答",
+          "カレンダーデータによると、従業員1人あたりの会議時間は前年比20%増加（技術職では16%増）し、対面での調整が不可欠との声が多い"
+        ],
+        "importance": "AIの本格導入が進む企業において、若手採用の縮小や人間の判断力がボトルネックになる可能性、コード生産量増加と品質維持の両立など、今後の労働組織や雇用構造に対するAIの影響を占う先行事例として注目される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published": "2026-10-17T18:48:08+00:00",
+      "rss_summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "summary": {
+        "title_ja": "Replit、AnthropicとのパートナーシップをCEOが終了と発言",
+        "overview": "AIコーディングプラットフォームのReplitが、CEOのAmjad Masad氏によるとAnthropicとの提携を終了し、OpenAIがAgentのデフォルトモデルになったと明らかにした。",
+        "background": "Replitはこれまでコスト・パフォーマンス面でAnthropicのClaudeモデルを採用し急成長していたが、今年8月にOpenAIとの提携を発表していた。",
+        "points": [
+          "MasadCEOは「ChatGPTの方が優れている」とし、独自ベンチマークでもOpenAIのモデルがコード生成で上回ると説明",
+          "ユーザーは引き続きAnthropicのClaudeを選択可能だが、デフォルトはOpenAIに変更され、Anthropicへの支出が大幅に減る可能性",
+          "関係者はAnthropicとの提携継続を主張しており、公式サイトや社員のSNS投稿では最近までClaudeモデルの活用を紹介していた"
+        ],
+        "importance": "AI企業間のパートナーシップの不安定さと、モデル選定がコストや性能を理由に急速に変化しうる現状を示す事例であり、AnthropicとOpenAIの競争構図にも影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "published": "2026-10-16T14:26:51+00:00",
+      "rss_summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "summary": {
+        "title_ja": "マーク・ウォールバーグ、映画AI活用と自身のAI複製継承に前向き",
+        "overview": "俳優・監督のマーク・ウォールバーグがTechCrunch Disruptに登壇し、映画制作におけるAI活用の是非と、自身のAI複製が死後も作品に出演し続けることへの考えを語った。",
+        "background": "ハリウッドではAI利用を巡り賛否が分かれる中、ウォールバーグは主演予定のピート・ローズ伝記映画で、スタジアムの背景強化などにAIを活用する可能性を検討している。",
+        "points": [
+          "ChatGPTに脚本を書かせてそのまま撮影するような使い方には否定的で、実在の俳優を使った本物のストーリーテリングを重視する姿勢を強調",
+          "俳優の身体・顔・声をスキャンしAI複製を作るCAA Vaultは未利用だが、将来的な活用には前向きな姿勢を示した",
+          "自身が出演予定のアニメシリーズ「Ted」について、自分が亡き後もAIによる自身の似姿で継続することを容認する考えを表明"
+        ],
+        "importance": "著名俳優がAIによる自身のデジタル複製の継承に公に前向きな姿勢を示したことで、俳優の肖像権やレガシー管理、AI活用のあり方を巡る業界の議論に一石を投じる可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "published": "2026-10-17T15:04:36+00:00",
+      "rss_summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&#8230;]",
+      "summary": {
+        "title_ja": "Metaがニュースサイトのスクレイピングを示唆する規約文言を削除",
+        "overview": "Metaは批判を受け、AI訓練のためにニュースサイトなどのコンテンツをスクレイピングできると解釈され得る文言を商用規約から削除した。",
+        "background": "Nieman Labやコーネル大学のJames Grimmelmann教授らは、問題の文言がMetaにコンテンツを無断利用しrobots.txtによるブロック指示を無効化する権利を与えるものだと指摘していた。",
+        "points": [
+          "削除されたのは、対象ドメインやURLのコンテンツをMetaの製品開発・訓練・研究等に利用できるとする規約条項。",
+          "広報担当のAndy StoneとDaniel Robertsは当初『ウェブクローラーの運用方法に変更はない』と反論していたが、最終的に文言自体を全面削除した。",
+          "Metaは、今回統合された規約はあくまで広告・ビジネス製品向けのものであり、robots.txtによるサイト運営者の意思表示を上書きする新たな権利を与えるものではないと説明した。"
+        ],
+        "importance": "AI企業による無断コンテンツ利用への懸念が高まる中、規約の曖昧な文言一つで業界や報道機関からの強い反発を招くことを示した事例であり、今後のAI訓練データ収集を巡る透明性確保の重要性を浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Websites are closing their doors to AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "published": "2026-10-17T13:00:00+00:00",
+      "rss_summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+      "summary": {
+        "title_ja": "AIエージェントを拒むウェブサイトが急増",
+        "overview": "Meta MuseやxAI Grok、OpenAI Dotsなど主要なAIエージェントが、Amazon、Yelp、Delta、JPMorgan Chase、Charles Schwabなど多数のサイトで利用をブロックされる事例が相次いでいる。",
+        "background": "Amazonは2024年にPerplexityの自律型ショッピング機能を提訴しており、裁判所は一度は差し止めを命じたが8月に控訴審で覆された経緯がある。OpenAI、Meta、Googleはこうした法的対立が続く中でも独自のAIエージェントを次々投入している。",
+        "points": [
+          "Yelpはデータライセンス契約を結んだエージェントのみ許可し、金融機関はセキュリティ上の懸念からアカウントアクセスを遮断している",
+          "Metaは正面対立を避け、Walmart・Gap・Sephora・Best Buyなどと提携してMuseに買い物をさせる道を選択、Shopifyもエージェントに開放的",
+          "明示的な遮断がなくても、Cloudflareの対策強化やサイトの不正ボット対策が意図せずAIエージェントの動作を妨げるケースも増えている"
+        ],
+        "importance": "あらゆるオンライン作業を代行できるとAI各社が喧伝するエージェントだが、主要サイトからのアクセス拒否が広がれば実用性への疑問が強まり、同時にCAPTCHA等の人間確認の仕組みが一般ユーザーにとってもウェブ利用を一層煩雑にする恐れがある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Science says your boss should talk less in meetings",
+      "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "published": "2026-10-17T11:15:11+00:00",
+      "rss_summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "summary": {
+        "title_ja": "会議科学が示す「上司は話しすぎるな」という教訓",
+        "overview": "組織心理学の新分野「会議科学」の研究により、効果的な会議を実現するための具体的な知見が明らかになってきた。リーダーが発言しすぎず、傾聴を重視することがチームの成果向上につながるという。",
+        "background": "世界中で1日に約10億件の会議が行われ、CEOは勤務時間の約4分の3を会議に費やすとされる。これまで会議は研究対象として扱いにくかったが、仮想会議の録画データが大量に蓄積されたことで、組織・社会心理学者による「会議科学」という専門分野が急成長している。",
+        "points": [
+          "ハンブルク大学のナレ・レーマン=ヴィレンブロック教授らの研究では、リーダーが敬意を持って傾聴しながら質問する姿勢がチームの意思決定パフォーマンスを高めることが判明",
+          "リーダーが発言時間を独占しがちで、それが自己評価の高さにもつながる傾向があるため、発言量をモニターし多様な意見を引き出す工夫が必要",
+          "内向的な参加者の発言を促すには、会議前の雑談や「サイレント・ブレインストーミング（ブレインライティング）」といった、同時に匿名で意見を書き込む手法が従来の口頭ブレインストーミングより有効とされる"
+        ],
+        "importance": "膨大な時間が会議に費やされている現状において、科学的根拠に基づく運営改善は組織全体の生産性や従業員の心理的満足度向上に直結する可能性があり、リモートワークが定着した現代の職場運営に実践的な示唆を与える。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+      "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+      "published": "2026-10-16T14:03:25+00:00",
+      "rss_summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+      "summary": {
+        "title_ja": "テスラ、新ロードスターに50年前のスタント技術を採用か",
+        "overview": "テスラは新型「ロードスター」の発表イベントで、圧縮窒素ガスを噴射するスタント技術を使い車体を宙に浮かせる演出を行った。9年前の初発表から大幅に遅延している車両の再アピールとなった。",
+        "background": "イーロン・マスク氏は過去にもCybercabのリモコンデモでハリウッドのバックロットを使うなど、ショービジネス的演出を好んできた。今回もテキサスに本社を移しながら、発表の場としてカリフォルニアのショービジネス業界を再び利用した形だ。",
+        "points": [
+          "車体後部の4本の大型排気管からは燃料ガスではなく、10万psiの圧縮窒素ジェットが噴射される仕組みで、公道での合法性は不明。",
+          "駆動方式は異例の後輪駆動を採用し、問題を抱える4680セルを使った専用バッテリー化学を搭載すると発表。",
+          "最高速度383mph（616km/h）、0-60mph加速0.8秒という誇大とも言える性能目標を掲げたが、既に市販されているMcMurtry Spéirlingの方が横G性能（3.5G対2G）で上回る。"
+        ],
+        "importance": "9年越しの発売延期に加え、現実の競合EVを上回らない性能主張が続くことで、テスラの技術的優位性への信頼性が改めて問われる事例となっている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+      "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+      "published": "2026-10-16T14:00:59+00:00",
+      "rss_summary": "Watch an exclusive clip from <em>Super Scam Me</em> where a victim tracks down her scammer.",
+      "summary": {
+        "title_ja": "ロマンス詐欺師の正体を暴く：ドキュメンタリー「Super Scam Me」",
+        "overview": "National Geographicで放送される新作ドキュメンタリー「Super Scam Me」は、調査ジャーナリストのマリアナ・ヴァン・ゼラーが自ら偽のプロフィールで囮となり、ロマンス詐欺の実態と手口を追う内容になっている。",
+        "background": "FTCによれば、ロマンス詐欺は米国で年間約15億ドルの被害をもたらす代表的な金融詐欺となっており、特にコミュニティを持たず孤独な高齢女性（未亡人や離婚経験者など）が標的にされやすい。AIの進化により海外の詐欺師の手口はさらに巧妙化していると報告されている。",
+        "points": [
+          "ヴァン・ゼラーは「メアリー・ゼル」という架空の中年骨董品商に扮し、かつらや付け鼻で正体を隠してSNS上で詐欺師を誘い出した",
+          "倫理的ハッカー「Arman the Cyber」と協力し、偽のビットコイン送金証明を使って偽ジョン・ボン・ジョヴィを名乗る詐欺師をおびき出す手法も紹介",
+          "ガーナ在住の詐欺師（「マーク・ターナー」を名乗る偽の米軍将官）を実際に対面で突き止めるため、現地でチラシを配布するなど実地調査を敢行"
+        ],
+        "importance": "ロマンス詐欺は被害額の回収が極めて難しく、AIの悪用でさらに巧妙化する恐れがある中、詐欺師の手口を可視化し一般の理解を深めることは被害防止に直結する重要な社会的意義を持つ。"
+      }
     }
   ]
 }
