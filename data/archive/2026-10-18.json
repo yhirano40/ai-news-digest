@@ -54,6 +54,78 @@
         ],
         "importance": "AIは雇用を奪うのではなく仕事の内容そのものを変えるという前向きなビジョンを示しており、企業がAI導入を進める上での具体的な指針や、シリコンバレー発の「明るいAI変革像」として今後の働き方議論に影響を与える可能性がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "published": "2026-10-18T20:37:40+00:00",
+      "rss_summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "summary": {
+        "title_ja": "Anthropic、株式の5%を「公共利益基金」に拠出へ",
+        "overview": "Anthropicは、社会的利益のためのプロジェクトを支援する「公共利益基金」を新設し、自社株式の5%を拠出すると発表した。企業価値が50%増加するごとに追加で2%を拠出する選択肢も設けるという。",
+        "background": "AI業界は世間からの不信感が高まっており、CEOのダリオ・アモデイ氏はこれを「本質的に信頼の危機」と表現している。同社はすでにAIが雇用市場に与える影響の調査に2億ドルを投じている。",
+        "points": [
+          "基金は社内に完全子会社として設置され、株式の5%を基本拠出とし、企業価値50%増ごとに2%を追加拠出できる仕組み",
+          "資金用途は既存の非営利団体への多額の寄付や特定の人々への直接給付など幅広く想定されている",
+          "具体的な運営体制やガバナンスの詳細は今後数カ月以内に公表予定"
+        ],
+        "importance": "AI企業への社会的信頼が揺らぐ中、利益の一部を社会還元する仕組みづくりは業界全体への説明責任や規制対応のあり方にも影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "published": "2026-10-18T16:30:00+00:00",
+      "rss_summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "summary": {
+        "title_ja": "ディズニー、破産申請したCharacter.AIの大半の従業員を雇用へ",
+        "overview": "チャットボット企業Character.AIが破産申請した後、ディズニーが同社従業員の大半を採用することで合意したことが法的文書で明らかになった。",
+        "background": "Character.AIの元CEOカランディープ・アナンド氏はすでにディズニー初のCTOに就任しており、ディズニーは以前から同社の一部資産を2000万ドルで買収することで合意していた。",
+        "points": [
+          "ディズニーはCharacter.AI従業員の過半数にあたる少なくとも60人に雇用を提示し、年間報酬総額は約6000万ドルと見積もられている",
+          "提示を受けた従業員の「大多数」がディズニーへの移籍を承諾した",
+          "この提案は『ストーキングホース入札』であり、他社がより高い買収案を提示する可能性も残されている"
+        ],
+        "importance": "Character.AIは未成年ユーザーの安全を巡る訴訟や規制当局の調査に直面し、高コスト体質も相まって経営破綻に至った経緯があり、AIチャットボット事業のリスクと大手企業による人材・技術の吸収という業界の動向を象徴する事例となっている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "published": "2026-10-18T18:28:10+00:00",
+      "rss_summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]",
+      "summary": {
+        "title_ja": "配達ロボットの進路妨害で女性逮捕 フィラデルフィア",
+        "overview": "フィラデルフィアでキャロリン・マービン氏が、Uberの配達ロボットの前に立ちはだかり進路を妨害したとして、秩序紊乱行為の容疑で逮捕された。",
+        "background": "マービン氏は人間の配達員の仕事を奪っているとして、以前から配達ロボットを見かけるたびに前に立ちはだかって抗議活動を行っていた。",
+        "points": [
+          "警察が現場に駆けつけ退くよう求めたが拒否したため、手錠をかけられ逮捕された",
+          "一連の様子は動画に収められ、大きなメディアの注目を集めている",
+          "フィラデルフィア中心部では配達ロボットへの反発が強まっており、今年初めには別のロボットが蹴り倒される事件も発生していた"
+        ],
+        "importance": "ロボタクシーや配達ロボット、AIエージェントなど自動化技術の普及が低スキル労働者の雇用に与える影響への懸念が広がっており、今回の事件はその社会的対立を象徴する出来事といえる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "published": "2026-10-18T16:25:19+00:00",
+      "rss_summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "summary": {
+        "title_ja": "Anthropic、外部AI監視団体に「社員並み」のアクセス権付与",
+        "overview": "AnthropicはAIモデルのリスク評価のため、外部評価機関METRに社内のハードウェアやシステムへの「社員並み」のアクセス権を与えたと発表した。",
+        "background": "AIの急速な高性能化が経済・サイバーセキュリティ・人類全体への脅威となりうるとの懸念が高まる中、CEOのダリオ・アモデイ氏が主要AI企業に外部監査人を社内に組み込む提案をし、9月にはOpenAIのサム・アルトマン氏やElon Musk氏も支持を表明していた。",
+        "points": [
+          "METRはOpenAI、Google、Metaなど主要AI企業とも協業経験を持つ非営利団体で、今回Claude開発元のAnthropicのオフィスにチームを常駐させる形となる",
+          "Anthropicは全ての安全性に関する情報を公開できないとしつつ、銀行監督のように規制当局が大手銀行に常駐検査官を置く仕組みに似た運用を目指すと説明",
+          "批判派は会計業界の事例を引き合いに利害相反のリスクを指摘し、外部評価機関への依存より政府による規制強化が必要だと主張している"
+        ],
+        "importance": "今回の発表はAI大手が表明してきた第三者評価導入の具体的な第一歩であり、OpenAIなど他社が同様の取り組みをどう進めるかの試金石となる。AIガバナンスにおいて自主規制と政府規制のバランスを巡る議論にも影響を与える可能性がある。"
+      }
     }
   ]
 }
