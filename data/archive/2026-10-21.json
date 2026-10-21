@@ -126,6 +126,168 @@
         ],
         "importance": "幹部の関与が明らかになれば、Metaが組織的かつ意図的に著作権侵害を主導した「故意の侵害」と認定される可能性が高まり、AI企業の学習データ収集における法的責任の所在を問う重要な先例となる。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "published": "2026-10-21T21:16:20+00:00",
+      "rss_summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "summary": {
+        "title_ja": "TechCrunch Founder Summit 2026、11月4日ボストンで開催決定",
+        "overview": "TechCrunchは創業者向けイベント「Founder Summit 2026」を2026年11月4日、米ボストンのSoWa Power Stationで開催する。VCや経験豊富な起業家と直接交流しながら、資金調達やAIネイティブな企業構築、リーダーシップなど実践的な知見を得られる1日集中型イベントとなる。",
+        "background": "本イベントは従来「Early Stage」「All Stage」として開催されていたものが今年から名称を変更し、より創業者に特化した小規模・実践重視のイベントとして再設計された。Disruptよりも規模が小さく、創業ステージを問わず参加できる点が特徴。",
+        "points": [
+          "Toast共同創業者のSteve Fredette氏やBessemer Venture PartnersのKent Bennett氏など、資金調達・プロダクトマーケットフィット・AI活用をテーマにした講演が予定されている",
+          "早期スタートアップ3社が4分間でピッチを行う恒例の「So You Think You Can Pitch?」コンペティションも実施される",
+          "チケットは投資家399ドル、創業者199ドル、学生149ドルで、共同創業者分は50%割引、4人以上のグループ割引やボランティア参加による無料参加制度もある"
+        ],
+        "importance": "東海岸を拠点とする創業者やスタートアップにとって、著名投資家や成功した起業家から直接実践的な助言を得られる貴重な機会であり、2027年に向けた事業戦略立案やネットワーキングの場として重要な意味を持つ。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "published": "2026-10-21T21:14:19+00:00",
+      "rss_summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": {
+        "title_ja": "Meta、AIアプリ「Muse」のユーザー1000万人突破　ショッピング利用が活発",
+        "overview": "Metaは第3四半期決算発表で、AIエージェントアプリ「Muse」のユーザー数が1000万人を超えたと明らかにした。利用者の約25%が毎日利用し、ショッピング機能を使う利用者の平均購入額は200ドル超に達しているという。",
+        "background": "この数字は市場調査会社Sensor Towerが今週発表した推計を裏付けるもので、ZuckerbergCEOは決済連携サービスPlaidからも「他に例を見ない」利用の活発さを指摘されたと明かした。",
+        "points": [
+          "MuseはPlaidの接続機能を使ったエージェント型ショッピングのほか、メールやカレンダー連携など個人の生産性タスクにも活用されており、セキュリティ機能「Muse Secure VM」や今後導入予定の「Muse Confidential VM」への信頼がうかがえる",
+          "Metaは「プロダクトマーケットフィット」を達成したとして、今後はMuseの規模拡大・収益化・計算コスト最適化に注力する方針で、将来的にはFacebookやInstagramなど既存ファミリーアプリ（年間数百ドル規模）を上回る1人当たり収益を見込む",
+          "計算コストは今後1年で10倍以上効率化を見込み、収益が規模に達した段階で黒字化できると説明。またMuse同士が友人・家族のMuseや企業のエージェントとやり取りできる「Museネットワーク」構想も明らかにした"
+        ],
+        "importance": "Museはスマートグラス戦略の中核も担う一方、担当部門Reality Labsは巨額赤字（2025年190億ドル→今年150億ドル見込み）が続いており、収益化の成否はMeta全体のAI・ハードウェア戦略の行方を左右する重要な指標となる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "published": "2026-10-21T20:27:41+00:00",
+      "rss_summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "summary": {
+        "title_ja": "Recursive社、AIが大半を開発したノートPC向けコーディングモデル「Flint」発表",
+        "overview": "AIスタートアップRecursiveが、自動研究システム「Eureka Machine」の支援でほぼ全工程を構築したコーディングモデル「Flint」を無料公開した。ノートパソコンでも動作する小型モデルで、Hugging FaceでApache 2.0ライセンスのもと提供される。",
+        "background": "Recursiveは「AIが自らを改善するAI」を目指すスタートアップで、今年5月にGVやNvidia、AMD Venturesなどから65億ドルの評価額で6.5億ドルの資金調達を行い、Salesforce元チーフサイエンティストのRichard Socher氏がCEOを務める。Flintは小規模チームが4カ月足らずで開発し、再帰的自己改善の実証実験と位置付けられている。",
+        "points": [
+          "Flintは混合専門家（MoE）構成で、400億パラメータ中2.5億のみを都度使用する軽量設計により、Meta製の8160億パラメータモデルより大幅に小さく、一般的なノートPCでも動作可能。",
+          "MacBook Pro（M4 Pro）上で毎秒約131トークンを生成し、Google GemmaやNvidia Nemotronなど同クラスモデルの約2倍の速度を記録、RTX Sparkでは毎秒150トークン超を達成。",
+          "SWE-Bench Verifiedなどの実世界バグ修正ベンチマークで50億パラメータ未満モデル中トップ、独自の6テスト平均でもAlibabaのQwen3.8 27Bに次ぐ高スコアを記録。"
+        ],
+        "importance": "Flintはクラウド不要でオフライン利用・コード機密保持・従量課金回避が可能な実用モデルであると同時に、AIが自らの後継モデル開発を支援する「再帰的自己改善」の初の公開実証例であり、AI開発の高速化と制御可能性をめぐる業界の議論に一石を投じる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "published": "2026-10-21T21:30:02+00:00",
+      "rss_summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, [&#8230;]",
+      "summary": {
+        "title_ja": "Meta、AI投資資金調達へ新株式クラスを創設",
+        "overview": "Metaは第3四半期決算発表の一環として、AI関連の取り組みに充てる資金を調達するため、新しい議決権のない株式クラスを発行すると発表した。取引開始は2027年を予定している。",
+        "background": "MetaはAI分野での競争激化を背景に、データセンター拡大や人材獲得、AIモデル開発に巨額investmentsを続けており、今年の設備投資は1350億〜1450億ドルに上る見込みとなっている。",
+        "points": [
+          "新株式クラスは非議決権株式で、AI投資のほか買収や従業員報酬にも活用される",
+          "CFOのスーザン・リー氏は、AI主導の事業成長に対応する資金調達手段の柔軟性拡大が狙いと説明",
+          "設備投資見通しは従来の1300億〜1450億ドルから引き上げられた"
+        ],
+        "importance": "巨額のAI投資を続けるMetaにとって、新たな資金調達手段の確保は競合他社との開発競争を維持する上で重要であり、AI分野への投資拡大がさらに加速する可能性を示している。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "published": "2026-10-21T19:53:20+00:00",
+      "rss_summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is [&#8230;]",
+      "summary": {
+        "title_ja": "Anthropic、新AIエージェント「Claude Duet」発表 MuseやDotsに対抗",
+        "overview": "Anthropicは、プロフェッショナルや中小企業経営者向けの新しいAIエージェント「Claude Duet」を発表した。現在「研究プレビュー」として、iOS・Android向けのスタンドアロンアプリおよびWeb版Claudeで利用可能。",
+        "background": "MetaのMuseやOpenAIのDotsなど、業務支援型AIエージェントが相次いで登場する中、AnthropicもClaude Opus 5.5を基盤とした独自のエージェントを投入した。",
+        "points": [
+          "毎朝、連携アプリ全体から重要事項をまとめた短いブリーフを送信し、日中も監視して必要な時だけ通知する。",
+          "会議設定などの簡単な事務作業から、ダッシュボード構築、財務・売上予測、Webアプリのプロトタイプ作成まで幅広いタスクを処理可能で、ブラウザ操作可能な仮想マシンを使用する。",
+          "支払いやデータ削除など重要な操作の前にはユーザーの承認を求め、クレジットカード番号など機密性の高い情報の共有要求を拒否する専用の分類システムと安全プロンプトを搭載。"
+        ],
+        "importance": "業務支援AIエージェント市場での競争が激化する中、安全性への配慮を組み込みつつ実用的な自動化を目指す点が注目される。ただし現時点では「早期バージョン」であり、判断ミスの可能性やチケット予約などの個人的な用事への対応力には課題が残る。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "published": "2026-10-21T19:30:00+00:00",
+      "rss_summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which [&#8230;]",
+      "summary": {
+        "title_ja": "ウォルマート、AIエージェントによる買い物を解禁へ",
+        "overview": "ウォルマートは来月、同社サイトでAIエージェントが代理購入できる仕組みを導入する。購入の承認・確認機能や使用上限額の設定も可能になる。",
+        "background": "Amazonがperplexityの購入エージェントやMetaのMuseをブロックするなど、他の小売大手がAIエージェントを締め出す中、ウォルマートは逆に受け入れる方針を打ち出した。",
+        "points": [
+          "AIエージェントは利用者の意図を超えた行動や支払い方法の変更が禁止され、違反すれば利用停止となる",
+          "新設の『エージェントプロファイル』で購入の承認設定や予算上限（例：100ドルまで）を管理でき、購入履歴も個別に確認可能",
+          "MCP（Model Context Protocol）を用いた『エージェントゲートウェイ』をベータ公開し、ブラウザ操作の不具合を回避しつつ、個人の購入履歴全体を共有せずに好みの商品だけを案内する仕組みを構築"
+        ],
+        "importance": "EC大手がAIエージェントとの連携方針で分かれる中、ウォルマートの取り組みはAIを活用した新たな購買体験の標準となる可能性があり、今後の小売業界におけるAIエージェント対応の方向性を左右する試金石となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "published": "2026-10-21T19:44:40+00:00",
+      "rss_summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+      "summary": {
+        "title_ja": "AI時代だからこそ響く、Apple Musicの新ブランド「人の手」訴求",
+        "overview": "Appleが「Liquid Glass」デザインを採り入れたApple Musicの新ブランドアイデンティティを発表し、その制作舞台裏を紹介する1分強の映像も公開した。",
+        "background": "デザイン会社TBWA/Media Arts Labやプロデューサーのフレッド・アゲインを起用し、粘性の高いミネラルオイルを満たしたタンクとトランスデューサーを使って音の振動を物理的な波紋として可視化し、ブランドロゴと組み合わせる手の込んだ撮影手法が採られた。",
+        "points": [
+          "ブランド刷新はAppleの他デザインと同様、Liquid Glassの潮流を踏襲した見た目に変更された。",
+          "舞台裏映像では、クルーによる撮影セットや物理的な実験装置を使い、デジタルではなく実写・実物による制作過程を強調している。",
+          "Fast Companyが技術的な詳細を解説するなど、制作手法自体が話題になるほど凝った演出となっている。"
+        ],
+        "importance": "AI生成コンテンツが急増する中で、Appleがあえて人の手と物理的な制作プロセスを前面に押し出すことで、「本物感」や「人間らしさ」をブランド価値として打ち出す戦略が浮き彫りになっている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "published": "2026-10-21T18:51:42+00:00",
+      "rss_summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "summary": {
+        "title_ja": "OpenAIの最新AIモデル、Google CloudとAntigravityに対応へ",
+        "overview": "OpenAIとGoogleが提携し、OpenAIの最新モデルがGoogle Cloudの「Model Garden」や、Googleのエージェント型コーディングツール「Antigravity」で利用可能になることが発表された。",
+        "background": "Google Cloudの「Model Garden」にはこれまでも自社Geminiや、Mistral・Llama・Gemmaなどのオープンモデル、さらにAnthropicのClaudeが提供されており、今回OpenAIが加わることでGoogleは主要な3大クローズドLLMすべてを提供する唯一の大手クラウド事業者になるという。",
+        "points": [
+          "GPT 6および6.1系列の全モデル（Astra、Sol、Luna）が数週間以内にGoogle Cloudで提供開始予定。",
+          "Googleのシステムは性能・レイテンシ・効率性に応じてワークロードを動的に複数LLM間で振り分ける機能を備える。",
+          "OpenAIモデルはGoogleのインフラ上で完結稼働し、取引はGoogle Cloud Marketplace経由で処理される。"
+        ],
+        "importance": "Microsoftが依然OpenAIの主要クラウドパートナーである一方、Google Cloudの既存契約を持つ企業がGPTモデルへ容易に切り替えられるようになり、クラウドAI市場での競争と選択肢の多様化が進むと見られる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+      "link": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+      "published": "2026-10-21T18:35:38+00:00",
+      "rss_summary": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
+      "summary": {
+        "title_ja": "マスク氏がスターリンク減速指示、トランプ氏に責任転嫁か",
+        "overview": "ウォール・ストリート・ジャーナルの報道によると、ウクライナ軍を混乱させたスターリンク速度制限は、イーロン・マスク氏自身が指示したものであり、米軍やトランプ大統領が決定したという本人の主張とは食い違っていた。",
+        "background": "マスク氏とトランプ氏はいずれも、ウクライナがロシアのディーゼル精製施設を攻撃したことを批判しており、その直後に軍事版スターリンクの速度制限が導入された。",
+        "points": [
+          "軍事版「スターシールド」に対し、端末が時速160km（100mph）を超えて移動すると通信接続が切断される制限が予告なく導入された。",
+          "この制限により、ウクライナの攻撃用・迎撃用ドローンの多くが通常より低速での飛行を強いられ、ロシア軍の攻撃を受けやすくなった。",
+          "関係者によると、マスク氏は決定前にトランプ氏や政権関係者と話していたが、最終判断はマスク氏自身が下したとされる。"
+        ],
+        "importance": "民間企業トップが軍事インフラの運用を事実上左右できる現状が浮き彫りになり、同盟国の防衛作戦が特定企業の意思決定に左右されるリスクが改めて注目される。"
+      }
     }
   ]
 }
