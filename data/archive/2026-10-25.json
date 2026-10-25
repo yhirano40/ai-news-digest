@@ -37,6 +37,78 @@
         ],
         "importance": "AI生成映像が一般化する中、本物の自然映像の「不完全さ」こそが信頼性の証となりつつあり、ドキュメンタリー制作における新たな authenticity の基準を示す事例となっている。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published": "2026-10-25T16:57:32+00:00",
+      "rss_summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "summary": {
+        "title_ja": "AI投資、テック企業以外には「財務的恩恵ゼロ」 アポロ首席エコノミストが指摘",
+        "overview": "Apollo Global Managementの首席エコノミスト、トルステン・スロック氏が、AIへの巨額投資にもかかわらずテック業界以外の米企業には財務的な恩恵が全く見られないとする分析を発表した。",
+        "background": "スロック氏はS&P500からアルファベット、アマゾン、アップル、メタ、マイクロソフト、エヌビディア、テスラを除いた「S&P 493」に注目し、これら企業の利益率や従業員1人あたり収益が横ばいで、AIによる生産性向上の兆候が見られないことを明らかにした。",
+        "points": [
+          "AIへの投資規模とAI技術への期待の高まりにもかかわらず、テック業界以外では収益成長や利益率改善につながっていない",
+          "スロック氏は『AIは優れた計算機だが、ビジネスにおける知性の本質は判断力にある』とし、説明責任や信頼、企業文化、倫理的判断などAIが理解できない要素が評判リスクや収益成長を左右すると指摘",
+          "他の最近の調査でも、AIが大きな生産性向上をまだもたらしていないことが示されている"
+        ],
+        "importance": "巨額のAI投資ブームの中で、実際の経済効果に疑問符がつく形となり、企業や投資家がAI導入戦略や投資判断を見直す契機となる可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "published": "2026-10-25T14:10:00+00:00",
+      "rss_summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "summary": {
+        "title_ja": "注目のAI搭載ウェアラブル・ガジェット最新事情",
+        "overview": "TechCrunchが、会話記録や日常サポートを行うAIペンダント・リストバンド・携帯端末など、話題のAIウェアラブル製品群をまとめて紹介している。",
+        "background": "AmazonによるBee買収やOpenAIのAIコンパニオン端末開発などを背景に、常時音声を聞き取りメモや要約を作る「パーソナルAI」デバイス市場が急速に拡大している。",
+        "points": [
+          "Bee（Amazon傘下）は49.99〜99.99ドルで、新機種Bee FrontierとBee Eclipseを発売し、会話記録とリマインダー作成機能を提供",
+          "Friendは129ドルのペンダント型「感情サポート」AIで、スピーカー搭載の新版Friend 2.0を発表",
+          "Limitless（旧Rewind）、Nirva、Muse Charm（Meta）、Omi、Plaud NotePin、Rabbit R1など、録音・要約・パーソナル成長支援に特化した多様な製品が登場"
+        ],
+        "importance": "常時音声収集型AIデバイスが生産性ツールから感情支援まで用途を広げる一方、プライバシーや監視への懸念も高まっており、今後の市場競争とユーザー受容性が注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "published": "2026-10-25T13:25:32+00:00",
+      "rss_summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source [&#8230;]",
+      "summary": {
+        "title_ja": "Redditのr/opensource、AI関連投稿や非英語話者を一斉禁止",
+        "overview": "Reddit掲示板「r/opensource」の運営陣が土曜夜、新しい投稿ルールを発表し、AIを使用・生成した、あるいはAI向けのプロジェクトの投稿を全面禁止した。",
+        "background": "運営陣は「AIは現在の形ではオープンソースコミュニティと相容れない」と説明したが、Linuxカーネルにも既にAI生成コードが一部含まれている現状があり、ルールの適用範囲を巡って議論が噴出している。",
+        "points": [
+          "新ルールでは、投稿対象のプロジェクトは公開から1年以上経過し、積極的にメンテナンスされ、複数の貢献者がいることが条件となり、個人開発者による新規プロジェクトの協力者募集も事実上禁止された。",
+          "非英語話者も実質的に締め出された。運営は「AI生成とAI翻訳の区別がつかず、非英語話者は翻訳が正確かどうか自分で確認できない」と理由を説明している。",
+          "モデレーターのWolverenessはアクセシビリティ目的のAI機能（自動字幕など）には例外的運用の余地があるとコメントしたが、ルールが曖昧・過度に広範との批判は収まらず、対抗コミュニティ「r/trueopensource」が新設される事態に発展した。"
+        ],
+        "importance": "AI生成コードの普及が進む中、オープンソースコミュニティがAIとどう向き合うかという線引きの難しさを象徴する事例であり、排他的な運用がコミュニティの分断や新規参入者・非英語圏開発者の排除につながるリスクを浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Google’s AI search changes upended online publishing",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "published": "2026-10-25T12:00:00+00:00",
+      "rss_summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on [&#8230;]",
+      "summary": {
+        "title_ja": "GoogleのAI検索機能、オンライン出版業界を揺るがす",
+        "overview": "GoogleのAI Overviews（2024年開始）とAI Mode（2025年5月開始）により、検索結果からの要約表示が優先され、パブリッシャーへのクリック数とトラフィックが大幅に減少した。",
+        "background": "長年、パブリッシャーはGoogle検索で上位表示されるよう最適化に注力し、Googleは露出とトラフィックを提供する互恵関係にあったが、AI生成の要約を検索結果最上部に表示する機能の登場でこの関係が崩れた。",
+        "points": [
+          "2024年Press Gazette調査では、AI Overviewsが2024年5月のニュース関連検索の約4分の1に表示され、既存メディアサイトの上位表示を置き換えた。",
+          "WSJやDCN加盟社のデータでは、NYTの検索トラフィック比率が44%から35.5%に低下、DMG Media（Daily Mail運営）はクリック率が最大89%減少したと報告。",
+          "GoogleはクリックボリュームはＡＩ検索導入後「比較的安定」と主張し、フォーラムや動画サイトへの誘導を増やしていると反論、パブリッシャー側の集団訴訟は裁判所で退けられるケースが多い。"
+        ],
+        "importance": "パブリッシャーはSNSやニュースレター、サブスクリプションへの依存を強めざるを得ず、Google側もソース表示の改善を進めているが、検索流入に依存してきたオンラインジャーナリズムのビジネスモデル自体が根本的な転換を迫られている。"
+      }
     }
   ]
 }
