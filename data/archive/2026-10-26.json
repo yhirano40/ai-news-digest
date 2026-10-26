@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-26",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "published": "2026-10-25T21:31:16+00:00",
+      "rss_summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "summary": {
+        "title_ja": "Grok版『オデュッセイア』、最初の7分を公開",
+        "overview": "イーロン・マスク氏が予告していたAI生成映画『オデュッセイア』について、Grokが第1話として約7分間の映像をWonder Studiosおよび監督Dev Walkerとの共同制作で公開した。",
+        "background": "マスク氏は約3カ月前、クリストファー・ノーラン監督の実写版『オデュッセイア』が非白人やトランスジェンダーの俳優を起用したことを批判し、自身は「歴史的に正確な」フルレングス映画をGrokで制作すると宣言していた。ノーラン版は6カ国での撮影と数千人規模のキャスト・スタッフによる実写中心の作品で、7月の公開後は興行的に大成功を収め、アカデミー賞の有力候補ともされている。",
+        "points": [
+          "映像の質は想定より悪くなく、一部のショットは実写と見紛うほどだが、全体として芸術性やインスピレーション、人間味に欠けると評されている。",
+          "登場人物の肌の色が均質で、ナレーションには英国訛りが使われるなど、ステレオタイプ的な演出が目立つ。",
+          "冗長な前置きと単調なセリフ回しにより、7分間でも視聴者の関心を維持するのが難しいとされている。"
+        ],
+        "importance": "AI生成映像技術が実写映画に見た目で近づきつつある一方、物語性や演出面での限界が浮き彫りになっており、AI制作コンテンツと伝統的な映画製作の質の差を象徴する事例となっている。"
+      }
+    }
+  ]
+}
