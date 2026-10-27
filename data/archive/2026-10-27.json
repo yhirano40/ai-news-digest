@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-27",
+  "articles": [
+    {
+      "source": "The Verge",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "published": "2026-10-26T23:34:58+00:00",
+      "rss_summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
+      "summary": {
+        "title_ja": "OpenAI、数学・計算機科学・物理学で3大発見と新たな学術連携手法を発表",
+        "overview": "OpenAIは数学的長年の未解決問題集を大量公開してから1カ月足らずで、数学・計算機科学・物理学の3分野にわたる「主要な」発見を新たに発表した。",
+        "background": "今回は外部専門家を「シェパード」として結果の検証に関与させる新方式を導入し、数学分野ではAI出力をそのまま研究者に公開して各自に説明を委ねる形を取った。",
+        "points": [
+          "計算機科学分野では、長年真とされてきた指数時間仮説（ETH）が偽であることを示す決定的アルゴリズムを提示し、Impagliazzo氏やWilliams氏ら専門家グループが検証を主導する。",
+          "数学分野ではユークリッド波動方程式の局所平滑化予想を全次元で解決し、Kakeya予想やSteinの制限予想も導出したとする証明をGitHubで公開した。",
+          "物理学分野では量子色力学（QCD）を含む標準模型の統一的完成に関する存在証明を示したが、詳細は未公開でDavid Gross氏らが検証を主導する。"
+        ],
+        "importance": "AI生成の科学的発見の検証・公開方法について、AGMAIの数学アドバイザー団は特定人物への先行アクセスを問題視しており、今後のAI研究成果の信頼性確保や学術界との連携のあり方を巡る議論に大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "published": "2026-10-26T15:58:27+00:00",
+      "rss_summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another [&#8230;]",
+      "summary": {
+        "title_ja": "マイクロソフト、従業員6万人に自主退職制度を提示",
+        "overview": "マイクロソフトは米国、英国、カナダ、インドの従業員最大6万人を対象に、自主的な退職（買収）プログラムを提供すると発表した。",
+        "background": "同社は今年すでに4800人規模のレイオフを実施しており、今回は追加のレイオフを避けつつ人員削減を進める狙いがあるとみられる。過去には勤続年数と年齢の合計が70以上の長期勤続者約9000人を対象とした早期退職制度も実施していた。",
+        "points": [
+          "対象はAI experiences、Copilot、CoreAI、Windows+Devices、Xbox、財務、人事など幅広い部門で、クラウド+AIや法務部門などは部分的に対象。",
+          "マーケティングや商業販売、量子コンピューティング、セキュリティ部門は対象外。",
+          "年齢・勤続年数・業績に基づかない新制度で、人事責任者エイミー・コールマン氏は「学びながら進める」としている。"
+        ],
+        "importance": "大量レイオフを避けつつ組織をスリム化する新たな手法として注目され、AI投資拡大に伴う人員配置の見直しが業界全体に広がる可能性を示している。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "published": "2026-10-26T14:00:00+00:00",
+      "rss_summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the [&#8230;]",
+      "summary": {
+        "title_ja": "元NYT記者ケビン・ルース、AGIに傾倒 新著とYouTube進出の理由",
+        "overview": "元ニューヨーク・タイムズ記者でHard Fork司会のケビン・ルース氏が新著『The AGI Chronicles』を出版し、盟友ケーシー・ニュートン氏とともに新ポッドキャスト「Machine Gods」を立ち上げた。",
+        "background": "ルース氏は長年NYTでテクノロジー報道を続けてきたが、AI業界の急速な商業化と文化的変容を取材する中で、より自由な発信の場を求めて独立を決意した。",
+        "points": [
+          "新著はAGI開発を競う主要フロンティアラボ各社の文化的変化を丹念に取材した内容",
+          "新ポッドキャスト「Machine Gods」はNPRと提携しつつ、動画(YouTube)を軸とした制作を志向",
+          "メディア業界がYouTubeへの本格参入に消極的だった中、ジャーナリズムの質を保ちながら動画プラットフォームで持続可能なモデルを模索する試み"
+        ],
+        "importance": "著名ジャーナリストが大手メディアを離れ独立系クリエイターとして動画中心の報道に挑むことは、AI報道のあり方だけでなく、ジャーナリズム全体のビジネスモデル転換を占う事例として注目される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+      "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+      "published": "2026-10-26T18:09:08+00:00",
+      "rss_summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+      "summary": {
+        "title_ja": "マスク氏、ウクライナのStarlink規約違反による攻撃用ドローン使用を非難",
+        "overview": "イーロン・マスク氏は、ウクライナが致死性のドローン攻撃にStarlinkを使用し、利用規約に違反したと非難した。これはSpaceXが特定速度以上で飛行するドローンへのStarlink利用を制限した後の発言だった。",
+        "background": "ウクライナは米政府との契約を通じて軍事版Starlinkである「Starshield」を利用できるが、マスク氏が民生用Starlinkの利用を制限したことで両者の間に摩擦が生じていた。",
+        "points": [
+          "マスク氏は「民生用のStarlinkを人を殺害する攻撃的ドローンに使うことは許されたことがない」とSNSで主張し、問題の「抜け穴」は先週閉じられたと説明した。",
+          "ウクライナの現・元当局者はこの非難を否定し、SpaceXが以前から課していた制限によって既にそのような使用は不可能だったと反論した。",
+          "ゼレンスキー大統領の国防技術顧問セルヒー・ベスクレストノフ氏は、ウクライナ領内（露占領地を含む）のStarlink端末には既に時速70〜90kmの速度制限が課されており、さらにロシア領内ではStarlinkは機能しないと指摘した。"
+        ],
+        "importance": "ウクライナ軍の戦場通信を支える民間衛星インフラの利用制限は、戦況や軍事作戦の継続性に直結する問題であり、マスク氏個人の判断が国家間の軍事協力に影響を与えている点で地政学的にも重要な事案である。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+      "published": "2026-10-26T17:26:36+00:00",
+      "rss_summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+      "summary": {
+        "title_ja": "GPS偽装で狙われるデータセンター向け貨物、高速道路強盗が横行",
+        "overview": "米国でデータセンター向け機器を積んだトラックが高度な手口で狙われており、2026年6月以降、1億ドル以上の貨物が盗まれたとNBCニュースが報じた。",
+        "background": "犯人グループは貨物業者の輸送情報サイトのアカウントをハッキングし、偽の配送案件を使って運送会社を騙す手口を使っている。悪意あるリンクを踏ませてアカウントを乗っ取り、実際の配送案件に入札して正規ドライバーや偽免許証の共犯者を利用し貨物を奪取している。",
+        "points": [
+          "一部の大規模窃盗事件ではGPS追跡座標を偽装し、デジタル監視を回避していた。",
+          "標的にはサーバー、光ファイバーケーブル、メモリチップ、銅線、ビットコイン採掘機などが含まれる。",
+          "イリノイ州では約130万ドル相当のデータセンター用銅線・電源設備が、ロサンゼルス郡ではDeepcool AI向け冷却機器が他の雑貨とともに盗まれた事例が確認された。"
+        ],
+        "importance": "被害はAI業界に限らず、積載トラックに混在する一般消費財にも及んでおり、オフ duty警察官による護送車両すら標的にされるなど手口が高度化・暴力化している点で社会的影響が大きい。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Some iPhone Duo screens are already failing",
+      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "published": "2026-10-26T16:51:49+00:00",
+      "rss_summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+      "summary": {
+        "title_ja": "iPhone Duoの画面、早くも故障相次ぐ",
+        "overview": "先週発売されたApple初の折りたたみ端末「iPhone Duo」で、購入者の一部から内部ディスプレイが数時間から数分で故障するとの報告が相次いでいる。",
+        "background": "Appleは「精密設計」のヒンジを売りにしていたが、実際には早期購入者の端末で深刻なハードウェア不良が発生しており、ネット上には同様の損傷画像が多数投稿されている。",
+        "points": [
+          "損傷したOLEDパネルには画面中央下部付近から下端・右端にかけて明るい線が走り、折り目に沿ってドット欠けも見られる",
+          "これは画素への電圧異常による典型的な故障パターンで、修理費用は本体価格の半額相当に上るとされる",
+          "iFixitの分解調査では、ヒンジ内の配線が画面を圧迫する可能性が指摘されているが、断定には至っていない"
+        ],
+        "importance": "折りたたみ端末の耐久性に対する信頼性を左右する問題であり、Appleの初号機で早期に多発する不具合は今後の製品改良やブランドイメージに影響を与える可能性がある。"
+      }
+    }
+  ]
+}
