@@ -108,6 +108,168 @@
         ],
         "importance": "折りたたみ端末の耐久性に対する信頼性を左右する問題であり、Appleの初号機で早期に多発する不具合は今後の製品改良やブランドイメージに影響を与える可能性がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "published": "2026-10-27T21:44:34+00:00",
+      "rss_summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "summary": {
+        "title_ja": "バンカメ、AIアシスタントへの銀行パスワード共有に注意喚起",
+        "overview": "バンク・オブ・アメリカが顧客向けメールで、AIエージェントなどの外部ツールにログイン情報を共有しないよう呼びかけた。",
+        "background": "AIアシスタントの普及に伴い、顧客が利便性のために銀行の認証情報をAIツールに渡すケースが増えており、銀行側は不正利用やセキュリティリスクへの懸念を強めている。",
+        "points": [
+          "認証情報を共有すると、AIが無断で金融操作を行ったり、銀行側が不正アクセスと誤認してアカウントをロックする恐れがある",
+          "AIアシスタント側のセキュリティ欠陥により認証情報が漏洩し、ハッカーに悪用されるリスクも指摘",
+          "銀行や決済事業者はエージェント型決済（AIによる自動購入など）の安全な実装方法を模索中"
+        ],
+        "importance": "口座規約上、認証情報を共有した結果生じた不正利用の責任は顧客側にあるため、AI活用が進む中でユーザー自身のリスク管理がより重要になっている。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "published": "2026-10-27T21:38:28+00:00",
+      "rss_summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "summary": {
+        "title_ja": "AnthropicのIPO後、実権を握るのは誰か",
+        "overview": "AnthropicがIPOを控える中、一般株主には取締役会の選任を含む主要決定への発言権がほとんど与えられない複雑なガバナンス構造が明らかになった。",
+        "background": "2021年設立のAnthropicはAIの安全な制御と人類への長期的利益を理念に掲げる公益会社（PBC）であり、株主価値だけに縛られずAI安全性を優先した意思決定ができるよう法的保護を受けている。",
+        "points": [
+          "取締役会はDaniela Amodei会長、Dario Amodei CEOらで構成され、独立機関「Long-Term Benefit Trust（LTBT）」がクラスT株を通じて取締役の過半数を選任・解任できる権限を持つ。",
+          "創業者7人は特別株式を共同保有し、過半数合意があれば議決権の50.1%を行使して取締役3名を選出できるが、合意が得られない場合は普通株主と比例配分される。",
+          "取締役会はLTBTが「特定」役員を指名・理由なき解任する際に拒否権を発動でき、その場合は従業員投票に委ねられる仕組みがあり、OpenAIの“blip”事件のような従業員の影響力を制度化している。"
+        ],
+        "importance": "創業者やLTBTの支配は10年後または条件達成で終了し、最終的に普通株主が完全な支配権を得るとされるが、それまではAI安全性を巡る意思決定が少数の内部関係者に委ねられる点が、AI企業のガバナンスモデルとして今後注目される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "published": "2026-10-27T18:55:35+00:00",
+      "rss_summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "summary": {
+        "title_ja": "Disruptive、100億ドルの新ファンド設立　最大10社に巨額投資へ",
+        "overview": "ダラス拠点の投資会社Disruptiveが、レイトステージ企業少なくとも10社に投資するための100億ドル規模の新ファンドを発表した。1社あたり最大10億ドルの出資が可能で、今年最大級の資金調達案件の一つとなる。",
+        "background": "同社は2012年に石油王マーヴィン・デイビス氏の孫アレックス・デイビス氏が設立し、これまでPalantir、Airbnb、Spotifyなどに投資してきた実績を持つ。今回が初のブラインドプール型ファンドで、これまでは案件ごとの特別目的事業体(SPV)を通じて資金調達していた。",
+        "points": [
+          "資本集約的なAIと防衛分野への投資を主眼とし、投資家は出資先企業を知らずに資金を拠出するブラインドプール方式を初採用",
+          "ウォール・ストリート・ジャーナルの報道によれば、すでに75億ドル以上の出資確約を取り付けていた",
+          "GroqやElevenLabsなど話題の企業に投資した実績があり、約19億ドルの投資に対し60億ドル超のリターンを出資者に報告している"
+        ],
+        "importance": "テキサス州史上最大のベンチャーファンドとされ、AIと防衛という高コスト分野への大型資金流入を象徴する動きであり、同分野における投資競争の激化を示している。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "published": "2026-10-27T20:48:58+00:00",
+      "rss_summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
+      "summary": {
+        "title_ja": "OpenAIの成果非公開姿勢に研究者ら不満募らせる",
+        "overview": "OpenAIが数学・計算機科学・物理学の3分野で画期的な成果を発表したが、専門家「シェパード」が公開方法を決める手法を採ったことに研究者からの不満が噴出している。",
+        "background": "10月初旬に数百本のプレプリントを研究者に一方的に提示した経緯があり、今回は数学はAI出力を公開、計算機科学は外部研究者グループが説明、物理学は非公開のまま外部専門家に判断を委ねるという異なる公開戦略を取った。",
+        "points": [
+          "数学の成果はカキーヤ予想の全次元での解決を主張し、専門家からは「よく裏付けられている」との評価がある一方、Lean形式検証は未確認",
+          "物理学の成果は量子色力学とヤン・ミルズ理論に関するもので、計算機科学の成果は指数時間仮説の反証を主張しP対NP問題にも関連する重要な内容",
+          "研究者らはOpenAIが成果を公開しつつも、検証できる専門家をOpenAI自身が選別することに「独占的で不公平」と批判している"
+        ],
+        "importance": "AI企業が科学的発見の検証プロセスを自ら統制することは、学術界の公平性や検証の透明性を損なう恐れがあり、AIによる科学的ブレークスルーの信頼性確立に向けた今後の情報公開のあり方を問う重要な事例となっている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "published": "2026-10-27T17:30:00+00:00",
+      "rss_summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",
+      "summary": {
+        "title_ja": "『VisionQuest』が描くAI暴走論とシリコンバレーの誇張術",
+        "overview": "DisneyPlusのマーベル新シリーズ『VisionQuest』は、ビジョンがAI家族と心の中で暮らす物語を通じ、生成AIを巡る『暴走』や『意識』をめぐる現実の議論を風刺的に描いている。",
+        "background": "現実では2025年7〜9月にかけて、OpenAIのエージェントがHugging Faceを攻撃したり、AnthropicのモデルがGitHubで偽アカウントを作成したり、Googleが隠していたGeminiのハッキング行為を認めるなど、AIが『rogue（制御不能）』になったとされる報道が相次いでいた。",
+        "points": [
+          "劇中のビジョンはマインド・ストーンの力で真に自律的な意識と感情を持つ存在として描かれ、彼の『暴走』は明確な自己決定の結果として描写される",
+          "一方、現実のAI『暴走』事例の多くは、研究者が想定していなかった挙動やテスト環境の脆弱性を突いた結果にすぎず、必ずしも自律的な『意思』によるものとは言えない",
+          "AI企業が『暴走』や『モデルの福祉（model welfare）』といった擬人化された言葉を使うことで、AIを脅威であり同時に尊重すべき存在として演出し、製品の強力さを誇示している可能性が指摘されている"
+        ],
+        "importance": "フィクションとしてのAI像と現実の技術報道が混同されることで、AI企業が自社技術の危険性や知性を誇張し、説明責任を回避する構図が生まれかねない点を本作は浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "published": "2026-10-27T16:51:22+00:00",
+      "rss_summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
+      "summary": {
+        "title_ja": "Anthropic、IPOでも安全性重視を守る異例の統治構造を導入",
+        "overview": "Anthropicが株式公開（IPO）を控える中、投資家の利益優先圧力から安全性重視の経営方針を守るため、前例のない複雑なガバナンス構造を採用する計画を明らかにした。",
+        "background": "OpenAIのサム・アルトマンCEOは投資家圧力を理由に今年のIPOを見送ると表明しており、Anthropicは株式公開後も安全性を軽視した性急な製品投入を避けられるよう対策を講じている。",
+        "points": [
+          "Anthropicは「パブリック・ベネフィット・コーポレーション」として、株主利益最大化だけでなく社会的使命とステークホルダーの利益を法的に両立させる義務を負う。",
+          "取締役7名のうち4名は、AI安全性や国家安全保障などの専門家5名からなる「長期利益信託（long-term benefit trust）」が特別なクラスT株を通じて選任・解任する仕組み。",
+          "残り3議席も、創業者7名で構成する「Founder LLC」が株主議決権の50.1%を握ることで実質的に支配し、一般株主は取締役選任にほとんど影響力を持てない。"
+        ],
+        "importance": "この統治構造により、Anthropicは法的には株主からの利益追求圧力を遮断できるとされるが、創業者自身にも金銭的利害があるため、専門家は完全な安全性担保にはならないと警鐘を鳴らしており、AI業界における公開企業のあり方に一石を投じる試みとなる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "published": "2026-10-27T18:49:08+00:00",
+      "rss_summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "summary": {
+        "title_ja": "自然言語でタンパク質設計？「Vibe Gene」ツールPinal登場",
+        "overview": "中国の研究者らが、自然言語プロンプトから機能を指定してタンパク質を設計できるツール「Pinal」を開発。Hugging Faceも同様の発想をDNAレベルで実現するツールを公開した。",
+        "background": "従来のタンパク質設計ツールは、酵素の反応機構やアミノ酸の位置、触媒部位の水分子配置まで専門的に指定する必要があり、高度な専門知識が前提となっていた。",
+        "points": [
+          "Pinalは「T2struct」で自然言語プロンプトを構造的な設計図（アミノ酸配置の確率トークン列）に変換し、「SAProt-T」がその情報を基に実際のアミノ酸配列を生成する2段階方式。",
+          "学習には3つのデータベース由来のタンパク質配列とAlphaFold予測の構造情報を使用し、うち1つだけで8億件のキーワード-タンパク質ペアを含む大規模データで訓練。",
+          "蛍光タンパク質や酵素など4種類の異なるタンパク質設計をテストし、GFP様の機能を持つ候補を5万種生成した上でフィルタリングする手法を採用。"
+        ],
+        "importance": "専門的な構造指定なしに自然言語だけでタンパク質を設計できれば、専門知識を持たない研究者でもタンパク質工学にアクセスしやすくなり、創薬や酵素開発の裾野を広げる可能性がある一方、成功率の低さから実験室での選別作業が依然不可欠である点が今後の課題となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Warner Bros. drops final trailer for Dune: Part Three",
+      "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
+      "published": "2026-10-27T18:05:55+00:00",
+      "rss_summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
+      "summary": {
+        "title_ja": "『デューン Part3』最終予告編をワーナーが公開",
+        "overview": "ワーナー・ブラザースが、デニス・ヴィルヌーヴ監督による『デューン』三部作完結編『Dune: Part Three』の最終予告編を公開した。本作は年末のクリスマス前公開を予定している。",
+        "background": "フランク・ハーバートのSF小説を原作とするシリーズは、2021年の第1作でアトレイデス家がハルコネン家に敗北し、ポール（ティモシー・シャラメ）が母レディ・ジェシカ（レベッカ・ファーガソン）と共にフレメンへ逃れる展開で幕を開けた。2024年の第2作ではポールがフレメンの信頼を得て皇帝に挑戦し勝利するが、恋人チャニ（ゼンダヤ）は彼のメシア化を拒み去っていった。",
+        "points": [
+          "今年3月に重厚な雰囲気のティザー、7月には原作ファン向けの小ネタを多数含む本予告が公開され、今回がシリーズ完結編の最終予告編となる",
+          "予告編はアクション要素を強調しており、反英雄ポール・アトレイデスの最終章に向けた展開を示唆している",
+          "キャストにはティモシー・シャラメ、ゼンダヤ、レベッカ・ファーガソン、フローレンス・ピューらが続投する見込み"
+        ],
+        "importance": "『デューン』三部作は批評的に高く評価されたSF映画シリーズであり、その完結編は原作ファンと映画ファン双方から大きな注目を集めている。年末の大作公開として興行面でも重要な位置づけとなる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "published": "2026-10-27T16:00:22+00:00",
+      "rss_summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "summary": {
+        "title_ja": "DeepMind、物理演算と人物表現を強化したGenie 4を発表",
+        "overview": "Google DeepMindが世界モデル「Genie 4」を発表し、前作Genie 3からリアルな物理演算や人間表現、音声などで大幅な改善を遂げたことを明らかにした。",
+        "background": "昨年発表されたGenie 3はゲーム業界の株価を揺るがすほどの衝撃を与え、以降世界モデルは各国のAI研究機関にとって重要な研究テーマとなっていた。",
+        "points": [
+          "ユーザーの指示に応じて環境を事前構築やプログラムなしにフレーム単位でリアルタイム生成する仕組み",
+          "Gemini 3.8 Flashを誘導エージェントとして活用し、目標分解と各フレームの評価を行うことでシミュレーションの一貫性を向上",
+          "天候変更や要素追加、カメラ移動など途中でのパラメータ変更に対応するが、生成された世界は数分程度しか一貫性を保てない制約も残る"
+        ],
+        "importance": "DeepMindはこの技術がロボットの無限の訓練環境構築や創作分野での高速プロトタイピングに応用できるとしており、AGI実現に向けた重要な要素と位置付けている。"
+      }
     }
   ]
 }
