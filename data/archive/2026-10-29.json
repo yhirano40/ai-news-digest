@@ -162,6 +162,168 @@
         ],
         "importance": "この指数は、センサー設置やパトロール強化など防御策を優先配備すべきケーブルの特定に役立つ可能性があり、台湾情勢を含む地政学的リスクが高まる中でインターネット基盤の安全保障対策の指針となる。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "published": "2026-10-29T20:08:31+00:00",
+      "rss_summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "summary": {
+        "title_ja": "検索流入減のRedditがログイン必須化へ方針転換",
+        "overview": "RedditはAI検索の台頭で検索経由のトラフィックが急減していることを受け、サイトの大部分を「ログイン前提」の体験へ移行すると第3四半期決算発表で明らかにした。",
+        "background": "Redditはこれまで多くのユーザーをGoogle検索経由で獲得してきたが、AI検索による要約表示の普及で「10本の青いリンク」への誘導が減少し、10月には週平均100万件超の検索流入減を記録、米国の日次アクティブユーザーも前四半期比で減少した。",
+        "points": [
+          "ログイン化によりAI企業によるデータスクレイピングを防ぎ、モデル提供者とのライセンス契約収益を強化する狙いがある",
+          "ログインユーザーは行動データが豊富で広告ターゲティング精度が高まり、米国の1人当たり広告収益は前年比53%増の13.82ドルに達した",
+          "売上は前年比53%増の8億9500万円（8億9500万ドル）、純利益は74%増の2億8300万ドルと好調だが、来四半期には日次アクティブユーザーが2桁%減少する可能性も警告されている"
+        ],
+        "importance": "検索流入減少への対応としてログイン化を進める動きは、オープンウェブ全体の持続性に警鐘を鳴らすものであり、他の大手サイトやパブリッシャーの戦略にも影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "published": "2026-10-29T20:05:47+00:00",
+      "rss_summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "summary": {
+        "title_ja": "RivianとVWの合弁事業、AI音声アシスタント技術にも拡大",
+        "overview": "RivianとVolkswagen Groupの58億ドル規模の合弁事業が拡大し、Rivianが自社開発のAI音声アシスタント技術をVWにライセンス提供することが明らかになった。",
+        "background": "両社は2024年に合弁会社を設立し、Rivianの電気アーキテクチャとソフトウェアをVWの次世代車両に導入する提携を結んでおり、当初50億ドル規模だった投資額はその後58億ドルまで拡大していた。",
+        "points": [
+          "Rivianは2年の開発を経て2026年5月にR1S・R1Tへ、10月には新型R2 SUVにAIアシスタントを展開しており、VWの低価格EV「ID EVERY1」への搭載が有力視されている",
+          "RivianはAIアシスタントを独自の「エージェンティック・フレームワーク」で運用し、将来的にはAnthropicなど外部企業のAIエージェントを動かせる可能性もあるとCEOのRJ Scaringe氏が説明",
+          "電子制御ユニット（ECU）を17個から7個に削減するなど垂直統合戦略を強化しており、これがソフトウェア中心の車両開発に苦戦するVWの関心を引いた"
+        ],
+        "importance": "ソフトウェア主導の車両開発で後れを取るVWにとって、Rivianの垂直統合型プラットフォームとAI技術の導入は競争力強化の鍵となり、両社の提携強化はEV業界における技術ライセンス供与の新たなモデルケースとなり得る。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "published": "2026-10-29T19:56:19+00:00",
+      "rss_summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "summary": {
+        "title_ja": "OpenAI出資のThrive Holdings、ADTを買収",
+        "overview": "Thrive Holdingsが物理セキュリティ企業ADTを1株10ドル、株式価値約76億ドル（企業価値153億ドル）で買収すると発表した。",
+        "background": "Thrive HoldingsはJosh Kushner率いるThrive CapitalのPEスピンオフで、OpenAIをパートナー兼投資家としており、AIで既存企業を再生させることを目指し現在75社以上を傘下に持つ。",
+        "points": [
+          "OpenAIはThrive傘下企業にAIモデルや技術、さらにフォワード・デプロイド・エンジニアと呼ばれる人材を提供するパートナー関係にある",
+          "ADTは「Thrive Holdingsのスマートホームセキュリティ事業の基盤となる」とされ、新たなAI製品投入が示唆されているが詳細は未発表",
+          "AppleのLG・Schneider Electricとのスマートホーム製品参入やAmazonのAIカメラ刷新など、AI活用の物理セキュリティ分野が活況を呈している"
+        ],
+        "importance": "AI大手OpenAIが物理セキュリティ領域に本格的に関与することで、スマートホーム・防犯市場の競争とAI活用がさらに加速する可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "published": "2026-10-29T18:45:31+00:00",
+      "rss_summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in [&#8230;]",
+      "summary": {
+        "title_ja": "Gemini上でGoogle Docsなどのファイル編集が可能に",
+        "overview": "Googleは、PDFやGoogle Docs、Googleスプレッドシート、スライド資料、Markdown、TXT、コードなどのファイルをGeminiチャット内で生成・プレビュー・編集できる新機能を発表した。本日より全Geminiユーザーに提供される。",
+        "background": "Googleは今年初め、Gemini内でのファイル生成・ダウンロード機能を追加していたが、編集するにはアプリを離れる必要があった。今回の更新でその手間が解消される。",
+        "points": [
+          "ファイルを全画面表示にして編集でき、テキストをハイライトしてGeminiに質問や変更を指示できる（例：表をグラフ化）",
+          "PDFのプレビュー・編集はウェブ版とモバイル版の両方で利用可能だが、それ以外の形式は現時点でウェブ版のみ対応",
+          "Google Docs内のGeminiバーなど、既存のWorkspace統合機能に加え、Anthropicも今年、Claudeチャット内でのドキュメント生成・編集機能を導入済み"
+        ],
+        "importance": "AIチャット内で直接ファイルを完結して編集できるようになることで、作業アプリを行き来する手間が減り、生産性向上につながる。GoogleとAnthropicなど主要AI企業間での機能競争も加速している。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft’s AI future has fewer jobs",
+      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "published": "2026-10-29T16:00:00+00:00",
+      "rss_summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and [&#8230;]",
+      "summary": {
+        "title_ja": "マイクロソフトのAI戦略、人員削減が加速",
+        "overview": "マイクロソフトが米英加印の従業員約6万人を対象に自主退職プログラムを提示した。これは今年初めに約9千人を対象とした退職提案を大幅に拡大したもので、過去最大規模の措置となる。",
+        "background": "ナデラCEOはAI投資を維持するためにコスト削減と人員縮小を進める方針を2年前から示しており、Microsoftは2025年6月末時点で前年比5千人減の約22万3千人体制となるなど、ここ数年で数カ月おきにレイオフを繰り返している。",
+        "points": [
+          "今回の自主退職条件は通常の退職金（勤続年数に応じた現金、株式の前倒し権利確定、健康保険補助、転職支援）とほぼ同等で、対象者は12月まで決定期限がある",
+          "元Microsoft社員は、小規模組織の乱立や縦割り構造による非効率が削減の背景にあると指摘し、ナデラ自身も部門間の対立を『勝利のための必要な緊張』として容認している",
+          "ゲーム部門でもForza Motorsportの立役者ダン・グリーナウォルト氏が27年の在籍を経て退任するなど、Xbox部門でも組織再編とスタジオ統合が進行中"
+        ],
+        "importance": "今回の措置は、AI時代に向けて『少人数・高コスト人員・高GPU配分』を志向するナデラ戦略の象徴であり、今後11月・1月にも追加レイオフの噂がある中、企業文化と収益性の両立という経営課題を浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "published": "2026-10-29T14:39:37+00:00",
+      "rss_summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any [&#8230;]",
+      "summary": {
+        "title_ja": "NYTクッキングアプリ、AIによるレシピ改変機能をテスト中",
+        "overview": "The New York TimesのCookingアプリが、材料や調理器具の代替案提案やレシピの分量調整を行う新しいAI機能のテストを開始した。一部ユーザーからは反発の声も上がっている。",
+        "background": "NYT Cookingでは過去にも、単位換算（ヤード・ポンド法からメートル法への変換）や分量の倍・半分調整にAIが活用されてきた経緯があり、今回はその延長線上でより包括的な改変機能が導入された。",
+        "points": [
+          "例えば「ケールの代わりにベビースピナッチを使いたい」と頼むと、しおれやすい性質を考慮して投入タイミングを後の工程に変更するよう提案する",
+          "カスタマイズされたレシピは非公開扱いで、アプリ内で共有・公開はできない仕組み",
+          "現在はiOS版アプリでCooking購読者向けに段階的に提供中で、今後さらに広く展開される予定。機能のオフ設定は現時点では用意されていない"
+        ],
+        "importance": "環境負荷やユーザー体験への影響を懸念する声がある一方、NYTは「完全に任意利用」であり好意的な反応も多いとしており、料理という日常的な分野でのAI活用の是非を示す事例として注目される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+      "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+      "published": "2026-10-29T20:08:10+00:00",
+      "rss_summary": "Inspector general rejected request from Democratic and Republican senators.",
+      "summary": {
+        "title_ja": "国防総省監察官、スターリンク速度制限問題の調査要請を拒否",
+        "overview": "米国防総省監察官室は、ウクライナ軍のSpaceX衛星通信（Starlink/Starshield）利用に課された制限について調査するよう求めた上院議員らの要請を却下した。",
+        "background": "ウクライナは今月、軍用ドローンが時速161キロ（100マイル）を超えると衛星接続を失うと報告し、この制限は約10日後に解除された。民主・共和両党の上院議員9名は10月15日付の書簡で、制限がSpaceXや国防総省によって指示・承認されたものか、契約条件と整合しているかなどを問う調査を要請していた。",
+        "points": [
+          "国防総省監察官プラット・モリング氏は、質問は米空軍・宇宙軍に向けるべきだと議員らに回答し、調査を自らの管轄外とした",
+          "国防総省監察官室は、案件は国防省（DoW）が対応するのが適切と判断したと説明し、新情報があれば再検討する余地を残した",
+          "CNNによると、この通信制限問題は、トランプ政権がウクライナへの情報提供停止を示唆し、ロシア産ディーゼル購入と対ロシア制裁緩和の取引を行った後に発覚した"
+        ],
+        "importance": "軍事作戦に不可欠な衛星通信サービスへの政治的・商業的介入の疑いが未解明のまま残ることで、米国の対ウクライナ支援の信頼性や、民間企業が軍事インフラを握ることのリスクに関する議論が今後も続く可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump declares robot imports a national security threat",
+      "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "published": "2026-10-29T19:07:53+00:00",
+      "rss_summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+      "summary": {
+        "title_ja": "トランプ氏、ロボット輸入を国家安全保障上の脅威と宣言",
+        "overview": "トランプ大統領は2026年10月28日、外国製産業用ロボットの輸入を国家安全保障上の脅威と宣言する大統領布告を発令し、貿易相手国との新たな交渉を命じるとともに、将来的な関税賦課の可能性を示唆した。",
+        "background": "商務長官ハワード・ラトニック氏の下での調査により、輸入ロボットが米国の産業基盤や長期的競争力、さらにはサイバーセキュリティ上の重大な脆弱性をもたらすリスクがあると結論づけられたことが背景にある。同様の論理は2026年7月に連邦通信委員会（FCC）が外国製ロボット掃除機やロボット犬、ヒューマノイド型ロボットの新モデルを禁止した際にも使われていた。",
+        "points": [
+          "産業用ロボットや機械は米軍の兵器システム製造や重要インフラ部門にとって不可欠な存在と位置付けられている",
+          "GM、フォード、テスラ、ボーイング、ロッキード・マーティンなど、工場でロボットを多用する米主要企業への影響が懸念される",
+          "布告発令から180日以内に貿易相手国との合意形成を目指し、不調に終われば関税・数量制限・手数料などの措置を検討するとしている"
+        ],
+        "importance": "今回の措置は、従来は適用除外とされていた産業用ロボットアームなど固定式ロボットにも規制対象を広げるものであり、自動車・航空宇宙・防衛産業などのサプライチェーンや製造コストに広範な影響を及ぼす可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "published": "2026-10-29T18:29:12+00:00",
+      "rss_summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
+      "summary": {
+        "title_ja": "トランプ氏、中国のスパイ疑惑情報を黙殺 Nvidia株価守るためか",
+        "overview": "ニューヨーク・タイムズの報道によると、トランプ大統領はNvidiaのジェンセン・フアンCEOに近い中国人女性が北京に情報を流していたとの機密情報を把握しながら、Nvidia株やAI関連の対中協議への影響を懸念し、対応を取らなかったという。",
+        "background": "問題の人物アリス・フアン（黄楽）はシンガポールのクラウド企業Megaspeedの元幹部で、米国はかねて彼女が輸出規制を回避して中国に高性能Nvidia製半導体を流していると疑っていた。調査の過程で、彼女がフアンCEOに直接接近し、同社やトランプ氏のAI政策に関する情報を中国側に伝えていた可能性が浮上した。",
+        "points": [
+          "米情報機関の電子監視でアリス・フアンが米国人（後にフアンCEOと特定）と接触していたことが判明し、法的手続きを経て身元が明らかになった。",
+          "米当局はスパイ疑惑を理由にフアンCEOへの防諜ブリーフィングを行わず、情報漏洩を警戒された可能性が指摘されている。Nvidia側は商業機密へのアクセスはなかったと否定。",
+          "フアンCEOの対中関係強化（輸出規制緩和や対中売上の25%を米政府に還元する取引など）が商務省内での対中・対Nvidia制裁や調査の停滞につながったとされる。"
+        ],
+        "importance": "AI産業を主導する巨大企業の経営者が国家安全保障上の懸念の対象となりながら、政治的・経済的な結びつきによって調査や対応が後回しにされた疑いがあることは、米中AI覇権競争や輸出管理政策の信頼性に深刻な疑問を投げかける。"
+      }
     }
   ]
 }
