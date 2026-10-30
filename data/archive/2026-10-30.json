@@ -126,6 +126,168 @@
         ],
         "importance": "AIチャットボットへのユーザー流出とAI検索の収益性低下は、Google本業である検索広告事業の根幹を揺るがす可能性があり、同社はAI分野への投資拡大と広告収益化の両立という難題に直面している。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "published": "2026-10-30T21:54:34+00:00",
+      "rss_summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "summary": {
+        "title_ja": "インテル株急落、米政府保有株の評価額120億ドル減",
+        "overview": "インテル株が金曜日に約28%急落し、第4四半期の業績見通しが市場予想を下回ったことで、米政府が保有する同社株の評価額が120億ドル減少した。",
+        "background": "トランプ政権は1年以上前にインテル株の10%を政府が取得する取り組みを進めており、同様に2025年に大きな出資をしたエヌビディアの株価もこの日下落した。半導体株を中心にハイテク業界全体が売りに巻き込まれた。",
+        "points": [
+          "インテルは第4四半期の売上高見通しを150億〜160億ドルとし、アナリスト予想の約170億ドルを下回った。粗利益率も43%から37%へ低下し、設備投資の重さからプラスのキャッシュフローは見込めないと警告した。",
+          "CEOのリップブー・タン氏は、AI業界によるメモリ需要の増大がPC価格を押し上げ、PC販売が減速し始めていると説明した。",
+          "データセンター事業の売上高は前年同期比78%増と好調だが、新工場の稼働が2028年までずれ込むなど、台湾積体電路製造（TSMC）に対抗するための生産能力拡大が遅れている。"
+        ],
+        "importance": "政府が大株主となっている企業の株価急落は、米国の半導体政策や公的資金の投資リスクに直接影響するため、政治的・経済的な注目度が高い。PC市場の減速とAI需要のひずみが半導体業界全体の構造的課題を浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "published": "2026-10-30T21:52:03+00:00",
+      "rss_summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "summary": {
+        "title_ja": "アンソロピック、IPO後は高格付けの「ジャンク債」評価へ FT報道",
+        "overview": "Financial Timesの報道によると、Anthropicは新規株式公開（IPO）後、信用格付け機関から「ジャンク」級の中でも高位の評価を受ける見通しであることが分かった。",
+        "background": "Anthropicのチップ調達向け630億ドルの資金調達案件で主要投資家を務めるBlackstoneは、以前は2027年までに投資適格級の格付けを得られると投資家に説明していたが、今回はダブルB相当（投機的格付けの最上位）になると見方を転換した。",
+        "points": [
+          "Blackstoneはこの予測案件の投資家に対し、Anthropicが高位のジャンク格付けになると伝えた",
+          "AnthropicとBlackstoneはいずれもTechCrunchのコメント要請に応じていない",
+          "Anthropicは過去1年で大規模な計算資源の調達契約を相次いで結んでおり、投資家の懸念材料となっている"
+        ],
+        "importance": "ジャンク格付けとなればAnthropicが今後の巨額の支出を賄うための資金調達がより困難かつ高コストになる可能性があり、今週正式にIPOを申請したばかりの同社の今後の資金戦略やAI業界全体への影響が注目される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "published": "2026-10-30T21:26:59+00:00",
+      "rss_summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "summary": {
+        "title_ja": "テック好き向け、直前でも間に合うハロウィン仮装アイデア集",
+        "overview": "TechCrunchが、AI業界の話題やテックトレンドを元にしたユーモラスなハロウィン仮装アイデアをまとめた記事を掲載した。準備時間がない人向けに、手軽に作れるコスチュームを複数紹介している。",
+        "background": "AIの急速な進化やMeta・OpenAIの新サービス、PHPの脆弱性騒動、著名人の奇抜な言動など、2026年に話題となったテック業界のニュースを下敷きにしたネタ企画となっている。",
+        "points": [
+          "「再帰的自己改善」を自己啓発本やヨガマットで表現するなど、AIの専門用語を日常の小道具でパロディ化している",
+          "MetaのAIグラス（盗撮疑惑）やMark Zuckerbergの服装、ChatGPTのキャラクターなど実在の人物・製品を風刺したアイデアも含まれる",
+          "PHPの脆弱性やClaudeの利用上限通知、Bryan Johnsonの奇行（GLP-Bryan）など、最近のテックニュースをそのままコスチューム化する提案をしている"
+        ],
+        "importance": "深刻になりがちなAI業界の話題を軽妙に扱うことで、読者にテック文化への親近感とユーモアを提供し、業界内の出来事を振り返る機会にもなっている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "published": "2026-10-30T22:32:53+00:00",
+      "rss_summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring [&#8230;]",
+      "summary": {
+        "title_ja": "Apple Intelligence、iOS 27.3で中国にようやく導入へ",
+        "overview": "Appleは中国ニュースルームのサイトで、iOS 27.3においてApple Intelligenceを中国市場に導入すると発表した。",
+        "background": "中国では規制上の制約から、AppleはAIパートナーとして現地企業と提携する必要があり、他地域に比べて導入が大幅に遅れていた。",
+        "points": [
+          "Apple Intelligence機能はまず11月4日公開予定のiOS 27.3ベータ版で先行提供される",
+          "正式版のiOS 27.3は12月にリリース予定",
+          "中国での本格導入は他国・地域より遅れたタイミングとなる"
+        ],
+        "importance": "世界最大級のスマートフォン市場である中国でのApple Intelligence展開は、AppleのAI戦略全体の完成度を左右する重要な一歩となる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "published": "2026-10-30T20:48:43+00:00",
+      "rss_summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want [&#8230;]",
+      "summary": {
+        "title_ja": "アルトマン氏、RAMは個人PCよりデータセンターにあるべきと発言",
+        "overview": "OpenAIのサム・アルトマンCEOがポッドキャスト「Cheeky Pint」で、世界的なRAM不足を踏まえ、個人のPCにDRAMが分散して使われるより、クラウドのデータセンターに集約されるべきだと述べた。",
+        "background": "ローカル推論への期待からオープンソースモデルをPCで動かせば大規模データセンターが不要になるとの見方があるが、アルトマン氏は供給制約下でのグローバルな資源配分の観点からこれに反論した。",
+        "points": [
+          "個人のPCに眠るRAMは稼働率が約5%程度と低く、世界的に限られたDRAM供給の非効率な使い方だと指摘",
+          "供給制約がある環境ではクラウド側で最大限の稼働率を実現すべきとの考えを示した",
+          "サムスンやSKハイニックスはクラウド事業者やOpenAIのStargateプロジェクトと長期契約を結び、今後数年分のRAM生産の大半を確保している状況"
+        ],
+        "importance": "こうした大手による大量購入がメモリ価格を押し上げ、PCやスマートフォンなど一般消費者向け製品の値上げにつながっており、AI開発競争がハードウェア市場全体に影響を及ぼしている点で重要。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30T20:26:10+00:00",
+      "rss_summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [&#8230;]",
+      "summary": {
+        "title_ja": "AI大手、スクレイピング拒否の新共通規格を採用へ",
+        "overview": "OpenAI、Google、Microsoft、Anthropicは、パブリッシャーがAIによるスクレイピングを一括で拒否できる新標準を採用すると発表した。Metaも支持を表明したが、順守するかは明言していない。",
+        "background": "現在パブリッシャーは各AI企業ごとに個別にAI学習への利用可否を設定する必要があり、AIクローラーによる無断スクレイピングの増加に対応を迫られていた。",
+        "points": [
+          "新標準はAnthropicの技術リード、Kevin Kelley氏がIETFに提案した「ポリシートークン」信号で、従来のrobots.txt内に設置される",
+          "Microsoftは学習利用とAI grounding（情報源としての参照）を個別に拒否できる細かい制御を提供し、拒否してもBing検索結果への表示には影響しないとする",
+          "Anthropicは既に対応済みで、Google・Microsoftは来年、OpenAIは数カ月以内の実装を予定している"
+        ],
+        "importance": "複数のAI企業に一度で意思表示できる共通規格が普及すれば、パブリッシャーの負担軽減とコンテンツ管理の実効性向上につながり、AI学習データを巡る業界ルール形成の重要な一歩となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "published": "2026-10-30T20:40:13+00:00",
+      "rss_summary": "People who love AI don't always love telling others they used it.",
+      "summary": {
+        "title_ja": "AI不正を警告したダートマス大学教務担当副学長、自身のAI使用で辞任",
+        "overview": "ダートマス大学のサンティアゴ・シュネル教務担当副学長が、学術論文とワシントン・ポスト紙への寄稿でAI使用を適切に開示しなかったとして、諮問委員会の調査を経て辞任した。",
+        "background": "シュネル氏は2026年8月、学生のAI不正利用問題を論じた「より深刻な問題がある」と題する寄稿をワシントン・ポスト紙に発表していたが、その寄稿自体や学術論文でAIを使用した事実を出版元の要求にもかかわらず開示していなかった。",
+        "points": [
+          "委員会の調査によると、シュネル氏は大学支給のPCは提出したが個人のLLMアカウントのログは提出せず、面談にも応じないなど「不十分な協力」にとどまった。",
+          "大学経由のClaude企業アカウントの記録からは、論文の査読者役を演じさせる、コードのバグ修正、図表の編集・生成など編集補助的な使用実態が確認された。",
+          "本人は「文法チェックや論点の明確化のための編集ツール」として使用したと説明し、この種のAI支援編集が開示対象になるとは認識していなかったと釈明した。"
+        ],
+        "importance": "AI不正を監督する立場の大学幹部自身がAI利用の開示義務を怠った事例であり、学術界におけるAI利用の透明性基準の曖昧さと、その適用の厳格さを問う象徴的な事件となっている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "published": "2026-10-30T19:30:52+00:00",
+      "rss_summary": "But it's still early days for the relatively new e-commerce use case.",
+      "summary": {
+        "title_ja": "DoorDash注文、AIエージェント経由はわずか数百件にとどまる",
+        "overview": "DoorDashのCEOトニー・シュー氏は第3四半期決算発表で、外部AIエージェント経由の注文が稼働開始以来「数百件」にとどまっていると明らかにした。",
+        "background": "DoorDashは2026年第3四半期だけで約10億件の注文を処理しており、AIエージェント経由の利用はその中で極めて限定的な「非常に少ないユースケース」だと説明した。",
+        "points": [
+          "DoorDashは約1カ月前にModel Context Protocol（MCP）コネクタを導入し、サードパーティのAIツールが標準化された方法で注文できるようにしたが、現在は一部の『アーリーベータパートナー』に限定公開されており、主に企業の昼食注文の効率化に使われている",
+          "MCP未対応の場合、AIエージェントはWebインターフェース経由でDoorDashにアクセスする必要があり、手間がかかる",
+          "CEOは、AIエージェントは『長期検討を要する購入』や重要な意思決定にこそ有効であり、食品注文のようなシンプルなタスクでは消費者が直接DoorDashを使う傾向があると指摘した"
+        ],
+        "importance": "AIエージェントによる消費活動の自動化が期待される中、日常的で単純な購買行動では依然として人間の直接操作が主流であることを示す事例であり、EC各社のAI連携戦略の有効性を見極める材料となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "published": "2026-10-30T17:38:19+00:00",
+      "rss_summary": "Low costs and offline security mean magnetic tape still has a job.",
+      "summary": {
+        "title_ja": "富士フイルム、AI需要受け磁気テープ生産を5倍に増強",
+        "overview": "富士フイルムは、磁気テープの生産能力を2025年度比で5倍に拡大するため、約100億円（約6300万ドル）を投資すると発表した。",
+        "background": "生成AIの普及によって世界的にデータ需要が「指数関数的」に増加しており、エンタープライズ分野では大容量データの長期保存手段として磁気テープが再注目されている。",
+        "points": [
+          "神奈川工場小田原サイトへの投資は、同社のLTOテープ専用施設としては過去最大規模で、2026〜2028年度にかけて実施される。",
+          "最新世代の「FUJIFILM LTO Ultrium10」の製造拡大と人員増強が主な目的で、バリウムフェライトとストロンチウムフェライトを組み合わせた新技術を採用している。",
+          "クラウド大手やデータセンター事業者は、低コストで大容量保存が可能な点に加え、物理的に切り離せる「エアギャップ」特性からランサムウェア対策としてもテープ活用を拡大している。"
+        ],
+        "importance": "AIによるデータ量急増を背景に、旧来技術とされがちな磁気テープが企業のバックアップ・セキュリティ戦略で重要性を増しており、今回の大規模投資はその需要拡大を象徴する動きといえる。"
+      }
     }
   ]
 }
