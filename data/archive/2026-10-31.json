@@ -163,6 +163,150 @@
         ],
         "importance": "AI開発ツールの公式配布チャネル自体が攻撃経路となったことで、開発者のクレデンシャルやソースコードが広範に危険にさらされた可能性があり、AI関連サプライチェーンのセキュリティ対策強化の必要性を浮き彫りにしている。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "published": "2026-10-31T21:41:00+00:00",
+      "rss_summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "summary": {
+        "title_ja": "アップルCEO「AIのためだけのAI導入はしない」と表明",
+        "overview": "アップルのジョン・ターナスCEOがWired誌のインタビューで、同社のAI戦略に対する姿勢を説明し、現在の立ち位置に満足していると語った。",
+        "background": "アップルはここ数年、強化版Siriの発売延期などを背景にAI分野で出遅れていると指摘されてきたが、2026年9月に正式就任したターナス氏は長年の同社幹部としてこの見方に反論した。",
+        "points": [
+          "ターナス氏は新製品においてAIを積極的に活用していく方針を示しつつ、「AIのためだけにAIを出荷するつもりはない」と強調した。",
+          "理想は、ユーザーがAIによるものか従来型ソフトウェアによるものかを意識せず、単に『本当に気に入る製品』を作ることだと説明した。",
+          "AIエージェントがアプリなど既存のエコシステムを不要にする可能性についても問われたが、製品づくりは『深く人間的で個人的な行為』だと述べ、アップルらしさを強調した。"
+        ],
+        "importance": "競合他社がAI機能の実装競争を加速させる中、アップルはユーザー体験を重視した慎重なAI統合路線を貫く姿勢を明確にしており、今後の製品戦略や業界内での位置づけに影響を与える発言といえる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "published": "2026-10-31T21:36:07+00:00",
+      "rss_summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "summary": {
+        "title_ja": "開催まで4日、TechCrunch Founder Summitの人脈作り機能を紹介",
+        "overview": "TechCrunchは、11月4日にボストンのSoWa Power Stationで開催するFounder Summitについて、参加者同士のネットワーキングを促す仕組みを紹介する記事を公開した。",
+        "background": "Fidelity Private Sharesが協賛するこのイベントは、単なる交流の場ではなく、創業者とVCが意図的に有益な人脈を築けるよう設計されている点を強調している。",
+        "points": [
+          "Braindateを活用した「Networking Lounge」では、資金調達戦略や採用課題など特定テーマで1対1・少人数のミーティングを事前に予約できる",
+          "ステージ上のセッション（プロダクトマーケットフィットやピッチ、ボストンでの起業など）内容を踏まえ、同じ関心を持つ参加者と会話を継続できる",
+          "ラウンドテーブル、ブレイクアウトセッション、Expo Hall、クロージングレセプションなど会場内外で多層的な交流機会があり、週を通じたサイドイベントも用意されている"
+        ],
+        "importance": "開催まで残り4日で、早期登録によりパス料金を最大100ドル割引・2枚目無料にできるため、起業家やVCにとって有益な人脈構築とコスト削減の両方を狙える最後のチャンスとなる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "published": "2026-10-31T21:17:03+00:00",
+      "rss_summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "summary": {
+        "title_ja": "xAIデータセンター汚染訴訟、却下申立てを裁判官が棄却し継続へ",
+        "overview": "連邦判事は、xAIがコロッサス・データセンターのガスタービン運用で必要な大気排出許可を取得していないとするNAACPの訴訟について、xAI側の却下申立てを退け、訴訟を継続させる決定を下した。",
+        "background": "南部環境法律センターがNAACPを代理して、xAIがメンフィス郊外のコロッサス施設で少なくとも35基の燃焼タービン等の汚染源を、事前許可や運転許可なしに設置・稼働させ、大気浄化法に違反したと主張していた。",
+        "points": [
+          "xAIはタービンが「移動式」のため許可対象外であること、原告に提訴資格がないことを理由に却下を求めたが、ブラウン判事はいずれも退けた。",
+          "判事は、市民訴訟条項が連邦政府の執行権行使にあたらず違憲ではないと判断し、大気浄化法上の提訴資格も認めた。",
+          "司法省による同様の却下申立ても今月すでに却下されており、xAI・司法省双方の試みが繰り返し裁判所に否定された形となっている。"
+        ],
+        "importance": "データセンターを巡る世論の反発が強まる中（ニューヨーク州の新規建設モラトリアムなど）、本件は環境規制順守を巡るAI企業への説明責任を問う重要な判例となり得る。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Silicon Valley wants you to invest in miracles",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "published": "2026-10-30T13:11:05+00:00",
+      "rss_summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, [&#8230;]",
+      "summary": {
+        "title_ja": "アンソロピック上場申請書、「奇跡の時代」とリスクを同時に語る",
+        "overview": "AnthropicがIPOに向けて提出した335ページのS-1申請書で、AIがもたらす「奇跡の時代」への期待と、人類に対する「破滅的・実存的リスク」の両方を率直に記載し話題になっている。",
+        "background": "シリコンバレー企業のIPO申請書は年々誇張的かつ情報過多になっており、1980年のApple（リスク要因0ページ）から2012年のFacebook（22ページ）を経て、今回のAnthropicは94ページものリスク要因を含む異例の分量となっている。",
+        "points": [
+          "創業者レターは投資を単なる取引ではなく「人類史上の重要な瞬間」への参加と位置付け、「underpromise and overdeliver（控えめに約束し期待以上に応える）」という『反セールス』戦略を強調している。",
+          "S-1の46ページでは、適切な安全策なしにモデルを開発・運用すれば『人類に破滅的・実存的リスク』をもたらし得ると明記。CEOのダリオ・アモデイ氏はAI開発が人類絶滅につながる確率を最大25%としている。",
+          "Anthropicは株主利益最大化を義務付けられない『パブリック・ベネフィット・コーポレーション』として上場し、安全性と社会的使命を優先する姿勢を打ち出す一方、第3四半期の業績など収益性を判断する重要情報は開示されていない。"
+        ],
+        "importance": "AI企業の上場が「技術の不確実性」と「巨額投資の必要性」という矛盾を抱えたまま進む中、投資家はリターンだけでなく破滅的リスクも織り込んで判断せざるを得ず、AI業界とウォール街の関係性の変化を象徴する事例となっている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "published": "2026-10-30T13:01:14+00:00",
+      "rss_summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, [&#8230;]",
+      "summary": {
+        "title_ja": "アルトマン氏、数学者に共感も「AI数学攻勢」は継続と明言",
+        "overview": "OpenAIのサム・アルトマンCEOがPodcast「Cheeky Pint」で、AI生成の数学的成果の洪水に苦しむ数学者たちに共感を示しつつも、発表を止めるつもりはないと明言した。",
+        "background": "OpenAIは今月だけで数百件の数学的成果を発表したが、説明不足や検証不十分、不適切な引用などへの批判が相次ぎ、研究者らは内容の精査に追われている。",
+        "points": [
+          "アルトマン氏は「世界は宇宙の仕組みを知る権利がある」とし、科学的知見の公開を優先する姿勢を強調",
+          "一方でYang-Mills理論に関する成果など、専門家の助言を理由に非公開のままの重要な発見もあり、情報開示の一貫性に批判が集まっている",
+          "OpenAIは数学分野に数億ドル規模を投資しており、ナビエ・ストークス方程式の解明には約1000万ドルを費やしたと明かした"
+        ],
+        "importance": "AI企業による科学的発見の独占的な管理と不透明な発表プロセスは、研究コミュニティの信頼性や公平性に影響を与えかねず、AIと科学研究の関係性を巡る今後の議論に一石を投じる内容となっている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+      "published": "2026-10-31T00:07:22+00:00",
+      "rss_summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "summary": {
+        "title_ja": "NASA、ハッブル救出へ再び民間に提案募集",
+        "overview": "NASAはハッブル宇宙望遠鏡の軌道再上昇・延命整備・制御落下処分について、民間企業からアイデアを募る情報提供要請（RFI）を発表した。回答期限は11月30日。",
+        "background": "ハッブルは2009年のスペースシャトル最終整備ミッション以降、軌道上昇の手段がなく高度を徐々に落としており、何も対策を取らなければ2033〜2034年頃に大気圏に再突入して失われると予測されている。",
+        "points": [
+          "NASAは高度600km（373マイル）以上への再上昇、性能向上整備、または制御された再突入誘導のいずれかについて、企業の現在・近未来の対応能力を求めている",
+          "ミッションは2032年までの実施を想定し、打ち上げ機・整備用宇宙機・運用、必要なら乗員まで契約企業側が用意する枠組み",
+          "NASAは現時点で購入を確約しておらず、まずは関心のある企業や費用、実現可能性を調査する段階"
+        ],
+        "importance": "推進機を持たないハッブルは自力で軌道を維持できず、再上昇が実現すれば今後少なくとも25年は運用延長できる可能性があり、36年続く天文学の象徴的観測装置の存続を左右する重要な試みとなる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "published": "2026-10-30T16:53:49+00:00",
+      "rss_summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "summary": {
+        "title_ja": "AI悪用の「幽霊学生」詐欺、数千件で数百万ドルの学生ローン窃取と米司法省",
+        "overview": "米司法省は、他人の個人情報を使い偽の大学生になりすましてAIで課題やオンライン出席を代行させ、学生ローンを詐取する「幽霊学生」詐欺の摘発を発表し、ケニア国籍者らに関連するネットワークから75万ドル以上の暗号資産を押収、5人を起訴した。",
+        "background": "詐欺師は大学未進学の高校卒業生などの個人情報を購入してFAFSAに申請・入学し、授業料を差し引いた余剰の奨学金を自分たちの管理口座に振り込ませる手口で、少なくとも2021年から続いていたとされる。AIの進化によりオンライン授業の受講や課題提出を自動化し、長期間発覚を逃れる手口が巧妙化していた。",
+        "points": [
+          "教育省は不正の疑いがある連邦学生支援口座を83万件以上特定し、該当分だけで総損失は約1億3000万ドルに上る可能性がある。",
+          "起訴された被告に関連する実損害は3200万ドル以上と確認されており、1人で700件超・約144万ドルの不正送金を受けていたケースも発覚した。",
+          "FBIとデータ分析により不審なパターンを検知し、26のFBI支局に約50件の捜査依頼を送付するなど、国際的な資金追跡と摘発を継続中。"
+        ],
+        "importance": "本人になりすまされた被害者は何年も後に返済請求を受けるまで被害に気づけず信用情報にも影響が及ぶため、AIを悪用した巧妙な学生ローン詐欺への対策強化は喫緊の課題であり、米政権は本人確認の厳格化など不正検知の再構築を進めている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+      "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+      "published": "2026-10-30T11:30:01+00:00",
+      "rss_summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
+      "summary": {
+        "title_ja": "新作映画『You Can See Everything』、ホームズの虚偽を曖昧に描く",
+        "overview": "Theranos創業者エリザベス・ホームズが収監前の34日間を追った新作映画『You Can See Everything』が、ネイサン・フィールダーとランス・オッペンハイムの共同監督で公開され、絶賛と反発が入り混じる評価を受けている。",
+        "background": "ホームズは血液検査技術を巡る詐欺で有罪となり11年の実刑判決を受けたが、既存のドキュメンタリーやドラマが自身の望む形で描かれなかったことから、A24に自ら接触してこの映画の制作を持ちかけた。",
+        "points": [
+          "本作はホームズと親交のあるコメディアン、ネイサン・フィールダー（『Nathan for You』『The Rehearsal』）が共同監督を務め、彼女の収監前34日間に密着する形で撮影された",
+          "事実関係の検証よりも曖昧な「空気感」の表現に重点を置いた作りで、解釈を観客に委ねる構成になっている",
+          "筆者はこの手法を批判し、ホームズは裁判時と同様に責任転嫁や被害者ぶった態度を崩しておらず、映画に新たな洞察はほとんどないと指摘している"
+        ],
+        "importance": "有罪が確定した詐欺師に再び発言の場とメディアの注目を与えることの是非が問われており、ドキュメンタリーの倫理や「曖昧さ」を芸術的手法として用いることの危うさを浮き彫りにしている。"
+      }
     }
   ]
 }
