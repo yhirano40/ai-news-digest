@@ -72,6 +72,42 @@
         ],
         "importance": "この実験は、専用AIハードウェアの価値がAIアシスタント自体の機能よりも「自由にプログラム可能である」点にある可能性を示しており、Meta純正のMuse Charmが同程度に改造・拡張可能なのか、それとも開発者向けキットの方が適しているのかという今後の製品設計への問いを投げかけている。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "published": "2026-11-01T21:55:23+00:00",
+      "rss_summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "summary": {
+        "title_ja": "OpenAI、データセンターを「AIコンピュート施設」に改称か",
+        "overview": "OpenAIが中間選挙後に大規模な広報活動を準備しており、その一環としてデータセンターを「AIコンピュート施設」と呼び変える案を検討していることがAxiosの報道で明らかになった。",
+        "background": "データセンターへの反発が社会的に強まる中、民主党が下院、場合によっては上院も奪還する可能性が高まっており、OpenAIの最高渉外責任者クリス・レハン氏は中間選挙を2028年大統領選で「AIが最大の争点」となる前触れと位置づけている。",
+        "points": [
+          "AIに「速度制限」を設ける案や、AIが日常生活を支えるものだと市民に理解してもらう取り組みなど、複数の広報・政策戦略を検討している",
+          "米国が国際的なAI標準づくりで主導的役割を果たすよう働きかける方針も含まれる",
+          "データセンールをめぐる議論は既にAmazonやMicrosoftが地元自治体との交渉でNDA（秘密保持契約）を使わない方針を表明するなど、業界全体に影響を及ぼしている"
+        ],
+        "importance": "AI企業によるイメージ戦略の変化は、今後の規制論議や地域社会との関係構築に直結し、2028年大統領選に向けたAI政策の方向性を左右する可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "published": "2026-11-01T20:57:58+00:00",
+      "rss_summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "summary": {
+        "title_ja": "AIはCEOの生活は楽にするが、一般人には？という疑問",
+        "overview": "TechCrunchのPodcast「Equity」で、Dazzle AIのMarissa MayerやOpenAIのSam Altmanら著名AI企業CEOの「AI活用」発言が一般人の感覚とズレているとの批判を特集した。",
+        "background": "MayerがAIに娘の作文を手伝わせたり、Altmanが子育てにChatGPTが欠かせないと語ったり、ZuckerbergがAIで社会的・恋愛的欲求を満たせると示唆するなど、AI業界トップの発言が相次いで「浮世離れしている」と指摘されてきた。",
+        "points": [
+          "出演者らは、AI活用の訴求が『人間同士の基本的な会話や交流を最適化して排除してしまう』方向に向かっていると懸念を表明",
+          "BumbleのCEOによる『AI同士がデートして相性を判断する』構想など、人間関係の意思決定をAIに委ねる事例が紹介された",
+          "問題は『マーケティング』と『製品設計』の両方にあり、富裕な経営層が共感する課題（レストラン予約やフライト予約など）が一般利用者の実際のニーズとズレていると指摘された"
+        ],
+        "importance": "AnthropicのIPOを控え、ウォール街がAIへの過剰投資に懐疑的になりつつある中、業界トップの発言や製品設計が一般消費者の実感と乖離していることは、AI企業の信頼性や今後の市場評価に影響を与えかねない。"
+      }
     }
   ]
 }
