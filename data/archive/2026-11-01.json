@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-01",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "published": "2026-10-31T16:12:55+00:00",
+      "rss_summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "summary": {
+        "title_ja": "OpenAI、新規資金調達の目標額を引き下げと報道",
+        "overview": "OpenAIが新たな資金調達ラウンドの目標額を、当初の300億ドルから200億ドルに引き下げたと複数の報道で明らかになった。初回クローズの金額はさらに低くなる見込み。",
+        "background": "同社は評価額1兆4000億ドル、その後1兆2500億ドルでの300億ドル調達が報じられていたが、IPOを控える中で目標額を下方修正した形となる。",
+        "points": [
+          "新ラウンドはUAEの投資家グループが主導し、富裕層向けのリテール販売を加えて200億ドル到達を目指す構成",
+          "WSJによれば現時点で調達済みは110億ドルにとどまり、大口投資家からの反応は『lukewarm（鈍い）』とされる",
+          "AIインフラへの過剰投資懸念からハイテク株の大規模売りが進んでおり、資金調達環境の悪化が背景にある可能性"
+        ],
+        "importance": "AI業界への投資熱の冷め込みを象徴する動きであり、同じくIPOを控えるAnthropicなど他のAI企業の資金調達戦略にも影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "published": "2026-10-31T01:20:05+00:00",
+      "rss_summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "summary": {
+        "title_ja": "NvidiaがNscaleのWV州AIデータセンター債務保証を検討",
+        "overview": "Nvidiaが、AIクラウド企業NscaleがAnthropic向けに建設予定の西バージニア州データセンターについて、数十億ドル規模の債務保証を行う交渉を進めていると報じられた。",
+        "background": "Nscaleは同施設の第1棟分だけでAnthropicと446億ドルの契約を結んでおり、評価額最大350億ドルでのIPOを目指す一方、チップ調達の遅れや建設現場の浸水問題など計画遂行能力への懸念が強まっている。",
+        "points": [
+          "検討されているのは「残存価値保証」と呼ばれる仕組みで、Nscaleが建設費の支払いで債務不履行に陥った場合、Nvidiaが一時的に施設を引き継ぎ、買い手やテナントを探す役割を担う。",
+          "これまでNvidiaのクラウド企業支援はリースやチップ購入の保証が中心だったが、今回は初めて建設費そのものを対象とする異例の内容。",
+          "Nvidiaはネオクラウドや大口顧客向けに既に約1700億ドル規模の投資・与信を提供しており、9月にはNscaleに10億ドルの転換社債型融資を実施済み。"
+        ],
+        "importance": "投資家がAI投資の巨額さに神経質になる中、半導体最大手のNvidiaが顧客の借入まで肩代わりする構図は、AI業界のインフラ投資が自己資金循環的に膨張している実態を浮き彫りにし、Anthropicの資金調達やNscaleのIPOの行方にも影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "published": "2026-10-30T17:00:00+00:00",
+      "rss_summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "summary": {
+        "title_ja": "Google初の宇宙データセンター衛星が稼働、詩も生成",
+        "overview": "Googleの「Suncatcher」プロジェクトによる宇宙データセンターの試作衛星が稼働を開始し、地上と通信を確立。Gemma 4モデルに俳句を生成させるテストにも成功した。",
+        "background": "この衛星は今月初め、SpaceXのFalcon 9ロケットで100機以上の衛星とともに打ち上げられ、約3週間のコミッショニング作業を経て稼働準備が整った。将来的には編隊飛行する衛星群で大規模な推論処理を宇宙で行うことを目指している。",
+        "points": [
+          "衛星にはGoogleのTPU4基を搭載するが、電力制約により一度に1基しか約20分間しか稼働できない",
+          "放射線環境下でのTPUの熱・放射線耐性を検証中で、地上試験では推論への影響は軽微、学習への影響がより大きいと予想されている",
+          "2027年には発電能力を高め、衛星間の光通信リンクを備えた2機の追加衛星打ち上げを計画。SpaceXとは異なり衛星間連携による分散処理を目指す点が特徴"
+        ],
+        "importance": "SuncatcherはGoogleの2030年代を見据えた野心的な宇宙インフラ構想であり、実現にはSpaceXの完全再使用型ロケット「Starship」の実用化が不可欠。一方でAlphabetは直近のAI検索事業の広告収益への悪影響で株価が急落しており、長期的な宇宙投資と短期的なAI収益化の両立が今後の課題となる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "published": "2026-10-31T16:05:00+00:00",
+      "rss_summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [&#8230;]",
+      "summary": {
+        "title_ja": "MetaのMuse Charm発売前に自作AIたまごっちを作ってみた",
+        "overview": "The Verge記者が、Metaが発売予定のAIペンダント「Muse Charm」に似た安価な代替デバイスを約50ドルで自作し、AIコーディングツールClaudeを使って機能を拡張した体験を紹介している。",
+        "background": "Metaは今年のホリデーシーズンに向け、AIアシスタント「Muse」を携帯できるかわいいペンダント型デバイス「Muse Charm」を発売予定で、記者はMeta公式が推奨する開発キット「Waveshare ESP32-S3 1.75C」（1.75インチタッチスクーン付き）を購入して試作に取り組んだ。",
+        "points": [
+          "初期設定ではMuseの応答が遅く、音声での返答もなく、スマートホーム連携も自動検出されないなど機能が限定的だった",
+          "Claude Codeに指示するだけで会話履歴表示、ElevenLabsの音声合成、カメラのリモートシャッター、Bluetooth経由の低解像度プレビューなどを次々に追加実装できた",
+          "たまごっち風のミニゲーム（空腹・退屈・汚れなどのパラメータ）や、実際に時刻を示す時計機能、Zuckerberg氏の紹介動画再生機能まで、コーディング未経験でもAIの力で短時間で実現できた"
+        ],
+        "importance": "この実験は、専用AIハードウェアの価値がAIアシスタント自体の機能よりも「自由にプログラム可能である」点にある可能性を示しており、Meta純正のMuse Charmが同程度に改造・拡張可能なのか、それとも開発者向けキットの方が適しているのかという今後の製品設計への問いを投げかけている。"
+      }
+    }
+  ]
+}
