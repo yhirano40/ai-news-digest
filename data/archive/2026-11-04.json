@@ -163,6 +163,168 @@
         ],
         "importance": "地球外で調達可能な水を推進剤とする発想は、衛星補給・燃料補給・修理・再配置といった軌道上ロジスティクスを低コスト化する可能性を秘めており、今回の不具合は商業化に向けた技術実証の難しさを浮き彫りにしている。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "published": "2026-11-04T22:45:09+00:00",
+      "rss_summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "summary": {
+        "title_ja": "AI系政治団体、中間選挙で数百万ドル投入も明暗分かれる結果に",
+        "overview": "AI推進派・規制派双方の政治活動委員会（PAC）が米中間選挙で多額の資金を投じて候補者を支援したが、支援した候補の多くが落選するなど結果はまちまちだった。",
+        "background": "OpenAI社長グレッグ・ブロックマンやAndreessen Horowitzが支援する「Leading the Future」傘下のAmerican Mission、Think Bigといった推進派PACと、Anthropic系のPublic First、規制強化派のGuardrails Allianceなどが、AI政策を巡り候補者支援・落選運動に多額を投じていた。",
+        "points": [
+          "American MissionとBuilding the Futureはサウスカロライナ州上院候補ダーリン・グラハム氏に480万ドルを投じたが落選、モンタナ・ノースカロライナの下院候補にも各50万ドル超を支援したが共に敗北",
+          "Guardrails AllianceはAI業界からの資金提供を政治的に不利にすることを狙い、ジミー・ゴメス氏ら対立候補に100万ドル超を投じて落選させる一方、支援候補ゴンサレス・トーレス氏が当選",
+          "Leading the Futureは本選より予備選での支出（総額2738万ドル）を重視し、全国統一のAI規制枠組みを目指す一方、Guardrails Allianceは州ごとの規制維持とAI資金の「政治的毒性」化を狙う"
+        ],
+        "importance": "AI企業からの巨額の政治献金が有権者の反発を招きかねないことが露呈し、今後2028年選挙に向けて、AI業界の政治的影響力と国家レベルのAI規制枠組みを巡る攻防が一層激化する可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "published": "2026-11-04T22:13:16+00:00",
+      "rss_summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "summary": {
+        "title_ja": "Nothing CEO、謎のAIファースト製品を12月に発売予定と発表",
+        "overview": "Nothingのカール・ペイCEOがX（旧Twitter）で、同社初の「AIネイティブ製品」を12月に発売すると明らかにした。",
+        "background": "Nothingは以前からAIファーストのデバイスを予告しており、AI連携スマートグラスやAI機能付きイヤホンの発売計画も公表していた。",
+        "points": [
+          "ペイ氏は新製品について「画面はなく、アプリにもなり得なかった」「生産性ツール」と説明し、詳細な正体は依然不明",
+          "業界各社がペンダントやピン、グラスなど『AIのiPhoneモーメント』を目指す中、ペイ氏はウェアラブル路線とは異なる視点を示唆",
+          "正式な発売日はまだ発表されていないが、12月出荷を目指していると明言"
+        ],
+        "importance": "AIハードウェア競争が過熱する中、Nothingが既存カテゴリーに当てはまらない新しいAI製品を打ち出すことで、消費者向けAIデバイス市場の方向性に新たな視点を提示する可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "published": "2026-11-04T21:56:01+00:00",
+      "rss_summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "summary": {
+        "title_ja": "UberのAIエージェント経由配車、実は利用者ごく少数と判明",
+        "overview": "Uberは2026年第3四半期決算発表で、10月の最繁忙週（ハロウィン週間）にAIエージェント経由で注文された配車はわずか4件、Uber Eatsの注文も500件に留まったと明らかにした。",
+        "background": "同週のUberとUber Eats全体の利用件数は約3億2000万件に上り、AIエージェント経由の割合は極めて小さい。パーソナルAIエージェント市場は盛り上がりを見せており、InstinctやMetaのMuse、OpenAIやAnthropicなどがエージェントサービスを展開している。",
+        "points": [
+          "CEOのダラ・コスロシャヒ氏は「非常に初期段階で、限られた反応にとどまっている」と述べ、今後の拡大に期待を示した",
+          "Uberアプリでの配車予約は平均50秒、再注文は90秒と短時間で完結するため、AIエージェント利用のメリットが薄い可能性がある",
+          "競合のDoorDashも同様に、AIエージェント経由の注文は数百件にとどまると先週の決算で報告している"
+        ],
+        "importance": "AIエージェントによる自動取引への期待が高まる一方、実際の利用は極めて限定的であることが大手プラットフォームの数字から浮き彫りになり、「エージェンティックウェブ」実現にはまだ時間がかかることを示している。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "published": "2026-11-04T22:42:15+00:00",
+      "rss_summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier [&#8230;]",
+      "summary": {
+        "title_ja": "クアルコム、スマホ不振でデータセンター事業に大きく賭ける",
+        "overview": "スマートフォン販売が2025年比で約20%落ち込む中、クアルコムはAIデータセンター事業への注力を強化する方針を発表した。2026年第4四半期決算発表で、AmazonやMetaとの提携を軸に事業拡大を図る計画を示した。",
+        "background": "クアルコムは今年に入りAmazonやMetaとのパートナーシップを発表しており、スマホ市場の低迷を補う新たな収益源としてAI向けデータセンターチップ事業の構築を進めてきた。",
+        "points": [
+          "2027年第1四半期のデータセンター事業収益は約6億5000万ドルを見込み、2027年末までに50億ドル、2029年には150億ドルへの急成長を予測",
+          "2026年の総売上高104億ドルと比較しても、データセンター事業は将来的に大きな割合を占める見通し",
+          "クアルコムはデータセンター事業が最終的に全体の約30%を占めると想定しており、これはAMDが掲げる80%超という目標には及ばないものの、AI需要の大きさを示している"
+        ],
+        "importance": "スマホ市場の縮小が続く中、半導体大手がAIデータセンター需要を新たな成長の柱と位置付けていることを示す事例であり、業界全体でAI投資マネーの争奪戦が激化していることを裏付けている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "17 better ways Elon Musk could have wasted $446 million",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "published": "2026-11-04T21:45:00+00:00",
+      "rss_summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you [&#8230;]",
+      "summary": {
+        "title_ja": "マスク氏、中間選挙に446億円浪費も惨敗、無駄遣いの代替案17選",
+        "overview": "イーロン・マスク氏がPAC「America PAC」を通じて中間選挙に約446万ドル（原文表記は4億4600万ドル）を投じたが、支援した候補ケン・パクストン氏はテキサス州の民主党候補ジェームズ・タラリコ氏に55%対で惨敗した。",
+        "background": "マスク氏はX（旧Twitter）での情報収集に偏重し、AI業界に近い層の意見ばかりを見ていたため、データセンター拡大やAI企業への反発など一般有権者の不満を見誤ったと指摘されている。",
+        "points": [
+          "タラリコ氏は『テキサスは売り物ではない』をスローガンに掲げ、マスク氏の資金介入を選挙運動の中心に据えて勝利した。",
+          "記事はマスク氏の446億円が、島の購入やロールスロイス13台、ワシントン・ポスト紙買収など、より『有意義な』浪費に使えたはずだと皮肉交じりにリストアップしている。",
+          "選挙敗北を受け、テキサス州知事や司法長官など新たに権力を握った政治家がマスク氏とアボット州知事との癒着疑惑を追及する可能性が高まっている。"
+        ],
+        "importance": "SNSの情報バブルが富豪や経営者の政治判断を歪める典型例であり、巨額の政治資金投入が必ずしも効果を生まないことを示すと同時に、今後マスク氏とテック業界への政治的・法的圧力が強まる可能性を示唆している。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "published": "2026-11-04T20:23:24+00:00",
+      "rss_summary": "AT&#38;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide [&#8230;]",
+      "summary": {
+        "title_ja": "AT&TのスマートホームセキュリティがGemini for Homeと連携開始",
+        "overview": "AT&Tはスマートホームセキュリティシステム「Connected Life」にGoogleのGemini for Homeを統合し、AIによる映像解析や検索機能を追加したと発表した。",
+        "background": "AT&Tは昨年12月にGoogleとAbodeと提携し「Connected Life」を開始しており、同社はGoogle Home Premiumと統合する初の家庭用セキュリティ製品だとしている。",
+        "points": [
+          "Geminiが防犯カメラの映像から「誰が荷物を配達したか」などを詳細に説明し、自然言語で録画映像を検索できる",
+          "自宅内外の活動を1日ごとに要約するサマリー機能や、自宅への接近に応じた自動施錠・解錠機能も追加",
+          "これらの新機能は月額29.99ドルのプロフェッショナル監視プラン加入者限定で利用可能"
+        ],
+        "importance": "GoogleのGemini for Home向けAPIを活用する動きは、ADTなど他のセキュリティ企業にも広がりつつあり、AIによるスマートホーム体験の標準化が進む可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+      "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "published": "2026-11-04T22:47:51+00:00",
+      "rss_summary": "And what that could mean for physical Switch game costs.",
+      "summary": {
+        "title_ja": "任天堂向けROMチップ最大手Macronix、同事業から撤退へ",
+        "overview": "台湾の半導体メーカーMacronixが、ニンテンドースイッチや新型機のゲームカートリッジに使われるROMチップの生産を終了し、ゲーム業界から段階的に手を引くと発表した。アナリストによれば、同社は任天堂の物理カートリッジ向けの主要メモリチップメーカーだという。",
+        "background": "AI業界によるメモリ・ストレージ需要の急増がRAMやSSD、GPUなど幅広いPC部品の価格や供給に影響を及ぼしてきたが、今回その波がニンテンドースイッチ用カートリッジのROMチップ供給網にも及んだ形だ。",
+        "points": [
+          "MacronixのROM生産は過去1年で39%減少し、現在は同社全体売上のわずか5%にまで縮小している",
+          "生産能力は月産2万5000枚（12インチウエハー換算）で頭打ちとなっており、12億ドル規模の新規設備投資も立ち上がりに1年以上かかる見込み",
+          "利益率の低いROMチップより、需要が旺盛で収益性の高いNOR型・NAND型メモリやeMMCの生産にウエハー枠を振り向ける方針"
+        ],
+        "importance": "任天堂の主要サプライヤーが撤退することで、物理ゲームカートリッジの供給や価格に影響が及ぶ可能性があり、AI主導のメモリ需要逼迫がゲーム業界のサプライチェーンにまで波及している実例として注目される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "published": "2026-11-04T21:56:29+00:00",
+      "rss_summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+      "summary": {
+        "title_ja": "ウランキューブが解明、ドイツ核開発計画失敗の真相",
+        "overview": "第二次大戦中のナチス・ドイツによる原子炉開発「B8パイル」計画について、実際に使われたウランキューブの分析から、臨界に達することができなかった本当の理由が明らかになった。",
+        "background": "計画を率いたヴェルナー・ハイゼンベルクは、ウランがもう少しあれば成功していたと主張していたが、米メリーランド大学の物理学者ティモシー・コース氏らが2013年に入手した謎の重金属キューブをきっかけに、現存する14個のウランキューブを追跡する研究が始まった。",
+        "points": [
+          "現存する14個のドイツ製ウランキューブのうち、米国内で10個以上が発見されており、スミソニアン博物館やハーバード大学にも保管されていた。",
+          "新たにProceedings of the National Academy of Sciences Nexus誌に発表された論文では、当時の設計のままではウランと重水の量が根本的に不足しており、ハイゼンベルクの主張とは異なり原子炉完成には程遠かったと結論づけている。",
+          "歴史的な物証（実物のウランキューブ）を用いた科学的検証により、長年議論されてきたドイツ核開発計画の到達度に関する論争に決着をつけた。"
+        ],
+        "importance": "この研究は、歴史上の「もしも」として語られてきたナチス・ドイツの核兵器開発の実態を、物理学的証拠に基づいて再評価するものであり、科学史・核開発史の理解を深める重要な成果となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+      "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+      "published": "2026-11-04T21:29:46+00:00",
+      "rss_summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+      "summary": {
+        "title_ja": "AMD、第3四半期は過去最高の売上高 データセンター事業倍増もゲーミングは急落",
+        "overview": "AMDは第3四半期決算で売上高134億ドル（前年同期比45%増）という過去最高を記録し、データセンター事業がほぼ倍増した一方、ゲーミング部門は大幅に落ち込んだ。",
+        "background": "AMDはEPYCサーバー向けCPUやInstinct MI450シリーズGPUの投入により、生成AI需要を追い風にデータセンター事業を急拡大させている。",
+        "points": [
+          "データセンター部門は前年比97%増の85億ドルと過去最高を記録し、営業利益率も25%から34%に拡大、営業利益は168%増の28.8億ドルに達した。",
+          "一方、ゲーミング部門は半カスタム製品とグラフィックス事業の不振により売上高が40%減の7.73億ドルに落ち込んだ。",
+          "クライアント部門はRyzenモバイルチップがけん引し7%増の29.5億ドル、組み込み部門も航空宇宙・防衛・自動車向けなどで29%増の11億ドルとなった。"
+        ],
+        "importance": "AMDは第4四半期に170億ドル前後（前年比約66%増）の売上を見込んでおり、達成すればインテルの同四半期予想（150億〜160億ドル）を初めて上回る可能性があり、AI半導体市場での勢力図変化を象徴する出来事となる。"
+      }
     }
   ]
 }
