@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-04",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "published": "2026-11-03T21:05:55+00:00",
+      "rss_summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "summary": {
+        "title_ja": "パランティア好決算の裏に潜む不穏な兆候",
+        "overview": "データ分析企業パランティアが2026年第3四半期決算を発表し、売上高は前年比96%増の23.1億ドルとアナリスト予想を上回ったが、投資家の反応は鈍く株価は小幅下落した。",
+        "background": "同社の米国商業部門売上が初めて米国政府部門売上を上回るなど好材料が多かったが、企業顧客がAIソフトを短期契約で試す動きが目立ち、成長の持続性に懸念が生じている。",
+        "points": [
+          "売上高23.1億ドル（前年比96%増）、調整後EPS44セントと市場予想を上回り、通期ガイダンスも上方修正",
+          "米国商業契約は9.84億ドル（前年比148%増）で、米国政府売上9.53億ドルを初めて上回った",
+          "一方で米国企業向けの総契約額は14.6億ドルと、前四半期の過去最高21.3億ドルから減少し、短期トライアル契約が増加傾向"
+        ],
+        "importance": "企業が迅速にAI導入を試す一方で契約解除も容易になっているという、エンタープライズAI特有の動向を示しており、次四半期の実績がパランティアの長期的な成長持続性を占う試金石となる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "published": "2026-11-03T19:34:43+00:00",
+      "rss_summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+      "summary": {
+        "title_ja": "AI推論スタートアップFal、評価額2倍の160億ドルに急騰",
+        "overview": "AI動画・画像・音声モデルのホスティングを手がけるFalが、Bessemer Venture Partners主導で13億ドルを調達し、評価額が4月の80億ドルから倍増して160億ドルとなった。",
+        "background": "Falは2021年創業で、オープンソースモデル利用者を中心にAI推論サービスへの需要が急増する中、Series EとFを合わせて16.5億ドルを調達したと発表した。",
+        "points": [
+          "新ラウンドにはNvidia、Sound Ventures、T. Rowe Priceが参加し、前回Series ESequoia主導ラウンドに続く大型調達となった。",
+          "Falの年換算売上は今年既に8億ドルを突破しており、急成長を裏付けている。",
+          "Baseten、Fireworks AI、Modalなど同業の推論サービス企業も高評価額での資金調達が相次いでいるが、計算資源コストの高さから粗利益率は薄いとされる。"
+        ],
+        "importance": "生成AIの実運用（推論）需要がトレーニング以上に急拡大しており、インフラ提供企業の評価額急騰は業界全体の成長性と採算性の課題を同時に示している。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "published": "2026-11-03T18:42:16+00:00",
+      "rss_summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "summary": {
+        "title_ja": "Netflix、気分に合わせて作品提案する新機能「AI Discover」を導入",
+        "overview": "Netflixは、ユーザーが今の気分に合わせて視聴作品を見つけられる新タブ「AI Discover」の展開を発表した。まずはテレビ向けに米国の英語ユーザー向けから開始される。",
+        "background": "作品ライブラリが拡大する中、Netflixは単調なスクロール式の検索体験から脱却し、よりパーソナライズされたAI活用の発見体験への移行を目指している。",
+        "points": [
+          "「something light」「scare me」「family movie night」「quick watches」など、気分や時間、好みに応じたテーマ別のキュレーションから選択可能。",
+          "リアルタイムのユーザー反応から学習する新しい「インテリジェンスレイヤー」が機能を支えており、テーマ選択後は関連作品を提示し、さらに絞り込みも可能。",
+          "各作品には「Tune Your Recommendations」ボタンがあり、好みの作品を保存したり、不要な提案を除外したりできる。"
+        ],
+        "importance": "Netflixはこの機能を新しい発見手法を試す「テストキッチン」と位置づけ、ユーザーのフィードバックをもとに今後本体サービスへの統合可否を判断する方針で、AIを活用したコンテンツ推薦の今後の方向性を占う試みといえる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "published": "2026-11-03T23:37:45+00:00",
+      "rss_summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
+      "summary": {
+        "title_ja": "AIバブルはいつ崩壊するのか、答えは誰にも分からない",
+        "overview": "PIMCOのCEOエマニュエル・ローマン氏とアポロ・グローバル・マネジメントのジム・ゼルター社長が、香港の金融サミットでAI市場の過熱と将来の調整リスクについて警鐘を鳴らした。",
+        "background": "巨額なAIインフラ投資が債券市場を圧迫する中、Meta、Oracle、Alphabet、Microsoftなどが相次いで大型社債を発行しており、PIMCOはAI関連取引に深く関与してきた代表的な投資家である。",
+        "points": [
+          "PIMCOのCEOはAI関連の資金需要が今後5年で2兆ドルに達する可能性があると試算（米国債券市場全体は約12兆ドル）",
+          "Metaの社債には580億ドルの注文が集まる一方、PIMCOは保有するAI関連債を売却済みで警戒姿勢を強めている",
+          "アポロも「価格や経済性が今後どう変化するか不透明」とコメントし、AIの成長性は認めつつもリスクに言及"
+        ],
+        "importance": "AI投資を支えてきた大手金融機関自身が慎重な見方を示し始めたことは、債券市場主導のAIブームに転換点が訪れる可能性を示唆しており、金利上昇や地政学リスクが引き金となれば市場全体に波及する恐れがある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "published": "2026-11-03T18:30:42+00:00",
+      "rss_summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said [&#8230;]",
+      "summary": {
+        "title_ja": "OpenAI、ChatGPTの検索量がGoogleの2割に到達と発表",
+        "overview": "OpenAIは、ChatGPT経由で行われる検索クエリの量がGoogleの検索量の20%に相当すると発表した。",
+        "background": "「Google it」に代わり「Ask Chat」という言葉が広がる中、OpenAIの消費者向けプロダクト責任者Adam Fryが月曜の記者発表でこの数値を明らかにした。検索とは、用語の定義や簡単な使い方の説明ではなく、ウェブ検索結果を伴うクエリ入力と定義されている。",
+        "points": [
+          "Googleの検索量データの出典は明示されていないが、BingがMicrosoftの10年以上の努力でも市場シェア約3%にとどまったことと比較すると、ChatGPTの20%という数字は急速な成長を示す。",
+          "OpenAIは自社検索インデックスに加え、Bingを主要な検索基盤として利用しているとみられるが、一部クエリをGoogle経由で処理している可能性も指摘されている。",
+          "Googleが外部サイトへの誘導を減らしAI Overviewなどに注力する一方、OpenAIは「Intelligent UI」と呼ぶチャット内でのビジュアル・インタラクティブな検索体験の構築を進めている。",
+          "OpenAIは来年初めとも噂されるIPOを見据え、広告による収益化も模索しており、ChatGPT内でのスポンサー広告の画像表示を拡大する方針を示した。"
+        ],
+        "importance": "検索市場でGoogleの牙城にAIチャットボットが本格的に食い込みつつあることを示すデータであり、検索広告ビジネスの構造やユーザーの情報取得行動に大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Indie games are missing launch dates because Steam is backed up",
+      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "published": "2026-11-03T18:14:50+00:00",
+      "rss_summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in [&#8230;]",
+      "summary": {
+        "title_ja": "Steamの審査遅延でインディーゲームが発売延期に",
+        "overview": "Steamでのゲーム審査が異常に長引き、一部のインディー開発者が予定していた発売日を逃す事態が発生している。",
+        "background": "10月のSteam Next Festの出展数は7,240本と6月から65.2%増加しており、審査待ちの新作ゲームが急増していることが背景にある。",
+        "points": [
+          "Studio DaimonのFood Devilsは10月12日にビルドを提出したが、本来の発売予定日になっても承認が下りず、緊急連絡も無視された状態が続いている",
+          "公開元2 Left ThumbsはWheel Make Itの発売が約2週間遅れたと報告、コントローラー非対応の一項目で審査落ちするなど細かい基準も影響している",
+          "開発者らはAI生成の低品質コンテンツ（AI slop）が審査キューを詰まらせている可能性を指摘しており、Valveも申請急増と再審査の増加により最大12営業日の遅延が生じていると認めている"
+        ],
+        "importance": "Valveは発売前チェックリストの更新や審査プロセスの改善を進めるとしているが、AI生成コンテンツの急増に伴うプラットフォーム側の審査体制の限界が、今後のインディー開発者の発売計画に大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "published": "2026-11-03T22:39:37+00:00",
+      "rss_summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+      "summary": {
+        "title_ja": "カリフォルニア州、トランプ政権のブロードバンド法撤廃要求に抵抗",
+        "overview": "カリフォルニア州は連邦BEADプログラムから14億2000万ドルの助成金受給を決めたが、ネット中立性法など州の通信規制を撤廃せよというトランプ政権の条件には従わない姿勢を示した。",
+        "background": "NTIAは昨年、BEAD(ブロードバンド公平アクセス展開)プログラムの42億ドル予算を受給する州に対し、助成を受けるISPへの料金規制やネット中立性規則の執行を禁じる条件を課した。カリフォルニア州は27万570カ所への回線敷設のため最大18億6000万ドルの受給を見込んでいるが、この条件を受け入れるかが焦点となっていた。",
+        "points": [
+          "カリフォルニア州公益事業委員会(CPUC)は、条件が違憲または法的根拠を欠く場合は拘束されないとする書簡をNTIAに送付し、他州機関による州法執行を妨げないと明言した。",
+          "NTIAは「州との最終合意内容が全てであり、CPUCの懸念表明は契約に含まれない」と反論しており、双方の対立は解消していない。",
+          "CPUCはNTIA側と調整がつくまでISPへの資金配布を見送る方針で、合意に至らなければ州が条件の違憲性を主張して提訴する可能性がある。"
+        ],
+        "importance": "この対立は、連邦政府が補助金を通じて州の消費者保護規制（ネット中立性やプライバシー保護等）を事実上無効化できるかという重大な法的論点を含み、他州の対応や今後のBEAD資金配布全体にも影響を及ぼす可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+      "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+      "published": "2026-11-03T17:08:21+00:00",
+      "rss_summary": "Google has cut ties with the company behind the botnet campaign.",
+      "summary": {
+        "title_ja": "Google、130万台のAndroid TVボックスのボットネットを解体",
+        "overview": "Googleの脅威インテリジェンスグループは、130万台以上のGoogle認証済みAndroid TVデバイスで稼働していた大規模ボットネット「x.cpe」を摘発・停止したと発表した。",
+        "background": "深圳拠点のVideostrong Technology製の機器が審査をすり抜けマルウェアを仕込まれており、主にMECOOLブランドで販売された端末がセットアップ後にバックドア経由で密かに感染していた。",
+        "points": [
+          "x.cpeは当初単純なドロッパーだったが、第三者にアクセスを販売するモジュール式の3段階マルウェアプラットフォームへと急速に進化した。",
+          "感染端末はPlay Protectを無効化し、システム権限を悪用して住宅用プロキシやアド詐欺モジュールを密かにインストールしていた。",
+          "Videostrongは端末への完全アクセス権を持ち、ターミナルコマンド実行や画面キャプチャ、ローカルネットワーク内の他端末の探査まで可能で、Googleはこれがリアルタイムで行われている様子を確認したという。"
+        ],
+        "importance": "認証済みの正規デバイスでも巧妙な難読化によって審査をすり抜け大規模な不正利用が可能であることを示しており、サプライチェーン全体でのセキュリティ検証強化の必要性を浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "This space company is betting its future on a propellant available everywhere",
+      "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+      "published": "2026-11-03T16:50:32+00:00",
+      "rss_summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
+      "summary": {
+        "title_ja": "元SpaceX社員が興した宇宙企業、水を推進剤に賭ける",
+        "overview": "元SpaceXエンジニアのCarlisle3兄弟が設立したArgo Spaceが、水を推進剤・冷却材・放射線遮蔽材として利用する宇宙機技術の実証ミッション「Navigator」を7月にFalcon9ロケットで打ち上げたが、太陽電池アレイの展開不良によりバッテリー切れとなり、肝心の推進システムの試験ができなかった。",
+        "background": "2022年末に設立されたArgo Spaceは、地球からの推進剤輸送に頼らず、月をはじめ太陽系に広く存在する水を利用した低軌道・静止軌道・月間の宇宙輸送網構築を目指している。SpaceXでFalcon9の打ち上げや整備、販売に携わった経験を持つ創業者たちは、ロケットではなく宇宙機インフラに事業の軸足を置く道を選んだ。",
+        "points": [
+          "水は推進剤だけでなく、スラスタからアビオニクスまでを冷却する冷却材、さらに放射線シールドとしても機能し、推進剤質量比を高めて航続距離や機能拡張を可能にする設計思想",
+          "将来的には月の浅い重力井戸から水を採取・利用する商業的インセンティブを生み出すことを長期ビジョンとして掲げている",
+          "初の実証機Navigatorは通信確立には成功したものの、2枚ある展開式太陽電池アレイの一方が展開せず電力不足に陥り、推進系統の試験は実施できなかった"
+        ],
+        "importance": "地球外で調達可能な水を推進剤とする発想は、衛星補給・燃料補給・修理・再配置といった軌道上ロジスティクスを低コスト化する可能性を秘めており、今回の不具合は商業化に向けた技術実証の難しさを浮き彫りにしている。"
+      }
+    }
+  ]
+}
