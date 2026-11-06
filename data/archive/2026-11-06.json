@@ -162,6 +162,151 @@
         ],
         "importance": "連邦と州の規制権限を巡る法廷闘争が各地で相次いで敗訴となっており、Kalshiのビジネスモデルの法的正当性に大きな打撃となる可能性がある。予測市場業界全体の規制枠組みにも影響を与える可能性がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "published": "2026-11-06T22:53:46+00:00",
+      "rss_summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "summary": {
+        "title_ja": "OpenAI、新ラウンドで110億ドル調達、評価額1.25兆ドルに",
+        "overview": "OpenAIが新たな資金調達ラウンドでこれまでに110億ドルを調達し、評価額は1.25兆ドルに達したとBloombergが報じた。",
+        "background": "9月末時点では300億ドルの調達を目指していると報じられていたが、今回の調達額は目標を大きく下回っており、ラウンド全体は数週間以内に完了し総額約200億ドルになる見込みという。",
+        "points": [
+          "今回判明した110億ドルは、まだクローズしていないより大規模なラウンドの一部にとどまる",
+          "同日、競合のAnthropicもIPOでの評価額が従来想定の2兆ドルから最大1.1兆ドルまで下振れする可能性があると報じられた",
+          "OpenAIは当初今年中のIPOを示唆していたが延期しており、来年のIPOが見込まれている"
+        ],
+        "importance": "米中間選挙での民主党勝利やデータセンターへの逆風により規制強化懸念が強まる中、巨額評価のAI企業への資金調達環境に不透明感が広がっていることを示す出来事である。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published": "2026-11-06T18:44:38+00:00",
+      "rss_summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "summary": {
+        "title_ja": "中国製AIハッキングツールArtex、数百件がネット上に無防備公開",
+        "overview": "セキュリティ企業Censysが、中国製の自律型侵入テストツール「Artex」の800件以上のインスタンスが、パスワード保護なしでインターネット上に露出していることを発見した。",
+        "background": "Artexは今年7月に公開されたオープンソースのAIハッキングツールで、偵察からデータ窃取までをほぼ人手を介さず自動実行できるAIエージェント群として、AnthropicやOpenAIの高度なモデルにアクセスできない攻撃者に広く利用されてきた。",
+        "points": [
+          "韓国金融業界への攻撃やIT大手ConnectWiseへの侵害など、複数の大規模サイバー攻撃にArtexの使用が確認されており、CrowdStrikeやMicrosoftが関与を指摘している。",
+          "露出したシステムには、被害ネットワークへの持続的アクセスを可能にするインプラント（隠れた不正プログラム）などの攻撃用データも含まれていた。",
+          "多くの攻撃は弱いパスワードや多要素認証の欠如といった単純な脆弱性の悪用によるもので、攻撃者側の設定ミスも同様の脆弱性に起因していた。"
+        ],
+        "importance": "強力なハッキングツール自体が誤設定により誰でも悪用できる状態で公開されるリスクを浮き彫りにしており、Artexは今後クローズドソース化する方針だが、既に出回ったコードは引き続き攻撃に利用され得る点が懸念される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "published": "2026-11-06T18:44:20+00:00",
+      "rss_summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "summary": {
+        "title_ja": "Meta、Museエージェントと協働する新機能「Spaces」を発表",
+        "overview": "Metaは自社のAIエージェント「Muse」向けに、特定の目的ごとに会話や作業を整理できる新機能「Spaces」を発表した。",
+        "background": "Museは愛らしいキャラクター性を持つエージェントとして展開され、好調な滑り出しを見せており、10月の決算発表ではデビューから2カ月足らずで米加地域のユーザーが1000万人に達したと明かされている。",
+        "points": [
+          "SpacesはMuseとのインターフェース上でサイドバーに表示される「カスタム体験」で、休暇計画やレシピ収集、ギフト管理など特定の目的ごとに会話を分けて作業できる。",
+          "チャットでアイデアを伝えるだけでMuseがトラッカーやプランナーなどのSpaceを自動生成し、外部アプリと連携すれば価格変動やイベント情報などをバックグラウンドで自動更新する。",
+          "ZuckerbergはXでBBQゲームやイベントトラッカー、ホームコントロールダッシュボードを作ったと投稿し、機能をアピールした。また同週にはMuseとビデオ通話や音声操作ができる「Muse Voice」も発表されている。"
+        ],
+        "importance": "MetaはOpenAIの「dots」やxAIの「Grokbot」といった愛嬌あるAIエージェントとの競争下にあり、Spacesのような機能拡充はユーザー定着とエージェント経済圏の構築を加速させる狙いがある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "published": "2026-11-06T23:00:44+00:00",
+      "rss_summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [&#8230;]",
+      "summary": {
+        "title_ja": "中国がAI幹部を勧誘しNvidiaのJensen Huang氏を監視か",
+        "overview": "NYTの報道によると、中国の情報機関MSSがMegaspeed幹部のAlice Huang氏を勧誘し、NvidiaのCEOであるJensen Huang氏から米国製AIチップに関する情報を得ようとしていた。",
+        "background": "Alice Huang氏はNvidiaの顧客企業Megaspeedの幹部で、Gigabyteなど半導体業界トップ層とも親交があり、Jensen Huang氏とも「親密」な関係にあるとNYTは報じている。",
+        "points": [
+          "MSSはAlice Huang氏を通じ、Nvidia最先端チップの対中輸出を後押しするよう働きかけることも狙っていたとされる",
+          "トランプ大統領は昨年この関係について説明を受けていたが、特段の対応は取らなかった",
+          "米下院の3委員会がJensen Huang氏に対し、Alice Huang氏との「やり取り」について非公開の合同説明会への出席を要請した"
+        ],
+        "importance": "米中間でAI半導体の覇権争いが激化する中、主要企業トップへの諜報活動疑惑は輸出規制や安全保障政策、議会の監視強化につながる可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "published": "2026-11-06T18:10:10+00:00",
+      "rss_summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by [&#8230;]",
+      "summary": {
+        "title_ja": "Meta、Muse AIに「スペース」機能を追加 用途別アプリを自動生成",
+        "overview": "MetaはAIアシスタント「Muse」に、ショッピングハブや学習ダッシュボード、音楽トラッカーなどアプリのようなカスタム機能「スペース」を作成できる新機能を追加し、全ユーザーに展開を開始した。",
+        "background": "Museは外部アプリと連携できるAIアシスタントで、ユーザーの説明をもとに目的に応じた機能を生成することで、より柔軟な利用体験を提供することを目指している。",
+        "points": [
+          "ユーザーが内容を説明するだけで、ショッピングハブ、学校の予定表、音楽トラッカー、クイズゲームなどの「スペース」を作成可能",
+          "Gmail、Googleカレンダー、OpenTable、Notionなど外部アプリと連携すると、価格や日程などの情報を自動で継続更新",
+          "スペースはサイドバーやメインタブへの配置変更、表示スケジュールの設定が可能で、平日と週末で切り替えるなど柔軟な運用ができる",
+          "Muse Wonderモデル由来の「Active Memory」「Active Focus」機能もMuseアプリとMeta AIチャットボットに追加され、過去の会話内容の把握や目標達成支援が強化される"
+        ],
+        "importance": "AIアシスタントが単なる対話型ツールから、ユーザーごとにカスタマイズされたミニアプリを生成するプラットフォームへと進化しつつあることを示しており、今後の共有・共同編集機能の追加次第で利用の幅がさらに広がる可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "published": "2026-11-06T20:56:41+00:00",
+      "rss_summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "summary": {
+        "title_ja": "ブロックチェーン分析大手Chainalysis、全顧客の認証情報とトークンが流出",
+        "overview": "ブロックチェーン分析企業Chainalysisは、ネットワークへの不正侵入により、全ユーザーの氏名、ユーザー名、パスワードハッシュ、有効なトークンなど機密情報が盗まれたと発表した。",
+        "background": "10月、同社はAIエージェントを悪用した攻撃者による不正アクセスを受けており、他プラットフォームでも同時期に類似のハッキングが発生していた。当初は「非機密」情報のみが流出したと説明していたが、水曜日の更新でパスワードの一部も「中間者攻撃（on-path attack）」により流出していたことが明らかになった。",
+        "points": [
+          "被害は多岐にわたる顧客に及び、FBIや米移民・関税執行局（ICE）、米空軍などの政府機関に加え、Microsoft、Coinbase、Barclaysなどの民間企業も含まれる。",
+          "攻撃は二方面からの継続的なサイバー攻撃の一部で、送受信トラフィックを傍受する中間者攻撃によりパスワードの一部が流出した。",
+          "同社はインフラのどこが侵害されたか、データがTLS暗号化されていたかについて詳細を明らかにしていない。"
+        ],
+        "importance": "政府機関や大手企業を含む全顧客の認証情報が流出した可能性があり、ブロックチェーン捜査・分析インフラの信頼性に深刻な影響を及ぼす恐れがある。流出した認証情報の悪用による二次被害の有無が今後の焦点となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Earth's churning mantle may have created the Great Unconformity",
+      "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+      "published": "2026-11-06T20:24:20+00:00",
+      "rss_summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+      "summary": {
+        "title_ja": "地球マントル対流が生んだ「大不整合」の謎を解明",
+        "overview": "グランドキャニオンなどに見られる地層記録の大規模な欠落「大不整合」が、地球内部のマントル対流によって形成された可能性があるとする研究がNature誌に発表された。オーストラリア・ウロンゴン大学のFlament氏らが数値モデルで検証した。",
+        "background": "大不整合は最大10億年以上に及ぶ地質記録の空白で、北米や北欧、中国北部で確認されている。従来は氷河による侵食、地殻の引き裂き（リフティング）、海面変動などが原因として挙げられてきたが、いずれも全大陸での発生状況を説明できなかった。",
+        "points": [
+          "研究チームは過去10億年分のマントル対流シミュレーションを6パターン作成し、プレート運動の復元データと組み合わせて大陸の隆起・沈降パターンを解析した",
+          "北米大陸の核であるローレンシアは約9億3000万～5億1000万年前にほぼ沈み込みがなく、マントルの上昇流に押し上げられて隆起し続けたことが判明した",
+          "隆起だけでは侵食に十分な急斜面を作れないため、同時期に発生した「スノーボールアース」の氷河侵食と組み合わさって大不整合が形成されたと結論づけた"
+        ],
+        "importance": "マントル内部の動きという目に見えないプロセスが地表の地質記録に長期的な痕跡を残すことを示す点で重要であり、北米やユーラシアでは隆起と沈降が1サイクルだったのに対し南米やオーストラリアは2サイクルだったため不整合が不明瞭になるなど、地域差を説明する新たな枠組みを提供する。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "The folks behind John Wick are back with Karōshi trailer",
+      "link": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+      "published": "2026-11-06T18:30:19+00:00",
+      "rss_summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
+      "summary": {
+        "title_ja": "『ジョン・ウィック』製作陣が新作『Karōshi』予告編を公開",
+        "overview": "『ジョン・ウィック』シリーズを手がけたチャド・スタエルスキが、2027年公開予定の新作ディストピアアクション映画『Karōshi（過労死）』の予告編をLionsgateが公開した。",
+        "background": "過労死は日本やアジア各国、さらにはスウェーデンでも現実に起きている現象で、ストレス性の心臓発作や脳卒中、過労自殺などが原因とされる。本作はこの概念を近未来のマンハッタンを舞台にした企業社会に置き換えて描いている。",
+        "points": [
+          "監督・脚本はタカシ・ドシャーが務め、架空の企業『Ikigai Technologies』を舞台に、社員の死をきっかけに外部の男が企業の闇を暴いていく物語。",
+          "主演は『Past Lives』のテオ・ヨー演じる復讐心に燃える主人公ヒロ。",
+          "共演には『Shōgun』で話題となった平岳大のほか、ジャンカルロ・エスポジート、シンシア・エリヴォ、ビル・キャンプらが名を連ねる。"
+        ],
+        "importance": "『ジョン・ウィック』生みの親による新作とあって期待は大きく、社会問題である過労死をテーマにしたアクション映画として2027年の注目作の一つとなりそうだ。"
+      }
     }
   ]
 }
