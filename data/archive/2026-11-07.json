@@ -162,6 +162,168 @@
         ],
         "importance": "AIワークロード向けチップアーキテクチャの刷新が進行中であり、AI用途重視のユーザーは次世代M7搭載機を待つ選択肢もある一方、ディスプレイ品質を最優先するなら現行モデルが大きな進化点となる。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "published": "2026-11-07T22:07:22+00:00",
+      "rss_summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "summary": {
+        "title_ja": "中間選挙後、イーロン・マスクとデータセンターに逆風",
+        "overview": "米中間選挙での民主党の歴史的勝利を受け、各地の住民投票でデータセンター建設の制限や一時停止を求める措置が可決され、テック業界に大きな影響を与える可能性が出てきた。",
+        "background": "テスラやX（旧Twitter）などマスク氏の拠点であるテキサス州は、データセンター規制を公約に掲げた新知事候補ヒノホサ氏の勝利などにより、従来の共和党優位から大きく民主党寄りに転じた。マスク氏は共和党に5億ドル以上を寄付したとされるが、その見返りはほとんど得られなかったと指摘されている。",
+        "points": [
+          "ハイパースケーラーがNDAを多用し、水使用量など事業規模の情報開示を避けてきた秘密主義的な建設手法が、超党派的な住民の反発を招いた",
+          "OpenAIは『コンピュート・キャンパス政策ブループリント』を発表し、NDA義務の撤廃や情報公開拡大など方針転換を表明",
+          "規制の見通しが明確になれば企業は自主的に対応を変える可能性があり、逆に不透明なままでは変化は期待しにくいとの分析がある"
+        ],
+        "importance": "データセンター反対が党派を超えた草の根運動として定着しつつあり、今後数年にわたりAI・ハイパースケーラー企業の事業展開に規制面での逆風が強まる可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "published": "2026-11-07T21:17:08+00:00",
+      "rss_summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "summary": {
+        "title_ja": "米情報機関メモ、エヌビディアCEOへの中国スパイ疑惑を指摘",
+        "overview": "米情報機関が作成したメモによると、シンガポール拠点の企業メガスピードの幹部アリス・ファン氏が、中国国家安全部によりエヌビディアCEOジェンスン・ファン氏を監視するために採用されたとされる。",
+        "background": "ニューヨーク・タイムズは以前からジェンスン・ファン氏が中国情報機関の標的になっていたと報じており、今回新たに流出したメモがその内容を裏付ける形となった。フィナンシャル・タイムズは追加で、メモにはジェンスン氏とアリス氏の間に恋愛関係があったとの記述も含まれていたと報じている。",
+        "points": [
+          "メモは米国の情報活動に基づくとされ、中国側がエヌビディアCEOへの接触を通じて機密情報取得を図った可能性を示唆している。",
+          "エヌビディアはジェンスン氏とアリス氏との交流は「異例ではない」とし、機密情報を顧客と共有することはないと説明した。",
+          "別のNYT報道では、米商務省から先進エヌビディア製チップの購入を許可された中国企業ニューマトリックスの実態を調査。記載された所在地は「空っぽの灰色の建物」で、制裁対象の投資会社の隠れ蓑である可能性が浮上した。"
+        ],
+        "importance": "半導体分野における米中の技術・安全保障上の緊張が高まる中、AIチップ輸出規制の実効性やエヌビディア幹部と中国企業との関係性への疑念が強まり、今後の米中規制強化や企業監視の動きに影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "published": "2026-11-07T01:40:28+00:00",
+      "rss_summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "summary": {
+        "title_ja": "クルーソー、難航するワイオミング州DC計画をグーグルに売却",
+        "overview": "データセンター開発企業クルーソー（評価額309億ドル）は、ワイオミング州南東部で未完成だったデータセンター建設計画をグーグルに売却したことを確認した。",
+        "background": "クルーソーは昨年、ブラックストーン傘下のタルグラスと共に最大10ギガワット規模を目指すこの計画を発表したが、グーグルは当初このプロジェクトの顧客として誘致されたものの契約には至らず、むしろクルーソーの管理下でのコストや建設スケジュールに懸念を示していたと報じられている。",
+        "points": [
+          "グーグルは買収額を明らかにしていないが、データセンターキャンパス開発に170億ドルを投資する計画を発表した",
+          "グーグルはクルーソーとの関係を完全に解消したわけではなく、テキサス州アマリロ近郊で別のデータセンター建設を引き続き委託している",
+          "この売却は、設備や電力確保の難しさ、地域社会の反対などにより、独立系データセンター開発業者が大規模プロジェクトを予定通り予算内で完遂することの難しさを浮き彫りにしている"
+        ],
+        "importance": "巨大テック企業向けのAIインフラ需要が急拡大する中、独立系開発業者の実行能力の限界と、大手クラウド企業による直接的な開発関与の拡大傾向を示す事例として注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "published": "2026-11-07T15:50:00+00:00",
+      "rss_summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best [&#8230;]",
+      "summary": {
+        "title_ja": "NYT CookingのAIアシスタント、平日の鶏肉料理は救ったがケーキは台無しに",
+        "overview": "The New York TimesのレシピアプリNYT Cookingが、食材や調理器具の代替提案、人数に応じたレシピの調整が可能なAIアシスタントをiOS向けに導入し、筆者が実際に使用した体験をレビューした。",
+        "background": "NYT Cookingは信頼できる情報源による実証済みレシピとユーザーコメントが強みだが、深夜に大量のコメントから代替食材のヒントを探すのは現実的でないという課題があった。そこで登場したのがこのAIアシスタントで、ユーザーコメントを学習データとして活用している。",
+        "points": [
+          "AIは元のレシピ自体は変更せず、ユーザーの持っている食材や条件に合わせた新バージョンを別途生成し、変更点をハイライト表示する仕組み",
+          "鶏肉と野菜の代替、スパイスの入れ替え、メートル法から米国式単位への換算などで実用的な提案を行い、無茶な要求には従わないよう訓練されている",
+          "一方でバターの分量を誤って半分にするなど完璧ではなく、AIの提案を鵜呑みにせず注意して使う必要がある"
+        ],
+        "importance": "料理版AIアシスタントとして、正確性が重視される料理分野でのAI活用の実用例を示す一方、レシピ愛好家からは本来のレシピの信頼性を損なうとの懸念もあり、AIと専門コンテンツの共存のあり方を考える上で注目される事例となっている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "published": "2026-11-07T15:43:45+00:00",
+      "rss_summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell [&#8230;]",
+      "summary": {
+        "title_ja": "米政府、実体不明の中国企業へのNvidia AIチップ輸出を承認",
+        "overview": "ニューヨーク・タイムズの調査により、米商務省がNvidiaのH200 AIチップ輸出先として承認した中国企業「New Matrix」が、実際にはほぼ空のオフィスしか持たない実体不明の会社であることが判明した。",
+        "background": "トランプ政権はバイデン政権下で課されていた対中AIチップ輸出規制を緩和し、Nvidiaが売上の15%を政府に納めることと引き換えに中国への販売を容認するようになった経緯がある。",
+        "points": [
+          "New Matrixの本社住所には看板や会社名簿への記載がなく、不動産管理会社にも登録記録が存在しない。",
+          "同社の所有者は、2024年から米国の制裁リストに掲載されている中国の未公開株投資会社と関係があるとされる。",
+          "NYTによれば、これは単発の見落としではなく、制裁対象企業と関連のある会社が繰り返しNvidiaチップの購入を承認されている構造的な問題だという。"
+        ],
+        "importance": "安全保障上の懸念から規制対象となっている中国企業が、形だけの別会社を通じて最先端AIチップを入手できる抜け穴が存在することを示しており、米国の輸出管理体制の実効性とNvidiaの審査プロセスに疑問を投げかけている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "published": "2026-11-07T15:00:00+00:00",
+      "rss_summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say [&#8230;]",
+      "summary": {
+        "title_ja": "AIがサイバーセキュリティ業界を崩壊させた、次に何が起きるのか",
+        "overview": "Cognition社の最高セキュリティ責任者アレックス・スタモス氏が、AIの進化によりサイバー攻撃が爆発的に増加し、既存のセキュリティ業界が対応しきれなくなっている現状を語った。",
+        "background": "2025年10月には複数の大規模脆弱性に加え、AI関連企業「ニュークラウド」群への連鎖的な侵害、史上最大規模とされるBinanceへのハッキング、Cursorを巻き込んだ連鎖的侵害事件などが相次いで発生した。",
+        "points": [
+          "AI企業Fireworksからの情報漏洩で盗まれたAPIキーがCursorへの侵入に悪用され、そこから配布された不正プラグインが約5000社に被害を及ぼすなど、攻撃が連鎖的に拡大している",
+          "従来は人間が事前に脆弱性調査・攻撃コード作成を行っていたが、AIにより脆弱性発見から攻撃コード生成までがリアルタイム・自動化され、攻撃の『キルチェーン』が逆転している",
+          "中国発のオープンソースツール『ARTEX』を最新のオープンウェイトモデルと組み合わせることで、誰でも多数の組織に侵入できる状況が生まれている"
+        ],
+        "importance": "国家主体・民間双方がAIを駆使して攻撃を仕掛ける新たな『フロンティア』の時代に突入しており、スタモス氏は今後しばらくはセキュリティ対応が追いつかない『暗黒時代』が続くと警告している。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "published": "2026-11-07T11:00:34+00:00",
+      "rss_summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "summary": {
+        "title_ja": "英陸軍兵士、SIMカード撤去命令を無視し脅迫被害に",
+        "overview": "エストニアに派遣された英陸軍伍長ダニエル・バートン=ケネディ氏が、個人携帯電話のSIMカード撤去命令に従わなかった結果、スマホがハッキングされヌード写真を盗まれ、脅迫に利用された。",
+        "background": "2026年1月、同氏の部隊はロシア国境から約90マイル西のエストニア・タパで実施された「イースタン・ウォリアー演習」に参加。渡航前と現地到着後の複数回のブリーフィングで、SIMカード撤去や位置情報オフ、信頼できるVPN使用などのセキュリティ指示が徹底されていた。",
+        "points": [
+          "本人は英国出発前の1月7日と、エストニア到着後の追加ブリーフィングの両方で明確な指示を受けていたにもかかわらず、SIMカードを撤去しなかった。",
+          "この不作為により私用携帯がハッキングされ、ヌード写真が流出・脅迫材料として悪用された。",
+          "軍法会議で命令不服従の罪を認め、階級降格および10カ月の拘禁処分が科された。"
+        ],
+        "importance": "ロシア国境近くという地政学的に機微な地域での軍事演習において、個人デバイスの運用保安（OPSEC）違反が実際に敵対的な諜報・恐喝活動のリスクを招くことを具体的に示した事例であり、軍組織におけるデジタルセキュリティ教育の重要性を改めて浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "published": "2026-11-06T23:09:45+00:00",
+      "rss_summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "summary": {
+        "title_ja": "眼球と脳を貫通したナイフ、無事摘出し男性は回復",
+        "overview": "英国の病院に、刃が右目から脳を貫通し頭蓋骨に達したナイフが刺さったままの20代男性が搬送され、医師団の処置により驚異的な回復を遂げた。",
+        "background": "搬送時、男性は意識があり会話や四肢の動作も可能だったが、グラスゴー・コーマ・スケールで12点と「中等度」の脳損傷を示し混乱状態にあったため、医師は自力でナイフを抜こうとする危険を考慮し、鎮静・挿管などの緊急処置を行った。",
+        "points": [
+          "画像診断の結果、15mm幅の刃は脳梁や左内包などの重要な神経線維束を避けて通過し、左内頸動脈も損傷を免れていたが、中大脳動脈の一分枝が刃により圧迫されている様子が確認された",
+          "緊急神経外科手術では頭蓋骨の一部を除去して直接脳内を確認しつつ、刃を無理に掘り出さず慎重に引き抜く「pull-and-see」法が採用された",
+          "抜去後に大きな出血は見られず創部を洗浄・排液して頭蓋骨を修復したが、損傷が激しかった右目は摘出せざるを得なかった"
+        ],
+        "importance": "脳の重要構造を奇跡的に避けた刺入経路と、慎重な画像診断に基づく保存的手術アプローチが、極めて重篤な外傷からの生存と機能回復を可能にした事例として、緊急脳外科医療における判断の重要性を示している。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "published": "2026-11-06T22:41:37+00:00",
+      "rss_summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+      "summary": {
+        "title_ja": "イラン関連タンカー、ホルムズ海峡付近の海底ケーブル上に不審な滞留",
+        "overview": "海事情報会社Windwardの調査によると、イラン関連の制裁対象タンカー3隻と漁船1隻が10月、ホルムズ海峡付近の海底インターネットケーブル上空域で不審な動きを見せていたことが判明した。",
+        "background": "米国・イスラエルによる対イラン攻撃が再燃した場合の報復として、イラン政府が海底インフラへの攻撃を準備している可能性が指摘されている。ホルムズ海峡には現在6本の稼働中ケーブルが通り、イラク、クウェート、バーレーン、カタールの4カ国はこれらの海底通信網に全面的に依存している。",
+        "points": [
+          "船舶は商業目的がないまま速度を落とし、ケーブル付近を周回。一部は位置情報を発信する自動船舶識別装置(AIS)を意図的に停止させ「闇に紛れる」行動を取った",
+          "Windwardはこの動きを「ケーブル経路のマッピング、または暗闇での爆薬・機雷設置」の可能性があると指摘",
+          "建設中のケーブルの一つ、米Metaも出資する2Africaケーブルも、漂流する船舶が訪れた主要経路の一つだった"
+        ],
+        "importance": "インドの西向きインターネットトラフィックの3分の1がペルシャ湾・ホルムズ海峡経由であるなど、同地域の海底ケーブルは中東と欧州・アフリカ・アジアを結ぶ重要インフラであり、攻撃が実行されれば広範な通信障害を招く恐れがある。"
+      }
     }
   ]
 }
