@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-09",
+  "articles": [
+    {
+      "source": "The Verge",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "published": "2026-11-08T22:54:50+00:00",
+      "rss_summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
+      "summary": {
+        "title_ja": "ジェンセン・フアン氏、不倫認め謝罪 Nvidiaが調査開始",
+        "overview": "Nvidiaは11月9日、CEOジェンセン・フアン氏と中国政府の工作員とされるAI業界幹部アリス・ファン氏との関係について調査を開始したと発表し、フアン氏自身も社員向けメモで不倫を認めた。",
+        "background": "報道により、フアン氏が中国政府の関係者とされる女性と不適切な関係にあったとの疑惑が浮上し、国家安全保障上の懸念が指摘されたことを受け、取締役会が独立調査に踏み切った。",
+        "points": [
+          "フアン氏は社員宛メモで妻や家族への不貞行為を認め、謝罪と責任を表明した。",
+          "取締役会は国家安全保障に関する懸念を踏まえ、独立した第三者調査を開始し、フアン氏も全面協力する意向を示した。",
+          "フアン氏はNvidiaの保護と米国の国家安全保障支援への強い意志を強調し、家族のプライバシー保護を求めた。"
+        ],
+        "importance": "世界最大級の半導体企業のトップに中国との関係をめぐる安全保障上の疑惑が浮上したことは、AI・半導体業界の地政学リスクや企業統治のあり方に大きな影響を及ぼす可能性がある。"
+      }
+    }
+  ]
+}
