@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-11",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "published": "2026-11-10T19:23:34+00:00",
+      "rss_summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "summary": {
+        "title_ja": "Ouraがオンライン診療のCounsel Healthを625億円超で買収",
+        "overview": "スマートリング大手Ouraは、AIネイティブなプライマリケア企業Counsel Healthを6億2500万ドル（約625億円相当）で買収すると発表した。",
+        "background": "Ouraは最大22億ドル規模のIPOを「IPO市場の不確実性」を理由に無期限延期したばかりで、Counsel Healthのサービスは今年6月からOuraアプリに統合され既に連携していた。",
+        "points": [
+          "Counselはチャット形式のAI医療相談と医師によるオンライン診療を組み合わせたサービスで、Oura買収後は予防医療・急性期・専門/慢性疾患領域にも拡大予定。",
+          "Counsel HealthはSeries Aでa16zやGVから2500万ドルを調達済み（累計調達額は約3600万ドル）で、CEOのMuthu Alagappan氏はOuraのチーフ・クリニカルAIオフィサーに就任、従業員70人も加わる。",
+          "RingConnやUltrahumanなどライバルの台頭を受け、Ouraは医療サービス拡充で差別化を図る狙いがある。"
+        ],
+        "importance": "ウェアラブルデバイス企業がAI診療機能を取り込むことで、ヘルスケア産業における「計測」と「診療」の融合が加速し、競争環境やビジネスモデルに大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "published": "2026-11-10T19:03:52+00:00",
+      "rss_summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "summary": {
+        "title_ja": "PSI、AI主導の科学発見をビジネス化へ挑戦",
+        "overview": "スタートアップPhysical Superintelligence（PSI）が、AnthropicのFable 5.2モデルを使い、量子計算に関する18年来の未解決問題「Aaronson-Ambainis予想」を解決したと発表した。",
+        "background": "この問題は量子計算機が古典計算機より高速に問題を解けるかに関わる重要な未解決課題で、PSIの研究員David Turturean氏がモデルの早期アクセスを用いて証明を導出し、Leanで形式検証した上で専門家に共有した。",
+        "points": [
+          "PSIは特化したモデルハーネスやツール、シミュレーション基盤を組み合わせ、科学的問題を幅広く深く探索する研究システムを構築している",
+          "現在の収益源はデータセンターの物理シミュレーション最適化だが、将来的には理論物理学の成果を実技術に変換することを目指す",
+          "数学やコンピュータ科学と異なり、物理学や生命科学は現実世界の検証が必要なため、AIによる発見の実証には慎重な実験的検証が不可欠"
+        ],
+        "importance": "AIによる科学的発見が加速する中、研究成果の透明性や専門家との連携など新たな科学的プロセスの標準作りが急務となっており、MITでの関連サミットなど学界全体での対応が注目される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "published": "2026-11-10T18:49:52+00:00",
+      "rss_summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "summary": {
+        "title_ja": "OpenAI、企業向け「ビジネスプロフィール」導入でGoogle的機能を強化",
+        "overview": "OpenAIはChatGPT上で企業が自社情報を管理・発信できる「Business Hub」をベータ版として公開し、ビジネスプロフィール機能と専用ビジネスエージェントを導入した。",
+        "background": "消費者がAIを使って商品比較や意思決定を行うようになる中、OpenAIはChatGPTを企業と消費者をつなぐプラットフォームと位置づけており、検索エンジンが持つ企業プロフィール機能に類似した仕組みを取り入れた形となる。",
+        "points": [
+          "企業は正式な検証プロセスを経てビジネスプロフィールを作成・更新でき、ユーザーは専用エージェントを通じて企業や製品について質問できる",
+          "Google Analyticsのように、プロフィール閲覧数やサイトクリック数などの利用状況データを企業側に提供する",
+          "OpenAIは過去にChatGPT内での直接購入（チェックアウト機能）を試みたが3月に撤退しており、今回は検索型の情報提供モデルへ方向転換した"
+        ],
+        "importance": "ChatGPTが単なる会話AIから企業情報の検索・発見の場へと進化することで、Googleが長年担ってきた役割に食い込む可能性があり、今後のAI検索市場の競争構造に影響を与えると見られる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic has its own AI-powered office suite now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "published": "2026-11-10T17:30:00+00:00",
+      "rss_summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint [&#8230;]",
+      "summary": {
+        "title_ja": "Anthropic、AI搭載オフィス統合ツール群を新発表",
+        "overview": "Anthropicは新たにClaude Meetings、Claude Sheets、Claude Whiteboardsを発表し、非技術系の知識労働者向けにAI機能を拡充した。会議参加や議事録作成、スプレッドシート編集、ホワイトボードでのアイデア整理などをClaudeが支援する。",
+        "background": "これまでAnthropicはエンタープライズ向けコーディングツールに注力してきたが、Claude Codeの成功を受け、今回は非エンジニアの知識労働者層への浸透を狙っている。IPOを控え、収益拡大とプロダクトエンゲージメント向上への投資家からの圧力も背景にある。",
+        "points": [
+          "Claude Whiteboards・SheetsはベータですべてのPaidプランに提供、MeetingsはTeams・Enterprise向け",
+          "HubSpot、Adobe、Atlassianなど提携企業のアプリをClaude内で直接操作できる新しいインタラクティブコネクタを導入、MCPのプラグインは9000種以上に拡大",
+          "Claude Data（旧Claude Dashboards）も全Paidプランで一般提供開始、GoogleのGeminiやOpenAIのChatGPTと同様の機能を追求"
+        ],
+        "importance": "GoogleやOpenAIも同様の会議参加・資料作成機能を展開する中、Anthropicはエンジニア以外の一般ビジネスユーザー層への浸透を図ることで、IPO前の収益基盤強化とAIエージェント競争での優位性確保を目指している。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "published": "2026-11-10T16:20:30+00:00",
+      "rss_summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a [&#8230;]",
+      "summary": {
+        "title_ja": "eBay、Meta MuseなどサードパーティAIエージェントを事実上遮断",
+        "overview": "eBayがMetaのAIエージェント「Muse」を含む第三者のAIエージェントによるサイト閲覧を遮断したことが明らかになった。これまで可能だった出品情報の収集ができなくなり、一部はeBay出品を複製した外部サイトへ誘導される事例も確認された。",
+        "background": "eBayは以前から利用規約で人の確認なしに注文する「buy-for-meエージェント」やLLM駆動ボットを禁止していたが、Museのようなエージェントによる閲覧自体は最近まで可能だった。AmazonやTarget、RealRealなど他の小売・サービス各社でもAIエージェントへの対応がまちまちで、ブロックや制限を強化する動きが相次いでいる。",
+        "points": [
+          "eBay広報は新規制限の有無を明言しなかったが、「無許可のスクレイピングやデータ学習を含む一部ケースでエージェントのアクセスを制限している」と説明し、信頼できる売買体験の維持を重視すると述べた。",
+          "Amazonはエージェントのアクセスを全面遮断、Targetは部分的制限、ShopifyはAIエージェントによる購入を可能にするなど、小売各社の対応は大きく分かれている。",
+          "UberはQ3に第三者エージェント経由の配車がわずか4件、Uber Eatsはハロウィン週でも約500件にとどまり、DoorDashも「数百件」規模と、エージェント経由の実利用はまだごく少数にとどまっている。"
+        ],
+        "importance": "AIエージェントによる「代理購入」が次世代の商取引として注目される一方、実際には小売サイト側が人間の利用を前提とした設計のためボット対策との摩擦が頻発しており、エージェント商取引の実用化には大きな壁が残っていることを示している。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "published": "2026-11-10T16:00:00+00:00",
+      "rss_summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes [&#8230;]",
+      "summary": {
+        "title_ja": "Google、新AIモデル「Gemini 4 Carbon」を一般公開",
+        "overview": "Googleは最新AIモデル「Gemini 4 Carbon」を、サイバーセキュリティ専門家限定公開から2週間を経て一般向けに展開を開始した。同社は「これまでで最も強力なモデル」とし、AnthropicやOpenAIの最高峰モデルに匹敵すると主張している。",
+        "background": "先月発表された前モデル「Argon」は多くのソフトウェア開発・知識労働に適する一方、Carbonは複雑な多段階コーディングや自由度の高い科学研究など、モデルの知能の限界を試すタスク向けに設計された。",
+        "points": [
+          "開発プラットフォームAntigravityでは、1つのプロンプトから複数エージェントの連携チームを編成する「swarm（群れ）」機能をプレビュー公開",
+          "Gemini APIやGoogle AI Studio、Gemini for businessで有料開発者・企業向けに提供開始。Google AI Ultra加入者にはGeminiアプリや検索のAIモードでも利用可能",
+          "価格は入力100万トークンあたり2ドル、出力100万トークンあたり10ドルと導入価格を設定。GPT-6 Astraの約5分の1、Fable 5.2の約4分の1というコスト競争力を持つ（11月末に倍額予定）"
+        ],
+        "importance": "ベンチマークではFable 5.2に次ぐ高性能を示しており、AnthropicとOpenAIの二強体制が続いていたフロンティアAI開発競争に、Googleが本格的に返り咲いたことを印象づける出来事といえる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "published": "2026-11-10T21:12:59+00:00",
+      "rss_summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "summary": {
+        "title_ja": "Grokのコーディング支援AI「Grok Build」機密情報を大量流出、SpaceX社内資料も",
+        "overview": "イーロン・マスク傘下SpaceXSIが提供するAIコーディングエージェント「Grok Build」から、SpaceXSI自身の社内機密情報を含む大量の機密データが流出していたことがセキュリティ企業Clarocの調査で判明した。",
+        "background": "Grok Buildはアプリ共有用にランダム化されたURLを発行する仕組みだが、設計上の欠陥により第三者が数千件の稼働中プロジェクトを列挙・閲覧できる状態になっていた。",
+        "points": [
+          "流出データには社内事業計画、広告提案書、医療検査結果、クルーズ会社の業務チェックリスト、従業員の氏名・ID番号などが含まれていた。",
+          "SpaceXSI自身が構築した24本のアプリからも、新人営業担当者向けの機密オンボーディング計画、594アカウント分の営業テリトリーマップ、社内システムのアドレス情報などが漏洩していた。",
+          "ClarocはSpaceXSIに通報したが反応がなく、X（旧Twitter）でマスク氏とGrok責任者のMatt Palmer氏に直接呼びかけた結果、Ars Technicaの取材を受けて数時間後にSpaceXSIの24アプリへのリンクが削除された。"
+        ],
+        "importance": "本来は社内システムの裏に隠すべき機密データが、AIで素早く構築されたアプリを通じて誰でもアクセス可能な状態で公開されていた事実は、生成AIを使った「バイブコーディング」の急速な普及に伴うセキュリティ設計の甘さを浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "published": "2026-11-10T20:30:01+00:00",
+      "rss_summary": "Mathematician Steven Strogatz discusses his new book, <em>Big Math: The Hidden Codes That Run Our World</em>.",
+      "summary": {
+        "title_ja": "AIが神託となる時、数学はどう変わるのか",
+        "overview": "応用数学者スティーブン・ストロガッツとアレックス・タウンゼントが、コンピューターと巨大な変数を扱う「ビッグマス（Big Math）」をテーマにした新著『Big Math: The Hidden Codes That Run Our World』を出版し、AIや量子コンピューティングが数学の限界を押し広げる現状について論じた。",
+        "background": "現代社会はソーシャルメディアのアルゴリズムから医療画像、機械学習まで数学に支えられているが、大規模言語モデルやAIチャットボット、量子コンピューティングの台頭により、人間の認知能力をはるかに超える「ビッグマス」が数学の創造者自身を凌駕し始めている。",
+        "points": [
+          "「ビッグマス」とは人間の認知能力に対して相対的に「大きい」問題を指し、数十億の変数を持つ問題や、月着陸船の制御のようにコンピューターなしでは扱えない計算を含む概念として定義される",
+          "問題が線形であれば巨大な規模までスケールしても扱いやすいが、非線形で巨大な問題は厳密な数学的証明が困難な「未知の領域」であり、コンピューターでしか対処できない",
+          "大規模言語モデルでは兆単位のパラメータが扱われる一方、微積分のような無限は人間の頭の中で扱いやすく、必ずしも「ビッグ」とは言えないという逆説が存在する"
+        ],
+        "importance": "AIやコンピューターが人間の手に負えない規模の数学を担うようになる中で、人間がどのように知識と力を制御し、数学的な直感や倫理観を失わずに済むかが今世紀の課題となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "published": "2026-11-10T19:00:26+00:00",
+      "rss_summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+      "summary": {
+        "title_ja": "11月のPixel Drop、新アイコンスタイルや「Create My Widget」など追加",
+        "overview": "Googleは11月のPixel Drop（四半期ごとの大型アップデート）を配信開始し、Pixel 11限定だった「Gemini Intelligence」系AI機能の多くをPixel 10シリーズにも拡大した。",
+        "background": "Pixel 11で導入された「Gemini Intelligence」ブランドのAI機能は、これまで最新モデル（一部Samsung端末含む）に限定されていたが、今回のアップデートでPixel 10世代にも展開される運びとなった。ただし廉価モデルのPixel 10aは対象外となる。",
+        "points": [
+          "Pixel 11発の改良版パーソナライズ提案機能（旧Magic Cue）がPixel 10にも対応し、他アプリからGoogle Keepへの買い物リスト送信やコンテキストメニューからの要約生成が可能に",
+          "AI支援音声入力「Rambler」やアプリ自動化機能（配車・フードデリバリー・旅行関連の一部アプリ対応）もPixel 10へ展開",
+          "3月導入のAIアイコンテーマ機能が、より高性能な「Nano Banana」モデルへ移行し、ホーム画面向けに新たに10種類のアイコンスタイルが追加"
+        ],
+        "importance": "最新フラッグシップ限定だったAI機能が旧世代モデルにも波及することで、Google独自のGemini体験をより広いユーザー層に浸透させる狙いがあり、今後のPixel戦略におけるAI機能の標準化・差別化の方向性を示す動きといえる。"
+      }
+    }
+  ]
+}
