@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-14",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "published": "2026-11-13T16:00:12+00:00",
+      "rss_summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "summary": {
+        "title_ja": "ChatGPTに新ウォレット機能、AIエージェントが買い物を代行",
+        "overview": "OpenAIは「dots」と呼ばれるAIエージェントが商品選定から決済まで代行する新機能「ChatGPT Wallet」を発表し、米国のChatGPT Pro加入者（18歳以上、米国発行のVisa・Mastercard・Amex保有者）向けに限定提供を開始した。",
+        "background": "DoorDashやUberではAIエージェント経由の注文数は低調な一方、MetaのMuse（利用者1000万人超）ではAIによる買い物支援が人気機能となっており、消費者向けAIがエージェント型ショッピングで適切な需要を模索する動きが広がっている。",
+        "points": [
+          "ユーザーはウォレットにカードを一度登録すれば、以降は商品・合計金額・使用カードを確認し、Face IDや指紋認証で承認して決済できる",
+          "決済はカード情報を直接共有しない決済トークン方式を採用し、クレジットカードの特典や異議申し立てなどの保護も従来通り利用可能",
+          "今後は利用限度額や購入カテゴリー・期間の事前設定を可能にし、エージェントがより自律的に購入できる仕組みを目指す。対応小売店拡大に向け「Commerce Partner Playbook」も公開"
+        ],
+        "importance": "Amazonなど一部大手小売店はAIエージェントのサイト利用を禁止しており、エージェント型コマースの普及には決済の信頼性確保と小売業界の対応拡大が鍵となる。OpenAIの参入は、AIが消費行動そのものを仲介する新たな市場競争を加速させる可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published": "2026-11-13T15:58:00+00:00",
+      "rss_summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "summary": {
+        "title_ja": "ジェンセン・フアン氏のスキャンダル、全容と経緯まとめ",
+        "overview": "Nvidia共同創業者のジェンセン・フアン氏が複数の不倫関係を認め、2026年11月12日にCEOを電撃辞任。中国スパイ疑惑のある人物との関係も問題視され、米議会が調査に乗り出した。",
+        "background": "フアン氏の交際相手の一人、Megaspeed社のアリス・フアン氏は中国政府に情報を流していた疑いがあり、同社は過去2年間でNvidiaから48億ドル相当のチップを購入、米司法省が調査を引き継いでいる。さらに直属の部下である医療事業担当副社長キンバリー・パウエル氏や別の社員との不倫関係も報じられた。",
+        "points": [
+          "Nvidia取締役会は11月12日にフアン氏の辞任を受理し、CFOのコレット・クレス氏が暫定CEOに就任、ハーヴェイ・C・ジョーンズ氏が初代取締役会議長に就任した",
+          "米議会民主党がトランプ政権によるNvidiaの対中チップ輸出承認の経緯を調査すると発表、フアン氏と商務長官ルトニック氏を上院銀行委員会へ召喚する動きも",
+          "報道によれば辞任直前のフアン氏は『心が折れた』状態で、後継者のクレス氏に対しても不信感を抱いていたとされる"
+        ],
+        "importance": "米中技術覇権争いの中核を担うNvidiaのトップが安全保障上の疑念を伴うスキャンダルで突然退任したことで、同社の経営の安定性や米政府の対中輸出管理政策の信頼性に深刻な疑問が投げかけられている。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "published": "2026-11-13T14:44:48+00:00",
+      "rss_summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "summary": {
+        "title_ja": "ElevenLabs、議事録作成とディクテーションを統合した新アプリ「ElevenAI」発表",
+        "overview": "音声AI大手ElevenLabsは、ニューヨークで開催した「11/11 Summit」にて、会議の議事録作成・ディクテーション・AIエージェント連携を統合した実験的アプリ「ElevenAI」を発表した。現在はプレビュー版で、利用には早期アクセス登録が必要。",
+        "background": "ここ数カ月でFireflies、Wispr Flow、Granolaなどが同様のディクテーション・議事録自動化機能を相次いで投入しており、評価額220億ドルのElevenLabsもこの競争領域に参入した形となる。",
+        "points": [
+          "会議の議事録を自動作成し録音中であることを参加者に通知する機能に加え、過去の会議データを横断して検索・質問できる機能を搭載",
+          "ElevenAgentとの連携により、議事録をもとにフォローアップメールの下書きを作成するなど自動タスク実行が可能",
+          "90以上の言語に対応したディクテーション機能を備え、業界特有の専門用語も認識できるとしている"
+        ],
+        "importance": "ElevenLabsは個人向け生産性ツールではなく、企業チーム全体で使う自社ソリューションとしてこのアプリを位置付けており、他社の議事録ツールのライセンス購入を不要にすることで、自社モデルやエージェント基盤の活用を広げる狙いがある。会議関連ツール各社が企業のナレッジハブ化を競う中、同社の動きは業界の競争構造に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "published": "2026-11-13T14:00:00+00:00",
+      "rss_summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [&#8230;]",
+      "summary": {
+        "title_ja": "Claude「Duet」エージェント、少し神経質だが意外と役立つ存在に",
+        "overview": "Anthropicは一般消費者向けAIエージェント「Claude Duet」をリサーチプレビューとして公開し、The Vergeの記者が1週間使用した体験をレビューした。",
+        "background": "Duetは、コーディング支援のClaude CodeやClaude Cowork以上に一般ユーザー向けに設計された製品で、Meta「Muse」やOpenAI「Dots」など他社AI企業が相次いで提供する仕事向けAIエージェント競争の一環として登場した。",
+        "points": [
+          "現在はProやMax、Ultraなど米国の有料サブスクライバー限定でウェイトリスト制。メール・カレンダー・Googleドキュメント・Slackなど複数サービスと連携し、情報を横断的に関連付けてタスクを提案する。",
+          "毎朝のハイライト表示や、スケジュールの衝突検知、メッセージ下書きの提案など実用的な支援を行う一方、文脈やニュアンスを読み違えて過剰に心配するような「神経質」な一面も見られた。",
+          "ユーザーの文体（小文字表記や略語など）を模倣した自然な下書きを作成できるが、送信メッセージには「Claudeで送信」のラベルが自動で付与される。"
+        ],
+        "importance": "AIエージェントが日常業務の意思決定や進捗管理まで肩代わりし始めることで、働き方や責任の所在が変化する可能性がある一方、人間特有の“ニュアンスの理解”や“気配り”にはまだ課題が残ることを示す事例として注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "published": "2026-11-13T12:00:00+00:00",
+      "rss_summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If [&#8230;]",
+      "summary": {
+        "title_ja": "NvidiaとCEOジェンセン・フアンを巡る「疑惑」報道、米政権と中国関係に波紋",
+        "overview": "The Vergeが、Nvidia関連の複数の「疑惑」報道をまとめ、特にアリス・フアン氏（ジェンセン・フアン氏と血縁関係はない）と中国のスパイ機関との関係を巡る問題を取り上げた。",
+        "background": "トランプ大統領は昨年、そして今年5月の訪中前にも、アリス・フアン氏の中国情報機関との潜在的なつながりについて警告を受けていたと報じられている。",
+        "points": [
+          "アリス・フアン氏の会社に対する米商務省の調査に、Nvidiaが介入したとされる",
+          "半導体（チップ）輸出規制を巡る米中関係の緊張という重大な政治的文脈の中で発覚した問題",
+          "記事自体はThe Vergeのライブ質疑応答企画の告知で、皮肉交じりにNvidia周辺の混乱ぶりを扱っている"
+        ],
+        "importance": "AI半導体を独占的に供給するNvidiaと米政権・中国の関係性は、米国の対中技術輸出政策やハイテク覇権競争に直結するため、こうした疑惑は業界全体の信頼性や規制動向に影響を与えかねない。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "published": "2026-11-13T16:26:32+00:00",
+      "rss_summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "summary": {
+        "title_ja": "不満を抱えた研究者がWindowsゼロデイ公開、System権限奪取の恐れ",
+        "overview": "Microsoftと公然と対立している「Nightmare Eclipse」を名乗る研究者が、「SignDrop」と呼ばれる新たなWindowsゼロデイ脆弱性を公開した。この脆弱性は、一部のWindows環境でローカルユーザーに完全なSystem権限を与えてしまう。",
+        "background": "脆弱性はCommon Log File System（CLFS）に存在し、Windows Defenderなどの特権プロセスに細工したCLFSコンテナを開かせることで、通常ユーザー権限の攻撃者がSystem権限へ昇格できる。皮肉なことに、この問題はMicrosoftが2025年10月に他のCLFS脆弱性対策として導入したセキュリティ機能自体が原因となっている。",
+        "points": [
+          "攻撃者はWindows Defenderのシグネチャ更新処理関数ServerMpUpdateEngineSignatureを悪用し、標準ユーザーが作成したログファイルをDefenderに開かせる",
+          "Windowsオブジェクトマネージャーのシンボリックリンクを操作することで、DefenderがアンチマルウェアエンジンのセキュリティコンテキストでCLFSコンテナを開くよう仕向ける",
+          "関連する認証ファイルが存在しない場合、CLFSはSystem権限を持つDefenderの権限で新規ファイルを作成し、そのファイルが元ファイルのDACLを引き継ぐため、攻撃者がSystem権限で作成されたファイルへアクセスできてしまう"
+        ],
+        "importance": "正規のセキュリティ対策そのものが新たな攻撃経路となる皮肉な事例であり、研究者とMicrosoftとの対立が続く中でゼロデイが次々と公開されている状況は、パッチ適用の遅れや組織内のセキュリティ運用体制に深刻な影響を及ぼす可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Netflix releases new trailer for Ray Gunn",
+      "link": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+      "published": "2026-11-12T18:38:38+00:00",
+      "rss_summary": "\"It's hard being the only honest players in a crooked game.\"",
+      "summary": {
+        "title_ja": "Netflix、新作アニメ映画「Ray Gunn」最新予告編を公開",
+        "overview": "Netflixは監督ブラッド・バードによる新作アニメ映画「Ray Gunn」の最新予告編を公開した。",
+        "background": "バードは『アイアン・ジャイアント』『Mr.インクレディブル』『レミーのおいしいレストラン』などを手がけた名監督で、本作の構想は30年前から温めていたが、脚本はワーナー・ブラザーズのファイリングキャビネットに眠ったままだったという。",
+        "points": [
+          "B-52sの「Planet Claire」をヘンリー・マンシーニの『Peter Gunn』のカバーと勘違いしたことが着想の原点",
+          "未来的探偵「レイ・ガン（raygunとの語呂合わせ）」を主人公に、1930年代のフィルム・ノワールと『バック・ロジャーズ』的未来像を融合",
+          "脚本はバードと『バッテリー作戦』の共同脚本家マシュー・ロビンズが担当し、コメディとアクション要素を強化"
+        ],
+        "importance": "ピクサー黄金期を支えたバード監督の久々のオリジナル長編アニメとして、ジャンル融合の新境地やNetflixのアニメ映画戦略への影響が注目される。"
+      }
+    }
+  ]
+}
