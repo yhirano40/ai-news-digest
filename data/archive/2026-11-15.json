@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-15",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "published": "2026-11-13T12:52:19+00:00",
+      "rss_summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "summary": {
+        "title_ja": "ジェンセン・フアン辞任、イスラエルVCは競合参入の好機とみる",
+        "overview": "NvidiaのジェンセンCEOの辞任を受け、イスラエルのベンチャーキャピタリストたちは、Nvidiaの意思決定の遅れが競合他社に参入の余地を与える可能性があると見ている。",
+        "background": "フアンは2019年にイスラエルの半導体メーカーMellanoxを69億ドルで買収し、同国を米国外最大のR&D拠点とするなど、Nvidiaとイスラエルの関係を主導してきた。Nvidiaは現地に6000人を雇用し、北部での大型キャンパス建設も計画していた。",
+        "points": [
+          "後任候補にはApple幹部ジョニー・スロージやNvidiaのマイケル・カギンなどイスラエル人の名前も挙がっているが、有力候補ではない",
+          "Vertex Ventures IsraelのYanai Oron氏は、Nvidiaの意思決定鈍化が競合に機会を与える一方、AI投資全体の減速も招きかねないと指摘",
+          "Selah VenturesのAdi Levanon氏は、フアン退任がNvidiaの技術基盤を崩すわけではないが、競合がAI向け専用チップや推論ソフトで差別化を図る余地が生まれると分析"
+        ],
+        "importance": "Nvidiaの指導体制変化は、AI半導体市場における同社の事実上の独占状態に風穴を開ける可能性があり、イスラエルを含む世界のAIチップ・推論ソフト開発企業への投資動向にも影響を与えうる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "published": "2026-11-13T12:28:23+00:00",
+      "rss_summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "summary": {
+        "title_ja": "ファン前CEO、後継CFOに不信感示していたと報道",
+        "overview": "Nvidiaの前CEOジェンセン・フアン氏が、現在暫定CEOを務めるCFOコレット・クレス氏について、夏の会議で「ヘッドライトに照らされた鹿」のようだと評していたとウォール・ストリート・ジャーナルが報じた。",
+        "background": "この発言は、データセンター事業者向けに数十億ドル規模の保証を提供する計画を巡る財務チームとの会議中になされたとされ、クレス氏は戦略や意思決定を支える存在ではないとも述べたという。",
+        "points": [
+          "クレス氏は、フアン氏の義理の息子ニコ・カプレス氏が関与するプログラム重視のクレジット型取引について疑問を呈していたとされる。",
+          "クレス氏はOpenAIのオハイオ州データセンター計画への融資枠を当初検討の2500億ドルから1050億ドルに縮小させた経緯がある。",
+          "フアン氏は不倫報道や中国スパイ疑惑の調査を受けて先週木曜に辞任し、33年以上務めたCEOの座を退いた。"
+        ],
+        "importance": "後継者選定を巡る内部の緊張や経営判断の不透明さが明らかになったことで、Nvidiaの次期恒久CEO選びやガバナンス体制への信頼に影響を与える可能性がある。"
+      }
+    }
+  ]
+}
