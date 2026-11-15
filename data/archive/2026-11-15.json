@@ -36,6 +36,115 @@
         ],
         "importance": "後継者選定を巡る内部の緊張や経営判断の不透明さが明らかになったことで、Nvidiaの次期恒久CEO選びやガバナンス体制への信頼に影響を与える可能性がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "published": "2026-11-15T21:56:35+00:00",
+      "rss_summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "summary": {
+        "title_ja": "ジェンセン・フアン氏辞任、Nvidiaとai業界への影響とは",
+        "overview": "Nvidiaの共同創業者兼CEOジェンセン・フアン氏が、Nvidia顧客企業Megaspeedの元幹部との不倫疑惑を受けて辞任し、CFOのコレット・クレス氏が暫定CEOに就任した。",
+        "background": "フアン氏の不倫相手には中国情報機関との関係が指摘されており、国家安全保障上の懸念が浮上。この問題は既に約1年前から政府内で知られていたが、11月9日のBloomberg報道でNvidiaの顧問弁護士が商務省の調査に関与していた疑いが浮上し、事態が急速に悪化した。",
+        "points": [
+          "フアン氏は中国向け半導体輸出規制の緩和を推進しており、不倫相手の中国情報機関とのつながりが輸出規制緩和の立場と重なり、信頼性への疑念が強まった",
+          "Nvidiaには明確な後継者計画がなく、フアン氏は筆頭株主かつ家族も役員を務めるなど、同社の運営そのものがフアン氏個人に強く依存していた",
+          "CFO出身のクレス氏が暫定CEOに就任したことは、長期的な体制整備までの『つなぎ』的な人事であり、当面はコスト管理重視の運営になるとみられる"
+        ],
+        "importance": "Nvidiaは現在のAI経済の中核を担う企業であり、同社トップの突然の交代はAI業界全体の投資・サプライチェーンへの波及効果が懸念される。輸出規制を巡る国家安全保障上の論点も絡むため、今後の経営体制や対中国政策の行方が注目される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "published": "2026-11-15T20:20:57+00:00",
+      "rss_summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "summary": {
+        "title_ja": "SNLがテック大物たちを総動員、恋愛とスパイ術を風刺",
+        "overview": "Saturday Night Liveの今週のエピソードで、ピーター・ティール、サム・アルトマン、ダリオ・アモデイ、イーロン・マスク、マーク・ザッカーバーグ、ジェンセン・フアンら実在のテック経営者のそっくりさんが一斉に登場するコントが放送された。",
+        "background": "テック業界の奇妙で不気味な経営者像はSNLで繰り返し扱われてきたテーマだが、今回は最近Nvidiaを退任したジェンセン・フアン（中国のスパイ疑惑のある人物との不倫を認めたことが理由）の件を題材に、ホストのジョン・ムレイニー演じるCIA捜査官が彼らに恋愛スキャンダルの危険性を説くという設定になっている。",
+        "points": [
+          "ジェームズ・オースティン・ジョンソンのティール、ベン・マーシャルのアルトマン、ジェーン・ウィックラインのアモデイ、ジェレミー・カルヘインのマスク、アンドリュー・ディスマイクスのザッカーバーグに加え、退任したボーエン・ヤンがフアン役で参加する豪華な配役となった。",
+          "コントではムレイニー演じるCIA捜査官が、魅力的な相手に突然言い寄られても油断するなと忠告し、「ゲイであってもスパイに騙される可能性がある」と皮肉を交える場面も。",
+          "ティール役が「テクノロジーが人々を裏切ったことなど一度もない」と主張すると、直前に起きた米国内の飛行機全面停止や前日のMicrosoft Outlook障害を引き合いに出され、皮肉たっぷりに切り返される展開になっている"
+        ],
+        "importance": "フアンのNvidia退任はテック業界全体に深刻な影響を及ぼしかねない出来事であり、SNLはこれを題材にテック大物たちの脆弱性や業界の実際のトラブル（航空便混乱やOutlook障害）を重ね合わせることで、権力と富を持つ技術者層への社会的風刺を強めている。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "published": "2026-11-15T00:08:07+00:00",
+      "rss_summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "summary": {
+        "title_ja": "Nvidiaのセキュリティ体制に疑問、フアン氏辞任と機密漏洩懸念",
+        "overview": "Nvidiaの長年のCSOが8月に退任し、その2カ月半後にCEOジェンセン・フアン氏が不倫関係を巡る問題で退任した。フアン氏の関係先には、米当局が対中半導体流出への関与を疑うシンガポールのMegaspeed社の幹部や、Nvidia社員2人が含まれるとされる。",
+        "background": "前CSOのデビッド・レバー氏は健康上の理由（若年性パーキンソン病）を退任理由として説明したが、後任にはエクソンモービルやセールスフォース出身のサシャ・ズジェラー氏が就任した。Nvidiaの最高法務責任者は1年以上前からMegaspeedに関する政府調査に関与していたとされ、社内で関係性の一部が把握されていた可能性が指摘されている。",
+        "points": [
+          "セキュリティ専門家は、たとえ社内での不倫であっても外国情報機関に弱みを握られる材料になり得ると指摘。インテリジェンス機関は日常会話を通じて情報収集するため、脅威の察知は極めて難しいとされる。",
+          "多くの企業では、セキュリティチームの予算や権限が限定的で、インサイダー脅威（幹部への接近工作や利益相反など）への対応が後回しにされがちだという専門家の指摘がある。",
+          "元情報当局者によれば、外国の情報機関は技術そのものよりも、輸出規制変更の推進者や反対者といった政策的影響力を持つ人物の情報を狙う傾向があり、長期的な人間関係構築を通じて浸透を図るケースが増えている。"
+        ],
+        "importance": "半導体・AI分野で国家安全保障上の重要性が増す中、巨大テック企業のセキュリティ体制が経営陣の私的関係まで十分に監視できていたのか問われており、今後の取締役会の独立調査や連邦当局の捜査の行方が注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "published": "2026-11-15T20:43:49+00:00",
+      "rss_summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, [&#8230;]",
+      "summary": {
+        "title_ja": "ジェンセン・フアン氏、Nvidia復帰を画策か　騒動さらに拡大",
+        "overview": "Nvidia共同創業者で前CEOのジェンセン・フアン氏がCEO復帰を模索しているとの報道が浮上し、Megaspeed社はアリス・フアン氏が2025年8月末以降同社に在籍していないと声明を出すなど、一連の騒動が急展開している。",
+        "background": "フアン氏の辞任をめぐっては部下との不倫疑惑が指摘されており、復帰を求める公開書簡には15万人以上の署名が集まるなど、シリコンバレー内外で賛否両論の議論が広がっている。",
+        "points": [
+          "イーロン・マスク氏やEpic Games CEOティム・スウィーニー氏らが「フアン氏を復帰させよ」とする公開書簡を公然と支持",
+          "署名には「Xi Jingping」など真偽が疑わしいものも含まれ、信頼性に疑問の声も",
+          "Financial Timesによれば、フアン氏は側近とCEO復帰の可能性を協議しているが、「部下との不倫は解雇理由になる」との意見も根強い",
+          "Megaspeedはアリス・フアン氏が2025年8月30日付で退社し、現在は同社と無関係と声明、私的な事柄へのコメントは控えるとした"
+        ],
+        "importance": "巨大テック企業トップの権力濫用やジェンダー問題への社会的関心が高まる中、Nvidiaのガバナンス対応や復帰の是非は業界全体の企業統治のあり方にも影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "published": "2026-11-15T19:15:43+00:00",
+      "rss_summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
+      "summary": {
+        "title_ja": "Nvidiaスパイ疑惑を受け、米議会がAIチップ輸出規制強化へ",
+        "overview": "Nvidiaの前CEOジェンセン・フアン氏と中国スパイ疑惑のある人物との関係が発覚したことを受け、米議会がAIチップの対中輸出規制を強化しようとしている。",
+        "background": "民主・共和両党の議員が規制強化法案への支持を表明し、フアン氏ら同社幹部に対し議会での証言を求めている。",
+        "points": [
+          "上院少数党院内総務のチャック・シューマー氏は、フアン氏とトランプ政権が議会に説明する必要があると発言",
+          "上院銀行委員会のティム・スコット委員長は、フアン氏と商務長官ハワード・ラトニック氏に公聴会出席を求める書簡を送付",
+          "2025年4月に下院で提出され上院で停滞していた『リモートアクセス・セキュリティ法』への関心が再燃し、下院議長マイク・ジョンソン氏は対中輸出制限への議会内合意が広がっていると発言"
+        ],
+        "importance": "Nvidiaを含む先端AIチップ企業への対中輸出規制が強化されれば、半導体業界のビジネスモデルや米中間のテクノロジー覇権競争に大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "An overview of Jensen Huang’s messy days",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "published": "2026-11-15T13:00:00+00:00",
+      "rss_summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [&#8230;]",
+      "summary": {
+        "title_ja": "ジェンセン・フアン氏、Nvidia CEOを電撃辞任 中国スパイ疑惑と不倫発覚で",
+        "overview": "Nvidia共同創業者でCEOのジェンセン・フアン氏が、中国のスパイ疑惑と複数の不倫発覚を受けて辞任した。CFOのコレット・クレス氏が暫定CEOに就任し、ハーヴェイ・ジョーンズ氏が同社史上初の取締役会議長となった。",
+        "background": "NYTの報道により、フアン氏がシンガポール企業Megaspeedの幹部アリス・フアン氏（親族関係なし）と「親密な関係」にあり、同氏が中国国家安全部に採用されNvidia CEOを諜報対象にしていた疑いが浮上。その後フアン氏は不倫を認めたが具体名は伏せ、さらに部下である医療部門副社長キンバリー・パウエル氏との2件目の不倫も報じられた。",
+        "points": [
+          "Nvidiaの取締役会は調査開始後、フアン氏に辞任を求め、本人も「自分はクズだ」と周囲に漏らし辞任を受け入れたとBloombergが報道",
+          "フアン氏はこれまで約60人の直属部下を持つ特異な組織構造の頂点に立ち、明確な後継計画がないまま同社を率いていた",
+          "株価は10月6日の最高値239.24ドルから11月13日には162.85ドルまで下落し、株主訴訟も既に提起されていた"
+        ],
+        "importance": "NvidiaはAIチップ業界の中核企業であり、米中AI覇権争いの要でもあるため、創業CEOの電撃辞任は同社の企業統治だけでなく、AI業界全体の安定性や米中技術競争の行方にも大きな影響を及ぼす可能性がある。"
+      }
     }
   ]
 }
