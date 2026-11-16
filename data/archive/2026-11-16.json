@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-16",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "published": "2026-11-15T23:30:00+00:00",
+      "rss_summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "summary": {
+        "title_ja": "インド半導体スタートアップBharat Semi、AIセンサー市場狙い24億円のシード調達",
+        "overview": "インドの半導体スタートアップBharat Semiが、AI対応イメージセンサー開発のため2400万ドルのシード資金を調達し、米国など海外顧客獲得を目指している。",
+        "background": "インドは国内半導体産業育成に数十億ドルを投じ、米企業の脱中国サプライチェーン構築の受け皿を狙うが、まだ主要な製造拠点として確立していない中、AIブームが同社のような専門チップ開発企業に機会をもたらしている。",
+        "points": [
+          "画像取得・処理・AI機能を1チップに統合したプログラマブルイメージセンサーを開発し、従来構成比でシステムコストを70%以上削減できるとする",
+          "米国防技術企業General Atomicsやインドのカインズ・セミコンとの設計受注を既に獲得、2027年の量産開始を目指す",
+          "ラウンドはInfo Edge Group、South Park Commons、Indus Bridge Venturesが主導し、Valour Capitalやガインジェルズなども参加。資金はエンジニア採用と製品開発に充当し、独自の半導体製造施設計画には使わずファブレス路線を維持"
+        ],
+        "importance": "半導体設計とAI統合を強みにインド発のグローバル技術企業を目指す試みであり、スマートホームやドローン、産業自動化など幅広い分野でのエッジAIセンシング需要拡大を示す事例として注目される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "published": "2026-11-15T23:11:54+00:00",
+      "rss_summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "summary": {
+        "title_ja": "ULAのバルカンロケット打ち上げ失敗、SpaceX競合に大打撃",
+        "overview": "United Launch Alliance（ULA）のバルカンロケットが、Amazonの広帯域衛星「Leo」40基を搭載した打ち上げ後に失敗し、地球に落下した。これはULAが2006年の設立以来初めての打ち上げ全失敗となる。",
+        "background": "バルカンは米軍の国家安全保障宇宙ミッションの約半数を担う契約を結んでおり、今回はAmazonがStarlinkに対抗するため予約した38回のバルカン打ち上げの最初のミッションだった。過去にも固体燃料補助ロケットの不具合を2度経験していたが、今回はブルーオリジン製BE-4主エンジンを搭載する第1段（ブースター）で異常が発生したとみられる。",
+        "points": [
+          "打ち上げ約10分後に異常が発生し、ミッションは失敗と発表された。複数の情報筋によると、原因は上段（Centaur V）や固体ロケットブースターではなく、ブースター段（BE-4エンジン搭載部）にあるとみられる。",
+          "BE-4エンジンは本来打ち上げから約5分で停止する予定だったが、実際には30秒以上長く燃焼を続けており、ブースターの性能不足を補おうとした可能性がある。",
+          "Amazonは40基の衛星を失ったことに加え、残り37回のバルカン打ち上げが無期限に延期される見込みで、2026年末までに予定していた商用インターネットサービス開始にも影響が出る恐れがある。"
+        ],
+        "importance": "バルカンは米軍の安全保障ミッションやNASAのアルテミス計画にも関わる重要なロケットであり、今回の失敗はAmazonのStarlink対抗計画だけでなく、米国の宇宙輸送能力全体に長期的な影響を及ぼす可能性がある。"
+      }
+    }
+  ]
+}
