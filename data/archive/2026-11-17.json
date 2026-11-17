@@ -163,6 +163,168 @@
         ],
         "importance": "電力容量が未報告の272施設は除外されており、この数値は控えめな推計である点を踏まえると、今後AI関連データセンターの急増が電力網や排出量に与える影響を正確に把握・追跡するための重要な基準点となる。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "published": "2026-11-16T23:32:32+00:00",
+      "rss_summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "summary": {
+        "title_ja": "AIサイバーセキュリティ企業Corma、設立3カ月で評価額10億ドルに",
+        "overview": "AIを用いたサイバーセキュリティ防御スタートアップCormaが、NEA主導のシリーズAで1億2500万ドルを調達し、評価額10億ドルに到達したことを発表した。",
+        "background": "同社は今年8月にステルスを脱して製品を発表したばかりで、累計調達額は1億8500万ドルに達し、Sequoia CapitalやKhosla Ventures、Coatueなども出資している。",
+        "points": [
+          "10月21日にPHP、Node.js、LiteLLMなど相次いで重大な脆弱性が発覚し、CISOらが対応に追われたことでCormaへの関心が急上昇した。",
+          "CormaはサイバーセキュリティDefense向けに特化したAIモデル・エージェントを提供し、自らを『防御に特化したフロンティアAI研究所』と位置づけている。",
+          "Kevin Mandia氏の新興企業Armadinや、Anthropic、OpenAI、Microsoftなど大手も同様にAIを防御に活用しており、競争が激化している。"
+        ],
+        "importance": "AIがサイバー攻撃の高度化を加速させる中、AIを活用した防御技術への投資家の関心と資金流入が急速に拡大していることを示す象徴的な事例であり、今後のセキュリティ市場の競争構図に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "published": "2026-11-16T18:11:10+00:00",
+      "rss_summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "summary": {
+        "title_ja": "アルトマン氏、フアン氏不在でもNvidiaと業界は「大丈夫」と発言",
+        "overview": "OpenAIのサム・アルトマンCEOは、Nvidiaのジェンスン・フアン氏が辞任した後もAI業界は「大丈夫」だとの見解を示しつつ、同氏が果たしてきた特別な役割を認めた。",
+        "background": "フアン氏は中国のスパイとされる人物との不倫を認めた後、先週Nvidiaを辞任。イーロン・マスク氏らを含む多数の業界関係者が復帰を求める公開書簡に署名し、フアン氏自身もシリコンバレーの経営者を集めた復帰ロビー活動の「ウォールーム」を設置しているとされる。",
+        "points": [
+          "アルトマン氏は、2023年に自身がOpenAI取締役会から追放された経験から、フアン氏の状況に共感を示した",
+          "NvidiaはOpenAIのオハイオ州データセンター事業に最大1050億ドルの保証を提供するなど、両社は循環的な資金関係を築いており、アルトマン氏はこの『Nvidia銀行』の資金供給が枯渇する懸念はないと述べた",
+          "フアン氏が業界にもたらした『野心』の規模は重要だったとしつつ、AIへの需要と収益成長が強いため業界全体は安定していると強調した"
+        ],
+        "importance": "NvidiaはAIブームを支える資金・チップ供給の中核企業であり、創業者フアン氏の去就は業界全体の投資・供給構造に波及し得るため、主要プレイヤーの反応が今後の市場安定性を占う重要な指標となる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "published": "2026-11-16T17:36:43+00:00",
+      "rss_summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "summary": {
+        "title_ja": "FBI警告、AIハッキングツールArtexが3時間未満で侵入成功",
+        "overview": "FBIは、オープンソースのAI駆動型ペネトレーションテストツール「Artex」を悪用したサイバー攻撃が米国内外で拡大していると警告した。攻撃は金融・政府・防衛・法律事務所など幅広い業界を標的にしている。",
+        "background": "Artexは2026年7月に公開されたオープンソースAIツールで、AnthropicやOpenAIなどのLLMと連携し、ネットワークの脆弱性を自動で探索・侵入できる。公開後、ConnectWiseや韓国の金融機関、Barracudaなど複数の被害事例が報告された。",
+        "points": [
+          "Artexは脆弱なパスワードや漏洩した認証情報を悪用し、標的への侵入から侵害完了まで3時間未満で達成できる。",
+          "ConnectWise顧客のMicrosoft 365環境少なくとも2,250件が侵害され、韓国の金融機関からは68,000人分の個人情報が流出した。",
+          "Barracudaは失効させていなかった第三者ベンダーの認証情報を突かれ侵害され、ログ不足のため「最悪の事態を想定」し全顧客の認証情報を刷新した。"
+        ],
+        "importance": "開発元が非公開化した後も旧バージョンが流通し続け、さらに誤設定で数百件のArtexシステム自体がネット上に無防備に公開されていたことが判明しており、AIによる自動化攻撃は人間の防御速度を上回るため、企業は検知・対応型の防御から脱却する必要性が高まっている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "published": "2026-11-16T20:29:37+00:00",
+      "rss_summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've [&#8230;]",
+      "summary": {
+        "title_ja": "原子力大手、民主党のデータセンター規制を楽観視",
+        "overview": "米国最大の原子力発電事業者コンステレーション・エナジーのCEOジョー・ドミンゲス氏は、中間選挙で民主党が躍進した後もデータセンター開発が妨げられるとの懸念は「市場の過剰反応」だと述べた。",
+        "background": "中間選挙でデータセンター規制を掲げた民主党候補の躍進により、AI関連株は2.5兆ドル規模で急落したが、同社はこれまで原子力発電所の再稼働やアマゾン・グーグルへの電力供給契約を通じ、データセンター需要の恩恵を大きく受けてきた。",
+        "points": [
+          "コンステレーションはマイクロソフトとのスリーマイル島原発再稼働契約や、アマゾン・グーグルへの電力供給契約を第3四半期に締結済み",
+          "データセンター規制は党派色が薄く、バージニア州では民主党知事が規制強化に慎重な一方、共和党議員が積極推進する例もある",
+          "連邦レベルでは超党派の送電網整備・許認可迅速化法案が審議中で、民主党上院議員も電力料金高騰対策を含めつつ支持する動きがある"
+        ],
+        "importance": "原子力とデータセンターの結びつきが政治的対立を超えて進む可能性があり、エネルギー政策や電力料金、環境規制のあり方に今後大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "published": "2026-11-16T20:27:58+00:00",
+      "rss_summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the [&#8230;]",
+      "summary": {
+        "title_ja": "米データセンターの電力消費、中規模国家を上回る規模に",
+        "overview": "Nature Sustainability誌に掲載された新研究によると、米国の403カ所のハイパースケールデータセンターが2024年5月～2025年4月に消費した電力は約82テラワット時に上り、世界148カ国を上回る規模で、CO2排出量もデンマーク一国分に匹敵することが明らかになった。",
+        "background": "生成AIの普及を背景にハイパースケール型データセンターの建設が急増しており、研究チームは衛星画像とEPAのデータを用いて各施設の電力消費と地域電力網に基づく炭素排出量を推計した。",
+        "points": [
+          "消費電力は米国全体の電力消費の約1.8%に相当する82テラワット時、CO2排出量は2570万トンで、電力源の約54%が天然ガスと石炭だった",
+          "電力構成の地域差が大きく、石炭依存度の高いワイオミング州は水力発電が豊富なオレゴン州の約7倍のCO2排出量（kWh当たり）となった",
+          "データセンター事業者が電力消費データを開示しないため研究者は推計に頼らざるを得ず、情報開示を義務付ける超党派法案が米議会で審議中"
+        ],
+        "importance": "一度排出されたCO2は取り消せず、今後数十年稼働する発電インフラの決定が将来の排出量を左右する「炭素ロックイン」の懸念が指摘されており、立地や電源選択の政策的対応が急務となっている。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "published": "2026-11-16T19:24:40+00:00",
+      "rss_summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [&#8230;]",
+      "summary": {
+        "title_ja": "Apple、Siri高度AI機能に1日利用上限を試験導入へ",
+        "overview": "AppleはiOS 27.3などのベータ版で、Siri AIやApple Intelligenceの一部高度機能にデバイスごとの1日あたり利用上限を設けるテストを開始した。",
+        "background": "基本的なSiriコマンドは引き続き無料・無制限で利用できるが、クラウド処理を伴う画像生成・編集やマルチステップのリクエストなど、より高度な機能が対象となる。",
+        "points": [
+          "制限対象は「複数ステップの個人コンテキスト要求」「画像生成・編集」「Apple Foundation Cloud/Cloud Proを使うShortcutsの自動化」「同モデルを使うサードパーティアプリ」の4カテゴリー。",
+          "具体的な回数は未公表で、上限接近時と到達時に通知が行われる予定。",
+          "iCloud Plusの上位プラン加入で利用上限を拡大でき、200GBプランは2倍、2TBは5倍、6TBは10倍、12TBは20倍の利用枠が付与される（50GBプランは対象外）。"
+        ],
+        "importance": "無料提供されてきたAI機能にサブスクリプションによる利用制限を導入することで、Appleはクラウド処理コストの回収と有料プランへの誘導を図っており、今後のAI機能の収益化モデルを占う動きとして注目される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "published": "2026-11-16T20:37:47+00:00",
+      "rss_summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "summary": {
+        "title_ja": "株価28.6%急落でインテルCEO・CFOが株主から提訴される",
+        "overview": "インテルの株主が、PC販売不振による業績悪化を十分に開示しなかったとして、同社と最高経営責任者Lip-Bu Tan氏、最高財務責任者David Zinsner氏を提訴した。10月30日にインテル株は1日で28.6%下落している。",
+        "background": "訴訟はカリフォルニア州サンノゼの連邦裁判所に金曜日に提起され、クラスアクション認定を求めている。原告にはCity of Southfield Fire and Police Retirement Systemらが名を連ねている。",
+        "points": [
+          "株主側は7月23日から10月29日の間にインテルが『重要な虚偽・誤解を招く説明と開示漏れ』を行ったと主張",
+          "PC市場の販売不振が第3四半期以降の業績に与える影響や、PC部品価格上昇がOEM・販売パートナーの販売に及ぼす影響を開示しなかったと指摘",
+          "データセンター向けCPU需要に応えられない基板供給の制約や、AIブーム関連の好影響がPC不振を相殺しきれなかった事実も隠蔽したと主張"
+        ],
+        "importance": "半導体大手インテルの情報開示姿勢を巡る訴訟は、AIブームとPC市場低迷が交錯する業界全体の業績開示のあり方に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+      "link": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+      "published": "2026-11-16T19:54:21+00:00",
+      "rss_summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
+      "summary": {
+        "title_ja": "最高裁、DEI関連助成金打ち切りへの差し止め維持",
+        "overview": "米最高裁は11月16日、トランプ政権によるDEI関連研究助成金の打ち切りを差し止めた下級審判決への上訴を審理しない決定を下した。この決定によりカリフォルニア州の研究者7人への助成金差し止めは維持される。",
+        "background": "カリフォルニア大学バークレー校とサンフランシスコ校の研究者らは、NIHや運輸省など複数の連邦機関から交付されていた助成金が、トランプ政権のDEI排除の大統領令に違反するとして一方的に打ち切られたことを提訴していた。DEIの定義自体が示されないまま、キーワード検索のみで対象助成金が特定されていた点も問題視された。",
+        "points": [
+          "下級審は政府の助成金打ち切りが憲法修正第1条（言論の自由）に違反すると判断しており、最高裁はこの判断に異議を唱える反対意見なしで上訴を却下した。",
+          "当初は多数の研究者・機関を対象とした大規模な訴訟だったが、別の最高裁判断により大半の助成金打ち切り訴訟は別の裁判所で審理すべきとされ、対象はEPA、NSF、NEHの助成金に関わる7人の研究者に絞られた。",
+          "最高裁は却下理由を一切説明していない。"
+        ],
+        "importance": "政府機関によるDEI関連とされた研究助成金の一方的打ち切りに対し、憲法上の歯止めがかかる可能性を示す判断であり、今後の同種訴訟や政権の助成金政策運用に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "When will humans actually fly on Starship?",
+      "link": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+      "published": "2026-11-16T19:46:08+00:00",
+      "rss_summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
+      "summary": {
+        "title_ja": "スターシップに人類はいつ搭乗するのか",
+        "overview": "SpaceXのスターシップが発射タワーへの帰還に成功し再使用化が進む中、人類がいつ同機に搭乗するかという問いが改めて浮上している。",
+        "background": "スターシップでの有人飛行計画は過去10年で何度も目標時期が変更されており、2024年の火星ミッション目標から2023年の月周回「dearMoon」計画（2024年に中止）、2020年代後半のティト氏による月周回計画など、実現には至っていない。",
+        "points": [
+          "SpaceXが有人飛行を優先すれば比較的早期に実現可能だが、地球からの打ち上げ・帰還を伴う飛行と、NASAの月面探査（アルテミス計画）で先に実現する飛行とでは時間軸が異なる見通し。",
+          "関係者によれば、SpaceXは搭乗希望者に対し2029年までにフライトを提供できる可能性があると伝えているが、過去の実績からこの日程の信頼性は低いとみられる。",
+          "NASAの基準を満たす有人認証には時間がかかり、民間の月や地球軌道への有人飛行よりも先に、NASAの月面着陸ミッションでスターシップに人が搭乗する可能性が高い。"
+        ],
+        "importance": "スターシップの完全再使用化が進展する一方、有人飛行の実現時期は不透明なままで、NASAのアルテミス計画の進行や民間宇宙旅行ビジネスの展開にも大きく影響する重要な節目となる。"
+      }
     }
   ]
 }
