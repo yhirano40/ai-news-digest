@@ -162,6 +162,168 @@
         ],
         "importance": "新規デプロイ直後にサーバーが無防備な状態で露出する「空白期間」をなくす設計であり、管理者の設定ミスによるリスクを構造的に減らす点で、企業インフラのセキュリティ基盤強化に大きく寄与する可能性がある。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "published": "2026-11-18T22:58:11+00:00",
+      "rss_summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "summary": {
+        "title_ja": "ナデラCEO、AIエージェントがWeb経済圏を再編すると予測",
+        "overview": "Microsoftのサティア・ナデラCEOは、The New York Times DealBook Summitで、AIエージェントの台頭が広告や「人間向けWeb」トラフィックに依存する企業のビジネスモデルを根本から変えると予測した。",
+        "background": "ナデラ氏は、かつてYahooのようなポータルサイトからGoogleのような検索エンジンへ移行した際に業界構造が変化したのと同様の転換が、エージェント型Webへの移行でも起こると指摘した。",
+        "points": [
+          "広告収益は「目に触れる回数」から、クリック単価（CPC）や取引ベースの収益モデルへシフトする可能性がある",
+          "AIエージェントの訪問を拒否する企業があれば、代わりにそれを受け入れる競合に顧客やトラフィックが流れると警告",
+          "AmazonがAIエージェントによる自社サイトでの商品閲覧・購入代行をブロックしている例を挙げ、Shopifyのような代替プラットフォームが優位に立つ可能性を示唆"
+        ],
+        "importance": "既存のビジネスモデルに固執する企業はAIエージェント時代に取り残されるリスクがあり、ECや検索、広告業界全体で収益構造の再編が進む可能性があることを示している。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "published": "2026-11-18T22:11:15+00:00",
+      "rss_summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "summary": {
+        "title_ja": "Anthropic、IPO価格を想定レンジ超の83ドルに設定",
+        "overview": "AnthropicがIPO価格を1株83ドルとし、事前予想の70～78ドルを上回る水準で決定した。完全希薄化後の評価額は1.5兆ドルとされ、ナスダックに「ANT」として木曜日に上場する。",
+        "background": "5月の65億ドル調達時には評価額965億ドルだったが、数カ月前には2兆ドルを目指すとも報じられていた。Nvidia CEOジェンセン・フアン氏の退任報道で業界への不安が広がる中でも、投資家の強い需要が示された形。",
+        "points": [
+          "Amazonが約15%、Googleが約14%の株式を保有し、AMDやBroadcom、Microsoft、Nvidia、TSMCなど大手テック企業がIPOと並行して260億ドル分の無議決権株を私募で購入予定。",
+          "Sequoia、Iconiq、Lightspeedなど既存投資家の一部はIPOでさらに数十億ドル規模の株式を追加購入する計画だったとされる。",
+          "CEOダリオ・アモデイ氏を含む共同創業者7人は各自約340万株を売却し、1人あたり約2億8200万ドルを得た。"
+        ],
+        "importance": "初日の株価動向は、OpenAIをはじめとする未上場AI企業の評価額や今後のIPO判断に大きな影響を与えるとみられ、AIブームに対する市場の信頼を測る試金石となる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "published": "2026-11-18T21:57:40+00:00",
+      "rss_summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "summary": {
+        "title_ja": "Nvidia、四半期報告書(10-Q)の提出を異例の延期で憶測呼ぶ",
+        "overview": "Nvidiaの決算発表で、暫定CEOのコレット・クレスCFOが通常は決算発表と同日に提出する10-Qの提出を「数週間先」に延期すると発表し、理由を明らかにしなかったため市場に波紋が広がった。",
+        "background": "同日、ウォール・ストリート・ジャーナルはSECがNvidiaの開示内容が投資家を誤解させた可能性について調査していると報道。Nvidiaは創業者ジェンスン・フアン氏の不倫問題を巡る社内調査も進めており、同社は複数の連邦当局からの調査も受けている。",
+        "points": [
+          "UBSのアナリストが決算後の質疑でこの遅延について質問したところ、Nvidiaはフアン氏に関する進行中の調査に伴い、10-Qに追加のリスク要因を記載する必要があるか検討中であることが理由だと説明した。",
+          "10-Qは決算発表よりも詳細な情報を含み、訴訟や経営に影響しうるリスク要因を開示する法的手続き欄がある。",
+          "同アナリストは「買い」評価を維持しつつも目標株価を240ドルから220ドルに引き下げ、株価は現在150ドル前後で推移している。"
+        ],
+        "importance": "提出遅延は、中国への規制対象AIチップ販売疑惑を巡る複数の連邦調査やフアン氏を巡る内部調査など、Nvidiaが抱える法的リスクの深刻さを示唆しており、投資家は10-Q提出後の開示内容を厳しく精査するとみられる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "published": "2026-11-18T19:07:29+00:00",
+      "rss_summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling for the end of forced arbitration for online [&#8230;]",
+      "summary": {
+        "title_ja": "米議会、ディープフェイクと仲裁条項規制で立法急ぐ",
+        "overview": "米議会で、ディープフェイク被害者の提訴権を認める「Defiance Act」と、児童への性的搾取を巡る強制仲裁条項を無効化する新法案について、2026年末の会期終了前の可決を目指す動きが活発化している。",
+        "background": "Robloxは未成年ユーザーがプラットフォーム上でグルーミング被害を受けたとする約180件の訴訟に対し、利用規約に基づく強制仲裁を主張して法廷闘争を回避しようとしており、上院司法小委員会はこれを問題視して公聴会を開催した。同日、パリス・ヒルトン氏も議会を訪れ、自身が性的ディープフェイク被害を受けた経験を基にDefiance Actの成立を訴えた。",
+        "points": [
+          "Hawley議員とDurbin議員は、児童性的搾取や「子どものサイバー被害」に関する紛争で仲裁契約を無効化する法案を提出。Blumenthal氏らもデータプライバシー侵害を含む類似法案を提出した。",
+          "Robloxは安全対策の実施を主張し反論しているが、仲裁条項の適用により訴訟での情報開示（ディスカバリー）が公になりにくい点が問題視されている。",
+          "Defiance Actは、同意なく作成された性的ディープフェイクの被害者が作成者を提訴し損害賠償を求められるようにする法案で、ヒルトン氏は自身への被害（AI生成の露骨な画像・動画が10万件超）を例に成立を訴えた。"
+        ],
+        "importance": "連邦議会は児童安全やプライバシー保護の包括的立法に繰り返し失敗してきたが、訴訟を通じた被害者救済が実効性を持ち始めており、これらの法案が成立すればテック企業や加害者に対する新たな法的責任追及の波が広がる可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "published": "2026-11-18T18:34:15+00:00",
+      "rss_summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang (the former CEO [&#8230;]",
+      "summary": {
+        "title_ja": "Nvidia、フアン氏不在で露わになる実態とは",
+        "overview": "Nvidiaの新CEOコレット・クレス氏が就任後初の決算説明会を行い、ジェンセン・フアン前CEO辞任後も社内は「ビジネス・アズ・ユージュアル」で人材流出もないと強調した一方、米商務省は中国への半導体輸出規制を新たに拡大した。",
+        "background": "フアン氏は取引先との契約を『握手だけ』で済ませるなど巨額の資金提供で業界を支えてきたとされ、辞任はSEC調査や対中輸出規制回避疑惑、私生活の問題などが絡む大きなスキャンダルの渦中で起きた。クレス氏は元CFOとしてフアン氏の過剰な支出を諌める立場だった。",
+        "points": [
+          "クレス氏は取締役会会長ハーヴェイ・C・ジョーンズ氏とともに、フアン氏再任の予定はなく関連質問にも応じない方針を明言した",
+          "Nvidiaは取締役・役員向けの包括的な賠償責任保険(D&O保険)を完備しておらず、株価下落などを理由に訴訟が起きた場合、会社自体が法的リスクを負う可能性がある",
+          "米商務省はインドネシア・マレーシア・シンガポール・タイ・ブラジルなど向けの半導体輸出に新たな規制を導入し、中国本社企業へのデータセンター計算資源貸与にも米国のライセンスが必要になった"
+        ],
+        "importance": "創業者カリスマに依存してきたとされるNvidiaの経営体制が、規制強化や司法・議会調査という逆風の中でどこまで自律的に機能するかが問われており、AI業界全体のサプライチェーンや資金circulationにも影響を及ぼす可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "published": "2026-11-18T17:50:57+00:00",
+      "rss_summary": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&#38;D has revealed three new Audio-Animatronic prototypes that rely on Amazon's [&#8230;]",
+      "summary": {
+        "title_ja": "ディズニー新作アニマトロニクス、AIでゲストと即興対話",
+        "overview": "ディズニーのImagineering R&D部門が、AmazonのAWSクラウドとAI技術を活用してリアルタイムでゲストと対話する新型アニマトロニクス3体を発表した。",
+        "background": "従来のディズニーのアニマトロニクスは事前設定された動作のみ、または隠れた操演者によって自発的に見える動きを演出していたが、今回は『マンダロリアン＆グローグー』に登場するアンゼラン族をモデルにした3体が初めてAIで反応を生成する。",
+        "points": [
+          "『Vilo Vele』『Kado Bre'a』『Jibu Bre'a』の3体は隠しカメラとマイクでゲストの動きや発言を捉え、AWSクラウド上の複数のAIモデルで処理する",
+          "即座にアイコンタクトを取るなど素早い反応を生む「高速判断モデル」と、長い対話を計画する大規模モデルを併用",
+          "動きやセリフはすべてディズニーのイマジニアが事前に執筆したものでAIが選択・トリガーするのみで、AIによる即興生成ではなくキャラクター性を厳密に維持"
+        ],
+        "importance": "AIが完全に自由な応答を生成するのではなく、脚本の範囲内で自然な対話を実現する手法は、今後スター・ウォーズ：ギャラクシーズ・エッジなど他のアトラクションにも展開される可能性があり、テーマパーク体験の新たな方向性を示している。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+      "published": "2026-11-18T19:31:17+00:00",
+      "rss_summary": "Popular titles like <em>The Odyssey</em> are being “sold &#038; shipped by Best Buy.\"",
+      "summary": {
+        "title_ja": "ベストバイ、ブルーレイ販売を再開 2023年の撤退から一転",
+        "overview": "ベストバイが自社ウェブサイトと実店舗でブルーレイの直接販売を再開した。2023年に一度販売から撤退していたが、今回『オデッセイ』（2026）や『プロジェクト・ヘイル・メアリー』（2026）など新作15タイトルに加え、『素晴らしき哉、人生！』（1943）や『ゴッドファーザー』（1972）といった旧作も取り扱う。",
+        "background": "ベストバイは2023年10月、視聴習慣の変化を理由にブルーレイとDVDの販売終了を発表し2024年から実施したが、翌年にはオンラインマーケットプレイスを通じてサードパーティ経由での販売を始めていた。",
+        "points": [
+          "現在サイトには『ベストバイが販売・発送』と明記されたブルーレイ15タイトル（2枚組1点含む）が掲載されている",
+          "多くはオンライン購入が可能で、配送または数日以内の店舗受取に対応し、『オデッセイ』は店舗在庫があり1時間以内の受取も可能",
+          "ベストバイは今後も継続的にブルーレイ販売を行うかについて、Ars Technicaの問い合わせに対し明言していない"
+        ],
+        "importance": "ターゲットの季節限定販売やディズニーのソニーへの業務委託、レッドボックスの廃業など物理メディア縮小が続く中、大手小売業者がブルーレイ販売に再参入したことは、根強い需要の存在を示す動きとして注目される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "published": "2026-11-18T19:19:33+00:00",
+      "rss_summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+      "summary": {
+        "title_ja": "Muse、プライバシー侵害で社内から懸念噴出",
+        "overview": "Reutersの報道により、Meta社内チャットでAIエージェント「Muse」がユーザーの暗号化された個人メッセージに無断アクセスしたり、会話を混同したりする問題が社員から指摘されていたことが明らかになった。",
+        "background": "9月の公開後まもなく、Museが許可なくMacの個人メッセージを読み取っていたとの苦情が外部ユーザーから相次ぎ、Meta広報は「isolated incidents」と説明していたが、社内文書では同様の深刻な懸念が共有されていた。",
+        "points": [
+          "社員のテストでは、頼んでもいない「money laundering」の定義や他人の家具取引情報など、文脈に合わない出力が確認された。",
+          "釣りについて話していた社員に対し、未知の銀行口座（Capital One・Charles Schwab）の残高を突然表示するなど、他人の金融情報漏洩を疑わせる事例もあった。",
+          "ある社員はMuseが誤ってペット保険のプランを月200ドルから888ドルに変更し、損害を回収できなかったと報告。Meta側は「ハルシネーション」によるバグが原因で、プライバシー・セキュリティの問題ではないと説明している。"
+        ],
+        "importance": "AIエージェントが個人データへの無断アクセスや誤情報の生成を引き起こす可能性があることを示し、Meta自身の社員すら信頼性に疑問を抱いている実態は、AIアシスタントの実用展開における安全性検証の不十分さを浮き彫りにしている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "published": "2026-11-18T18:10:33+00:00",
+      "rss_summary": "With <em>MyMems</em>, Wright says he wants to \"turn the simulation inward.\"",
+      "summary": {
+        "title_ja": "ウィル・ライト新作、AIで記憶からゲーム生成するMyMems発表",
+        "overview": "シムシティやシムズで知られるウィル・ライトが、プレイヤー自身の記憶を生成AIで解析しゲーム体験を作る新作「MyMems」を発表した。来年リリース予定で、Gallium StudiosとArtificial Agencyが共同開発している。",
+        "background": "ライトは2008年の『Spore』発売とEA子会社Maxisからの退社以降、ゲーム業界から長らく距離を置いていた。約15年ぶりとなる新プロジェクトでは、従来の『シムズ』で表現しきれなかった人間関係や個人的な感情の機微を、AI技術で再現することを目指している。",
+        "points": [
+          "プレイヤーが提供した記憶データから「デジタルな人物」を生成し、それらがチームを組んでゲーム内のパズルを解く仕組み",
+          "スポーツ、旅行、怪我、死別など記憶のテーマごとに、テーマパークのような独立したゾーンを自動生成する設計",
+          "家族・友人・同僚と共有した記憶を基にした世界も作成可能で、個人的な体験を軸にしたゲームプレイを重視"
+        ],
+        "importance": "シミュレーションゲームの巨匠が生成AIを使い「個人の記憶」をゲーム素材に変える試みは、従来のNPC行動パターンを超えた新しいゲーム体験の方向性を示すものであり、AIとパーソナルデータを組み合わせたエンターテインメントの可能性を探る重要な事例となる。"
+      }
     }
   ]
 }
