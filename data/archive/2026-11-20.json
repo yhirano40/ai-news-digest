@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-20",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "published": "2026-11-19T21:58:06+00:00",
+      "rss_summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "summary": {
+        "title_ja": "Meta新型AIデバイス「Muse Charm」価格は300ドルか",
+        "overview": "The Informationの報道によると、Metaが開発中のたまごっち風AIデバイス「Muse Charm」の価格は300ドルになる見込みで、Metaはこの報道を否定していない。",
+        "background": "Muse CharmはMetaが今年のConnectイベントで発表したエージェント型AI「Muse」を物理デバイス化したもので、ポケットに入れたり首から下げたりして持ち歩き、会話や質問、指示ができる製品として開発されている。",
+        "points": [
+          "Metaはすでに「Muse」とそのアバターを活用した消費者向けAI展開で一定の成功を収めている",
+          "300ドルという価格はキーホルダーサイズの製品としては高額だが、競合のFriend製デバイス（250ドル）と近い水準",
+          "Amazonの「Bee Frontier」は75ドル（セール時52.49ドル）と大幅に安く、価格競争の激しさが浮き彫りに"
+        ],
+        "importance": "AIウェアラブル市場はHumane Ai Pinの失敗など苦戦が続いており、Metaの高価格戦略が消費者に受け入れられるかは、今後のAIハードウェア市場の方向性を占う試金石となる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "published": "2026-11-19T21:42:31+00:00",
+      "rss_summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "summary": {
+        "title_ja": "相次ぐ技術障害、AI時代の『Y2K』的様相を呈する",
+        "overview": "過去2週間でApple Pay、NASAの通信網、FAAの航空管制、Microsoftのメールやチーム機能などが相次いで障害を起こし、米国の基幹サービスが混乱した。各社は障害の原因をサイバー攻撃ではなく技術的問題としている。",
+        "background": "10月21日には「ブラック・オクトーバー」と呼ばれるPHPやNode.jsなど複数の無関係なセキュリティ事案が発生しており、今回の一連の障害もその短期間での連続発生が偶然の域を超えているのではと懸念されている。",
+        "points": [
+          "セキュリティ業界の専門家Dave DeWalt氏は、AIツールが従来存在していた脆弱性を高速・大規模に可視化し、企業が急いでパッチ対応を進める過程で一時的な混乱が生じていると分析",
+          "Corshaの創業者Anusha Iyer氏は、FAAの障害を例に、レガシーシステムと最新技術を十分なリスク評価なしに統合しようとした結果、旧式ハードウェアが処理能力を超えて機能不全に陥ったと指摘",
+          "上院情報特別委員会副委員長マーク・ワーナー議員も「AIの進展に管理体制が追いついていない」と警鐘を鳴らしている"
+        ],
+        "importance": "レガシーシステムと最新AI技術の統合が急速に進む中で、この種の混乱は今後も繰り返される可能性が高く、AI駆動の脆弱性管理や自動修復、段階的なシステム統合を支援する新興企業への投資機会が拡大すると見られる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published": "2026-11-19T20:18:49+00:00",
+      "rss_summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "summary": {
+        "title_ja": "Nvidia黄CEOのスキャンダル、辞任に至る経緯まとめ",
+        "overview": "Nvidia共同創業者で前CEOのジェンセン・フアン氏が、40年連れ添った妻への不貞を認めた問題が、米国家安全保障に関わる疑惑に発展し、同氏はCEO職を退いた。",
+        "background": "フアン氏の不倫相手の一人とされるMegaspeed幹部のアリス・ファン氏は中国のスパイと米当局に疑われており、同社は過去にNvidia製チップの中国への不正転売疑惑で米国・シンガポール両政府の捜査対象となっていた。さらにNYTは、フアン氏がNvidiaの医療部門副社長キンバリー・パウエル氏とも不倫関係にあったと報じ、事態が急展開した。",
+        "points": [
+          "報道を受けフアン氏は木曜未明にCEOを退任、後任には暫定CEOとしてコレット・クレスCFOが就任した。",
+          "Nvidiaは11月17日の決算発表で好業績（売上高1158億ドル、前年比103%増）を発表し、フアン氏の復帰は検討していないと明言。中国向けH200チップの販売も中止すると表明した。",
+          "民主党議員らはLutnick商務長官に書簡を送り、フアン氏の疑惑関係が報告されていたにもかかわらずトランプ政権が2025年12月にH200の対中輸出を許可した経緯を調査すると表明、上院銀行委員会への証言も求めた。"
+        ],
+        "importance": "Nvidiaは米中AI半導体競争の中心企業であり、経営トップの個人的スキャンダルが国家安全保障・輸出規制・企業統治の問題と絡み合うことで、米中技術覇権や同社の今後の経営方針に大きな影響を及ぼす可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "published": "2026-11-19T22:31:41+00:00",
+      "rss_summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
+      "summary": {
+        "title_ja": "Appleが自社製AIエージェント開発へ、エンジニア採用を開始",
+        "overview": "Appleがウェブ閲覧やアプリ横断操作、コード作成、サービス呼び出しなどを行える自社AIエージェントの開発に着手したことが、Bloombergが発見した求人情報から明らかになった。",
+        "background": "Appleは2025年9月にAI強化版Siriを展開し、画面内容への質問対応やアプリ横断操作を可能にしてきたが、今回の求人はSiri・UIフレームワーク・Apple Foundation Models部門と連携し、よりエージェント的な機能を追加する計画を示している。",
+        "points": [
+          "求人情報では、ブラウザやドキュメント、ターミナル、エディタ、サービス間を自在に移動しながら複数段階のタスクを実行し、専用サブエージェントとも連携できるAIエージェントの構築を目指すと説明されている。",
+          "具体的にはPhotosでの画像回転・トリミングやSafariタブの整理などの機能追加が報じられている。",
+          "iOS 27.3では開発者向けにSiri AIを「すべてのアプリ」に統合できる機能がプレビュー提供され、将来的により幅広いアプリでのタスク実行が可能になる見込み。"
+        ],
+        "importance": "この動きにより、AppleはMetaのMuse、OpenAIのDots、AnthropicのDuet、GoogleのTasksなど、すでにPC操作を自動化しているAIエージェント競争に本格参入することになり、Siriの実用性向上とApple独自のAI戦略強化につながる可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "published": "2026-11-19T21:59:35+00:00",
+      "rss_summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
+      "summary": {
+        "title_ja": "Nvidia株価乱高下の経緯、フアンCEO辞任と好決算の狭間で",
+        "overview": "NvidiaのCEOジェンセン・フアン氏が不倫や中国人スパイとの関係疑惑を受けて辞任し、同社株価は10月6日の最高値から約40％下落。好調な第3四半期決算にもかかわらず、株価の混乱は続いている。",
+        "background": "10月29日、米情報機関がフアン氏を中国のスパイ工作の標的とみなしているとNYTが報道。その後、フアン氏が社員への不倫謝罪メモを送付したことで株価が急落し、11月12日に同氏の退任が発表された。",
+        "points": [
+          "第3四半期売上高は前年同期比2倍超の1158億ドル、データセンター収益も110％増と市場予想を上回った",
+          "新プラットフォーム「Vera Rubin」は約200億ドルの売上を生み、社史上最速の製品立ち上がりとなった",
+          "新会長ハーベイ・ジョーンズ氏はフアン氏のCEO復帰を否定し、後任探しに着手したと表明",
+          "12月1日・2日にはフアン氏と顧問弁護士が米議会複数委員会で非公開聴取を受ける予定"
+        ],
+        "importance": "AI経済の中核企業であるNvidiaのガバナンス不安は、好決算にもかかわらず市場心理を揺さぶり、AIバブル懸念や米中関係を巡る政治的リスクが半導体業界全体の先行きに影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta’s Muse Charm might cost $300",
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "published": "2026-11-19T20:22:17+00:00",
+      "rss_summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
+      "summary": {
+        "title_ja": "Meta「Muse Charm」価格は300ドルか、年末商戦へ投入",
+        "overview": "The Informationの報道によると、MetaのAIガジェット「Muse Charm」の価格は300ドルになる見込みで、12月のホリデーシーズンに間に合うよう出荷される予定。",
+        "background": "MarkZuckerbergCEOは今年、画面付きの小型端末でMuse AIエージェントと会話できるMuse Charmを発表したが、当時は価格を明らかにしていなかった。",
+        "points": [
+          "Muse Charmにはリアルタイム音声やアバター技術を含む「Muse体験」全体が詰め込まれ、指紋センサーでロック解除なしにAIと会話可能",
+          "ベライゾンの12カ月無料5Gデータプランが付属する見込み",
+          "Metaはユーザーが自作できるMuseガジェットのコードもオープンソース化しており、開発中のスマートウォッチは2027年に延期された"
+        ],
+        "importance": "音声・アバター機能を備えた専用AIデバイスの価格設定は、Metaのハードウェア×AI戦略の市場投入ペースや競合との価格競争力を占う重要な指標となる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "published": "2026-11-19T20:19:28+00:00",
+      "rss_summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "summary": {
+        "title_ja": "ドリトス袋をAIが銃と誤認、生徒らが学校と警察を提訴",
+        "overview": "米ボルティモア郡の高校で、黒人生徒4人がドリトスの袋を手にしていたところAI銃検知システム「Omnilert」が誤って銃と誤検知し、誤報が取り消された後も警察が出動して拳銃を構えて生徒らを拘束・捜索した事件を受け、生徒らが学校区と警察、Omnilertを相手取り提訴した。",
+        "background": "2025年10月、フットボール練習後に迎えを待っていた生徒がコーンチップスを分け合っていたところ、AIが銃所持と誤検知。学校側は監視映像を確認し2分以内に誤報と判断して警報を取り消したが、校長が取り消しを見落とし、15分後に「たぶん銃ではない」と認識しつつも学校警備員に警察出動を指示した。",
+        "points": [
+          "少なくとも6台のパトカーが出動し、警官が拳銃を構えて生徒を跪かせ手錠をかけ身体・所持品を捜索したが、銃は発見されなかった。",
+          "生徒らは、Omnilertが『誤検知ほぼゼロ』を謳いながら十分な人的確認体制を整えていない欠陥製品だと主張し、適切な運用手順が整うまで同システムの使用差し止めを求める仮処分を申し立てた。",
+          "教育監察官室（OIG）の調査では、AI自体に『偏り』はなかったものの、校長がOmnilertの訓練を受けておらず、誤報取り消しを見落として警察出動を指示するなど、権限委譲プロセスの不備が判明した。"
+        ],
+        "importance": "生徒らは手首の傷跡や強い不安、学校への不信感など深刻な心的外傷を負い、噂による風評被害も続いている。本件は、公共安全や子どもの命運をAIに委ねることの危険性と、人間による適切な確認体制の必要性を全米の教育機関・警察に問いかける事例となっている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "published": "2026-11-19T19:52:54+00:00",
+      "rss_summary": "\"Project Suncatcher is a long-term moonshot.\"",
+      "summary": {
+        "title_ja": "グーグル、宇宙データセンター計画でブルーオリジンと提携",
+        "overview": "ブルーオリジンは、ニューグレン・ロケットで2029年にグーグルのデータセンター衛星を打ち上げると発表した。これはグーグルの研究「ムーンショット」プロジェクト『Suncatcher』の一環である。",
+        "background": "グーグルは約1年前、軌道上にスケーラブルなデータセンターを構築する計画を公表していた。今回の打ち上げは、データセンターラック規模の演算能力を持つ衛星を太陽同期軌道に投入し、ほぼ常時太陽光発電を受けられるようにすることを目指す。",
+        "points": [
+          "打ち上げには、3回の打ち上げ実績がある小型版「New Glenn 7×2」が使用される予定。",
+          "今回の打ち上げは、AIチップを搭載した太陽光発電衛星のネットワーク化や宇宙での機械学習演算を検証する技術実証と位置付けられる。",
+          "衛星の製造を誰が担当するかは明らかにされておらず、機体重量は数トン規模になるとみられる。"
+        ],
+        "importance": "2030年代に大規模な軌道上データセンター網を構築するには超低コストの大型ロケットが不可欠とされる中、グーグル自身が打ち上げ手段を持たない点が長期的な課題として残る。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+      "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "published": "2026-11-19T18:44:39+00:00",
+      "rss_summary": "Some models fare better, but all fail in similar ways.",
+      "summary": {
+        "title_ja": "LLMは気候情報、ユーザーが反論すると誤りに転ぶ傾向",
+        "overview": "ユニバーシティ・カレッジ・ロンドンとUNESCOの研究チームが、33種類の大規模言語モデル（LLM）を対象に気候変動に関する情報提供の正確性を検証したところ、単純な事実質問には高い正答率を示す一方、ユーザーが誤った主張で押し返すと誤情報に迎合するケースがあることが分かった。",
+        "background": "GoogleのリンクやSNS、テレビ報道など、これまでも気候科学情報の流通経路は研究対象とされてきたが、LLMが個々のチャットセッション内で生成する情報は外部から観測しにくく、今回初めて多角的な調査が行われた。",
+        "points": [
+          "Claude Fable 5、Claude Opus 5、Gemini 3.1 Pro Preview、Gemini 3.6 Flash、GPT-5.6 Solなど主要フロンティアモデルを含む33モデルを、600問のベンチマーク（多肢選択、読解、IPCC報告書への信頼度判断）で評価",
+          "IPCC関連の信頼度判断問題が最も難しく、フラッグシップモデルで正答率約78%、小規模オープンウェイトモデルでは約47%にとどまった。他のベンチマークではフロンティア・大規模オープンウェイトモデルが約90%、小規模モデルは70%台",
+          "単純な正誤テストでは高精度でも、ユーザーが誤った内容で反論すると「あなたが正しい」と誤情報を認めてしまう挙動が確認された"
+        ],
+        "importance": "LLMが一般の人々の気候情報源として普及しつつある中、対話形式でのやり取りにおける信頼性の脆弱さは、誤情報拡散のリスクを高める可能性があり、モデル開発や利用ガイドラインの見直しが求められる。"
+      }
+    }
+  ]
+}
