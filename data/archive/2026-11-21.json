@@ -288,6 +288,168 @@
         ],
         "importance": "密輸携帯電話対策として初めて地方・州刑務所にジャミングを認める画期的な決定だが、周辺住民や施設近隣の緊急通報・公共通信への悪影響が懸念され、今後の技術的検証や運用ルール整備が課題となる。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "published": "2026-11-21T21:37:10+00:00",
+      "rss_summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "summary": {
+        "title_ja": "Signal、AI監視への「存亡の危機」対抗でモバイル版スクショ制限",
+        "overview": "暗号化メッセージアプリSignalが、AndroidとiOS版アプリでスクリーンショット機能を制限すると発表した。OSに統合されたエージェント型AIによる監視を防ぐための措置。",
+        "background": "Signal社長メレディス・ウィッティカー氏は、Windows・Android・macOS/iOSがエージェント型AI機能のために画面情報を「スキャン」できるようにしたことで、Signalがプライバシーを独立して保証する能力が損なわれていると指摘した。",
+        "points": [
+          "Signalは既にWindows版アプリでデフォルトでスクリーンショットをブロックしており、今回AndroidとiOSにも同様の制限を追加",
+          "ユーザーはこの設定を無効化できるが、ウィッティカー氏はそれによりSignalの「プライバシー保証が破られる」と警告",
+          "本人も対策が「不完全」であり、AIエージェントがアプリデータへアクセスする他の巧妙な手段には対応できないと認めている"
+        ],
+        "importance": "OSレベルで動くエージェント型AIが、暗号化メッセージの中身まで捕捉・保存・外部アクセス可能にしてしまうリスクが顕在化しており、プライバシー保護の前提そのものが揺らぎつつあることを示す事例といえる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "published": "2026-11-21T21:07:42+00:00",
+      "rss_summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "summary": {
+        "title_ja": "好決算とフアン氏復帰騒動、揺れる「2つのNvidia」",
+        "overview": "Nvidiaは好調な決算を発表し暫定経営陣の続投を表明する一方、イーロン・マスク氏らが元CEOジェンセン・フアン氏の復帰を求める署名運動を展開するなど、社内外で対照的な動きが同時進行している。",
+        "background": "フアン氏は中国への半導体の秘密販売疑惑を巡る調査問題と関連して退任しており、その後任の暫定CEOコレット・クレス氏の下でNvidiaはH200チップの対中国販売停止を発表するなど、対中輸出規制の強化が進んでいた。",
+        "points": [
+          "Nvidiaは中国への直接輸出だけでなく、マレーシアなど第三国経由のリモートアクセスによる事実上の中国利用も遮断する方針を示した",
+          "批評家は中国関連売上がNvidia全体の約20%を占めると推計しており、規制強化は業績への打撃になり得る",
+          "好決算にもかかわらず株価は下落しており、ウォール街がフアン氏退任後の経営体制に不安を抱いていることを示唆している"
+        ],
+        "importance": "巨大テック企業のリーダーシップ交代と地政学リスクが同時に表面化しており、Nvidiaの今後の経営判断は半導体業界全体の対中戦略や株式市場の信頼にも大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published": "2026-11-21T17:00:00+00:00",
+      "rss_summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "summary": {
+        "title_ja": "テキストメッセージで使えるAIエージェント、主要サービスまとめ",
+        "overview": "アプリを新たにダウンロードせず、SMSやiMessageなど既存のメッセージアプリを通じて利用できるAIエージェントが続々登場しており、TechCrunchが代表的なサービスをまとめて紹介した。",
+        "background": "AIエージェント分野では、評価額100億ドルに達したInstinctが10億ドルの資金調達を行うなど注目が集まっており、個人向け・家族向け・業務向けなど様々な用途に特化したサービスが乱立している。",
+        "points": [
+          "Ask ProxyやCaddy、Folkなどは、カレンダー管理やリマインダー設定、レストラン予約、メール対応といったタスクを、友人に頼むようにテキストで依頼できる点が共通している。",
+          "Fambotは家庭の予定管理に、Haven利用者の好みや行動パターンを学習する「デジタルツイン」構想を打ち出すなど、各社が差別化を図っている。",
+          "料金体系も多様で、Ask Proxyは1日1ドル、Folkは月8.33ドルのProプランを提供する一方、Commaはオープンソースで無料提供するなどビジネスモデルが分かれている。"
+        ],
+        "importance": "専用アプリを介さずメッセージアプリ上で完結するAIエージェントは、ユーザーの導入障壁を下げる新たなインターフェースとして注目されており、今後の消費者向けAI活用の主流になる可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "published": "2026-11-21T20:03:37+00:00",
+      "rss_summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the [&#8230;]",
+      "summary": {
+        "title_ja": "国連、「殺人ロボット」規制のルール合意に失敗",
+        "overview": "ジュネーブで開かれた国連の会合で、自律型兵器（いわゆる「殺人ロボット」）に関する規制づくりが議題に上ったが、各国は法的拘束力のあるルールに合意できず、「選択肢の議論を開始する」とする合意にとどまった。",
+        "background": "赤十字国際委員会（ICRC）は会合前に、1年以内の法的拘束力ある規則策定を求めており、国連事務総長やローマ教皇レオもこの呼びかけを支持していた。ウクライナ、ガザ、スーダンなどの紛争では半自律型兵器やドローンによる民間人の死傷が深刻化しており、人道団体や一部の国が早急な規制を求めていた。",
+        "points": [
+          "妥協案として、法的拘束力のある規則提案までの期限は1年から2年に延長された",
+          "採用される規則の一部は「任意」とする余地が残され、実効性に懸念が残る",
+          "初日にロシアが議題そのものに異議を唱え、米国は非拘束的・任意のガイドラインについて5年の議論期間を提案するなど、ロシア・イスラエル・米国が交渉の主な障害となった"
+        ],
+        "importance": "自律型兵器による民間人被害が世界各地で拡大する中、規制策定が長期化することで、国際的な人道上のリスク管理が遅れる可能性がある。今後2年間での各国の提案内容と、拘束力の有無を巡る交渉の行方が注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Can Anthropic afford to put safety first?",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "published": "2026-11-21T15:00:00+00:00",
+      "rss_summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
+      "summary": {
+        "title_ja": "アンソロピックIPO、安全最優先の理念と資本主義は両立するか",
+        "overview": "AI企業Anthropicが先週木曜にナスダックに新規株式公開（IPO）し、公開価格83ドルから一時111ドルまで上昇、世界で最も価値あるAI企業の一つとなった。The Vergeのポッドキャストでは、同社が掲げる「安全第一」の理念を株主責任や今後数年で総額約9000億ドルに上る計算資源コストと両立できるかが議論された。",
+        "background": "AIラボとして初めて純粋に上場したAnthropicは、独自の企業統治構造（創業者に強い権限を残す体制）を採用しており、これはJensen Huangを巡る騒動の後だけに注目度が高い。OpenAIはAnthropicに先を越されたことについて、むしろ今年の不祥事続きで公の反発を受けた中、先に市場の反応を見極める形になったとみられている。",
+        "points": [
+          "IPOにより数千人の新興億万長者（ミリオネア）や数百人の億万長者（センチミリオネア）、さらには複数の長者番付入りが生まれると見られる",
+          "Anthropicの「安全なAI」というブランディングは大口顧客への訴求の核心だが、上場企業として利益追求が求められる中でこの理念との緊張が強まる",
+          "OpenAIは当初Anthropicに先駆けてIPOすることにこだわっていたとされるが、今年の相次ぐ不祥事を受けてAnthropicを先に行かせる判断に転じたとみられる"
+        ],
+        "importance": "今回のIPOはAIバブルの膨張を象徴する出来事であり、投資家の期待と企業の安全理念、巨額の計算コストという三つ巴の緊張関係が、今後のAI業界全体の信頼性や規制論議に大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "published": "2026-11-21T14:00:00+00:00",
+      "rss_summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching [&#8230;]",
+      "summary": {
+        "title_ja": "Chess.com、麻雀や数独など新ゲーム群「Classic Games」を発表",
+        "overview": "Chess.comが、バックギャモン、チェッカー、囲碁、麻雀、将棋、数独、ソリティア、シャンチー、スクラブル風ゲーム「word」など10種類の新ゲームを追加し、新プラットフォーム「Classic Games」のベータ版をiOS/Android/Web向けに公開する。",
+        "background": "同社は今年すでにギャンブル性のないポーカーサイト「Gambit」を立ち上げており、ユーザーから麻雀や囲碁のコミュニティを求める声が多く寄せられていたことが今回の拡張の背景にある。",
+        "points": [
+          "Classic Gamesの各ゲームにはレッスン、リーダーボード、レーティングシステムを搭載し、Chess.comと同じボットキャラクターも利用可能。",
+          "既存のChess.comのコードベースやデザインシステム、ボット・レーティング機能を流用し、AIによるコーディング支援を活用することで、少人数のチームで数カ月のうちに11の新ゲームを開発した。",
+          "一方でアートやデザインはAIを使わず人間が手掛けており、同社はデザイン人材の採用比率を高めているという。"
+        ],
+        "importance": "チェスとAIが30年来関わってきた歴史的な親和性を背景に、AIを活用したゲーム開発の高速化モデルを示す事例であり、今後さらなるゲーム追加の可能性も示唆している。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "published": "2026-11-21T22:12:41+00:00",
+      "rss_summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "summary": {
+        "title_ja": "『ゴジラ-0』は続編映画の傑作に名を連ねる",
+        "overview": "山崎貴監督による『ゴジラ-1.0』の続編『ゴジラ-0』が公開され、前作を上回る出来栄えと評され、名作続編のリストに加わると評価されている。",
+        "background": "2023年公開の『ゴジラ-1.0』は戦後日本を舞台に、特攻隊員・敷島浩一の罪悪感と贖罪を描き、日本国内外で大ヒットしアカデミー賞視覚効果賞も受賞した。山崎監督は当時続編の予定はないとしつつも、後に続編『ゴジラ-0』への伏線を仕込んでいたと明かしている。",
+        "points": [
+          "前作のラストで示されたゴジラの再生や、ノリコの首にできた謎の黒い痣など未解決の伏線が『ゴジラ-0』で展開される。",
+          "人間ドラマの深み、優れた特殊効果、巨大怪獣同士の激突という、ゴジラ映画に求められる要素を高いレベルで両立させている。",
+          "前作『ゴジラ-1.0』は世界興収1億1600万ドルを記録し、歴代日本映画の中でも屈指のヒット作となっている。"
+        ],
+        "importance": "続編が前作を超えることは『ゴッドファーザーPARTII』や『ターミネーター2』に匹敵するほど稀であり、『ゴジラ-0』はその稀有な成功例として、ゴジラシリーズおよび日本発コンテンツの国際的評価をさらに高める可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "published": "2026-11-21T12:01:13+00:00",
+      "rss_summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "summary": {
+        "title_ja": "「人種リアリズム」は科学的に破綻している—優生学の再来を検証",
+        "overview": "トランプ米大統領がソマリア系移民の知能について差別的発言を行うなど、西側政治で「人種科学」や「人種リアリズム」と呼ばれる疑似科学的主張が再び台頭している実態を、研究者らが科学的見地から批判している。",
+        "background": "過去70年間ほぼ封印されてきた、黒人や褐色人種が白人より生得的に知能が劣るとする人種主義的な人間観が、一部学術誌にも掲載され、極右プロパガンダや移民政策の根拠として利用されるようになっている。",
+        "points": [
+          "1970年代のリチャード・ルウォンティンの研究以降、人種間より人種内の遺伝的多様性の方が大きいことが繰り返し示されており、現代のゲノム研究や古代DNA分析もこれを裏付け、「人種の遺伝的純粋性」という概念自体が成立しないことを示している。",
+          "人種科学者が依拠する「国別IQ」データベースは方法論的に重大な欠陥があり、サハラ以南アフリカの数値を意図的に低く見せかけた疑いも指摘されているほか、20世紀のIQ上昇（フリン効果）は知能が環境要因に強く左右されることを示している。",
+          "大学に所属する一部研究者が疑似科学的研究に「正当性の仮面」を与え、少数の主流学術誌への掲載に成功していることが、こうした言説の拡散と影響力を支えている。"
+        ],
+        "importance": "科学的根拠を欠く人種主義的主張が学術的体裁をまとって政治的意思決定（移民政策など）やソーシャルメディア上の誤情報戦略に利用されており、民主主義社会における人権や政策形成への影響が懸念される。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+      "published": "2026-11-20T16:11:21+00:00",
+      "rss_summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+      "summary": {
+        "title_ja": "Valve、メモリ不足でSteam Machineの値上げ検討を表明",
+        "overview": "Valveは2026年11月のブログ投稿で、Steam Machineの供給・価格問題が今後も続く可能性があり、価格改定が必要になるかもしれないと発表した。",
+        "background": "Steam Machineは2026年6月の出荷開始時点から、RAMやストレージ部材の調達難で生産数を抑え価格を引き上げざるを得ない状況にあり、初回予約分がようやく出荷完了に近づいている段階でもこの問題が解消されていない。",
+        "points": [
+          "メモリとストレージのコストが「前例のない水準」で上昇し続けており、今後の生産台数や価格は未定とされている",
+          "特に2TBモデルは供給制約が特に厳しくなる見込み",
+          "任天堂・ソニー・マイクロソフトといった大手コンソールメーカーと異なり、Valveはサプライヤーへの優先度や交渉力で不利とアナリストが指摘"
+        ],
+        "importance": "ニッチ製品であるSteam Machineは大手コンソールメーカーのような部材調達の交渉力を持たないため、半導体・メモリ市場の逼迫が価格や供給により深刻な影響を与える可能性があり、PC型ゲーム機市場の脆弱性を示す事例となる。"
+      }
     }
   ]
 }
