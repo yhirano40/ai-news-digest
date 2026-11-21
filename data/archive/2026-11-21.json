@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-21",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "published": "2026-11-20T19:53:41+00:00",
+      "rss_summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "summary": {
+        "title_ja": "Spotify創業者Ek氏、AI研究者の核融合新興企業に出資",
+        "overview": "Spotify創業者ダニエル・エク氏が、AI研究者ナンタス・ナルデッリ氏が率いる英国の核融合発電スタートアップ「Europa Fusion」に出資していることが明らかになった。",
+        "background": "ナルデッリ氏はGoogle DeepMindやFacebook AI Research、Microsoft Research Cambridgeを経て、米国の核融合スタートアップPacific Fusionで機械学習責任者を務めていたが、今年2月に自身の構想を実現するためEuropa Fusionを設立した。",
+        "points": [
+          "Pacific Fusionがハードウェア重視で実証実験を進めるのに対し、ナルデッリ氏はシミュレーションとデータ活用を軸にしたアプローチを志向している",
+          "Europa Fusionも同様に「パルスパワー方式」を採用し、瞬間的な大電流で燃料を圧縮して核融合反応を起こす方式を追求する",
+          "核融合発電はまだ商業化例がないが、炭素を排出せずほぼ無尽蔵な燃料で発電できる可能性を秘め、AIの電力消費問題の解決策としても期待されている"
+        ],
+        "importance": "AI分野出身の研究者がシミュレーション主導で核融合開発に挑むことで、従来のハードウェア中心のアプローチとは異なる技術革新の可能性が開かれ、気候変動対策やAIの電力需要増大への対応策として注目される。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "published": "2026-11-20T19:32:08+00:00",
+      "rss_summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "summary": {
+        "title_ja": "167年の難問リーマン予想、AIと人間がほぼ同時に解決か",
+        "overview": "Anthropicの数学者レベント・アルポーゲ氏が、AI「Claude」の協力を得てリーマン予想のLean形式で検証可能な証明を発表。同時期にスタンフォード大のポスドクが完全に人力で一般リーマン予想の証明を公表した。",
+        "background": "リーマン予想は1859年に提唱された、素数の分布に隠れた構造があるとする数学のミレニアム懸賞問題の一つで、今年の夏にはNavier-Stokes方程式の解決も含め、AI研究機関と数学者たちの間で未解決問題への挑戦が活発化していた。",
+        "points": [
+          "アルポーゲ氏の証明はLean（数学的証明を形式検証するオープンソース言語）でコンパイル可能であり、MITのアンドリュー・サザーランド氏ら複数の専門家がコンパイル成功を確認済み。",
+          "証明の中身は自己準同型リフティング論法やGaloisの表現など高度な理論を用いており、数学界全体が内容の理解にはまだ時間を要すると見ている。",
+          "一方、スタンフォード大のアレッサンドロ・マスッロ氏は12年がかりでAIを使わず人力のみで一般リーマン予想の証明を執筆し、「我々はまだここにいる」とAI時代への人間の数学者の存在意義を訴えた。"
+        ],
+        "importance": "AIと人間が同時期に数学史上最重要級の難問に挑んだことは、AIが数学研究のあり方を変えつつある象徴的事例であり、形式検証と人間による理解の両立が今後の数学研究の信頼性を左右する焦点となる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Chips can survive the space environment — can their financing?",
+      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "published": "2026-11-20T17:40:01+00:00",
+      "rss_summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "summary": {
+        "title_ja": "宇宙データセンター構想、チップ融資に新たな壁",
+        "overview": "SpaceXの400億ドル規模のチップ融資契約において、融資元が軌道上データセンター計画向けのチップ利用を除外するよう要求していたと英Financial Timesが報じた。",
+        "background": "データセンター業界は通常、チップを担保に負債を調達し、デフォルト時には貸し手がチップを回収・転売できる仕組みで融資コストを抑えてきたが、時速約2万8000キロで周回する衛星搭載チップは物理的に回収不能であるため、こうした担保スキームが成立しない。",
+        "points": [
+          "H100やH200など既存チップには中古市場での再販価値があり、これが地上データセンターの融資を支える担保価値となっている。",
+          "イーロン・マスク氏は2026年初頭から、2〜3年以内に宇宙が最も安価なデータセンター運用拠点になると発言しているが、完全再使用型のStarship実現が前提であり、直近の試験飛行でもブースター回収に失敗するなど実現は不透明。",
+          "StarCloudやCowboy Space Corporationなど宇宙データセンター系スタートアップも同様にチップ調達が必要で、担保価値のないチップは地上向けより割高な調達コストを強いられる可能性がある。"
+        ],
+        "importance": "宇宙データセンターは技術的課題に加え、チップの担保価値消失という金融面の構造的制約を抱えており、自社TPUを展開するGoogleのProject Suncatcherや、SpaceXとTeslaが進める半導体工場Terafabのような垂直統合モデルが今後の競争優位性を左右する可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "published": "2026-11-20T18:50:19+00:00",
+      "rss_summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [&#8230;]",
+      "summary": {
+        "title_ja": "トランプ氏、AIデータセンターの国外移転に「巨額課税」を警告",
+        "overview": "トランプ大統領は、米企業がAIデータセンターを海外に建設した場合、「巨額の税金」を課すと表明した。",
+        "background": "米国内では各州・自治体がデータセンター新設への規制やモラトリアムを導入する動きが広がっており、企業が国外建設を選択肢として検討せざるを得なくなる状況が背景にある。",
+        "points": [
+          "トランプ氏は中国・ロシア首脳との会談後の記者会見で、「国外にデータセンターを建設することは許さない」と発言し、半導体産業で起きた海外流出の二の舞を懸念していると説明した",
+          "具体的な課税の仕組みや法的根拠は示されておらず、本人も「側近にすら話していなかった」と述べ、その場で初めて構想を公表した形",
+          "国外移転を許せば「中国がすべて持っていく」と警告し、海外立地を魅力的でなくするための牽制と見られる"
+        ],
+        "importance": "来年早々には民主党が多数派となる議会が発足するため、この課税構想の実現性は不透明だが、AIインフラの国内囲い込みを巡る米国の政策的緊張と、国内規制強化が企業の海外シフトを招くジレンマを象徴する出来事といえる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "published": "2026-11-20T16:34:13+00:00",
+      "rss_summary": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval [&#8230;]",
+      "summary": {
+        "title_ja": "Anthropicの数学者、Claudeとリーマン予想を証明したと主張",
+        "overview": "Anthropicの数学者Levent Alpöge氏が、AI「Claude」と共同でミレニアム懸賞問題の一つ「リーマン予想」を証明したと発表した。この主張はまだ第三者による検証を受けていない。",
+        "background": "リーマン予想は1859年に提唱された素数の分布に関する未解決問題で、数学で最も重要な難問の一つとされる。クレイ数学研究所が懸賞金100万ドルを設け、過去にOpenAIもナビエ・ストークス方程式の解決を主張するなど、AIによる数学の難問攻略が相次いでいる。",
+        "points": [
+          "Alpöge氏はLean形式で証明を提示し、一般化リーマン予想への拡張や仮定なしでの論証の形式化もClaudeと行ったと説明",
+          "クレイ数学研究所の規定では、発表後2年間の審査と数学界での広範な承認が懸賞金授与の条件で、公式認定には至っていない",
+          "Anthropicは8月時点でClaudeがリーマン予想解決に至るとは見込んでいないとコメントしており、今回の発表に公式関与はしていない"
+        ],
+        "importance": "ミレニアム懸賞問題でこれまで公式に解決済みなのはポアンカレ予想のみであり、今回の主張が検証されればAIが数学研究の最前線を根本的に変えつつあることを象徴する出来事となる。一方でOpenAIの類似成果を巡る研究倫理上の疑惑もあり、AIによる証明の信頼性検証プロセスが今後ますます重要になる。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "The week everything fell apart",
+      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "published": "2026-11-20T14:06:59+00:00",
+      "rss_summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On [&#8230;]",
+      "summary": {
+        "title_ja": "技術崩壊の一週間：相次ぐ障害とNvidia騒動",
+        "overview": "Outlookの数日間に及ぶ障害、25年で2度目となる全米規模の航空機地上待機、銀行システムの停止、iCloudの不安定化など、1週間のうちにテクノロジー障害が相次いで発生した。",
+        "background": "The VergecastのホストNilayとDavidは、各障害が陰謀論ほど深刻ではなかったと指摘しつつも、AIの普及と人員削減が進む世界では新種の問題が増え、解決が難しくなっていると分析している。",
+        "points": [
+          "個々の障害は比較的軽微だったが、複数が重なったことで技術基盤の脆弱性が浮き彫りになった",
+          "AI依存と人員削減の進行により、今後同様の障害がより頻発し、対処が困難になる可能性が指摘された",
+          "番組ではNvidiaのJensen Huang氏を巡る騒動にも言及、不倫疑惑よりも中国への違法なチップ密輸疑惑が焦点となっており、同氏の早期復帰は見込めないとした"
+        ],
+        "importance": "一つ一つは深刻でない障害でも同時多発することでシステム全体の脆さが露呈しており、AI化とIT人材削減が進む中で今後こうした複合的なトラブルが常態化する懸念がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "published": "2026-11-20T22:16:51+00:00",
+      "rss_summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "summary": {
+        "title_ja": "ウクライナのStarshield障害、SpaceXの軍事契約に飛び火か",
+        "overview": "来年1月に下院情報委員長就任が見込まれるジム・ハイムズ議員（民主党、コネチカット州選出）が、ウクライナでのStarshield運用を巡る問題を理由に、SpaceXへの政府系システム資金提供を支持しない可能性を示唆した。",
+        "background": "SpaceXは民生用Starlinkに加え、軍事向けに通信などを含むStarshieldを開発し、米政府がウクライナへの提供を承認していたが、その契約条件の大半は非公開となっている。",
+        "points": [
+          "ハイムズ氏はマスク氏宛ての書簡で、SpaceXが米政府契約を一方的に変更した可能性や議会監視への非協力的な姿勢を批判し、米政府との全契約の信頼性に疑問を呈した",
+          "CNNの報道によれば、ハイムズ氏は国家情報長官ジェイ・クレイトン氏にも機密扱いの通知を送り、SpaceXを主要ベンダーとするシステムへの資金承認が困難になる可能性を伝えた",
+          "ゼレンスキー大統領は10月19日、Starshield機器が時速130〜161kmで前線各所で機能停止することを確認したとSNSで指摘し、ドローン運用やロジスティクスへの支障を訴えた"
+        ],
+        "importance": "今回の問題は、ウクライナ支援における重要インフラとしてのStarshieldの信頼性だけでなく、SpaceXが米政府全体から受注している幅広い軍事関連契約の継続性にも影響しかねず、議会の監視強化や資金審査の厳格化につながる可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "published": "2026-11-20T21:58:29+00:00",
+      "rss_summary": "Google search is making it even easier to access AI tools on the search page.",
+      "summary": {
+        "title_ja": "Google検索トップページ刷新、検索ボタン廃止しAI機能を強化",
+        "overview": "GoogleはGoogle.comの検索ホームページを刷新し、長年存在した「Google検索」ボタンを廃止、代わりにAIチャットや画像生成などAI関連機能へのアクセスを強化した。",
+        "background": "この新デザインは数週間にわたりテストされており、検索担当バイスプレジデントのRobby Stein氏がXでテスト成功後の正式展開を確認した。",
+        "points": [
+          "検索バー下に画像生成、ファイル分析、Geminiとのブレインストーミング用の新ボタンが追加された",
+          "「I’m Feeling Lucky」ボタンは残るが、従来の検索ボタンは完全に削除された",
+          "検索ボタンはオートコンプリート候補に隠れるなど使い勝手が悪く、Enterキー入力の方が主流になっていた"
+        ],
+        "importance": "Googleの中核サービスである検索体験が急速にAI中心へ移行していることを示しており、今後の検索インターフェースやユーザー行動に大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "published": "2026-11-20T21:47:10+00:00",
+      "rss_summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "summary": {
+        "title_ja": "Meta、AI需要急増で2030年ネットゼロ目標を見直しへ",
+        "overview": "Metaは2026年版サステナビリティ報告書で、2030年までのネットゼロ排出目標の見直しを検討していることを明らかにした。同時に2025年の温室効果ガス排出量が過去最高を記録し、大手IT企業の中でも最大の増加率となったことも報告された。",
+        "background": "MetaはAIインフラ需要が「ほぼ誰の予測よりも速く」拡大していることを理由に挙げ、タイムラインやマイルストーンの再評価が必要になったと説明している。一方、Amazon、Google、Microsoftはこれまでのところ当初の持続可能性目標を維持している。",
+        "points": [
+          "総排出量は2024年の1560万トンCO2換算から2025年には2170万トンへと急増し、米アイダホ州全体の排出量に匹敵する規模となった",
+          "排出増加の主因はサーバーなどの「資本財」とされ、AIデータセンター拡張に伴う投資が背景にある",
+          "再生可能エネルギー投資を進める一方で、天然ガス発電に依存するデータセンター建設も進めている実態が浮き彫りになった"
+        ],
+        "importance": "大手テック企業として初めて公にネットゼロ目標の見直しを示唆した点は、AIブーム下での環境目標と事業拡大の両立の難しさを象徴しており、他社の目標設定にも影響を与える可能性がある。"
+      }
+    }
+  ]
+}
