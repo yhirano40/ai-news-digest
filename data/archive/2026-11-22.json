@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-22",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "published": "2026-11-21T16:00:00+00:00",
+      "rss_summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "summary": {
+        "title_ja": "顔をAIに売る時代？ マイクロドラマ企業Shorticalの挑戦",
+        "overview": "マイクロドラマ配信企業Shorticalが、俳優アキ・アヴニの顔をライセンス取得してAI生成作品『Inevitable』を制作・公開し、俳優自身が自分を演じるAIアバター出演という新手法を初めて実施した。",
+        "background": "Shorticalは2分程度の恋愛メロドラマを低価格サブスクで提供してきたが、ライブアクションよりも制作コストが低く利益率の高いAI生成コンテンツへの転換を進めており、中国発祥のマイクロドラマ業界ではすでに「顔のライセンス化」が広がりつつある。",
+        "points": [
+          "ShorticalはウェブサイトでSNSアカウント経由の「顔のライセンス提供」を募集しており、条件次第で契約を結ぶ仕組みを導入している",
+          "CEOのシモニ氏はAIにより少人数チームでも竜や王国、超能力者などの大規模ファンタジー制作が可能になったと説明",
+          "中国では顔ライセンス料が15〜700米ドル程度との報告があり、Shortical側は具体的な報酬額を公表していないが、アヴニの契約は非AI出演と同水準と説明"
+        ],
+        "importance": "マイクロドラマは新人俳優の登竜門として機能してきたが、AI自動化により人員削減が進み、業界内外でAIへの不信感や同意・報酬をめぐる懸念が高まっており、エンタメ業界全体における俳優の肖像権やAI活用のあり方を問う先例となる可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
+      "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+      "published": "2026-11-20T14:52:51+00:00",
+      "rss_summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+      "summary": {
+        "title_ja": "FAA全国運航停止、原因は来週にも公表へ",
+        "overview": "11月13日に発生したFAAの第3回全国運航停止の原因について、米政府が近く発表する見通しとなった。4時間以上にわたり全米で欠航が相次ぎ、100万人以上の乗客に影響が出た。",
+        "background": "問題はFAA通信インフラ網（FTI）に大量データが流入したことに起因し、テキサス州アマリロのレーダー基地とアーカンソー州エルドラドの無線通信基地が原因とされる。契約業者L3Harrisがエルドラド基地で老朽化したCiscoルーターを新型Juniperルーターに交換する作業中に発生した。",
+        "points": [
+          "FAA職員の適切な監督なしに契約業者の技術者がルーター交換作業を行っていたことが判明",
+          "航空管制技術者組合（PASS）は、FAA技術者が今回のアップグレード作業に一切関与していなかったと声明で指摘",
+          "全国規模のネットワークに影響する作業にもかかわらず、リスク評価や『影響範囲』を最大限に見積もった対策が取られていなかった可能性"
+        ],
+        "importance": "老朽化した航空管制システムの近代化を進める中で、民間委託業者への監督体制の不備が明らかになったことは、今後の安全性確保やFAAの改革方針に重大な課題を突きつけている。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "published": "2026-11-20T13:35:45+00:00",
+      "rss_summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "summary": {
+        "title_ja": "ロケットレポート：明暗分かれた週末、Stokeはエンジン開発完了",
+        "overview": "SpaceXがStarship上段のミッドエア回収に成功した一方、ULAのVulcanロケットが初の打ち上げ完全失敗を記録。さらにICEYEによるAvio買収提案、NATOの商業打ち上げ調達構想、Stoke Spaceのエンジン開発完了などが報じられた。",
+        "background": "米国の宇宙輸送業界ではSpaceXが完全再使用ロケット実現に近づく一方、ULAは米宇宙軍やAmazonから約70回分の打ち上げ契約を抱える中での重大な失敗となり、両社の明暗が対照的に示された。",
+        "points": [
+          "SpaceXはStarship上段を軌道飛行後にテキサスの発射台でミッドエア回収に成功したが、Super Heavyブースターは海上で失われた。",
+          "ULAのVulcanロケットが史上初の打ち上げ失敗を記録し、米宇宙軍やAmazonの大量契約に影響する懸念がある。",
+          "フィンランドの衛星企業ICEYEがイタリアのロケット製造企業Avioを22億ドル超で買収提案し、欧州初の垂直統合型宇宙企業を目指す。",
+          "Stoke Spaceは中型ロケットNova用メタン燃料エンジン「Zenith」の開発を完了し、ケープカナベラルへの出荷を開始した。"
+        ],
+        "importance": "SpaceXの再使用技術進展とULAの失敗は米国の打ち上げ能力の信頼性に直結し、欧州ではICEYEとAvioの統合構想が自立的な宇宙・防衛能力確保の動きを象徴する。NATOの商業打ち上げ調達網構築も含め、官民の宇宙戦略が大きく変動している。"
+      }
+    }
+  ]
+}
