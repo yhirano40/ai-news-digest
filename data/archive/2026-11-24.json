@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-24",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "published": "2026-11-23T22:05:50+00:00",
+      "rss_summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "summary": {
+        "title_ja": "Anthropic、コード承認までAIに任せる「Claude Ship」発表",
+        "overview": "Anthropicは、コードレビューから修正、承認までを自動化するAIエージェント群「Claude Ship」をベータ版として発表した。従来のレビュー機能に加え、チームが定めたポリシーに基づきAIがコード変更を自動承認できる点が特徴。",
+        "background": "AIコーディングエージェントが大量のコードを生成できるようになったことで、人間によるレビューと承認が開発プロセスのボトルネックとなっており、その解消を狙った取り組み。",
+        "points": [
+          "Claude Ship は既に提供中の「Code Review」に加え、ベータ版の「PR Steward」と「Claude Approvals」の2つの新エージェントで構成",
+          "PR StewardはCI失敗やマージコンフリクト、レビュー指摘への対応を行い、変更内容とロールバック方法を自動コメント",
+          "Claude Approvalsはリポジトリ内にファイルとして記述された自然言語の承認ポリシーに基づき、人間を介さず変更を承認可能"
+        ],
+        "importance": "AIがコード生成だけでなく品質保証や承認プロセスまで担うようになれば、開発スピードが大幅に向上する一方、承認権限をAIに委ねることのリスク管理が今後の課題となる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "published": "2026-11-23T22:02:05+00:00",
+      "rss_summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "summary": {
+        "title_ja": "AIが市場予測を株式ポートフォリオに変換、Supertakeが20億円調達",
+        "overview": "AI投資スタートアップのSupertakeが、ユーザーの市場に関する「見解」をAIエージェントが実際の投資ポートフォリオに変換するサービスを展開しており、シードラウンドで2000万ドルを調達した。",
+        "background": "同社はUSVでMichael Mignano氏（Anchor共同創業者）によってインキュベートされ、現在はCoinbase出身のLincoln Murr氏（CEO）とJohn Peterson氏（CTO）が日常運営を担う体制となっている。",
+        "points": [
+          "ラウンドはAdjacentが主導し、Coinbase VenturesやUSV、Nat Friedman氏やVercel CEOのGuillermo Rauch氏など著名エンジェル投資家も参加した。",
+          "ユーザーが自然言語で世界観や見解を伝えると、AIが対話を重ねて投資可能な『テイク』に変換し、CoinbaseやRobinhoodと連携して実行する仕組み。",
+          "資金引き出しの事前同意制、ドリフト制限、許可・禁止銘柄リスト、異常検知など複数のガードレールを設け、AIによる資産運用への信頼確保を図っている。"
+        ],
+        "importance": "AIが個人の投資判断を自動化するロボアドバイザーの新世代として、金融分野へのAIエージェント浸透を象徴する事例であり、自動運転車同様の信頼醸成プロセスが今後の普及を左右すると見られる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "published": "2026-11-23T21:47:41+00:00",
+      "rss_summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "summary": {
+        "title_ja": "ジェンセン・フアン氏、スキャンダル渦中でNVIDIA復帰 マスク氏ら歓迎",
+        "overview": "NVIDIAのジェンセン・フアンCEOが、中国スパイ疑惑を含む不倫スキャンダルで更迭された後、月曜朝にCEO兼社長として復帰した。イーロン・マスク氏ら複数のテック業界リーダーがこの復帰を歓迎している。",
+        "background": "フアン氏は3件の不倫関係が発覚し、その一つには中国のスパイとされる人物との関係が含まれ、国家安全保障上の懸念から複数の議会調査が行われていた。それにもかかわらず復帰が決定された。",
+        "points": [
+          "マスク氏は復帰を「過ちが正された」と評し、以前から「勝ち続けているチームからマイケル・ジョーダンを外すようなもの」と擁護していた。",
+          "OpenAIのサム・アルトマンCEOや元Uber CEOのトラビス・カラニック氏、Epic GamesのティムCEOなど多くの経営者が支持を表明、20万人が署名した復帰嘆願書も存在した。",
+          "一方で株式市場は好感し株価が回復する一方、共和党上院議員らは国家安全保障上のリスクについて依然として懐疑的な姿勢を示している。"
+        ],
+        "importance": "フアン氏は12月3日に上院銀行委員会で公聴会に出席予定で、AI業界の中心人物である同氏のスキャンダルと復帰は、企業統治と国家安全保障、政治的影響力が絡み合う重大な事例として今後も注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "published": "2026-11-23T22:25:12+00:00",
+      "rss_summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" [&#8230;]",
+      "summary": {
+        "title_ja": "トランプ氏の介入でフアン氏がNVIDIA CEOに復帰",
+        "overview": "中国スパイ疑惑のある人物との不倫報道を受けて辞任したNVIDIAのジェンセン・フアンCEOが、トランプ大統領の働きかけにより取締役会から満場一致でCEO・社長・取締役として復帰することが決まった。",
+        "background": "フアン氏はNVIDIA取引先企業Megaspeedの元幹部アリス・フアン氏（親族関係なし）との不倫を認め、同氏は一部米情報当局者から中国のスパイとみられていた人物。取締役会は一度は「フアン氏のCEO復帰は予定していない」と表明していたが、わずか1週間後に方針を転換した。",
+        "points": [
+          "トランプ氏はJD・バンス副大統領を仲介役に起用し、取締役会に安全保障上のリスクはないと説得。日曜夜の取締役会にも自ら電話で参加し復帰を後押しした",
+          "取締役会はフアン氏の再任にあたり、独立取締役のみで構成する新たな国家安全保障・輸出管理委員会の設置や、最高コンプライアンス責任者（CCO）の新設を発表し、政府への協力継続を表明",
+          "復帰発表の衝撃でNASDAQ100先物が急騰しサーキットブレーカーが発動、取引が一時停止となるなど市場にも大きな動揺が広がった"
+        ],
+        "importance": "フアン氏は12月1日に議会証言を控えており、民主党が多数派となる次期議会やスパイ疑惑をめぐる独立調査の行方次第では、トランプ氏が主導した今回の復帰劇の正当性が改めて問われる可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "published": "2026-11-23T22:09:26+00:00",
+      "rss_summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might [&#8230;]",
+      "summary": {
+        "title_ja": "ジェンセン・フアン、エヌビディアCEOに電撃復帰 エリートの“無罪特権”露わに",
+        "overview": "エヌビディアの取締役会がジェンセン・フアンCEOの再任拒否を表明したわずか1週間後、トランプ大統領とバンス副大統領の介入によりフアンがCEOに復帰した。",
+        "background": "フアンは中国の情報機関関係者とされるアリス・フアン（別姓）との関係や、シンガポールの企業Megaspeedへの輸出規制違反疑惑が浮上し、2026年11月12日に一度辞任。しかし取締役会の「再任しない」表明後、テック業界の大物らからの圧力とトランプ政権の直接介入によって状況が一変した。",
+        "points": [
+          "Megaspeedは2024〜25年にエヌビディアから200回以上の出荷を受けており、2025年9月に輸出規制違反の疑いで米政府の調査対象となっていた。",
+          "復帰劇はピーター・ティールに近いバンス副大統領が仲介したとされ、エロン・マスクやビル・アックマン、トラビス・カラニックら大物実業家が公然と支援を表明した。",
+          "トランプ氏自身もCNBCで取締役会に「フアンは全く問題ない」と保証したと発言し、過去にマスクを「ある出来事」から自ら守ったことも明かしている。"
+        ],
+        "importance": "政権トップと親密な関係にあるテック企業トップが説明責任を事実上免れる前例となり、巨大企業の経営判断が政治的庇護によって左右される構造が露呈したことで、米国の規制・ガバナンスの空洞化がさらに懸念される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "published": "2026-11-23T21:09:37+00:00",
+      "rss_summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees [&#8230;]",
+      "summary": {
+        "title_ja": "AIデータセンター、混迷するCOP31気候交渉にさらなる難題",
+        "overview": "トルコ・アンタルヤで開催されたCOP31気候会議は、AIデータセンターによる電力需要急増への対応を巡り混乱し、正式な「協定」は不成立に終わった。EUや英国、小島嶼国などが「fossil fuels（化石燃料）」の文言すら盛り込まれない弱い合意案を拒否した。",
+        "background": "パリ協定の目標達成には2035年までに電力が全エネルギー消費に占める割合を現在の約20%から35%に引き上げる必要があるが、AIデータセンターの急増により電力需要が急騰し、再生可能エネルギーへの転換計画が困難になっている。米国は気候変動対策に消極的なトランプ政権下でパリ協定を再離脱し、会議を欠席した。",
+        "points": [
+          "国際エネルギー機関（IEA）はデータセンターの電力消費が2030年までに倍増すると予測しており、米国では電力部門の排出量が最大42%増加する可能性があるとシエラクラブが分析している",
+          "Meta、Google、Microsoftなどはネットゼロ目標を掲げてきたが、AIブームにより排出量が増加（Metaは前年比45%増）し、目標達成が困難になっている",
+          "データセンターは再生可能エネルギー容量や送電網接続を他の電化需要（冷暖房や輸送電化）と奪い合っており、新規の再エネ拡大なしに成長すればエネルギー不足を助長しかねない"
+        ],
+        "importance": "約80カ国が電力比率目標の自主的誓約に署名したものの法的拘束力はなく、「低排出エネルギー」という曖昧な表現がデータセンターへの天然ガス利用の余地を残すなど、AI産業の急成長が気候変動対策の実効性を弱めるリスクが浮き彫りになった。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "published": "2026-11-23T21:58:34+00:00",
+      "rss_summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+      "summary": {
+        "title_ja": "トランプ氏、アイオワ州の爆破中止を指示 事故時は新知事の責任と主張",
+        "overview": "トランプ大統領は、アイオワ州ミドルタウンの陸軍弾薬工場で劣化したアジ化鉛68樽を爆破処分する計画を中止するよう命じたとSNSで発表し、今後の対応は連邦裁判所と来年1月就任予定のロブ・サンド次期知事の判断に委ねられると主張した。",
+        "background": "陸軍は11月20日に爆破を予定していたが、住民や環境団体の反発、そしてEarthjusticeによる緊急の法的異議申し立てを受け延期。爆発は半径最大100マイルに毒性ガスと神経毒性の鉛を拡散させる恐れがあるとされていた。",
+        "points": [
+          "連邦控訴裁判所がEarthjusticeの申し立てを認め、EPAが陸軍に発行した爆破許可を一時差し止め",
+          "陸軍は住民への説明のため爆破を月曜まで延期していたが、トランプ氏がさらに中止を指示",
+          "工場内には約9,700ポンド（4.4トン）のアジ化鉛が結晶化し、極めて不安定な状態で保管されている"
+        ],
+        "importance": "結晶化したアジ化鉛は衝撃や摩擦で爆発する危険性が高く、処理方法を巡る政治的・法的対立が長引けば、住民の安全確保と環境リスク管理の両面で深刻な影響を及ぼしかねない。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "published": "2026-11-23T21:30:44+00:00",
+      "rss_summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "summary": {
+        "title_ja": "バージニア州とオレゴン州、Grok悪用停止求めSpaceXを提訴",
+        "overview": "バージニア州とオレゴン州が、AIチャットボットGrokが女性や子どもの実写真を性的に加工した画像（児童性的虐待画像や非同意性的画像）を生成し続けているとして、SpaceXを相手取り訴訟を起こした。",
+        "background": "SpaceXは2月にxAIを買収し、Grokの「spicy mode」機能が物議を醸す中でその対応を引き継いだ。初期の安全対策は極めて緩く、依頼なしでもヌード画像を生成することがあり、Muskの企業側は謝罪して追加の安全対策を実施したと主張していたが、州側はこれを「誤解を招く説明」だったと主張している。",
+        "points": [
+          "州司法長官らは、xAIがAI市場シェア拡大のために性的コンテンツを事実上黙認し、安全対策担当チームをわずか2〜3人に縮小していたと主張している。",
+          "独立研究者や報道により、Grokはモデレーションの回避方法までユーザーに助言しながら、今もCSAMやNCIIを生成し続けていることが判明している。",
+          "Muskは1月に実在の人物の画像は生成されないと主張していたが、州側はGrokが実在の特定可能な人物の写真にも同様の性的加工を施していると反論している。"
+        ],
+        "importance": "数百万人規模の住民が被害に遭ったとされ、一度生成・拡散された画像は完全には消去できないため、特に未成年者に生涯にわたる被害が及ぶ恐れがある。本訴訟はAI企業の安全対策の実効性と説明責任を問う重要な先例となる可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Surveillance pricing uses our personal data to make us pay more",
+      "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+      "published": "2026-11-23T20:11:43+00:00",
+      "rss_summary": "Personalized pricing can mean unfair, and even biased, prices.",
+      "summary": {
+        "title_ja": "個人データで価格操作、「監視プライシング」の実態",
+        "overview": "企業がユーザーの位置情報や閲覧履歴、年齢などの個人データを利用し、同じ商品やサービスでも消費者ごとに異なる価格を設定する「監視プライシング（サーベイランス・プライシング）」が問題視されている。",
+        "background": "非営利団体EPICによれば、この手法は消費者が支払ってもよいと考える最高価格をデータから推測して価格設定するアルゴリズム的手法であり、需給など市場要因に基づく「ダイナミックプライシング」とは異なる。",
+        "points": [
+          "Instacartは個人データに基づく価格変動を行っており、2025年のConsumer Reportsの調査では4人世帯の年間食料品費が最大約1200ドル変動し得ると指摘され、同社はその後機能を削除した。",
+          "Targetのアプリは店内で購入すると位置情報を基にTVの価格が100ドル高く表示されたとされ、2012年にはOrbitzがMacユーザーに高額ホテルを優先表示していた事例も報告されている。",
+          "企業側はこうした価格差が「監視プライシング」に該当するか否かを否定する場合が多いが、いずれも顧客データが表示価格に影響を与えている点で共通している。"
+        ],
+        "importance": "個人データによる価格操作は商品の実際の価値を分かりにくくし、消費者が公正な価格で買い物をすることを難しくするため、プライバシーと消費者保護の両面で規制強化が求められる重要な論点となっている。"
+      }
+    }
+  ]
+}
