@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-25",
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "published": "2026-11-24T22:27:52+00:00",
+      "rss_summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "summary": {
+        "title_ja": "ジェンセン・フアン氏、後継者計画は不要な階層生むと再主張",
+        "overview": "Nvidiaのジェンスン・フアンCEOが全社ミーティングで、同社の後継者計画は不要だとの考えを改めて示したと複数の関係者が明らかにした。",
+        "background": "フアン氏は今月、少なくとも2人との不倫関係を認め、その一人は米政府が中国のスパイと疑う人物だったことから一時CEOを辞任していたが、その後復帰していた。",
+        "points": [
+          "フアン氏はNvidia独自のビジネスモデルゆえに後継者計画は不要で、むしろ無用な階層構造を生むと社員に説明したとCNBCが報じた。",
+          "Nvidiaは経営幹部が5人のみ（フアン氏含む）というフラットな組織で、フアン氏には約60人の直属部下がいるとされる。",
+          "フアン氏は以前から、企業は製品の出力を生み出す仕組みであるべきとし、他社に見られる画一的な組織図を批判してきた。"
+        ],
+        "importance": "スキャンダルを経て経営リスクが顕在化した直後にもかかわらず後継者計画を否定する姿勢は、取締役会や株主の長期的な懸念を払拭できない可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "published": "2026-11-24T21:48:27+00:00",
+      "rss_summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "summary": {
+        "title_ja": "ファン氏、全社会議でホワイトハウスに謝意、セラピー通院も告白",
+        "overview": "Nvidia創業者ジェンセン・ファン氏は、月曜の復職後初となる全社会議を火曜に開き、不倫問題による混乱についてスタッフに謝罪し、自身がセラピーを受けていることを明かした。",
+        "background": "ファン氏の不倫問題は株式市場や米国の国家安全保障にまで影響を及ぼしたとされ、彼自身が主導して策定した行動規範に違反していたことを本人が認めていた。",
+        "points": [
+          "ファン氏は「妻との会話が最も辛かった」と述べ、今回の全社会議を人生で2番目に厳しい場だったと表現した。",
+          "行動規範は引き続き有効だが、違反＝即解雇ではなく状況を考慮すると説明し、権威の再構築と反省のバランスを取ろうとした。",
+          "トランプ大統領がNvidia取締役会に直接働きかけて復職を後押ししたとされる中、ファン氏は大統領の関与を控えめに語りつつ、政権が国家安全保障リスクを低いと判断する助けとなる情報提供をしたことに感謝した。"
+        ],
+        "importance": "ファン氏は来週の上院銀行委員会公聴会や複数の下院非公開聴聞会（情報委員会、外交委員会、対中国特別委員会など）を控えており、民主党主導の議会による厳しい追及を乗り切るには政権の支持が不可欠とみられる。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Even the best AI agents struggle with everyday life",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "published": "2026-11-24T21:33:29+00:00",
+      "rss_summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "summary": {
+        "title_ja": "最高性能のAIエージェントでも日常業務は苦手、新ベンチマークで判明",
+        "overview": "OpenAI、Anthropic、Metaの最先端AIモデルでも、日常的な代行作業を扱う新ベンチマーク「ShellBench」で3割以上が失敗し、15.7%は安全性要件を満たせなかったことが判明した。",
+        "background": "個人向けAIエージェントは数ヶ月前から急速に普及し、Metaの「Muse」は提供開始6週間で1000万人以上が利用を開始するなど、買い物やスケジュール管理などを任せるユーザーが増えているが、その信頼性を検証する研究はこれまで乏しかった。",
+        "points": [
+          "ShellBenchは1000万件超の実際のAIエージェント利用データを基に、メール・カレンダー・領収書・フィッシング詐欺などを含む雑多な個人情報を扱うタスクで性能を評価した。",
+          "最高スコアのOpenAI「GPT-6 Astra」でも、同一条件で3回実行して全て成功する確率は5割未満と一貫性に欠け、子供の送迎予定の見落とし（79.5%）や重複請求の誤認識（40.3%）などの失敗が頻発した。",
+          "モデル選択の影響が最も大きいものの、高性能モデルほど実行環境（ハーネス）の違いにも左右され、MetaのMuseはPi環境で56%、Claude Code環境では38.1%と成績が大きく変動した。"
+        ],
+        "importance": "自律的に裏で動くことが前提の個人向けAIアシスタントが、安全性や一貫性の面で未成熟であることが示され、実際の消費者向け製品（Muse、Dots、Claude Duet）の信頼性評価にも警鐘を鳴らす結果となった。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "published": "2026-11-24T20:02:03+00:00",
+      "rss_summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
+      "summary": {
+        "title_ja": "ファン氏、トランプ氏の関与否定 復職巡り全社員に謝罪",
+        "overview": "Nvidiaのジェンスン・ファンCEOが復職後初の全社ミーティングで社員に謝罪し、トランプ大統領や政財界の後押しで復職したという見方を「完全に事実無根」と否定した。",
+        "background": "ファン氏は中国のスパイ疑惑のある人物や従業員2名との不倫報道を受け、11月12日にCEOを辞任していたが、月曜にCEO・社長・取締役として復職が発表され、ホワイトハウスはトランプ氏が「全面的に関与した」と説明していた。",
+        "points": [
+          "ファン氏は「政治が会社に関与したとは微塵も思わないでほしい。我々は最も非政治的な企業だ」と述べ、政治的関与を否定した。",
+          "自身が『above the law』の『テック系特権者』として復職したわけではなく、Nvidia取締役会が状況全体を評価し、政府からも安全保障上の脅威はないとの確認を得た上での決定だと説明した。",
+          "行動規範違反は認め、毎日セラピーに通っていることを明かし、「妻のローリーを裏切り、子どもたちや皆を傷つけた」と謝罪した一方、後継者計画は信じないとも述べた。"
+        ],
+        "importance": "Nvidiaは会計処理を巡る調査や中国のスパイ疑惑に関する内部調査を抱えており、ファン氏は12月1日に議会証言を控える。民主党議員らは復職の経緯やトランプ氏の関与について追及する構えで、今後の説明責任が注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "published": "2026-11-24T18:15:00+00:00",
+      "rss_summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it [&#8230;]",
+      "summary": {
+        "title_ja": "フィンチャー新作、AI使用疑惑で物議「スロップ映画」批判",
+        "overview": "デヴィッド・フィンチャー監督の新作『The Further Mis-Adventures of Cliff Booth』の試写会後、生成AIが使用されたのではないかとの疑惑がSNS上で広がり批判が相次いでいる。",
+        "background": "11月25日の公開を前に行われた批評家向け試写会で、観客が不自然で一貫性のない映像を目撃したと報告し、YouTuberのパトリック・トマッソ氏は「大手スタジオで見た中で最も露骨で酷いAI使用」と酷評した。",
+        "points": [
+          "予告編にも馬車に逆向きに座る人物など不可解なカットがあり、AI生成を疑う声が上がっている",
+          "Netflixは今年、ベン・アフレックのAIスタートアップ「InterPositive」を約6億ドルで買収しており、同社の映像からアセットを生成するAI技術との関連が疑われている",
+          "フィンチャー監督自身も最近のインタビューで『自分はラッダイトではない』『目の色を変える技術があるなら使わない手はない』とAI活用に理解を示す発言をしていた"
+        ],
+        "importance": "Netflixは疑惑について肯定も否定もしておらず、もし実際にAIが多用されていたとすれば、細部へのこだわりで知られるフィンチャー監督とNetflixの双方にとって大きな評判上の打撃となりかねない。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Tidal will start banning AI-generated music next month",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "published": "2026-11-24T17:17:09+00:00",
+      "rss_summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 [&#8230;]",
+      "summary": {
+        "title_ja": "Tidal、来月よりAI生成音楽を全面禁止へ",
+        "overview": "音楽ストリーミングサービスのTidalは12月9日、AI生成音楽の禁止を開始し、約2900万曲を削除、1日あたり8万〜8万5000曲の投稿を拒否する見込みだと発表した。",
+        "background": "Tidalは数か月前から「100％AI生成」と判定した楽曲にラベル付けとマネタイズ停止を行っていたが、直近90日間に配信された楽曲の43％がAI生成だったことから、より厳格な対応に踏み切った。",
+        "points": [
+          "AI検出ツール「Ircam Amplify」とメタデータ確認により、完全にAIのみで生成された楽曲の配信元からの投稿自体を拒否する。",
+          "AIを補助的に使用した楽曲は禁止対象外で、AIが『唯一の出力』でない限り許容される。",
+          "AI生成楽曲の96％が一度も再生されていないとTidalは指摘しており、業界全体でBandcamp、Spotify、YouTube、Apple Music、Deezerなども同様の対策を進めている。"
+        ],
+        "importance": "AI生成音楽の急増はアーティストの再生数や印税を奪い、リスナーを混乱させる深刻な問題とされており、Tidalの全面禁止措置は音楽業界全体でのAIコンテンツ対策の流れを加速させる可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "What's going on with the Riemann hypothesis?",
+      "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "published": "2026-11-24T20:34:53+00:00",
+      "rss_summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "summary": {
+        "title_ja": "リーマン予想の証明にAI関与、数学界に動揺広がる",
+        "overview": "数学者Levent AlpögeがAnthropicのClaudeを活用し、数学最大級の未解決問題の一つであるリーマン予想の証明を発表した。証明はまだ検証途中だが、数学界全体に大きな波紋を広げている。",
+        "background": "リーマン予想は1800年代半ばにベルンハルト・リーマンが提唱した素数の分布に関わる仮説で、数論や暗号理論に重要な意味を持つ。近年、大規模言語モデルを用いた数学の難問解決事例が相次いでおり、分野全体で議論が高まっていた。",
+        "points": [
+          "証明はLean言語による形式的な記述と、その背後にある論理的説明の2形式で構成され、Leanコードにより迅速な検証が可能になった",
+          "AIは既存の重要問題の解決には強みを発揮するが、新たな未解決問題を自ら見出す能力はまだ示されていない",
+          "ニューラルネットワークの内部処理は不透明で、証明に至る過程で得られる新たな発想やツールが数学界に共有されにくいという懸念がある"
+        ],
+        "importance": "従来、証明に至る思考過程自体が新しい数学的ツールや発見を生み出す源泉だったが、AIによる証明はその過程がブラックボックス化するため、数学界の発展様式そのものを変える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "published": "2026-11-24T18:47:57+00:00",
+      "rss_summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "summary": {
+        "title_ja": "Amazon配達ドローン墜落、ガレージに衝突しFAAが調査開始",
+        "overview": "Amazonの配達ドローンがシャンプーを届けた後、光ファイバーケーブルに接触してプロペラを失い、隣家のガレージ屋根と電線の間に挟まって墜落した。米連邦航空局（FAA）がこの事故の調査を開始した。",
+        "background": "事故は11月20日、ミシガン州ハンティントン・ウッズで発生。住民のジム・ブレナン夫妻がシャンプーを注文したところ、わずか7分でドローン配達されるとの通知を受け取った直後に起きた。",
+        "points": [
+          "AmazonのPrime Airは最大5ポンドの荷物を運べるバッテリー駆動のMK30ドローンを運用しており、障害物を回避するセンス・アンド・アボイド技術を搭載しているが、今回は細い光ファイバーケーブルを検知できなかった。",
+          "FAAは11月23日に予備事故報告を公表し、「UASが飛行中に光ファイバーケーブル、住宅のガレージに衝突し、電線に絡まった」と記載した。",
+          "米国家運輸安全委員会（NTSB）も情報収集を進めているが、独自調査を開始するかはまだ決定していない。"
+        ],
+        "importance": "Amazonなど各社が米国全土でドローン配達事業を拡大する中、今回の事故はセンサー技術の限界と安全性への懸念を浮き彫りにし、今後の規制強化や運用見直しにつながる可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+      "published": "2026-11-24T18:30:36+00:00",
+      "rss_summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+      "summary": {
+        "title_ja": "アマゾン衛星網、スペースXとアリアンに活路見出す",
+        "overview": "欧州のアリアン6ロケットがAmazon Leoブロードバンド衛星網向けに36基の衛星を軌道投入し、計432基体制となった。これはULAのバルカンロケットが今月初めに打ち上げ失敗を起こし40基の衛星を失って以来の重要な巻き返しとなった。",
+        "background": "アマゾンは5年前、低軌道に3232基の衛星を配置するため、ULA、アリアンスペース、ブルーオリジンなど複数の打ち上げ事業者と計108回分の契約を結んでいたが、各社のロケット（バルカン、アリアン6、ニューグレン）はいずれも開発遅延や不具合に見舞われていた。",
+        "points": [
+          "ブルーオリジンの新型ロケット「ニューグレン」は5月の発射台爆発事故以来運用停止中で、ULAのバルカンも11月15日の誤作動により数カ月間使用不能となった。",
+          "こうした状況を受け、アマゾンは競合スターリンクを運営するスペースXから購入済みのファルコン9打ち上げを前倒しで加速させており、次回は当初予定の来年から12月に繰り上げられた。",
+          "これまでに17回の打ち上げが完了し、1回の失敗を経験している中、複数事業者への分散発注がリスク分散として機能した形だ。"
+        ],
+        "importance": "主要打ち上げパートナーの相次ぐ不具合という危機の中、アマゾンが競合スペースXのロケットに頼らざるを得ない状況は、衛星網構築計画の信頼性と打ち上げ事業者の多様化戦略の重要性を浮き彫りにしている。"
+      }
+    }
+  ]
+}
