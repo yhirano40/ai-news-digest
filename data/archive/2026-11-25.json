@@ -162,6 +162,151 @@
         ],
         "importance": "主要打ち上げパートナーの相次ぐ不具合という危機の中、アマゾンが競合スペースXのロケットに頼らざるを得ない状況は、衛星網構築計画の信頼性と打ち上げ事業者の多様化戦略の重要性を浮き彫りにしている。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "published": "2026-11-25T00:12:02+00:00",
+      "rss_summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+      "summary": {
+        "title_ja": "イェール大ソネンフェルド氏、Nvidiaは米国産業力の「害」と批判",
+        "overview": "Jensen Huang氏がNvidiaCEOに復帰したことを投資家は歓迎したが、イェール大の著名経営学者ジェフリー・ソネンフェルド氏は、Nvidiaが米国の産業力に貢献するどころか「害悪」だと批判している。",
+        "background": "同氏はNvidiaの最先端チップが輸出規制をすり抜けて中国に流出しているとの調査結果や、米政権高官の圧力でHuang氏が取締役会に復帰した経緯を問題視しており、復帰に反対していた取締役会が最終的に屈した点を厳しく非難している。",
+        "points": [
+          "Nvidiaのチップが中国軍系機関（西北工業大学）を通じて兵器システムに転用され、イランやロシアにも流れている可能性が指摘されている。",
+          "取締役会はHuang氏と中国スパイ疑惑のある人物との関係を巡る問題を十分調査せず、専門家の助言を無視したとして、株主訴訟や集団訴訟など少なくとも5件の訴訟が既に提起されている。",
+          "司法省による独占禁止法調査、SECの会計調査、FBI審査、議会公聴会など複数の当局調査が同時進行しており、パートナー企業Megaspeedが米国の貿易ブラックリストに追加されるなど輸出管理問題も深刻化している。"
+        ],
+        "importance": "この批判は、AI半導体業界のリーダー企業であるNvidiaのガバナンスと国家安全保障上のリスクに対する信頼性を揺るがすものであり、今後の輸出規制強化や企業統治改革、さらには米中技術覇権争いの行方に大きな影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "published": "2026-11-24T21:32:38+00:00",
+      "rss_summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "summary": {
+        "title_ja": "ウォルマート、MetaのAIエージェント「Muse」でブラックフライデー連携",
+        "overview": "ウォルマートがMetaと提携し、同社のAIエージェント「Muse」を通じてブラックフライデーのセール品を購入できるようにしたと発表した。",
+        "background": "AIを使った買い物は一般化しつつあり、Amazonがサードパーティ製AIエージェントによる購入を制限する一方、ウォルマートはAI活用を積極的に推進する方針を取っている。",
+        "points": [
+          "ユーザーはMuseアプリでWalmartアカウントにログインし、商品検索・価格比較・カート作成をAIに依頼できる",
+          "外部AIアシスタントを自社オンラインストアと直接連携させる新システム「Agent Gateway」（2025年10月開始）を基盤とし、今後他の開発者・AIプラットフォームにも開放予定",
+          "購入履歴の非共有、支出上限設定、購入前の承認要求、注文内容の確認など、プライバシーと購入管理の仕組みを導入"
+        ],
+        "importance": "ウォルマートは自社アシスタント「Sparky」の機能強化に加え、Instacartも連携するMuseとの提携により、AIエージェント経由の買い物を主要な購買チャネルとして確立しようとしており、Amazonとの戦略的な違いが今後のEC業界におけるAI活用競争の行方を左右する可能性がある。"
+      }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "published": "2026-11-24T21:19:52+00:00",
+      "rss_summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "summary": {
+        "title_ja": "Maple、運営企業もデータを見られないAI製品開発へ530万ドル調達",
+        "overview": "プライバシー保護AIアプリを手がけるMapleが530万ドルのシード資金を調達し、ユーザーのデータを運営企業自身からも秘匿する仕組みの強化とクラウド型エージェント開発を進める。",
+        "background": "AIエージェントがファイルやメール、カレンダー、ブラウザにアクセスするようになる中、AI企業への信頼が過度に求められる状況が課題となっており、元Appleのプライバシー技術担当エンジニアが共同創業したMapleは、信頼ではなく技術的に検証可能な仕組みでこれに対応しようとしている。",
+        "points": [
+          "ユーザーデータは端末上で本人のみが知るパスワードで暗号化され、ハードウェア暗号化されたTEE（信頼実行環境）内で復号・処理後に再暗号化されるため、Maple自身もデータにアクセスできない設計",
+          "オープンソースコードと検証可能なTEEにより、DeepSeekやKimi、GLM、GemmaなどのオープンモデルをユーザーがAI対話やエージェント型デスクトップアプリ「Maple Work」で利用可能",
+          "調達資金でPCがオフでも稼働継続できるクラウド型エージェントを開発し、MetaのMuseなど競合サービスへの対抗を図る。2027年前半にシリーズA調達を予定",
+          "調達はEpic Ventures主導でDraper AssociatesやPlanetary VCなどが参加、直近3カ月でユーザー数が60倍に成長し、来年は企業向けにゼロデータ保持オプションを展開予定"
+        ],
+        "importance": "AIがより多くの個人データにアクセスする時代において、技術的に企業自身もデータを扱えない設計は、ハッキングや政府の情報開示要求からもユーザーを守る新たなプライバシー保護モデルとして注目され、今後のAI業界における信頼構築の在り方に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "published": "2026-11-24T16:30:00+00:00",
+      "rss_summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he [&#8230;]",
+      "summary": {
+        "title_ja": "ジェンセン・ファンのディープフェイクがAIスロップの新定番に",
+        "overview": "NVIDIAのジェンセン・ファンCEOの不倫スキャンダルを題材にしたAI生成のディープフェイク動画がSNSで大量に拡散し、数百万回再生を記録している。",
+        "background": "ファン氏は中国系テクノロジー幹部で疑惑のスパイとされるアリス・ファン氏との不倫が議会調査にまで発展し、一時NVIDIAを辞任していたが、その後取締役会により社長・CEO・取締役に復帰した。",
+        "points": [
+          "Instagramなどで「Ibiza Final Boss」などの既存ミーム動画にファン氏をAI合成した動画が数百種類制作され、各動画が数百万回再生されている",
+          "制作にはByteDanceのSeedance 2.5やAlibabaのWan 3、GoogleのNano Bananaといった動画生成AIモデルが使われ、皮肉にもNVIDIA製GPUがこれらの処理を支えている",
+          "復帰後は『ウルフ・オブ・ウォールストリート』風の勝利を祝う動画も登場するなど、スキャンダルの展開に合わせてミームの内容も変化している"
+        ],
+        "importance": "これまで問題視されてきた選挙偽情報やディープフェイクポルノとは異なり、悪意のないミーム的コンテンツとしてAI生成動画が広く受け入れられている現象であり、今後のAI生成コンテンツとネットミーム文化の融合を象徴する事例として注目される。"
+      }
+    },
+    {
+      "source": "The Verge",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "published": "2026-11-24T16:09:23+00:00",
+      "rss_summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh [&#8230;]",
+      "summary": {
+        "title_ja": "NYT、AI機能問題でPhotoshop最新版の使用を禁止",
+        "overview": "ニューヨーク・タイムズはフリーランス写真家に対し、AI機能を含むPhotoshop 2027年版（リリース28.0.0以降）を業務で使用しないよう求めるメールを送付した。",
+        "background": "Adobeは近年PhotoshopにAI編集機能を次々と追加しており、2026年11月の更新ではAIアシスタントによる編集指示やプロンプトベースの画像変換、AIアップスケーリングなどが加わった。NYTは写真編集を最小限にとどめる方針を掲げており、読者の信頼確保のため厳格なルールを運用している。",
+        "points": [
+          "Photoshopの新機能はAI利用が不明瞭なものも多く、従来からある自動選択ツールなどもAI機能に分類される場合がある。",
+          "Adobeは8月からC2PAメタデータ対応を導入しており、画像がAIで生成・編集されたかを示すタグが自動的に付与される仕組みになっている。",
+          "NYTはこのメタデータが意図せず写真に付与されることを避けるため、Photoshop 2027（28.0.0以降）の使用を禁止し、スポークスパーソンのグラハム・ジェームズ氏もこの方針を確認した。"
+        ],
+        "importance": "AI編集の有無を示すメタデータが報道写真の信頼性に直結するため、大手メディアがAI機能搭載ソフトの利用方針を見直す動きは今後の報道倫理やツール運用に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "How brewers can protect beers from smoke-tainted hops",
+      "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+      "published": "2026-11-24T18:18:37+00:00",
+      "rss_summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
+      "summary": {
+        "title_ja": "煙害ホップからビールを守る醸造技術をOSUが研究",
+        "overview": "オレゴン州立大学の研究チームが、山火事の煙で汚染された「スモークテイント」ホップを使用した際の品質低下を抑える方法を学術誌に発表した。",
+        "background": "2020年のオレゴン山火事は100万エーカー以上を焼き11人が死亡、広範囲に煙が拡散し地元のワイン生産だけでなくビール用ホップにも悪影響を与えた。太平洋岸北西部は米国産ホップの95％以上、世界供給の約40％を占めるため、経済的影響は大きい。",
+        "points": [
+          "汚染されたホップの配合量と、醸造工程のどの段階で投入するかによって、煙由来の不快な風味への影響度が変わることが判明",
+          "共著者のトーマス・シェルハマー氏は2018年にもクラフトビールの『ドライホッピング』がボトル破裂現象の原因である可能性を指摘するなど、ホップと醸造化学の研究を継続",
+          "ホップの苦味は煮沸工程でアルファ酸がイソアルファ酸へ異性化することで生じるという基礎化学を踏まえ、スモークテイント対策を検討"
+        ],
+        "importance": "気候変動により山火事の頻発化が予想される中、スモークテイントホップを有効活用できれば、生産者の経済的損失を抑えつつ品質を維持したビール造りが可能になる。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "published": "2026-11-24T17:34:34+00:00",
+      "rss_summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "summary": {
+        "title_ja": "Tidal、AI生成音楽を全面禁止へ　2700万曲を削除予定",
+        "overview": "音楽ストリーミングサービスのTidalは、人間のアーティストへの悪影響を理由にAI生成音楽を全面禁止すると発表した。12月9日までにAIラベル付きの2700万曲を削除する方針。",
+        "background": "Tidalは2026年7月、AIのみで制作された楽曲にラベル付けし収益化を停止する方針を導入していたが、それでは不十分だった。過去90日間で新規アップロードの43％が完全なAI生成楽曲となり、11月6日には一時60％に達していた。",
+        "points": [
+          "削除対象の2700万曲はTidal全楽曲の6.3％を占めるが、そのうち96％は過去90日間で再生数ゼロであり、削除による実質的な影響はほぼないとしている",
+          "禁止対象はAIのみで制作された楽曲のみで、人間の要素が含まれていればAIツールの利用自体は引き続き許容される",
+          "アーティストになりすましたAIアップローダーへの対策として、既に約6万6000曲を削除済みで、ロイヤリティの不正取得問題にも対応している"
+        ],
+        "importance": "AI音楽の急増はアーティストへのロイヤリティ流出やリスナーの誤認を招くとして問題視されており、大手ストリーミングサービスによる全面禁止は業界全体のAIコンテンツ対応方針に影響を与える可能性がある。"
+      }
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
+      "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+      "published": "2026-11-24T16:58:20+00:00",
+      "rss_summary": "Technical details are still limited, but we already know it's fun to drive.",
+      "summary": {
+        "title_ja": "ポルシェ、電動718ボクスターのプロトタイプに試乗 本物の走りを実現",
+        "overview": "ポルシェは来年正式発表予定の完全電動版718ボクスターのプロトタイプを報道陣に試乗させ、EVながら低い着座位置と本格的なスポーツカー性能を実現していることが明らかになった。",
+        "background": "従来の内燃機関版718ボクスターはEUのサイバーセキュリティ規制により昨年生産終了しており、後継となる電動モデルの開発が進められている。一般的なEVは床下に電池パックを敷き詰めるスケートボード型構造のため着座位置が高くなりがちだが、スポーツカーには不向きとされてきた。",
+        "points": [
+          "バッテリーパックを座席下ではなく運転席後方（ミッドシップ位置）に配置し、単一モーターで後輪を駆動する構成を採用",
+          "この配置により座席位置を大幅に低くでき、2008年の初代テスラ・ロードスター（ロータス製シャシー流用）と同様の手法ながら性能向上を目的とする",
+          "前後重量配分は40:60となり、先代の内燃機関版718ボクスターと同様の後輪寄りバランスを維持。同一プラットフォームはアウディ・コンセプトCにも採用される"
+        ],
+        "importance": "EVでありながら低重心・後輪寄り配分という伝統的スポーツカーのフィーリングを再現した点は、電動化時代における走行性能重視のスポーツカー開発の新たな方向性を示すものであり、今後のポルシェ・アウディ両ブランドの電動スポーツカー戦略に影響を与える可能性がある。"
+      }
     }
   ]
 }
