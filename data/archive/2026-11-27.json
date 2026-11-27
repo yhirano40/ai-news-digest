@@ -126,6 +126,24 @@
         ],
         "importance": "多様な働き方を体現するArsスタッフの実例は、リモートワーク環境構築のヒントとなるだけでなく、ガジェット選びや機材の工夫を通じて読者が自身の作業環境を見直すきっかけにもなる。"
       }
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "published": "2026-11-25T14:10:18+00:00",
+      "rss_summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "summary": {
+        "title_ja": "AmazonとMeta、AIエージェントMuseの規制解除で協議か",
+        "overview": "AmazonとMetaが、MetaのAIエージェント「Muse」をAmazonのストアに直接接続させる契約について協議していると報じられた。",
+        "background": "2カ月前、Museユーザーが突然Amazonでの商品購入時にエラーメッセージを受け取り、決済できなくなっていたことが発覚しており、今回の協議はこれを覆す大きな転換となる。",
+        "points": [
+          "検索結果の表示方法と広告の扱いという2点が、合意に向けた主な交渉課題となっている",
+          "Amazonは第三者の買い物エージェントが自社の広告事業や消費者との直接関係に与える影響を懸念しており、CEOのアンディ・ジャシー氏は10月、外部エージェント経由の購入はごく少数だと指摘していた",
+          "Museが誤発注などのトラブルを起こした場合、Amazonが顧客対応や出品者対応を負う可能性があり、Amazonはエージェントの成熟を待っていたとみられる"
+        ],
+        "importance": "両社CEOの承認が必要とされるこの合意は、AIエージェント経由のEコマースという新たな購買チャネルの在り方を左右するもので、広告ビジネスと消費者接点を巡る巨大プラットフォーム間の力学変化を示す重要な動きとなる。"
+      }
     }
   ]
 }
