@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-28",
+  "articles": [
+    {
+      "source": "The Verge",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "published": "2026-11-27T14:00:00+00:00",
+      "rss_summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and [&#8230;]",
+      "summary": {
+        "title_ja": "AndroidのAIウィジェット作成機能、遊びには良いが実用性はいまいち",
+        "overview": "GoogleがPixel向けに展開を始めた「Create My Widget」機能を記者が試用し、Gemini AIを使ってホーム画面用のカスタムウィジェットを数分で作成できることを確認したが、実用的な用途には限界があった。",
+        "background": "この機能はAndroidの「Gemini Intelligence」機能群の一部として今年5月のI/Oで発表され、ベータ版として今月からPixelスマートフォンに展開が始まった。",
+        "points": [
+          "映画の名言を1時間ごとに表示するウィジェットや、雨天時にジョークを表示するウィジェットなど、約20秒で面白いウィジェットを作成できた。",
+          "多くのウィジェットは実質的にGeminiへのプロンプトのショートカットで、カウントダウン表示やスポーツスコア、検索結果の表示など定型的なテンプレートに沿った内容に限定される。",
+          "バス停のリアルタイム到着時刻を表示させようとしたが、Geminiは運行頻度についての冗長な回答を返すのみで、望んでいたような実用的な機能は実現できなかった。"
+        ],
+        "importance": "カスタムアプリ的な自由度を期待していた記者の目には、現状では「一律仕様」の域を出ない機能と映り、AIによるウィジェット生成が実用ツールというより遊び心のある機能にとどまっている現状を示している。"
+      }
+    }
+  ]
+}
